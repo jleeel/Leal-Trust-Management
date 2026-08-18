@@ -122,3 +122,49 @@ arbitrator" where the agreed method "fails or for any reason cannot be followed"
 **This is potentially a structural problem with the relief we have pleaded, and it deserves
 counsel's attention early — but § 3390's text and its case-law gloss must be confirmed
 before anyone acts on it.**
+
+
+---
+
+# ⚡ UPDATE — AUGUST 18, 2026: COURTLISTENER VERIFICATION PASS COMPLETED
+
+The client connected a **CourtListener MCP server** mid-session. A verification agent re-checked
+the critical authorities against **actual opinion text**. Full report:
+`verification-report-courtlistener.md`. **The warnings above still apply to everything NOT listed
+there, and CourtListener cannot check subsequent history — KeyCite/Shepard's remains mandatory.**
+
+## Status changes
+
+| Item | Old status | New status |
+|---|---|---|
+| *Poster v. So. Cal. RTD* (1990) 52 Cal.3d 266 | conflicting summaries | **VERIFIED (read)** — § 1013 extends the § 998 acceptance period to **35 days** for mailed offers (p. 275). The contrary statement was the reversed Court of Appeal. The chronology's **8/13/2026** expiration is the operative computation for a 7/9/2026 mailed offer. |
+| *Gorobets v. Jaguar Land Rover*, S287946 (Cal. Aug. 6, 2026) | unverified recency flag | **VERIFIED (read)** — alternative-choice § 998 offers are valid **if clearly structured and one alternative is certain when made; offeror bears the validity burden.** CoA below: 105 Cal.App.5th 913. No reporter cite yet. |
+| *M. Lowenstein & Sons* (1978) 80 Cal.App.3d 762 | **DO NOT CITE — possibly nonexistent** | **VERIFIED (read full) — the case is REAL.** It is a **service-of-summons** case: jurisdiction depends on the **fact** of service, and POS defects are **amendable nunc pro tunc**. Useful by analogy for our misdated proof of service; it is **not** § 998 authority. |
+| *Puerta*, *Mostafavi*, *Barella*, *Licudine* | search summaries | **All VERIFIED (read)** with quotes. Note **Mostafavi fn. 6: the offer's terms must be in the offer itself** — adverse to our cover-letter-only monetary alternative. *Barella*: strict construction against the offeror; a non-valuable term invalidates. |
+| *Bewick v. Mecham* (1945) 26 Cal.2d 92 (Traynor, J.) | search summary | **VERIFIED (read full)** — where a party's refusal breaks the agreed appraisal mechanism, **the court fixes the price itself (Civ. Code § 1613) and decrees specific performance**; appraisal ≠ arbitration. |
+| *Petrolink v. Lantel* (2018) 21 Cal.App.5th 375 | search summary | **VERIFIED** — the appraiser there was a **court-appointed Evid. Code § 730 expert**, not § 1281.6; no one was ordered to "employ" anyone. |
+| *Woolley* (1991) 227 Cal.App.3d 1520 | not previously found | **VERIFIED-operative** — § 3390 bars specific performance of personal-services contracts. **Adverse to our "order defendants to employ two named appraisers" prayer.** |
+| *Rappaport v. Gelfand* (2011) 197 Cal.App.4th 1213 | statute unverified | **VERIFIED** — quotes § 16701(b) verbatim: "**Interest shall be paid from the date of dissociation to the date of payment**," and affirms a judgment carrying interest from the dissociation date. Also quotes the § 16103(a) default rule. |
+| *Han v. Hallberg* (2019) 35 Cal.App.5th 621 | § 16601 unverified | **VERIFIED — with a landmine.** Holds substitution of a successor trustee is NOT dissociation, per § 16601, subd. **(8)** (the memos said (7) — corrected). **BUT the Supreme Court GRANTED REVIEW (S256659). Its current status and any Supreme Court disposition are unknown to this workspace. This is the single most important KeyCite in the case.** |
+| *Corrales v. Corrales* (2011) 198 Cal.App.4th 221 | not previously found | **VERIFIED** — "the buyout rule of section 16701 does not apply to a **two-person** partnership when one partner leaves" (dissolution/winding-up instead). **Our partnership has FOUR named partners (Art. I.B), so Corrales appears distinguishable — but counsel should be ready for arguments about the effective partner count after the Bypass Trust's 1/1/2023 dissolution.** |
+| Corp. Code § 16603 | unverified | **NOT FOUND quoted in any California opinion** — still needs Westlaw for its text. |
+| *Purdy*, *Uzyel*, *Levin v. Winston-Levin*, *Estate of Kraus*, *Calcor*, *Obregon*, *Williams* | search summaries | **All VERIFIED** with quotes in the report. |
+
+## What this means for the case theory (counsel's calls, stated as considerations)
+
+1. **The relief reframe now has verified support.** *Bewick* (court fixes the price when a party's
+   refusal breaks the mechanism) + *Petrolink* (§ 730 court-appointed appraiser) supply exactly
+   the alternative R2 proposed — while *Woolley* verifies the § 3390 exposure of the current
+   "employ Correia-Xavier / employ Moss Adams" prayer. **The amendment decision (OI-22 / A-19)
+   should now assume the § 3390 risk is real and the fix is available.**
+2. **The interest-not-profits position has verified statutory text behind it** (*Rappaport*
+   quoting § 16701(b)) — **conditioned entirely on dissociation having occurred**, which is where
+   *Han* sits. **If the Supreme Court affirmed Han, the contract's express "Dissociating Events"
+   definition (Art. XIII.B.1) has to carry the argument against the statutory default alone; if
+   review was dismissed or the CoA reversed, the landscape shifts. One Westlaw lookup resolves
+   this.**
+3. **The § 998 posture worsened on verification.** *Mostafavi* fn. 6 (terms in the offer itself)
+   and *Gorobets* (alternatives must be clearly structured **in the offer**, offeror's burden)
+   both cut against the July 2026 package, whose only monetary term lives in the cover letter.
+   **The serve-a-fresh-corrected-998 option (OI-1) looks stronger than defending the old one.**
+   *Poster* being verified at 35 days means the old offer expired **8/13/2026** if mailed 7/9.

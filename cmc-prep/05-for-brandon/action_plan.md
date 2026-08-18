@@ -215,10 +215,13 @@ Their extracts land in `01-verified-facts/` and get folded into this plan.
 - **Word/PDF versions** of any memo in this workspace for circulation to counsel;
 - an updated **timeline exhibit** as new documents land.
 
-**What it cannot do — and no agent here can fix:** verified legal research. The egress proxy
-blocks every legal database, so R1–R4 remain roadmaps. **The verification has to happen in
-Westlaw/CoCounsel on a human's login.** That is the one genuinely blocking dependency, and it
-sits in front of the two biggest calls (dissociation, § 998/§ 3390).
+**UPDATE 8/18/2026: the client connected a CourtListener MCP and the verification pass is
+done** (`02-legal-research/verification-report-courtlistener.md`). Twenty-plus authorities are
+now verified against actual opinion text, including Poster (35 days), Gorobets, Bewick,
+Petrolink, Woolley, Rappaport (§ 16701(b) text), and Han v. Hallberg — **which has a review
+grant (S256659) whose outcome this workspace cannot see. What remains Westlaw-only: KeyCite/
+Shepard's on everything (Han first), statutory text from leginfo, and the probate/discovery
+statutes in R3/R4.**
 
 ---
 

@@ -887,3 +887,46 @@ defendants' counsel agreed with the FIRST framework's 2015–2021 figure ($850,8
 Jace). **One meeting — Frazer (Mike Edwards), Jace, counsel — to produce a single reconciliation
 memo explaining both numbers and which one the litigation position uses.** Until then, do not
 quote either framework in correspondence.
+
+
+---
+
+# SIXTH ADDENDUM — AUGUST 18, 2026: COURTLISTENER VERIFICATION RESULTS
+
+**The client connected a CourtListener MCP; the verification pass is done.** Full report:
+`research_memos/verification-report-courtlistener.md` (copied alongside the memos). Status
+changes are logged in `research_memos/00-READ-FIRST-research-reliability.md`.
+
+## 🔴 OI-30 — NARROWED TO ONE WESTLAW LOOKUP: *Han v. Hallberg* (S256659)
+
+The verified landscape on the ~$1M dissociation question:
+- **§ 16701(b) text is now verified** via *Rappaport v. Gelfand*: "Interest shall be paid from
+  the date of dissociation to the date of payment" — the statutory model matches Art. XIII.B.2's
+  4%-interest answer. ✔ good for us **if dissociation occurred**.
+- ***Han v. Hallberg* (2019) held successor-trustee substitution is NOT dissociation**
+  (§ 16601, subd. **(8)** — not (7) as previously cited). **The Supreme Court granted review
+  (S256659) and this workspace does not know the outcome.** Whatever the Supreme Court did with
+  Han likely controls whether the statutory default helps or hurts us.
+- Our counter remains the contract: Art. XIII.B.1 **expressly defines Hazel's death as a
+  "Dissociating Event"** for the defined party "Hazel," which includes her trustee capacity —
+  and *Rappaport* quotes the § 16103(a) default rule (agreement governs except as limited).
+- *Corrales* (§ 16701 inapplicable to **two-person** partnerships) appears distinguishable —
+  Art. I.B names four partners — but brief it consciously, especially given the Bypass Trust's
+  1/1/2023 dissolution reduced the count.
+- **§ 16603's text was found in no opinion** — pull it on Westlaw.
+
+**ACTION: KeyCite Han v. Hallberg first. Everything else on this issue is drafting.**
+
+## 🔴 OI-1 / OI-22 updates from verified authority
+- ***Poster* verified at 35 days** → the July 998 expired **8/13/2026** (if mailed 7/9/2026).
+- ***Mostafavi* fn. 6** (terms must be in the offer itself) and ***Gorobets*** (alternatives must
+  be clearly structured in the offer; offeror's burden) are both now **verified and adverse** to
+  the cover-letter structure of the July package. **A fresh, corrected 998 — dated, correct case
+  number, monetary term inside the offer, clean POS — looks stronger than defending the old one.**
+- ***Woolley* verifies the § 3390 personal-services problem** with the "employ" prayer;
+  ***Bewick*** (court fixes the price; Civ. Code § 1613) and ***Petrolink*** (Evid. Code § 730
+  appointment) verify the cure. **Fold into the amendment decision.**
+
+**Still Westlaw-only:** KeyCite/Shepard's on everything (especially Han S256659 and Gorobets'
+finality), statutory text for §§ 16601/16603/16103/3390/1613 from leginfo, and R3/R4's probate
+and discovery statutes. CourtListener cannot do subsequent history.

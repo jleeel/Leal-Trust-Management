@@ -1189,3 +1189,28 @@ current position quietly assumes 50/50 history.
 **~$4.4M** (~$2.2M to Hazel). The 2017 Settlement resolved that with the **$350,000 payment
 (¶6)** — which is why confirming that payment (OI-16) matters: it is the release valve on a
 seven-figure historical claim.
+
+
+---
+
+## VERIFICATION UPDATE — A-19 and A-2 (August 18, 2026)
+
+**A-19 (the "employ two non-parties" prayer):** now supported by **verified** authority in both
+directions. *Woolley v. Embassy Suites* (1991) 227 Cal.App.3d 1520 — § 3390 bars specific
+performance of personal-services obligations — makes the exposure real. *Bewick v. Mecham* (1945)
+26 Cal.2d 92 (Traynor, J.) — where one party's refusal breaks the agreed appraisal mechanism,
+**the court fixes the price itself and decrees specific performance** — and *Petrolink v. Lantel*
+(2018) 21 Cal.App.5th 375 (court-appointed **Evid. Code § 730** appraiser) supply the verified
+cure. **The reframe is no longer speculative; it is the documented practice.**
+
+**A-2 / A-3 (the § 998 defects):** *Mostafavi* fn. 6 (offer terms must be in the offer document)
+and *Gorobets* (Cal. 2026; alternatives must be clearly structured in the offer; offeror bears
+the burden) are now **verified and adverse** to the July package. *Poster* is verified at 35
+days — the offer expired 8/13/2026. **And the fact-of-service point now has real authority:**
+*M. Lowenstein & Sons* (1978) 80 Cal.App.3d 762 is REAL (the earlier do-not-cite flag is
+lifted) — a service-of-summons case holding that jurisdiction turns on the **fact** of service
+and that POS defects are **amendable nunc pro tunc**. Analogy, not § 998 authority — but it is
+the verified seed of the substantial-compliance argument on the misdated POS.
+
+All subject to KeyCite — especially ***Han v. Hallberg* (S256659, review granted), which is the
+single lookup that most affects the value of this case.**
