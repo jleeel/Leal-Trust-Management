@@ -930,3 +930,16 @@ The verified landscape on the ~$1M dissociation question:
 **Still Westlaw-only:** KeyCite/Shepard's on everything (especially Han S256659 and Gorobets'
 finality), statutory text for §§ 16601/16603/16103/3390/1613 from leginfo, and R3/R4's probate
 and discovery statutes. CourtListener cannot do subsequent history.
+
+
+## ✅ OI-30 UPDATE — the Han landmine is resolved (8/18/2026, this session)
+Client produced the full Court of Appeal opinion; the Supreme Court's grant order was read via
+CourtListener (S256659, 8/21/2019 — review limited to whether a trust can be a partner and
+whether the trustee's death triggers a buyout-on-death term); and the disposition is now
+established: **review was DISMISSED August 31, 2020** on appellants' concession that a trust can
+be a general partner. **The 2019 opinion stands — it was never reversed.** See
+`research_memos/han-v-hallberg-explainer.md` for the full analysis and the distinctions.
+Remaining for Brandon on Westlaw: citability mechanics after dismissal (CRC 8.528(b)(3)/8.1115(e)),
+citing history, the **unresolved published split with *Presta v. Tepper*** (Tulare sits in the
+Fifth District, bound by neither), and **whether § 16601(8) is waivable by agreement under
+§ 16103(b)** — that last question is now THE dispositive legal issue on the profits claim.
