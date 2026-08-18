@@ -1664,3 +1664,62 @@ Inventory them before defendants do.
 4. Their 6/19/2025 schedule **stops the Bypass Trust's 7.5% allocation at Hazel's death**
    while continuing her trust's 37.5% — the asymmetry needs a principle, and whatever
    principle they offer will be tested against their continuing-partner theory.
+
+---
+
+# ELEVENTH ADDENDUM — AUGUST 18, 2026 (milk statements + master manifest sweep)
+
+**Source:** `01-verified-facts/drive-sweep/milk-and-manifest-sweep.md` + `master-manifest.csv`
+(1,650 items, full tree).
+
+## A-51. ⚠️ A manifested file was DELETED from the Drive mid-sweep TODAY — fix this immediately
+
+`important numbers.xlsx` was present in BOTH tree copies when the manifest was built
+(~11:45 UTC, 8/18/2026) and was gone from the Drive — both copies, "not found" by ID —
+when a read was attempted later the same day. Litigation has been pending since October
+2025; deleting ANY responsive document now is spoliation exposure, and this particular
+deletion is provably detectable (it happened between two timestamped reads by this
+workspace, and the file is named in a dated manifest). Mitigations that exist: (1) the
+finance-sweep agent READ the file before deletion — its nature (a credentials list) and
+non-credential identifiers are documented in `financials-tax-banking-sweep.md`; (2) Drive
+trash retains deleted files ~30 days. **Action, today: restore both copies from Drive
+trash; preserve them; rotate the credentials so the CONTENTS go stale (the OI-49
+instruction); and adopt a written litigation-hold — nothing in the Drive gets deleted,
+renamed, or "cleaned up" again without counsel's sign-off.** If the deletion was a
+response to this workspace's earlier security flag, document that innocent explanation in
+writing NOW, while the timeline is fresh — an innocent act explained late looks like a
+guilty one.
+
+## A-52. The ¶9 "$3,000/yr milk retentions" appear UNPAID on this record — while the broader retains theory collapses
+
+Equal rigor, both directions. **Against us:** all 12 located milk statements (Apr 2025–Mar
+2026) withhold CAPITAL RETAINS at $0.10/cwt ($49,099.64/yr) to the PARTNERSHIP's patron
+account, and **no record anywhere pays or earmarks the Settlement ¶9 $3,000/yr to Hazel**
+— defendants' 6/19/2025 schedule claims $6,000 of "unpaid milk retentions… per Settlement
+Agreement Section 9," and on this record they may be right (verify ¶9's text — OI-57 —
+then find payment records or price the concession, roughly $3,000/yr from whenever
+payments stopped). **For us:** the big version of their retains theory is answered by
+their own cooperative's paper: Hazel's PERSONAL Land O'Lakes equity was redeemed **in
+full** by age-75 retirement check — **$137,197.24, June 21, 2007** ("equity ownership …
+is now redeemed in full") — and every retain since accrues to the partnership account
+(2017201), a partnership asset carried in every valuation model and inside Moss Adams'
+NAV. There is no Hazel-titled LOL equity to "pay her." The remaining exposure is the
+contractual ¶9 stream, a four-figure-a-year item — do not let a $6,000 concession
+contaminate the $900K partnership-equity question.
+
+## A-53. Our own 2017 and 2023 buyout models priced the deal at $2.67M and $3.64M
+
+`STEVE.HAZEL ADJUSTMENT` (6/27 and 7/31/2017) and `APN DESCRIPTIONS.xlsx` (8/21/2023)
+model the Hazel buyout at **$2,665,359.50** (2017, using 12.5% LOC + 15% LOM "per the
+706") and **$3,641,531.41** (2023) — against the current $5,705,257.43 offer and their
+$7,359,766 demand. Context that must accompany these if they surface: the 2017 model is
+pre-Settlement and pre-death (different assets, different date), and a DOD-fixed price
+makes post-2022 appreciation irrelevant either way. More sensitive: the 2017 workbook
+attributes a **$749,261 capital discrepancy to "personal expenses withdrawn from Manuel's
+account over the years"** and computes **$52,982.63 "owed by Steve to Hazel"** as a
+true-up — our own file conceding a capital true-up ran in HER favor in 2017. Fold both
+into the OI-42 reconciliation before defendants find them. **One affirmative gain: the
+998's mysterious "652.02 acres" is finally near-sourced — APN DESCRIPTIONS.xlsx carries
+"652.33 assessed acres (582.9 farmable)"; the 0.31-acre delta still needs an explanation,
+but the figure's lineage is the client's own APN workbook, not any appraisal (OI-52
+updated).**

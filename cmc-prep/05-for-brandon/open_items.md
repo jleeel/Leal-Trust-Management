@@ -1188,3 +1188,43 @@ A-41). (4) The 1983 agreement's internal dates (partners 3/16/1983; spouses 3/10
 daughter-consent page unsigned). (5) The 2009 recorded Statement of Partnership's rule
 that "any conveyance of real property held in the name of the Partnership shall be
 executed by all Partners" — test the 2016 correction deed and later transfers against it.
+
+---
+
+# ITEMS FROM THE MILK + MANIFEST SWEEP (8/18/2026)
+
+Source: `01-verified-facts/drive-sweep/milk-and-manifest-sweep.md` and
+`master-manifest.csv` (1,650 items — the complete Drive tree, every folder enumerated).
+
+## 🔴 OI-56 — RESTORE the deleted file from Drive trash TODAY; written litigation hold
+`important numbers.xlsx` (both tree copies) was deleted from the Drive between ~11:45 UTC
+and later the same day (8/18/2026) — after this workspace manifested it. Drive trash
+retains files ~30 days: **restore both copies now, preserve them, and rotate the
+credentials inside** (OI-49) so the contents go stale — deletion protects nothing (the
+finance agent had already read it) and creates spoliation exposure; restoration plus
+rotation protects everything. Then: a WRITTEN litigation-hold instruction covering the
+entire Drive — no deletions, renames, or reorganizations without counsel sign-off. If the
+deletion was housekeeping in response to today's security flag, write that explanation
+down now, dated. Also note for the record: the "LEAL DAIRY" tree (768 MB) was created
+TODAY duplicating the Trust Administration financials file-for-file — document why (e.g.,
+"copied for review access"), so the duplication has an innocent recorded explanation too.
+
+## OI-57 — Settlement ¶9 milk retentions: verify, then pay-or-price
+No located record pays Hazel (or the Trust) the ¶9 "$3,000/yr milk retentions" the
+6/19/2025 schedule claims ($6,000 asserted). (1) Pull Settlement ¶9's actual text
+(governing-instruments extract covers ¶¶6-8, 11-15, 21 — ¶9 was not extracted; the
+Settlement is in Drive as Ex. A to the defendants' brief). (2) Search Citizens statements
+and QuickBooks for any $3,000 payments to Hazel/the Trust post-12/2017. (3) If none
+exist, quantify the concession (~$3,000/yr from first missed year) and fold it into any
+offer reconciliation — a small, cheap good-faith item. The BROADER retains theory is
+answered: Hazel's personal LOL equity was redeemed in full 6/21/2007 ($137,197.24); all
+later retains are partnership property (patron 2017201) — see A-52.
+
+## OI-58 — Retrieval list (milk/co-op records)
+LOL equity statements 2014–2019, 2021–2023, 2025–2026 (have: 2013 set, YE2020, 8/23/2024
+— LOL member services can produce the run); milk settlement statements before Apr 2025
+(the located run is Apr 2025–Mar 2026 only; the ¶9 and draw analyses span 2017-2025);
+1099-PATR 2023 and 2025; CDFA quota certificates (2,049 lb SNF valued in every model);
+executed dairy/land lease (only unsigned copies located); the 160-acre term sheet's
+seller identity/APN (named nowhere). Cross-reference OI-50 (banking gaps) — one records
+request to each institution covers both lists.
