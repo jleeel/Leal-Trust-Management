@@ -572,7 +572,48 @@ states. And the caption pleads **DOES 1-10** while **¶6 pleads DOES 1 through 2
 
 ---
 
-## 🔴 OI-25 — Establish whether we agreed to $850,894.54
+## ✅ OI-25 — ANSWERED 8/18/2026: yes, the $850,894.54 was agreed — and the terms help us
+
+**Client produced the email** (screenshot; native copy still to be pulled): **August 30, 2022 —
+24 days before Hazel died** — Robyn Esraelian to **Jace Leal** and **Lauren Garabedian Ruff**
+(tgg-cpa.com), cc Susan Leal, "RE: Hazel - Dairy Profit Distribution":
+
+> "Lauren and I have reviewed this and **agree with your calculation** of the profit due to Hazel
+> personally and to Hazel as beneficiary of the Bypass Trust, for the period 2015-2021 in the
+> amount of **$850,894.54**. However, we don't want to create a situation wherein the distribution
+> of the profit to Hazel exceeds her basis or the Bypass Trust's basis in the Partnership, leading
+> to capital gains tax. Therefore, the distribution of profit to Hazel **on an annual basis**
+> should be: 1. an amount **not to exceed Hazel's basis** in the partnership **taking into account
+> distributions for her medical and care expenses**; and 2. an amount **not to exceed the Bypass
+> Trust's basis** in the partnership. We will rely on you to **work with Mike Edwards** to complete
+> this profit distribution in a manner that does not trigger capital gains tax… Please confirm
+> receipt of this email and let us know how and when you intend to make the profit distribution."
+
+**What this establishes — both directions, honestly:**
+1. **The amount is agreed and OUR side computed it** ("your calculation"). Disputing the
+   2015–2021 baseline number is now effectively foreclosed.
+2. **The payment schedule was THEIR counsel's design**: annual instalments, capped at basis, tax-
+   driven, run through Frazer. The 9/26/2023 demand to pay "as soon as possible" (Ex. J) is in
+   tension with their own 8/30/2022 instruction.
+3. **The figure bundles Hazel personally AND Hazel as Bypass beneficiary** for 2015–2021 — so it
+   overlaps both our $327,427.02 Bypass line and their $1,617,761 claim. **Double-count risk in
+   every settlement computation.** The settlement model flags it.
+4. **Hazel died 24 days later**, before the plan could run. Whether the basis-cap rationale even
+   survived her death (basis step-up at death) is a **CPA question for Frazer/Mike Edwards** —
+   flag, do not assume.
+
+**Remaining actions (renamed from the original OI-25):**
+- **Pull the native email and the FULL thread** — including Jace's original calculation email
+  ("your calculation") and any confirmation-of-receipt reply. The mailbox search shows **133
+  results**; export the lot to counsel.
+- **Establish what was actually distributed** under this plan from 8/30/2022 forward, and how it
+  reconciles to the $194,352.65 post-death distributions and the FY2023–24 withdrawals.
+- **Ask Mike Edwards (Frazer)** what he did with this instruction and what the basis numbers were.
+- **Identify Lauren Garabedian Ruff's role and relationship** to defendant Ashley Garabedian
+  (same surname; she is a CPA at tgg-cpa.com acting with defendants' counsel pre-death).
+
+### (original item follows for the record)
+## OI-25 (original) — Establish whether we agreed to $850,894.54
 
 **Ex. J, September 26, 2023, Esraelian → Ormonde:** "**There was an agreement as to the amount of
 the profit distribution owed to Hazel from 2015 through 2021 in the amount of $850,894.54.**…
@@ -796,3 +837,53 @@ of debt due within one year shown as long-term "**at the request of the Dairy's 
 farming operations presented net rather than gross. Combined with the restatements at
 `adverse_analysis.md` **A-9**, counsel should expect the theme that our financial presentation
 bends at management's request. **Have Frazer's explanation ready.**
+
+
+---
+
+# FIFTH ADDENDUM — AUGUST 18, 2026 (client uploads + trust extract)
+
+## ✅ OI-5 — NOW FULLY ANSWERED
+The Frazer support arrived (client upload): **Financial_Statement_Capital_thru_Hazels_DOD_revised
+2/13/2025**. The $262,592 = Hazel's excess draws vs 37.5% capital parity **$(591,965)** net of
+**$329,373** Bypass Trust income credited to her. The $194,353 covers draws 9/22/2022–1/16/2025.
+Both now sit in the settlement model (`settlement_model.xlsx`, CapitalRecon tab).
+**⚠️ New double-count flag:** the $329,373 Bypass credit inside the offset and the **$327,427.02**
+Bypass line in our July 2026 offer are $1,946 apart — almost certainly the same income stream
+computed twice. **Reconcile with Frazer before both appear in any settlement computation.**
+
+## 🔴 OI-36 — Obtain the COMPLETE Manuel C. Leal Living Trust instrument
+The Drive copy is an excerpt **missing internal pages 2–8 — the dispositive articles.** Nothing
+readable says what the Bypass Trust does on Hazel's death or names its remainder beneficiaries,
+so the authority for the 1/1/2023 transfer of its 7.5% partnership interest to Steve (OI-34)
+**cannot be verified either way.** Confirmed: Steve serves alone as surviving trustee (NINTH A as
+amended). The Certification of Trust scan is image-only and unreadable. **Get the full executed
+instrument and the First Amendment from the estate-planning file.**
+
+## 🟠 OI-37 — ME reconciliation intelligence (client upload, 7/2/2025)
+Mike Edwards' model establishes: their **$1,617,761 = $1,498,480 profit + $119,281 interest**
+(exact); the **$16,888 = one-half appraisal/valuation fees**; the partnership number is
+**agreed at $1,162,612.50** (letters round to $1,162,875); our July 2026 **$4,700,000 = ME's
+computed $4,647,339.56 + the two offsets waived + round-up** — reconciling our offer to the penny
+(see settlement model, Bridge). Also shows our internal floor of **$4,190,394.56**. **Work
+product — protect it.** Follow-ups: get the basis for their $119,281 interest and whether their
+$1,498,480 accrual nets the FY2023 loss.
+
+
+## 🔴 OI-38 — Tell Frazer what position to book BEFORE the FY2025 statement is finalized
+The FY2025 **draft** (Frazer, 2/3/2026) still allocates **37.5% of income ($819,343) to the
+Estate of Hazel Leal** and carries its capital at $3,814,204. Every additional year booked this
+way is more practical construction against the dissociation position (post-death memo §5.4,
+§11.1). Counsel should decide the position and communicate it to Frazer — or document why the
+booking continues (e.g., "pending buyout closing" language in the notes). Note also FY2024 income
+was restated down $396,400 in the same draft (Note 7 — silage), which reduces the Estate's FY2024
+share by ~$148,650 if it stands.
+
+## 🔴 OI-39 — Reconcile our two internal frameworks before anyone else does
+Jace's Partnership Income Summary: **"Due to Hazel 2015-2022" = $1,033,717.15** (income-minus-
+draws; includes the $327,427.02 Bypass line; splits 2022 at the death date). Frazer capital
+reconciliation: **Hazel net EXCESS draws $(262,592)** (capital-parity). The 8/30/2022 email shows
+defendants' counsel agreed with the FIRST framework's 2015–2021 figure ($850,894.54, computed by
+Jace). **One meeting — Frazer (Mike Edwards), Jace, counsel — to produce a single reconciliation
+memo explaining both numbers and which one the litigation position uses.** Until then, do not
+quote either framework in correspondence.

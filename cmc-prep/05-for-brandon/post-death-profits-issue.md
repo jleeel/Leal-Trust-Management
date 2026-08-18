@@ -28,6 +28,13 @@ to partnership profits for the period **after** Hazel's death on September 23, 2
 That makes the profits question a **gating** issue, not a side issue — which is why it belongs at
 the CMC.
 
+> **UPDATE 8/18/2026 — the $850,894.54 "agreement" is now documented.** Esraelian's email of
+> **August 30, 2022** (client-produced; native copy to be pulled) agrees with **Jace's
+> calculation** of $850,894.54 for 2015–2021 — covering Hazel **personally and as Bypass
+> beneficiary** — and directs payment **annually, capped at basis**, via Mike Edwards, to avoid
+> capital gains tax. The amount is agreed; the schedule their counsel prescribed was multi-year;
+> Hazel died 24 days later. See OI-25 (answered) and A-23 (updated).
+
 **Note also that their claim bundles at least four distinct things**, which counsel should insist
 on separating:
 1. Pre-death partnership profit (2015 – 9/23/2022)
@@ -500,3 +507,48 @@ The reviewed statements label the account **"Estate of Hazel Leal."** Article I.
 partner as **"THE HAZEL J. LEAL REVOCABLE TRUST."** Minor, but counsel should note that our own
 books do not use the partner's contractual identity — and that "estate" is closer to defendants'
 framing than to ours.
+
+
+---
+
+## 11. UPDATE — FY2022 and FY2025 statements now read (agent extract, 8/18/2026)
+
+Full detail: `financials-2022-2025-extract.md`. Four findings, two of them serious:
+
+**11.1 — The FY2025 DRAFT still allocates 37.5% to the Estate.** Exhibit C of the FY2025 draft
+(Frazer, dated 2/3/2026) has two columns — Steve Leal and **Estate of Hazel Leal** — and
+allocates the Estate **$819,343 of 2025 income**, records **$75,285** of personal withdrawals to
+it, and carries its capital to **$3,814,204**. **The practical-construction problem (§5.4) is not
+historical — it is happening in the current draft.** If counsel adopts the dissociation position,
+someone must tell Frazer before the FY2025 statement is finalized. **New open item OI-38.**
+
+**11.2 — FY2024 income was restated down $396,400 in the FY2025 draft.** Note 7 restates FY2024
+net income **$2,026,658 → $1,630,258** (silage expense). The Estate's FY2024 share used in this
+workspace ($759,997) will shrink correspondingly if the restatement stands — roughly $148,650
+lower at 37.5%. Another restatement for the A-9 pattern; get Frazer's explanation.
+
+**11.3 — FY2022 does not split at the death date.** One full-year period; Hazel's FY2022 column:
+income allocation $522,359 (37.5%), withdrawals $171,285 (Medical $148,871 / Personal $21,844 /
+Donations $570), ending capital $2,873,817. The 2022 post-death component of the $194,352.65
+offset cannot be derived from the reviewed statement — only from Jace's summary (11.4) or the
+ledger.
+
+**11.4 — ⚠️ OUR OWN TWO FRAMEWORKS DISAGREE, AND THE 8/30/2022 EMAIL AGREED WITH THE ONE THAT
+HURTS US.** Jace's `Partnership Income Summary.xlsx` (client-prepared, last modified 10/2/2025)
+splits 2022 at the death date and totals **"Due to Hazel 2015-2022" at $1,033,717.15**
+($706,290.12 Hazel net + **$327,427.02 Bypass**). That is the income-minus-draws framework — the
+same framework behind the $850,894.54 that **Esraelian agreed to on 8/30/2022** ("agree with your
+calculation"). Meanwhile the Frazer capital-parity reconciliation (S-8) concludes Hazel had
+**net EXCESS draws of $(262,592)** — the framework our March 2025 offer used.
+
+**Stated plainly: our own documents say both "we owe Hazel ~$1.03M through 2022" and "Hazel
+over-drew by ~$263K," and the opposing side has our counsel-level agreement to the first
+framework's 2015–2021 number.** Counsel must pick a framework, be able to explain the difference
+(opening-balance parity and capital contributions vs. annual income-minus-draws), and expect
+Cunningham to hold us to the agreed one. **This reconciliation — Frazer + Mike Edwards + Jace in
+one room — is now a top-five task. New open item OI-39.**
+
+Also confirmed by the extract: the $327,427.02 in our July 2026 offer **is the Bypass component
+of Jace's income summary** — which resolves where the number came from, and sharpens the
+double-count flag against the $329,373 credited inside the Frazer offset (settlement model,
+ProfitsInterest tab).

@@ -55,3 +55,24 @@ documents were withheld or destroyed.
 - **FY1994, FY1995, FY1996 partnership ledgers or capital statements.**
 - **Escrow file for the 8/24/2026 closing.**
 - **Hazel J. Leal death certificate** (DOD is sourced to S-3, a brief, not a vital record).
+
+
+## Added August 18, 2026 — client uploads and agent extracts
+
+| # | Document | Source | Nature |
+|---|---|---|---|
+| S-7 | ME_analysis_of_appraisals_722025.xlsx | Client upload 8/18/2026 | Mike Edwards (Frazer) side-by-side reconciliation of both settlement positions, rev. 7/2/2025. **Reconciles both letters to the penny.** WORK PRODUCT — do not produce inadvertently. |
+| S-8 | Financial_Statement_Capital_thru_Hazels_DOD_revised_2132025.pdf | Client upload 8/18/2026 | Frazer capital reconciliation 3/25/2015–9/22/2022 (rev. 2/13/2025), marked **DRAFT — FOR INTERNAL DISCUSSION PURPOSES ONLY**. Supports the $262,592 offset ($591,965 excess draws less $329,373 Bypass income). Likely Ex. B to the 3/3/2025 letter. |
+| S-9 | Email, Esraelian → J. Leal & L. Garabedian Ruff, 8/30/2022 | Client screenshot 8/18/2026 | Agrees $850,894.54 (2015–2021) per **our** calculation; prescribes annual, basis-capped distributions. **Native email + full thread still to be pulled.** |
+| S-10 | trust-instruments-extract.md | Agent extract 8/18/2026 | See below — **Bypass Trust dispositive pages MISSING from Drive.** |
+| S-11 | property-valuation-history-extract.md | Agent extract 8/18/2026 | Correction deed (Griswold LaSalle), Reddington 2016 valuation (75/25), 706 draft, Hazel's 2017 brief. |
+
+### ⚠️ Critical absence confirmed by the trust extract
+The Manuel C. Leal Living Trust instrument in the Drive is an **excerpt missing internal pages
+2–8 — the dispositive articles**. What the Bypass Trust says happens on Hazel's death, and who
+the remainder beneficiaries are, **is not found in any readable document**. The 1/1/2023 transfer
+of the Bypass Trust's 7.5% partnership interest to Steve (FY2023 FS, Note 8) **can be neither
+matched nor contradicted** on available text. Confirmed: trustee succession (NINTH A, as amended
+7/27/2006) — Hazel and Steve "**or the survivor**," so Steve serves alone after 9/23/2022.
+**OBTAIN THE COMPLETE TRUST INSTRUMENT FROM THE CLIENT FILE — now the top document request
+alongside the Xavier 5/8/2023 email.**

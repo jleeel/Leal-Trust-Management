@@ -1007,8 +1007,22 @@ characterization rather than defending it. The supporting **Frazer capital-accou
 3. **It pairs with A-13 and A-14.** Their theory is not draw disparity. It is: *the managing
    partner did not account, did not distribute, and did not pay what he agreed to pay.*
 
-**Our best documentary response.** **None on this record.** We do not have our reply, if there
-was one, and we do not know the basis of the asserted agreement.
+**Our best documentary response — FOUND, 8/18/2026 (client-produced email).** The asserted
+agreement exists: **Esraelian's own email of August 30, 2022** (24 days before Hazel died)
+"agree[s] with **your calculation**" of $850,894.54 for 2015–2021 — **and in the same breath
+directs that it be paid on an ANNUAL basis, capped at Hazel's and the Bypass Trust's basis in
+the partnership, coordinated with Mike Edwards to avoid capital gains tax.**
+
+So the response to "Steve never paid what he agreed" is: **the payment schedule Steve allegedly
+breached was multi-year and basis-capped by their own counsel's written instruction, and Hazel
+died 24 days after it was given.** The demand of 9/26/2023 to pay "as soon as possible" asks for
+something different from what their own 8/30/2022 email prescribed.
+
+**What this does NOT fix:** the amount itself is now effectively conceded (our side computed it);
+roughly a year passed between the email and their demand with no documented distributions under
+the plan in this record; and we still have no documented reply to the 9/26/2023 demand. The
+number is settled; the fight is now about schedule, basis caps, what was actually paid, and how
+the death changed the analysis. **See OI-25 (answered) for the follow-up actions.**
 
 **Also note the leverage:** "Susan and Ashley have been asked to sign a dairy **LOC extension**…
 [they] are reluctant to sign yet another document to accommodate the Dairy operation without any
@@ -1130,3 +1144,48 @@ number, **it is unquantified and unbounded going into the CMC.**
 | 8/18/2026 | **A-4** | **Corrected.** The adjustment is real ($456,944.65 of excess distributions, arithmetic verified). Only the "negative capital account" label is wrong. |
 | 8/18/2026 | **A-15** | **Strengthened.** Exhibit G is direct evidence of joint appointment for buyout purposes. |
 | 8/18/2026 | Added | A-23, A-24, A-25, A-26, A-27. |
+
+
+---
+
+# FOURTH ADDENDUM — AUGUST 18, 2026 (agent extracts + client uploads)
+
+## ✅ A-6 — CORRECTED: the 2016 deed was prepared by GRISWOLD LASALLE, not our current firm
+
+The correction-deed package has now been read (`../01-verified-facts/property-valuation-history-extract.md`).
+The **Grant Deed of 9/29/2016** (Living Trust → Bypass Trust, 14 APNs, recorded 11/3/2016 as Doc
+2016-0069973) and the **Correction Grant Deed** (recorded 7/17/2017 as Doc 2017-0040217,
+correcting only the legal description) were prepared by **Griswold, LaSalle, Cobb, Dowd & Gin,
+L.L.P.** (Robert W. Gin) — **Steve's own 2017 settlement counsel, not Ormonde Rascon.**
+
+- The original tasking premise ("the 2016 deed was prepared by our counsel's firm") is **wrong as
+  to the current firm**. The advocate-witness exposure against Ormonde Rascon **fails at the
+  threshold.**
+- The residual issue is different and smaller: the deed moved 14 parcels from Manuel's Living
+  Trust into the **Bypass Trust** while **Steve and Hazel were co-trustees** — drafted by Steve's
+  side's lawyers. If defendants ever attack the 2016 funding of the Bypass Trust, the drafter is
+  Griswold LaSalle and the percipient witnesses include our client. No "gift deed" exists —
+  searched, none found.
+
+## A-28. The 50/50 historical-split position is contradicted by four documents, two of them ours
+
+**Severity: HIGH for any argument premised on a pre-2015 50/50 split. Largely already priced in.**
+
+Now documented (property/valuation extract): **Reddington's 5/26/2016 valuation used 75/25** per
+the March 1983 partnership agreement ("Profits & Losses are to be allocated in the same 75%-25%
+ratio"); the **draft 706 reports "AN UNDIVIDED SEVENTY-FIVE PERCENT (75%) COMMUNITY PROPERTY
+INTEREST"** signed by Steve as co-trustee; **Hazel's 10/6/2017 mediation brief** argued the 50/50
+capital accounts were a tax fiction and that Steve confirmed 75/25 twice; and **our own Frazer
+reconciliation (S-8) builds from the 75/25 opening balances** (3/25/2015: Hazel $1,925,995 /
+Steve $2,730,527 / Bypass $385,199).
+
+**Practical consequence:** the 50/50 scenario in the 2017 Capital Analysis should be treated as
+dead weight. **Our operative framework already concedes 75/25 pre-2015 and 37.5/55/7.5 after** —
+which is also what the 2018 Partnership Agreement Art. I.B fixes. Counsel should make sure no
+current position quietly assumes 50/50 history.
+
+**Also from Hazel's 2017 brief, for awareness:** she then claimed the 1983 Note (dated
+**March 10, 1983** per the attached exhibits) was never paid, with an asserted balance of
+**~$4.4M** (~$2.2M to Hazel). The 2017 Settlement resolved that with the **$350,000 payment
+(¶6)** — which is why confirming that payment (OI-16) matters: it is the release valve on a
+seven-figure historical claim.
