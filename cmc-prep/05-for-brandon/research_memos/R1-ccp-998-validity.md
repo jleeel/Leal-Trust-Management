@@ -301,3 +301,61 @@ Counsel may consider that opposing counsel (Nikole/Niki Cunningham, Whitney Thom
 7. **This memo is research support, not a legal opinion, and it is not filing-ready.** **ALL authority cited here — every statute, every case, every quotation, every characterization of a holding — requires independent verification by counsel in Westlaw, Lexis, or CoCounsel before it is used in any brief, declaration, meet-and-confer letter, or oral argument.** Given that nothing was read in primary form, counsel should treat this memo as a research map identifying what to pull and what to check, not as a verified record of the law.
 
 8. **Nothing in this memo predicts an outcome.** The Application section is framed throughout as considerations for counsel. It is not a prediction of how the Tulare County Superior Court, or any court, will rule on any issue.
+
+---
+
+# ADDENDUM 2 (8/18/2026) — SUCCESSIVE OFFERS: *MARTINEZ v. BROWNCO* NOW VERIFIED; A POSSIBLE EARLIER $5.75M OFFER SURFACED
+
+**Trigger.** The drafts-folder sweep surfaced four cover letters dated **5/18/2026** for a
+**$5,750,000 flat lump-sum § 998 offer**, the final version fully addressed to opposing
+counsel and signed by Mr. Ormonde (verified_facts_memo §6.14). Whether it was served is NOT
+established (**OI-41**). If it was, this case has **two successive § 998 offers by the same
+offeror**, the second (7/2/2026, $5,705,257.43 structure) **$44,742.57 lower** than the first.
+
+**What is now VERIFIED (read in full via CourtListener, 8/18/2026):**
+
+*Martinez v. Brownco Construction Co.* (2013) **56 Cal.4th 1014** [157 Cal.Rptr.3d 558, 301
+P.3d 1167] (Baxter, J.) — CourtListener cluster 899532. Verbatim from the opinion:
+
+> "The terms of section 998 do not prohibit a party from making more than one settlement
+> offer, but they are silent as to the effect of a party's multiple offers. In this action,
+> we consider whether a later offer extinguishes a previous offer for purposes of section
+> 998's cost-shifting provisions. We conclude that where, as here, a plaintiff makes two
+> successive statutory offers, and the defendant fails to obtain a judgment more favorable
+> than either offer, allowing recovery of expert fees incurred from the date of the first
+> offer is consistent with section 998's language and best promotes the statutory purpose to
+> encourage settlements."
+
+The opinion identifies (and engages, rather than mechanically applying) the two prior
+appellate approaches: *Wilson v. Wal-Mart Stores, Inc.* (1999) 72 Cal.App.4th 382 — the
+trial court below had relied on it for "[t]he most recently rejected offer is the only
+pertinent offer. All prior offers are extinguished by the subsequent offer" — and
+*Distefano v. Hall* (1968) 263 Cal.App.2d 380 (two defense offers under former § 997). It
+also restates *T. M. Cobb Co. v. Superior Court* (1984) 36 Cal.3d 273: general contract
+principles (e.g., Civ. Code § 1586 revocability) govern § 998 offers **only when** applying
+them "best promote[s]" the settlement policy — under *T. M. Cobb*, a § 998 offer **is
+revocable prior to acceptance or statutory expiration**.
+
+**UNVERIFIED / for counsel:** subsequent history and citing treatment of all four cases
+(CourtListener cannot KeyCite); whether *Martinez*'s first-offer rule extends beyond its
+facts (plaintiff's two offers, judgment worse than both, expert fees) to an **offeror whose
+SECOND offer is LOWER**, and to our posture (buyout plaintiff paying money). *Martinez*
+involved escalating offers; ours would be de-escalating — the equities the Court stressed
+(offeree can never be worse off for rejecting a later, more favorable offer) run differently
+here. This is a briefing question, not an assumption, in BOTH directions:
+
+1. **If the 5/18 offer was served and expired**, the cost-shifting baseline analysis must
+   address *Martinez*/*Wilson* — and note the July offer's validity problems (§§ A–D above)
+   would then coexist with a facially cleaner (if also unlocated) May offer.
+2. **Revocation angle (*T. M. Cobb*)**: a served-then-superseded May offer was likely
+   extinguished as an *offer capable of acceptance* by the later July offer or by its own
+   30-day lapse — but *Martinez* holds extinction for acceptance purposes does not
+   automatically erase it for **cost-shifting** purposes.
+3. **Optics/good-faith**: a second offer $44,742.57 below the first invites a "token/
+   negotiated" attack on both. The fresh-corrected-998 recommendation in Addendum 1 remains
+   the cleaner path — one new offer, correct in form, with a current interest figure
+   (see adverse analysis A-35: the $677,830.41 interest component is stale as of 5/1/2026).
+
+**Action for counsel:** resolve OI-41 (service status) first; then decide whether the
+baseline argument is built on the May offer, the July offer, or a fresh corrected offer.
+Everything in this addendum informs; none of it predicts.

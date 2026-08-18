@@ -957,3 +957,88 @@ implementation. **Which governs partnership internal governance after July 26, 2
 Griswold receipt stamp date) is now a central merits question — brief it deliberately.**
 Also fold Art. VI.B into the offset story (see A-4 re-correction): the purchase-price reduction
 for Hazel's negative account is express contract text; align Frazer's parity computation with it.
+
+---
+
+# ITEMS FROM THE DRAFTS & PROPOSALS SWEEP (8/18/2026)
+
+Source for all items below: `01-verified-facts/drive-sweep/drafts-proposals-sweep.md`
+(all 26 files in Drive folders "Leal Trust/Partnership" and "Land Acquisition", read in full).
+
+## 🔴 OI-41 — Was the 5/18/2026 $5,750,000 § 998 served? (companion to OI-1; resolve FIRST)
+Four cover-letter drafts dated 5/18/2026 exist; the final is fully addressed to Niki
+Cunningham at Wild, Carter & Tipton and signed "Brandon M. Ormonde, Esq." The enclosure (the
+$5.75M Offer to Compromise itself) is NOT in the Drive. **Ask Ormonde's office for: (1) was
+it served, and how; (2) the as-served offer + POS; (3) any response from Cunningham.** Why it
+matters: if served, there are TWO successive 998s and the July offer is $44,742.57 LOWER —
+*Martinez v. Brownco Construction Co.* (2013) 56 Cal.4th 1014 (CourtListener-verified) makes
+the two-offer cost-shifting baseline a briefing question, not an assumption; and the optics
+of a reduced second offer need managing. If NOT served, memorialize that in writing now,
+before memories fade. Also obtain: Cunningham's 5/18/2026 11:16 AM email (the "balloon
+ignorance" communication the Updated letter rebuts) and our 5/15/2026 Farm Credit
+correspondence. **This item and OI-1 together define the entire § 998 posture.**
+
+## 🔴 OI-42 — One offset-reconciliation memo before ANY number is repeated (extends OI-39)
+The record now contains three incompatible offset schemas: current **$262,592 + $194,352.65**;
+January drafts **$262,592 + $56,463 = $319,055** (the $56,463 marked "Needs verification"
+three times, and the $194K category skipped); 5/4 drafts **$332,606.12**. The $262,592 is
+dated BOTH "through 9/22/2022" and "as of 1/15/2025" in the same wave, and derives as
+$591,965 − $329,373 (Bypass surplus credit). The $329,373 credit sits $1,946 from the
+$327,427.02 Bypass income we separately PAY — double-count risk. **Frazer (Mike Edwards) +
+Jace + counsel produce one memo: the canonical stack, its dates, its tie to Art. VI.B's
+purchase-price-reduction mechanism, and proof the Bypass money is not both credited and
+paid. Until then no offset figure goes into any verified pleading, discovery response, or
+offer.**
+
+## 🔴 OI-43 — Leal Land Holdings / 160-acre acquisition: status and authority check
+The 5/21/2026 strategy doc + term sheet + P&Ls plan a $3,360,000 purchase through a new LLC
+(Jace/Steve/Jordan) with a lease-back to the dairy, expressly BECAUSE the Partnership
+"cannot take title… due to the ongoing § 998 buyout litigation," and one P&L funds $500K of
+the down payment from an 8% "Feed Line" draw. **Determine: was the LLC formed? Did the
+purchase proceed? Was ANY partnership cash, credit (feed line), or collateral used or
+pledged?** If yes, Settlement ¶11/11(a) and 2018 Agreement Art. VIII.A/IX.A exposure is live
+(the same covenants our 5/18 letters invoke against the Trust), plus corporate-opportunity
+scrutiny (Art. III helps; § 16404's non-waivable core remains). Collect: LLC formation
+papers, operating agreement, the "aggressive Buy-Sell" if drafted, the lease-back, escrow
+docs, and every draw record. **No further step without counsel sign-off in writing.**
+
+## 🔴 OI-44 — Privilege review and preservation of the drafts corpus
+26 AI-generated files sit in the client's personal Drive, including a 1/29/2026 document
+recounting mediation communications (Evid. Code §§ 1119/1152 territory) written the day
+after the JAMS session. To the extent they were never sent to or directed by counsel,
+privilege is uncertain, and every number in them is potential impeachment. **Counsel: (1)
+privilege-review the folder (list in the sweep report); (2) instruct on preservation — no
+deletions, litigation hold confirmed in writing; (3) going forward, substantive drafting
+happens in counsel's file only.**
+
+## OI-45 — The "Timeline of Delay" doc's claims must be verified before any § 16701(i) fee motion
+The 5/1/2026 Timeline doc (built to support a fee/expert-cost claim) contains six events
+that conflict with or are absent from the verified chronology: Moss Adams "proposed 2023"
+(record: Reddington was the 2023 appraiser; Moss Adams first appears 6/7/2024); a "[2025]
+Mediation Session #1" (record: only mediation is 1/28/2026); a "90% FMV analysis correcting
+the $7.4M asset duplication" (located nowhere); a 7/2/2025 "revised ME Analysis" (suspicious
+echo of 7/2/2026 — the client's ME analysis workbook is dated 7/2/2025 in its filename;
+confirm which year is real); a claimed AGREEMENT on the $327,427.02 Bypass income (no
+confirming correspondence located — if real, obtain it, it locks a component of the offer);
+and a claimed 5/1/2026 "tender" of the $5,705,257 offer (record's first 998 events are
+7/2–7/9/2026 — but see OI-41). Also: the GL/QuickBooks access event (Account 505000, "5Leal"
+vendor IDs, mobile-home offsets) is helpful-if-true — get the transmittal date and cover
+correspondence. **Nothing from the Timeline doc gets repeated in a filing until each line is
+sourced.**
+
+## OI-46 — Chicago Title escrow file 11-42705244-FM (Orozco note) and the Farm Credit package
+The 5/18 Updated letter recites: 2/23/2011 promissory note $1,125,000 to Mary Jane Orozco
+(Heifer Ranch); first DoT recorded 3/1/2011, Tulare County Doc. No. 2011-0012002; 15-year
+balloon (2026); Hazel's personal signature as Trustee; the liability on the partnership
+balance sheets for 15 years (Frazer-reviewed); and says the closing file and Farm Credit
+loan documents were "enclosed." **Locate the actual enclosures** (Ormonde's file; Chicago
+Title; county recorder for the DoT; Frazer for the balance-sheet trail; AgWest/Farm Credit
+for the refinance package). These document both the "balloon ignorance" rebuttal and the
+3/1/2026 line-exhaustion event — and the refinance signature demand cuts both ways under
+¶11(a) (their signature = all-partner approval is required for borrowing).
+
+## OI-47 — Confirm the source behind the $327,427.02 "[cite: user uploaded image]"
+The 5/1/2026 998 draft sources the Bypass income figure to an AI-chat "user uploaded image."
+The likely real source is the Bypass Income sheet of the client financials workbook
+(cumulative $327,427.02 — matches the financials extract). **Confirm and record the citable
+source** so the served offer's second-largest component doesn't trace to a chatbot tag.

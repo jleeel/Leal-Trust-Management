@@ -311,6 +311,28 @@ in S-1 is a stale-template artifact rather than a substantive misrepresentation 
 support the opposing inference that this office's proofs of service are unreliable as a
 class. This memo takes no position on which reading prevails.
 
+### 6.14 — A possible EARLIER § 998 offer at $5,750,000 (added 8/18/2026, drafts-folder sweep)
+
+| Assertion | Grade | Citation |
+|---|---|---|
+| Four cover-letter drafts for a **$5,750,000 flat lump-sum § 998 offer** exist, all created **May 18, 2026** | **SUPPORTED** | Drive files 12jDIxClD7gT793NZp0hFH8Prsa2oWW8UnxZUNNew1uM (16:12), 12LYdTj8ChqW6Crds-_vPpCveUGvJiJID6wqQoZ5nnz0 (16:13), 10ymulgEcqUhE5AsjKl2KelrmCqcdq4tZ (.docx, 16:15), 1_PVcJQTx2bC53F4LklER7tN83_k7lSovwJk5AoHXevA ("Updated," 20:17). Full extracts: `drive-sweep/drafts-proposals-sweep.md` |
+| The final version is fully addressed and signed | **SUPPORTED as to the draft's face** | "(Updated)" version: TO Niki Cunningham, Esq., Wild, Carter & Tipton, 970 W. Alluvial Avenue, Fresno, CA 93711; FROM "Brandon M. Ormonde, Esq."; states the $5.75M = $5,705,257.43 "Strict Contractual Baseline (Article XIII, Section B.2, 2018 Amended and Restated Partnership Agreement)" + $44,742.57 "Voluntary Good-Faith Rounding Premium"; 30 days open |
+| The letter was **served** | **NOT ESTABLISHED** | No POS, transmittal, or reply located anywhere in the record. The enclosure it references ("the Partnership's formal Offer to Compromise") was **not located** in any Drive folder. **OI-41 — must be resolved before the § 998 baseline can be analyzed.** |
+| If served, the operative 7/2/2026 offer is **$44,742.57 lower** than this one | **SUPPORTED (arithmetic)** | $5,750,000.00 − $5,705,257.43. Successive-offer effect under *Martinez v. Brownco Construction Co.* (2013) 56 Cal.4th 1014 (verified via CourtListener 8/18/2026) is a legal question for counsel — see R1 addendum |
+| The letter recites a same-day communication from opposing counsel | **SUPPORTED as recitation only** | "(Updated)" version responds to Cunningham's "communication at 11:16 AM today" (5/18/2026) claiming her clients "were not aware of a balloon payment due in 2026" on the Heifer Ranch; the underlying email is **not in the record** |
+
+### 6.15 — The $5,705,257.43 total migrated OUT of the offer document between May and July
+
+The 5/1–5/4/2026 § 998 drafts state the full monetary total **inside the offer document
+itself**, with the non-monetary conditions (offeree-funded lot-line adjustment, well
+drilling, easement abandonment, life estate, cessation of expenses) embedded from the first
+draft onward. The § 998 offer actually in the record (S-1) contains **no sum** (finding 6.6);
+the figure appears only in the cover letter (finding 6.7). Whatever the drafting intent, the
+documentary sequence shows the monetary term was moved from the offer body to the cover
+letter at some point after May 4 — a fact bearing directly on R1's analysis of *Mostafavi*
+(terms must be in the offer itself) and on any "drafting accident" explanation. — Drive IDs
+per `drive-sweep/drafts-proposals-sweep.md`, items 10–16; S-1; S-2.
+
 ---
 
 ## 7. RECONCILIATION EXCEPTIONS FOUND IN OUR OWN FINANCIAL RECORD

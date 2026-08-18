@@ -1274,3 +1274,164 @@ Partnership, Article III expressly permits it. Their corporate-opportunity alleg
 this clause. **Still need the leases themselves (OI-27) — statutory fiduciary duties (Corp. Code
 § 16404) are non-waivable in part, so Article III is a strong answer, not automatically a
 complete one. UNVERIFIED; counsel to confirm § 16404's limits.**
+
+---
+
+# SEVENTH ADDENDUM — AUGUST 18, 2026 (drafts & proposals folder sweep)
+
+**Source:** full read of all 26 files in Drive folders "Leal Trust/Partnership" and "Land
+Acquisition" — per-file extracts and Drive IDs in
+`01-verified-facts/drive-sweep/drafts-proposals-sweep.md`. These are the client's own
+AI-generated drafts. Assume every one is discoverable-adjacent and prep accordingly. Items
+below are written, as before, the way Ms. Cunningham would use them.
+
+## A-29. Our number moved five times in sixteen weeks — and the last documented move was DOWN
+
+$3,950,565.28 (3/3/2025 offer) → **$4,900,000** + $658,345.21 interest (Jan 2026 drafts, days
+after mediation) → **$5,000,000** / $5,671,780.82 total (5/1/2026) → **$4,700,000** /
+$5,705,257.43 total (5/1–5/4) → **$5,750,000 flat lump sum** (four 5/18/2026 cover letters, the
+final version fully addressed to Niki Cunningham at Wild, Carter & Tipton and signed "Brandon
+M. Ormonde, Esq.") → $5,705,257.43 (7/2/2026, the operative letter). Cross-examination writes
+itself: *"Sir, which of your five prices was the 'strict contractual baseline'?"*
+
+**The urgent fork:** if the 5/18 letter and its enclosure went out, there were TWO 998s, and
+the July offer is **$44,742.57 lower than the earlier one** — awkward for good-faith optics
+and it changes the cost-shifting baseline arithmetic. *Martinez v. Brownco Construction Co.*
+(2013) 56 Cal.4th 1014 (VERIFIED via CourtListener 8/18/2026) holds that with two successive
+offers by the same party, where the offeree beats neither, cost-shifting can run from the
+FIRST offer — and it discusses (without adopting wholesale) the *Wilson v. Wal-Mart* "last
+offer extinguishes all prior offers" rule. Either way the two-offer sequence must be briefed,
+not assumed. **See OI-41 — establish service status of the 5/18 letter before anything else.**
+If it did NOT go out, the drafts still document that we priced the same "contractual baseline"
+four different ways in four months.
+
+## A-30. Our own files concede the building blocks of their post-death profits claim
+
+Three of our own documents, in our own Drive:
+1. "Trust Profits Discussion" (1/31/2026) concedes the **Corp. Code § 16407
+   profits-OR-interest election** — "the Trust generally has a choice: … the profits
+   attributable to the use of their right in the property, OR … value plus legal interest."
+2. The "Timeline of Delay" doc (5/1/2026) calls the $677K interest "**mandated by RUPA**" —
+   owed regardless of fault.
+3. Settlement draft V2 §2.6 and the 5/4 998 draft admit the Partnership **kept paying the
+   Trust parties' draws and personal expenses (insurance, utilities, maintenance) from
+   dissociation to closing**, "reconciled in the Excess Distributions offset" — conduct
+   consistent with continued partner-like treatment, and consistent with the FY2023–24 books
+   allocating 37.5% of income to the Estate.
+
+And the January "Buyout Proposal without interest" offered **zero interest** — under our own
+current theory that 4% is *mandatory contractual compensation*, our own draft violated our own
+contract. **Consequence: the "4%-not-profits" position must be argued as election/waiver/
+delay, never as "no such right exists." The absolute version is impeachable from our files.**
+
+## A-31. The January drafts "formally reject" the very $850,894.54 we now call agreed
+
+Every January draft rejects ALL historical unpaid profits and drafts releases waiving
+"unpaid profits" from March 25, 2015 forward; none mentions the **$850,894.54 (2015–2021)**
+that Esraelian agreed to on 8/30/2022 "per YOUR calculation" — i.e., a figure OUR side
+computed. The drafts' "everything pre-2017 is barred by the Settlement" theory is also
+broader than our own chronology's reading of the ¶13/¶15 release (real-property division
+only). An examiner will lay the January drafts beside the 8/30/2022 email and ask which
+position is ours. **Do not let any release or CMC statement repeat the January "bar" theory
+without deciding this consciously.**
+
+## A-32. The offset stack is internally incoherent — three schemas, one double-count risk
+
+- Current position: **$262,592 + $194,352.65**.
+- Jan–May 1 drafts: **$262,592 + $56,463** ("Needs verification" — three times) = $319,055,
+  with the 9/23/2022–1/14/2025 category ($194,352.65) skipped entirely.
+- 5/4 drafts: **$332,606.12** "through May 4, 2026" (implying +$70,014.12 post-1/15/25).
+- The $262,592 is labeled BOTH "through September 22, 2022" and "as of January 15, 2025"
+  within the same drafts, and derives as **$591,965 (Hazel's gross excess draws vs the
+  37.5/55/7.5 split) − $329,373 (Bypass Trust surplus credit)**.
+- The near-twins **$329,373 credited to us** and **$327,427.02 paid by us** demand a
+  Frazer-level proof that the same Bypass money is not being credited and paid once each way
+  (this workspace flagged the same $1,946-apart pair independently from the financials).
+
+Either $262,592 is lifetime-only (and the May drafts under-deducted by ~$194K) or it absorbs
+post-death draws (and the current stack double-counts). **No offset number should appear in
+a verified pleading or discovery response until one reconciliation memo exists. See OI-42.**
+
+## A-33. Discount-story drift (the financing-terms citation, however, is CORRECT)
+
+The discount narrative moved: January — $4.9M as "full fair market value," no discount
+mentioned; 5/1 — "(90% per 2017 Agmt)"; 5/4 — "90% contractual buyout discount AND a 25%
+minority interest discount on the real property"; 5/18 — minority "interest-level
+adjustments" under 2018 Agreement Art. XIII.B.2; Complaint — 20–30%; 3/2025 offer — 30%;
+defendants — 15%. Expect cross on when the 25% figure was born and why it grew.
+
+**Correction to the sweep report's item F-11:** the drafts' repeated citation of "2017
+Settlement Agreement Section 7" for the 10%-down / 20-year amortization / 2-year and 10-year
+balloon / 4% financing terms is **verified correct** — Settlement ¶7(a)–(b) contains exactly
+those terms (see `governing-instruments-extract.md`). The instruments are compatible on
+financing; the drift is confined to the discount story.
+
+## A-34. The $4,700,000 is visibly reverse-engineered — and the components moved to protect it
+
+In the 5/1–5/4 drafts: $1,046,351 + $3,653,649 = $4,700,000.00 exactly. In the served 7/2
+letter (per verified_facts_memo §6.7): **$1,046,587.50 + $3,653,412.50 = $4,700,000.00
+exactly** — the partnership component was corrected up $236.50 to the mutually-corresponded
+90% figure ($1,162,875 × 90%), and the real-property component was moved DOWN the same
+$236.50 to preserve the round total. A patient cross-examiner will walk through both pairs
+and ask what appraisal produces $3,653,412.50. **Have the real-property derivation ready
+before anyone testifies about the offer's construction.**
+
+## A-35. Our interest figure stopped accruing on May 1 — and shorts the Trust under our own theory
+
+$677,830.41 is 4% on $4.7M from dissociation **through 5/1/2026** (computes to $677,830.14;
+first appears in the 5/1/2026 draft labeled "through May 1, 2026"). It was then reused
+verbatim "through May 4," inside the 5/18 "baseline," and in the 7/2/2026 letter — by which
+date the same formula gives ≈ **$709,764**. Their lawyer's version: *"your 'mandatory
+contract math' undercompensated my client by $31,900, which tells the court the number is
+negotiated garnish, not contract output."* **Refresh the interest to the date of any renewed
+offer.** (Settlement model ProfitsInterest tab rows 36–39 now carry this decomposition.)
+
+## A-36. Leal Land Holdings / the 160-acre plan walks into the covenants we invoke against THEM
+
+The 5/21/2026 strategy doc says, in writing, that the Partnership "**CANNOT take title**"
+to the adjacent 160 acres "**due to the ongoing § 998 buyout litigation and active
+obstruction by minority stakeholders**," so a drop-down LLC (Jace/Steve/Jordan) should buy it
+for $3,360,000 and lease it back to the dairy — and the companion P&L funds **$500,000 of the
+down payment by drawing a "Feed Line" at 8% interest-only**, when the dairy's AgWest feed
+line max was $300,000 and the 5/18 letters demand the Trust sign a Farm Credit refinance to
+restore "the dairy's operational feed line." Sequence: 3/1/2026 the partnership exhausts its
+operating line on the Orozco balloon → 5/18 we demand the refinance signature → 5/21 we model
+drawing $500K for an insider land deal. If any partnership cash, credit, or collateral
+touches this, it collides with Settlement ¶11/11(a) (all-partner approval; no loans to
+partners) and with the very Art. VIII.A / IX.A covenants our May 18 letters accuse the Trust
+of breaching — plus fiduciary exposure on the corporate-opportunity front (Art. III helps,
+but § 16404's non-waivable core remains). **See OI-43. Nothing proceeds without counsel and
+documented authority.**
+
+## A-37. The drafts corpus itself is an exposure: AI artifacts, mediation content, name errors
+
+26 AI-generated files in a personal, non-privileged Drive: visible chatbot tags ("[cite:
+user prompt]", "Needs verification"), a 1/29/2026 document **recounting mediation
+communications** (Evid. Code §§ 1119/1152 territory) the day after the JAMS session, a
+release misdating the Settlement as "January 2017," the co-trustee named "Ashley Susan
+**Anderson**" in the 5/1 drafts, the trust styled inconsistently, and the life-estate address
+flipping between 21127 and 21161 Road 68. To the extent these were never sent to or directed
+by counsel, privilege is uncertain. **Two rules now: (1) nothing further of substance gets
+drafted outside counsel's file; (2) PRESERVE everything — deletion after litigation
+commenced is spoliation. Counsel to run a privilege review of the folder. See OI-44.**
+
+## A-38. The draft releases would have silently discharged the 1983 note / $350,000 claim
+
+Every draft demands a mutual general release with a Civ. Code § 1542 waiver "from the
+beginning of time." Defendants assert the $350,000 payment due ~6/7/2018 on the 1983 note
+(Settlement ¶6) was never made. A general release would extinguish that claim without ever
+pricing it — a silent discharge of a known disputed obligation of Steve and Marla,
+negotiated by the debtor's side. A probate court reviewing trustee conduct, and any examiner,
+will frame that as self-dealing by drafting. **Any future release must either carve out or
+expressly price the note claim — decided consciously, on the record.**
+
+## A-39. The drafts pay "Bypass income" to the Estate while the Bypass capital went to Steve
+
+The drafts use the Bypass Trust three ways — the 7.5% slot in the 37.5/55/7.5 split, the
+$329,373 surplus offset in our favor, and the $327,427.02 income payment "to the Estate of
+Hazel J. Leal" — without ever mentioning that the **Bypass Trust was dissolved and its 7.5%
+partnership interest (~$821,249 of capital) transferred to Steve on 1/1/2023** (FY2023
+statements, Note 8). Paying Bypass income to Hazel's ESTATE while Steve took the Bypass
+capital is a characterization choice with no located support; discovery into the dissolution
+will test both the offset and the payee designation. **Get the Bypass dissolution paperwork
+and the reasoning behind the payee choice before defendants ask for them.**

@@ -66,6 +66,7 @@ documents were withheld or destroyed.
 | S-9 | Email, Esraelian → J. Leal & L. Garabedian Ruff, 8/30/2022 | Client screenshot 8/18/2026 | Agrees $850,894.54 (2015–2021) per **our** calculation; prescribes annual, basis-capped distributions. **Native email + full thread still to be pulled.** |
 | S-10 | trust-instruments-extract.md | Agent extract 8/18/2026 | See below — **Bypass Trust dispositive pages MISSING from Drive.** |
 | S-11 | property-valuation-history-extract.md | Agent extract 8/18/2026 | Correction deed (Griswold LaSalle), Reddington 2016 valuation (75/25), 706 draft, Hazel's 2017 brief. |
+| S-12 | drive-sweep/drafts-proposals-sweep.md | Agent sweep 8/18/2026 | All 26 files in Drive folders "Leal Trust/Partnership" + "Land Acquisition" (per-file Drive IDs inside). **Internal AI-generated drafts — NOT positions of record.** Sourced: the 5/18/2026 $5.75M cover letters (memo §6.14), the offset-stack history (A-32), the interest-staleness finding (A-35), Leal Land Holdings (A-36). |
 
 ### ⚠️ Critical absence confirmed by the trust extract
 The Manuel C. Leal Living Trust instrument in the Drive is an **excerpt missing internal pages

@@ -168,3 +168,15 @@ there, and CourtListener cannot check subsequent history — KeyCite/Shepard's r
    both cut against the July 2026 package, whose only monetary term lives in the cover letter.
    **The serve-a-fresh-corrected-998 option (OI-1) looks stronger than defending the old one.**
    *Poster* being verified at 35 days means the old offer expired **8/13/2026** if mailed 7/9.
+
+---
+
+## STATUS UPDATE — 8/18/2026 (second CourtListener pass, drafts-sweep trigger)
+
+**Martinez v. Brownco Construction Co. (2013) 56 Cal.4th 1014 — moved from "not researched"
+to VERIFIED (read in full, CourtListener cluster 899532).** Holding quoted verbatim in R1
+Addendum 2. Trigger: the drafts sweep surfaced four 5/18/2026 cover letters for a possible
+EARLIER $5,750,000 § 998 offer (service unestablished — OI-41). If two successive offers
+exist, Martinez/Wilson/T. M. Cobb govern the baseline analysis; R1 Addendum 2 frames the
+briefing question. Still Westlaw-only: subsequent history/citing treatment of all four
+successive-offer cases, and whether Martinez extends to a LOWER second offer by the offeror.
