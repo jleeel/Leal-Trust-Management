@@ -345,3 +345,38 @@ Counsel may consider that even a favorable decree requires an execution mechanis
 **Tooling limitation.** A **CourtListener MCP server was not available** for this research. Public web sources were used instead, and in this session the network egress policy blocked every dedicated legal-research host — leginfo, CourtListener, Justia, Casetext, Google Scholar, FindLaw, Leagle, Casemine, onecle, california.public.law, scocal.stanford.edu, courts.ca.gov, and case.law. Statutes were recovered only because the Legislative Counsel's own database export was reachable through a public code-hosting mirror; case law could be reached only through search. Counsel should assume this memo has the reliability of a well-sourced starting outline, not of a verified brief.
 
 **Required next step before any filing.** **Every authority in this memo — statutes included — must be independently pulled, read in full, cite-checked, and validated (KeyCite/Shepard's) on Westlaw, Lexis, or CoCounsel before it is cited to the Tulare County Superior Court.** The statutory text should additionally be confirmed against leginfo.legislature.ca.gov for currency, since the mirror used here reflects an export dated July 9, 2026 and its completeness could not be independently confirmed.
+
+---
+
+# ADDENDUM (8/18/2026) — THE CONTRACT'S OWN PRICE-FIXING MACHINERY IS NOW VERIFIED (executed TIC §11; 1983 Agreement Art. XIX)
+
+The valuations/instruments sweep read the EXECUTED TIC and the 1983 Partnership Agreement
+in full (`../01-verified-facts/drive-sweep/valuations-instruments-sweep.md` §§10-11).
+Both contain appraiser mechanisms that answer this memo's *Bewick*/Evid. Code § 730
+concern (court cannot write the price; someone must fix it):
+
+- **TIC §11 (verbatim in the sweep):** FMV "shall be that value determined in good faith
+  by a qualified, professional appraiser… **jointly appointed by all the parties**, and
+  his or her decision shall be in writing and **binding and conclusive**"; failing joint
+  appointment within 30 days, each side appoints one within 15 days, and if the two
+  cannot agree in 30 days they appoint a third — "the decision in writing of **any two of
+  the three** appraisers… binding and conclusive." Costs of joint appraisers split;
+  unilateral appraisers at appointing party's cost.
+- **1983 Agreement Art. XIX:** same 2-of-3 binding structure, with the 90%-of-FMV rule
+  for the both-parents-deceased purchase and detailed net-price mechanics (capital-account
+  credit added; note offsets; drawing-account debits deducted).
+
+**Why this matters to specific performance:** the decree need not fix a price (*Bewick*
+problem) — it can compel PERFORMANCE OF THE CONTRACTUAL APPRAISAL MECHANISM, which is
+ministerial and complete on its face. § 730 remains the fallback if the mechanism
+deadlocks. **Factual predicate worth building (counsel to weigh):** if the Ex. E/G email
+record (Esraelian proposed Stanley Xavier; our side agreed; engagement followed) makes
+Correia-Xavier the "jointly appointed" appraiser under §11, then CX's written conclusion
+($14,220,000, no discounts identified) is **contractually binding and conclusive** — and
+the later unilateral JHA engagement ($18,100,000) is priced by §11 at the appointing
+party's cost and without binding effect. The counter-facts (CX's client line names
+Esraelian alone; CX's intended use is estate-tax; the MA review calls CX "hired by the
+potential buyer") are laid out in the sweep — this is an argument to build or discard
+with the engagement letters in hand (OI-54), not to assume. UNVERIFIED as to law:
+enforceability of appraisal clauses under CCP § 1281 et seq. / case law on binding
+appraisals — Westlaw before use.

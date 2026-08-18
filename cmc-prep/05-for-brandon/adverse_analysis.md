@@ -1557,3 +1557,110 @@ firm, not counsel of record. That is strong (not conclusive) evidence the $5.75M
 never went out — which would collapse the two-998 scenario in A-29 back to a drafting-
 history problem rather than a baseline problem. OI-41 stays open pending Ormonde's written
 confirmation, but the panic scenario is now the less likely branch.
+
+---
+
+# TENTH ADDENDUM — AUGUST 18, 2026 (valuations & executed-instruments sweep)
+
+**Source:** all 22 documents in the valuation-reports folder and executed-instruments
+cluster, read in full — `01-verified-facts/drive-sweep/valuations-instruments-sweep.md`.
+
+## A-46. The CX report never says "buyout" — and the estate-tax framing invites a whipsaw (both directions)
+
+CX's stated intended use is "**estate tax planning and settlement purposes**," intended
+users include **the IRS**, and the FMV definition is the § 2031 estate-tax regulation; the
+word "buyout" appears nowhere. JHA, by contrast, names "estate tax filing and **tenants in
+common buyout agreement**." Cunningham's use: our 998 and our Complaint anchor the buyout
+to an appraisal whose own four corners say it was estate-tax work (echoes withdrawn A-20 —
+the Ex. E/G engagement emails remain our answer). Our use: **if Hazel's estate reported CX
+values (or anything near them) to the IRS and now demands JHA's $18.1M for the buyout,
+that is a duty-of-consistency problem for them** — obtain Hazel's Form 706 (OI-53). Note
+also the Moss Adams review calls CX "hired by the potential buyer" while CX's own client
+line reads Esraelian (their side) — MA's characterization contradicts the report it
+reviewed; do not adopt either label without the engagement letters (none located, OI-54).
+
+## A-47. NEITHER appraiser identified any discount — and TIC §7(b) prices at "90% of the appraisal value INCLUDING ANY DISCOUNTS OR DEDUCTIONS IDENTIFIED BY THE APPRAISER"
+
+Verbatim searches: zero occurrences of discount/minority/fractional in CX or JHA — both
+value 100% fee simple. Their argument writes itself: the appraisers identified no
+discounts, so §7(b) = 90% × full FMV, full stop; our 25–30% has no anchor in any appraisal
+of the real property. Our answers, all needing conscious construction: (1) **their own
+counsel conceded 15%** in writing (6/19/2025: "My clients propose a reasonable fifteen
+percent (15%) discount… in line with accepted estate and trust valuation practices that
+recognize discounts for lack of control and marketability in partial interest ownership")
+— a floor THEY set and a concession that fractional-interest discounts are proper; (2) CX/
+JHA were engaged to value 100% fee estates, so "discounts identified by the appraiser"
+never had an appraiser tasked with the FRACTIONAL interest — the §7(b) phrase presupposes
+an appraisal of the interest being bought; (3) Moss Adams DID identify discounts where it
+valued the actual interest (14% DLOC + 30% DLOM on the 37.5% partnership stake — which
+their side adopted for the $1,162,875). Expect the fight to be about WHOSE appraiser
+should have identified what. **Do not serve any paper asserting "the appraisals support a
+25–30% discount" — no located real-property appraisal does.**
+
+## A-48. Three death dates in the professional record — and no death certificate for Hazel anywhere
+
+CX: 9/22/2022 (requested retrospective date). MA business valuation: 9/23/2022. EL&T:
+"retrospective to **September 30, 2022, which was the reported date of death**." JHA:
+9/22/2022 in one place, 9/22/2023 (typo per MA) in another. Esraelian's own 6/19/2025
+schedules use 9/22 and 9/23 in different footnotes. Our entire structure — dissociation,
+interest accrual start, valuation date, K-1 proration — keys to 9/23/2022. **Hazel's death
+certificate was located NOWHERE in any sweep** (only Manuel's, State File 3052015061974).
+Any examiner can make our experts stumble on "what day did she die and which document says
+so." **Obtain the certified death certificate now (OI-53) and conform every workspace and
+filing date to it.**
+
+## A-49. The client worksheets add a THIRD excess-draws figure — and an 8% loan model
+
+"Appraisal Summary 2.13.25.xlsx" shows "excess draws **−591,235**" (vs Frazer's $591,965
+and the drafts' derivation — a $730 third variant); rebuilds the buyout as $4,902,101.78
+(average of CX and CX/JHA-average) − 262,592 − 194,352.65 + interest $455,584.32 =
+$4,900,741.45; and models the note at **8%** (Loan Calculator (2), 2/2025) against the
+contractual 4%. All discoverable-adjacent; all feed the A-32/A-42 reconciliation demand
+(OI-42). Also note the 2017 Jace "adjust letters" (pre-Settlement) **proposed in writing
+crediting Hazel an extra 12.5% of profits back to 1997 and 12.5% of land equity** — the
+narrow ¶13/¶15 release (real-property division only) means counsel must decide whether
+those subjects were actually released before anyone characterizes the 2017 Settlement as
+having resolved them.
+
+## A-50. Execution-completeness defects in OUR OWN operative instruments
+
+From the executed scans: (1) the TIC Agreement's effective date is **blank** ("the __ day
+of June 2018") and the **Jace, Jordan, and Blaine Leal acknowledgment forms are BLANK** on
+both the TIC and its Memorandum (they are named "Successors in Interest"/prospective
+Managers); (2) the **Memorandum of TIC shows no recording stamp** — recording is not
+evidenced; (3) the 1983 Partnership Agreement carries two internal execution dates
+(partners 3/16/1983; spouses' consent 3/10/1983) and the daughter-and-spouse consent page
+(binding "expectant distributees" to the buy-out option) is **unsigned**; (4) Steve &
+Marla's own 2009 trust Schedule A claims "an undivided **fifty percent (50%)** interest"
+in the Partnership — against the 1983 agreement's 25% and the 2016 Amendment's 30%+25%
+structure (feeds A-28/A-43 both ways); (5) the 2009 recorded Statement of Partnership
+names the TRUSTS as "all of the partners" and requires ALL partners to execute any real-
+property conveyance — measure the 2016 correction deed and every later transfer against
+that recorded rule. None of these is fatal; every one is a cross-examination exhibit.
+Inventory them before defendants do.
+
+## Counterweights from the same sweep (for balance — the file also helps us)
+
+1. **The "$7.4M asset duplication" is real, located, and OURS to prove cleanly:** MA
+   Exhibit 15 note [d] says the $7,432K buildings/improvements line is "the average of the
+   two appraisals" — i.e., the same improvements valued in the real-property buyout were
+   also inside the partnership NAV. The annotated "Moss Adams Adjustment Calcs" rework
+   (12,582 − 7,432 = 5,150 → −14% → −30% → ×37.5% = **$1,162,875**) is the derivation
+   **defendants themselves adopted** in the 6/19/2025 letter ("excludes the value of
+   buildings and improvements"). The agreed partnership number rests on OUR double-count
+   correction — a good-faith exhibit, and OI-44's mystery documents are FOUND.
+2. **TIC §11 is a jointly-appointed-appraiser-is-BINDING clause**, with a 2-appraiser/
+   third-appraiser fallback ("decision in writing of any two… binding and conclusive"),
+   and the 1983 agreement's Art. XIX has the same 2-of-3 mechanism. If the Ex. E/G record
+   (Esraelian proposed and engaged Xavier; we agreed) makes CX the "jointly appointed"
+   appraiser, **§11 makes his $14,220,000 binding** — and their pivot to JHA unilateral.
+   Factual predicate to build; see R2 note.
+3. **TIC §8(a) obligates Hazel's side to sign collateral documents** for Partnership
+   borrowing (up to the lesser of 50% of appraised value or $6.5M) "because of the
+   Partnership's responsibilities to pay for Hazel's personal care" — a contractual basis
+   for the Farm Credit signature demand in the 5/18 letters (check successor-binding
+   language, OI-55); and **TIC §4 makes ALL property expenses the Partnership's
+   obligation** — a direct answer to any "paying property costs = funneling" allegation.
+4. Their 6/19/2025 schedule **stops the Bypass Trust's 7.5% allocation at Hazel's death**
+   while continuing her trust's 37.5% — the asymmetry needs a principle, and whatever
+   principle they offer will be tested against their continuing-partner theory.

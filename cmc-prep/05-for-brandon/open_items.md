@@ -1127,3 +1127,64 @@ third variant — the Complaint controls). (2) The 998 defines "Real Property" a
 652.02 acres," but the valuations sweep found **no document that produces 652.02** (deeds/
 appraisals show other acreages). Have counsel derive the figure from the TIC/Settlement
 exhibits or the assessor parcels BEFORE it is repeated in an amended offer or filing.
+
+---
+
+# ITEMS FROM THE VALUATIONS & INSTRUMENTS SWEEP (8/18/2026)
+
+Source: `01-verified-facts/drive-sweep/valuations-instruments-sweep.md` (all 22 documents
+read in full — the five valuation reports, the executed TIC + Memorandum, the 1983
+agreement + 2016 First Amendment, certifications, PCOR/reassessment filings, the Jace
+adjust letters, and the 6/19/2025 Esraelian letter with both schedules).
+
+## 🔴 OI-53 — Hazel's death certificate and Form 706 (the date-of-death problem)
+The professional reports use THREE death dates — CX 9/22/2022; Moss Adams BV 9/23/2022;
+EL&T "September 30, 2022, which was the reported date of death" — and Esraelian's own
+schedules use both 9/22 and 9/23. **No death certificate for Hazel was located in any
+sweep** (only Manuel's). Every pillar (dissociation date, interest start, valuation date,
+K-1 proration) keys to a date we cannot currently prove. **(1) Obtain the certified death
+certificate from Tulare County Vital Records; (2) conform the workspace and all future
+filings to it; (3) obtain Hazel's estate tax return (Form 706), if filed** — if the
+Estate reported CX-level values to the IRS and demands JHA-level values in the buyout,
+that is a duty-of-consistency exhibit for us (A-46). Ask Esraelian's office or the
+estate's accountants; the intended-users line of CX ("Internal Revenue Service") says a
+706 use was contemplated.
+
+## ✅ OI-44 — RESOLVED: the "ME Analysis" and the "$7.4M asset duplication" are both FOUND
+The "revised ME Analysis (July 2, 2025)" in the Timeline doc = the client's
+`ME_analysis_of_appraisals_722025.xlsx` (filename date 7/2/2025; uploaded to this
+workspace and already used to reconcile both settlement letters). The "$7.4M asset
+duplication" = Moss Adams Exhibit 15's **$7,432K buildings/improvements line**, which MA
+note [d] says is "the average of the two appraisals" — i.e., the improvements valued in
+the real-property appraisals ALSO sat inside the partnership NAV. The annotated "Moss
+Adams Adjustment Calcs.pdf" and "Appraisal Summary 2.13.25.xlsx" carry the correction
+(12,582 − 7,432 = 5,150 → −14% → −30% → ×37.5% = **$1,162,875**) — the figure defendants
+adopted on 6/19/2025. Timeline-doc claims T4/T5 are therefore substantiated in substance
+(dates corrected: analysis 2/13/2025–7/2/2025, not "Mediation Session #1 [2025]").
+OI-45's remaining unverified Timeline claims still need sourcing.
+
+## OI-54 — Engagement letters and the missing counterparties of the valuation record
+Not located anywhere: engagement letters for CX, JHA, EL&T, and both Moss Adams
+engagements (the estate-tax-vs-buyout scope fight cannot be resolved without them);
+Ormonde's own 5/23/2025 letter (the 30%-discount offer Esraelian rebuffed); Hazel's
+trust restatement pages 5–7 and 11–16 (the certification attaches selected pages only);
+the Manuel Living Trust and its two amendments + Bypass Exhibit A; the 1983 $212,035
+note itself; the Reddington 2014 valuation and Manuel's 706/2014-era CX appraisal; the
+Smith life-estate Contract of Understanding (3/7/1996, Doc 96-106261); the TIC §1(c)
+lot-line amendment (would document the 226-020-009 → 226-020-032 renumbering); a
+RECORDED copy of the TIC Memorandum (the Drive copy shows no recording stamp); and
+Settlement Agreement ¶9 (the 6/19/2025 schedule cites "$3,000 annual milk retentions,
+per Settlement Agreement Section 9" — verify ¶9 says that).
+
+## OI-55 — Execution-completeness questions for counsel (from the executed scans)
+(1) Jace, Jordan, and Blaine Leal's acknowledgment forms are BLANK on both the TIC
+Agreement and its Memorandum — they are named Successors in Interest with §2 manager-
+appointment rights; does non-acknowledgment (or non-signature) matter for enforcement
+against/by them? (2) The TIC's effective-date blank ("the __ day of June 2018").
+(3) Whether TIC §8(a)'s collateralization obligation (Hazel to sign Partnership borrowing
+documents, cap = lesser of 50% of appraised value or $6.5M) binds her SUCCESSOR trustees
+— it is the contractual footing for the Farm Credit signature demand (5/18 letters,
+A-41). (4) The 1983 agreement's internal dates (partners 3/16/1983; spouses 3/10/1983;
+daughter-consent page unsigned). (5) The 2009 recorded Statement of Partnership's rule
+that "any conveyance of real property held in the name of the Partnership shall be
+executed by all Partners" — test the 2016 correction deed and later transfers against it.

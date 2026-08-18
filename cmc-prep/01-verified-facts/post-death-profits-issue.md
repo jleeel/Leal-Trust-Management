@@ -609,3 +609,39 @@ The **2018** K-1 line-1 figures (Steve $151,219 / Hazel $134,922 / Bypass $16,98
 **not in 55/37.5/7.5 proportion** as printed. Check the 2018 return for special allocations
 (a §704(c) item, a guaranteed-payment interaction, or an error) before the K-1 series is
 offered as a clean 55/37.5/7.5 baseline.
+
+---
+
+## 13. UPDATE — defendants' 6/19/2025 profit schedule decoded line-by-line (valuations sweep, 8/18/2026)
+
+Source: the Esraelian letter's attached schedules, now read in full
+(`drive-sweep/valuations-instruments-sweep.md` §22). Three points matter here:
+
+**13.1 Their own schedule nets the post-death losses.** The $1,498,480.05 "net
+distributions payable" is built from lifetime accrual (3/26/2015–9/22/2022 income
+$6,293,315 × 37.5%/7.5%, less lifetime distributions → **$1,368,326.65 accrued at DOD**)
+PLUS a post-death sequence that **includes 2022's post-death loss ($338,044) and 2023's
+loss ($888,608)** alongside 2024's $2,026,658 and a 2025 estimate. So the loss-netting
+argument (§12.2) is not something we have to force on them — their own schedule concedes
+the method; the fight is over the LIFETIME component and the 2025 estimate, not over
+whether losses net.
+
+**13.2 The lifetime component collides with the agreed $850,894.54.** Their schedule's
+$1,368,326.65 accrued-at-death figure covers 2015–9/22/2022; the 8/30/2022 Esraelian
+email agreed to **$850,894.54** for 2015–2021 "per YOUR calculation." The delta
+(~$517K) is partial-2022 income plus methodology drift. Reconciling THOSE two numbers —
+both from their side's pen — is the single most valuable cross-exhibit on the profits
+claim. (Both are separate from Jace's $1,033,717.15 framework — OI-39/OI-51 still stands.)
+
+**13.3 Their asymmetry: "The 7.5% allocation to the Bypass Trust ceased at the time of
+death."** Their schedule stops the Bypass Trust's allocation at Hazel's death while
+CONTINUING her trust's 37.5% allocation for years afterward. Whatever principle ceases
+one trust's profit share at death must be tested against their continuing-partner theory
+for the other. (Their likely answer — the Bypass terminated by its own terms and its
+interest passed to Steve 1/1/2023 — reopens the Bypass-dissolution documentation gap,
+A-39/OI list.) Counsel should force them to state the principle in discovery.
+
+Also from the same sweep, bearing on §5.4's valuation-date foundation: the professional
+reports use THREE different death dates (CX 9/22/2022; MA BV 9/23/2022; EL&T "September
+30, 2022, which was the reported date of death"), and **no death certificate for Hazel
+was located in any sweep** — obtain it before any expert relies on a date (OI-53, A-48).
