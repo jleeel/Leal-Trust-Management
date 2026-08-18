@@ -257,3 +257,16 @@ that Partner to the Partnership**" and "**shall not reduce his interest in the c
 Partnership.**" That is exactly our $262,592.00 offset — and it explains why the capital account
 stayed positive. **The substance is supported by the Agreement; only the Complaint's "negative
 capital account" label is wrong.** Correcting the pleading to track Article VI.E would fix it.
+
+---
+
+**POSTSCRIPT (8/18/2026, end of day):** All five Drive territories have now been swept in
+full — 1,650 items manifested, ~350 documents read, per-territory reports with citations in
+`01-verified-facts/drive-sweep/` (drafts/proposals, financials/tax/banking, milk +
+master manifest, valuations/instruments, trust administration). Adverse analysis now runs
+A-1 to A-57 with corrections logged; open items to OI-61; chronology 169 entries. **Start
+with `document-retrieval-list.md`** — the consolidated, source-organized list of everything
+referenced in the record that still needs to be obtained, with the case-posture-critical
+items flagged. The four highest-priority questions for your first call remain: (1) was the
+5/18/2026 $5.75M 998 served (OI-41); (2) the as-served July 998 POS (OI-1); (3) the ¶5/¶6
+performance answers (OI-59); (4) the Frazer reconciliation session (OI-42/OI-60).

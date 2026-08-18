@@ -1228,3 +1228,42 @@ LOL equity statements 2014–2019, 2021–2023, 2025–2026 (have: 2013 set, YE2
 executed dairy/land lease (only unsigned copies located); the 160-acre term sheet's
 seller identity/APN (named nowhere). Cross-reference OI-50 (banking gaps) — one records
 request to each institution covers both lists.
+
+---
+
+# ITEMS FROM THE TRUST-ADMINISTRATION SWEEP (8/18/2026 — final sweep; all five territories now complete)
+
+Source: `01-verified-facts/drive-sweep/trust-admin-sweep.md` (148 files; per-file manifest,
+Morgan Stanley account history, Bypass 1041 table, 21-item referenced-but-not-located list).
+
+## 🔴 OI-59 — Settlement ¶5 and ¶6 performance: answer internally before defendants plead them
+Ask Steve and Marla directly, and document the answers: (1) Was the ¶6 **$350,000** note
+payment (due ~6/7/2018) ever made? If yes — cancelled check/wire NOW; if no — price the
+exposure honestly (see A-56; note the trust's half of the 1983 note was forgiven under
+Living Trust §SIXTH A(3), so the analysis needs the complete trust instrument, OI-61).
+(2) Was the ¶5 **~$85,000** reimbursement to the Partnership ever paid, and was the Morgan
+Stanley account ever divided or its income paid to Hazel? The statements show NO through
+10/31/2020 (A-54) — and both sides' trustees sat on it. Decide the ¶5/¶6 story consciously
+and fold it into the settlement architecture.
+
+## 🔴 OI-60 — The Bypass double-count is now arithmetic; Frazer must resolve it (extends OI-42)
+New linkage: **$329,373 − $1,945 (2022 Bypass draws) = $327,427.02 exactly** — the offset
+credit and the offered add-on are the same figure. The Bypass Trust's own 1041s (2015–2019)
+report negative income, $0 DNI, "NO REPORTABLE INCOME" K-1s signed by Hazel as trustee
+(A-55). The Frazer reconciliation meeting must now produce: (a) whether the Bypass credit
+and payment run through different accounts or double-count; (b) the death-year income
+reconciliation — defendants' $1,731,000 (1/1–9/22/22) vs our books' $1,011,324, a $719,676
+gap; (c) Bypass 1041s for 2020–2022 (folder ends at 2019); (d) the missing Morgan Stanley
+statements (Jan–Mar 2018, May–Dec 2019, post-10/2020) and the ~$117K 2019 cash-build
+explanation.
+
+## OI-61 — The instruments cluster (mostly Griswold LaSalle's file)
+Still missing after the full-Drive sweep: **complete Manuel C. Leal Living Trust**
+(Articles FOURTH–SIXTH exist only as quotations — §SIXTH A(1) 30% to Steve, A(2) Susan's
+$1,655/mo × 120, A(3) note forgiveness); **final as-filed Form 706 with appraisals** (draft
+only); **the 2016 Correia-Xavier 706 appraisal** ($11,500 paid, checks 26036/26324 — the
+report itself absent; only candidate is an unreadable 24-page Xerox scan); **Hazel Trust
+amendment chain** (2008 declaration, 2012 restatement, Schedule A beyond p.19); **Marital
+Trust instrument**; the 11/3/2016 Grant Deed #2016-0069973. One letter to Griswold LaSalle
+(trust-admin matter RWG 6766.007) covers nearly all of it — see the consolidated retrieval
+list.

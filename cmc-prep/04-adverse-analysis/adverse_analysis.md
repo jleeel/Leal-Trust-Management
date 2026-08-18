@@ -1723,3 +1723,75 @@ into the OI-42 reconciliation before defendants find them. **One affirmative gai
 "652.33 assessed acres (582.9 farmable)"; the 0.31-acre delta still needs an explanation,
 but the figure's lineage is the client's own APN workbook, not any appraisal (OI-52
 updated).**
+
+---
+
+# TWELFTH ADDENDUM — AUGUST 18, 2026 (trust-administration sweep — final sweep of the five)
+
+**Source:** `01-verified-facts/drive-sweep/trust-admin-sweep.md` (148 files; 117 read in full;
+Morgan Stanley statements, Bypass Trust 1041s, and the 2016 Esraelian-response financial
+exhibits all newly extracted).
+
+## A-54. Settlement ¶5 was never performed — and the estate ran on a dead man's SSN for five years
+
+The Morgan Stanley account (115-047237-006) that ¶5 required to be divided equally between
+Hazel and the Bypass Trust — after an ~$85,000 reimbursement to the Partnership, with all
+income to Hazel monthly — shows, on every statement in the record (2015 through 10/31/2020):
+**no division, no re-registration, no $85,000 payment, no income distribution, not one
+post-death withdrawal**. Title stayed "MANUEL C LEAL TTEE"; income was 1099-reported under
+**Manuel's SSN through at least tax year 2019**, more than four years after his death; and
+dividends piled up undistributed ($148,966 of cash by 9/30/2020). Their version: the
+successor trustees ignored an express Settlement obligation for years while Hazel — entitled
+to the income monthly — got nothing. Our version has real content too: **Hazel was
+co-successor-trustee of the same trust** (First Amendment, 7/27/2006) and never demanded
+performance either; non-performance was mutual, and the account's value GREW. But the
+optics of ¶5 belong to whoever raises them first, and it will not be us. **Counsel: decide
+whether ¶5 performance/waiver goes into the settlement architecture before defendants
+plead it.** (The ~$117K unexplained 2019 cash movement and the May–Dec 2019 statement gap
+need closing too — retrieval list.)
+
+## A-55. The Bypass Trust's own 1041s undercut the $327,427.02 component — and the double-count is now arithmetic
+
+Five consecutive filed federal returns (2015–2019, Frazer-prepared, **Hazel Leal as
+trustee**) report the Bypass Trust's total income as NEGATIVE every year, DNI $0, and every
+K-1 to Hazel marked "**NO REPORTABLE INCOME**." Meanwhile our 998 pays $327,427.02 of
+"accrued Bypass Trust income" — a partnership-book capital concept the trust's own tax
+filings never saw. And the two near-twin figures are now **mathematically linked**:
+**$329,373 (Frazer's Bypass net-income credit inside the $262,592 offset) − $1,945 (2022
+Bypass draws) = $327,427.02 exactly** (Appraisal Summary 1.22.25.xlsx, "Bypass Income"
+sheet). They are the SAME number — used once as a credit reducing our offset, and again as
+an add-on we pay. Unless Frazer can show the credit and the payment run through different
+accounts, **the offer double-counts ~$327K in the Trust's favor** — or, if defendants
+embrace the 1041s instead, the component is unsupported in either direction. Also note the
+death-year income gap: defendants' schedule uses **$1,731,000** partnership income for
+1/1–9/22/2022; Frazer's books yield **$1,011,324** for the same period — a $719,676
+discrepancy nobody has reconciled. **This is now the single most consequential accounting
+question in the case (OI-42/OI-59). One more cut: Hazel signed those 1041s as trustee —
+if her side now claims the Bypass accrued distributable income all along, her own filings
+say otherwise.**
+
+## A-56. The ¶6 $350,000 note payment: affirmatively unlocated after a full-record search
+
+The trust-admin sweep searched Morgan Stanley, Farm Credit, QuickBooks registers, invoices,
+and correspondence: **no proof the $350,000 due ~6/7/2018 was ever paid.** The claim's
+lineage is now precise: the 1983 note's P&I was computed by Hazel's counsel at $879,945.25;
+the trust's half was forgiven at Manuel's death (Living Trust §SIXTH A(3), quoted); ¶6
+compromised the remainder at $350,000; and defendants assert non-payment. Combined with
+A-38 (the draft releases would have silently discharged this), the exposure is concrete:
+**ask Steve and Marla directly whether it was paid, get the cancelled check or wire if yes,
+and price the liability honestly if no.** A verified pleading that ignores this invites a
+cross-claim with our own settlement agreement as Exhibit 1.
+
+## A-57. Two self-inflicted accounting statements to contain
+
+(1) The 11/26/2016 response to Esraelian said there were "**no formal rent agreements**"
+for the dairy houses — but a C.A.R.-form lease for 6935 Ave 228 ($995/mo, Bankston
+Property Management as agent for the Partnership) had been signed **five months earlier**
+(6/23/2016). Third-party-managed, so arguably not what the sentence meant — but the
+sentence is impeachable as written, and the companion leases (6907 Ave 228, 20651 Rd 68)
+are unreadable scans nobody can currently check. (2) The May 2026 AI-drafted "CPA
+Rebuttal" states mobile-home rental cash "is used directly to pay the monthly hoof-trimmer
+invoice… **bypasses the formal ledger**" — an admission of off-ledger cash flow, in our
+own document, on a subject (the 505000/515000 "Cash — ht" checks) the registers already
+show. Both statements are small; both are exactly what an accounting cross-examination is
+built from. **Counsel should know where they are before defendants do.**
