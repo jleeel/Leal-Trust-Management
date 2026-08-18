@@ -333,6 +333,21 @@ letter at some point after May 4 — a fact bearing directly on R1's analysis of
 (terms must be in the offer itself) and on any "drafting accident" explanation. — Drive IDs
 per `drive-sweep/drafts-proposals-sweep.md`, items 10–16; S-1; S-2.
 
+### 6.16 — THE AS-SERVED PACKAGE ARRIVES (client scan from counsel's file, 8/18/2026) — several findings above are UPDATED
+
+Full transcription and analysis: **`998-as-served-extract.md`** (S-14; scan preserved at
+`source-documents/2026-07-08-09_998-offer-letter-transmittal_counsel-file-scan.pdf`).
+Summary of status changes:
+
+| Finding | Status change |
+|---|---|
+| 6.2 (no document supports July 2026 service) | **UPGRADED**: a July 9, 2026 transmittal letter from Ormonde Rascon to Cunningham ("Enclosed is the 998 Offer"), served "U.S. MAIL and VIA EMAIL," is now in the record. Still no as-served PROOF OF SERVICE — OI-1 remains open on the POS itself. |
+| 6.9 / 6.10 (name and spelling defects) | **ATTACH TO THE DRIVE VERSION ONLY.** The counsel-file copy corrects "STEVEN MANUEL LEAL" → "MANUEL STEPHEN LEAL" and the Thompson/Thomson spellings. At least two versions of the 998 exist; S-1 ("998 offer FINAL.pdf") is NOT the as-served text. |
+| NEW defect | The as-served caption reads **"Case No. VCU3627028"** — an extra digit (correct: VCU327028) — on the document the offerees are instructed to "file with the Court Clerk." Confirmed at 300 dpi. The "For the purpose of Under…" garble and ¶2's "sale of the Partnership real Property" error persist in the served version. |
+| 6.4 / 6.1 / 6.5 (undated offer; 1/3/2018 POS; no street address) | **UNKNOWN for the as-served version** — the scan omits the signature page, acceptance form, request to enter judgment, and POS. Obtain them (OI-1). |
+| 6.15 (the sum migrated out of the offer) | **EXPLAINED**: a previously unknown **July 8, 2026 letter** (Evid. Code § 1152 header) states "Concurrent with this offer, we are delivering a C.C.P. 998 offer that is consistent with the specific performance requested in the complaint. As an alternative, my clients wish to make the following monetary settlement offer" of $5,705,257.43 "with a release of all other claims by all parties (Civ. §1542)." The two-track structure (998 = specific performance; money = § 1152 letter) was deliberate architecture. The May drafting history (sum inside the 998) remains accurate as history. |
+| 6.6 (no monetary term) | **CONFIRMED for the served version** — and now shown to be by design, not omission. The legal significance shifts to R1 Addendum 3. |
+
 ---
 
 ## 7. RECONCILIATION EXCEPTIONS FOUND IN OUR OWN FINANCIAL RECORD

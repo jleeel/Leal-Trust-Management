@@ -359,3 +359,50 @@ here. This is a briefing question, not an assumption, in BOTH directions:
 **Action for counsel:** resolve OI-41 (service status) first; then decide whether the
 baseline argument is built on the May offer, the July offer, or a fresh corrected offer.
 Everything in this addendum informs; none of it predicts.
+
+---
+
+# ADDENDUM 3 (8/18/2026) — THE AS-SERVED PACKAGE: TWO-TRACK STRUCTURE, DUAL-METHOD SERVICE, NEW CAPTION DEFECT
+
+**Trigger:** client produced counsel-file copies (S-14; transcription in
+`../01-verified-facts/998-as-served-extract.md`): a 7/9/2026 transmittal letter ("U.S. MAIL
+and VIA EMAIL"), a previously unknown **7/8/2026 letter with an Evid. Code § 1152 header**,
+and the first two pages of the 998 as served. Three consequences for this memo:
+
+**1. The Mostafavi/Gorobets analysis must be re-aimed.** The 7/8 letter states the
+architecture: the 998 carries ONLY the specific-performance terms (employ Correia-Xavier
+and Moss Adams), and the $5,705,257.43 is "an alternative … monetary settlement offer"
+outside the 998, under § 1152. So the *Mostafavi* "terms must be in the offer" problem is
+NOT that a monetary term was left out of the offer that contains it — the monetary offer
+was never a 998. The live questions become: (a) is an employ-two-appraisers-and-sell offer
+sufficiently **certain and valuable** to function as a 998 baseline at all (how does a
+court later determine whether the judgment obtained is "more favorable" than an offer with
+no sum)? (b) does the offer's incorporation of external instruments ("pursuant to the terms
+of the Settlement Agreement and Tenants-in Common Agreement… with discounts applied as
+determined by [the appraiser]") satisfy the certainty requirement, or does it delegate the
+price to a third party in a way *Bewick*/§ 730 contemplate for the COURT, not for a 998?
+(c) *Gorobets* (alternatives must be clearly structured IN the offer): the monetary
+alternative lives in a separate § 1152 letter — arguably cleaner (it is not part of the 998
+at all), arguably worse (an offeree could say the package as a whole was ambiguous about
+what acceptance meant). All three are briefing questions; none is resolved here.
+
+**2. Dual-method service adds a § 1010.6 branch to the expiration analysis.** The
+transmittal says U.S. Mail AND email. *Poster*'s 35-day figure is a § 1013 (mail) analysis.
+If electronic service governs, CCP § 1010.6's 2-court-day extension (whether it applies to
+998 acceptance periods was flagged UNRESEARCHED in the base memo) gives: 30 days from
+7/9 → 8/8 (Sat) → 8/10 (Mon) + 2 court days → **8/12**; the mail branch gives **8/13**.
+Every branch expired before 8/18/2026. Which branch governs — and whether simultaneous
+dual-method service picks the longer or the shorter — is for counsel with the statutes in
+hand (§§ 1010.6, 1013, 998(b)(2); none read in primary form here).
+
+**3. Defect inventory, as-served version.** Corrected from the Drive draft: plaintiff's
+body name; Thompson/firm spellings. Persisting: "For the purpose of Under Code of Civil
+Procedure Section 998"; ¶2's "sale of the Partnership real Property." **New: the caption
+case number reads "VCU3627028"** (extra digit) on the document the acceptance clause
+instructs the offerees to file with the Court Clerk. Unknown (pages not produced): whether
+the as-served offer is DATED, and what the as-served POS recites — the 1/3/2018 POS
+finding (base memo §A) attaches so far only to the Drive version. **The
+fresh-corrected-998 recommendation stands, and the correction list now includes the case
+number.** Also note the offer defines "Real Property" as "the 652.02 acres" — the
+valuations sweep reports NO located document that produces 652.02 acres; derive or source
+that figure before it is repeated (OI-52).

@@ -1520,3 +1520,40 @@ partnership figure appears **nowhere** in these files; and the 4/1/2026 panel su
 $5,689,473.66, i.e., **$15,783.77 off the served offer**. Every one of these is a
 cross-examination exhibit if produced unexplained. **Counsel decides work-product/
 production posture; nobody cites these sheets until the derivations are documented.**
+
+---
+
+# NINTH ADDENDUM — AUGUST 18, 2026 (the as-served 998 package arrives)
+
+**Source:** S-14, client scan of counsel-file copies — `01-verified-facts/998-as-served-extract.md`.
+
+## A-45. The served 998's caption carries the WRONG CASE NUMBER — on a document built to be filed
+
+Confirmed at 300 dpi: "Case No. **VCU3627028**" (extra digit; the case is VCU327028), on
+the very document whose acceptance clause instructs the offerees to "date and sign the
+acceptance form below and file this paper with the Court Clerk." The garbled lead-in ("For
+the purpose of Under Code of Civil Procedure Section 998") and ¶2's "sale of the
+Partnership real Property" error also survived into service. Cunningham's version: *"the
+offer my clients were supposed to accept could not even be filed as written."* Our version:
+clerical, immaterial, no prejudice — but it stacks onto the 6.13 pattern (undated
+documents, stale POS recitals, misspellings) and makes the fresh-corrected-998 path more
+attractive than defending this one. **Also for internal quality control: the Drive "998
+offer FINAL.pdf" is NOT the served text — two versions exist. Institute a single-source
+rule for served documents now (counsel's file is the record; the Drive copy is a draft).**
+
+## A-38 — SUPPLEMENT: the § 1542 global release is in the LIVE offer, not just the drafts
+
+The 7/8/2026 letter offers $5,705,257.43 "**with a release of all other claims by all
+parties (Civ. §1542)**." The concern in A-38 (a general release silently extinguishing the
+Trust's 1983-note/$350,000 claim without pricing it) therefore attaches to the operative
+monetary offer. If defendants ever accept in concept, the release scope negotiation must
+consciously address the note claim — and expect Cunningham to have flagged it already.
+
+## A-29 — SUPPLEMENT: the 5/18 drafts were addressed to a firm that isn't in the case
+
+The as-served package fixes defense counsel's identity: Whitney Thompson & Jeffcoach. The
+5/18 $5.75M drafts were addressed to "Wild, Carter & Tipton" — right street address, wrong
+firm, not counsel of record. That is strong (not conclusive) evidence the $5.75M letter
+never went out — which would collapse the two-998 scenario in A-29 back to a drafting-
+history problem rather than a baseline problem. OI-41 stays open pending Ormonde's written
+confirmation, but the panic scenario is now the less likely branch.

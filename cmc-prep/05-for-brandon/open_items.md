@@ -1095,3 +1095,35 @@ the Frazer-derived $591,965 "Hazel excess draws" behind the $262,592 offset. The
 reconciliation memo (OI-42, with Frazer/Mike Edwards) must now also explain WHICH
 convention the litigation adopts and why, because defendants will hold us to whichever of
 our documents helps them. See adverse analysis A-42.
+
+---
+
+# ITEMS FROM THE AS-SERVED 998 SCAN (client upload, 8/18/2026)
+
+## 🔴 OI-1 — MAJOR UPDATE: service transmission documented; the POS is still the ask
+The client produced counsel-file COPIES (S-14; `998-as-served-extract.md`): a **7/9/2026
+transmittal letter** to Cunningham ("Enclosed is the 998 Offer"), service "U.S. MAIL and
+VIA EMAIL," plus a **7/8/2026 § 1152 monetary-offer letter** and the 998's first two pages.
+The scan is PARTIAL. **Still needed from Ormonde's file:** (1) the as-served **PROOF OF
+SERVICE** (does it recite January 3, 2018? signed by whom? address block?); (2) the 998's
+**signature page** (is the served offer dated? the Drive version is not); (3) the
+acceptance form and Request to Enter Judgment pages; (4) **page 2+ of the 7/8/2026 letter**
+("Valuation and Interest Reconciliation" section); (5) the 7/9 **email transmission
+record** to ncunningham@wtjlaw.com and any mail log; (6) any Cunningham response. NOTE:
+the as-served text DIFFERS from the Drive "998 offer FINAL.pdf" (names/spellings corrected;
+new caption defect) — do not cite the Drive version as the served document.
+
+## OI-41 — UPDATE: the firm-name mismatch tilts toward "never served"
+Defense counsel of record is **Whitney Thompson & Jeffcoach** (wtjlaw.com — confirmed by
+the whole as-served package). The 5/18/2026 $5.75M AI draft was addressed to "Wild, Carter
+& Tipton" — not counsel of record — at WTJ's street address. Consistent with an unserved
+AI draft. **Still confirm with Ormonde in writing** (the question is now easy: "did
+anything go to Cunningham between May 15 and July 2?").
+
+## OI-52 — Fix the case number going forward; source the 652.02 acres
+(1) The as-served 998 caption reads **"VCU3627028"** — extra digit. Any fresh 998, and
+every future filing, carries **VCU327028** (and note the tasking's own "VCU327048" was a
+third variant — the Complaint controls). (2) The 998 defines "Real Property" as "the
+652.02 acres," but the valuations sweep found **no document that produces 652.02** (deeds/
+appraisals show other acreages). Have counsel derive the figure from the TIC/Settlement
+exhibits or the assessor parcels BEFORE it is repeated in an amended offer or filing.
