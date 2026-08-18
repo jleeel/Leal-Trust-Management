@@ -1,0 +1,57 @@
+# SOURCE REGISTER — DOCUMENTS ACTUALLY REVIEWED
+**ATTORNEY WORK-PRODUCT SUPPORT — NOT A FILING**
+Case: *Manuel Stephen Leal v. Ashley Garabedian, et al.*, Tulare County Superior Court
+Prepared: August 18, 2026 · For: Brandon M. Ormonde, Ormonde Rascon
+
+## Citation convention used throughout this workspace
+
+These documents are **not Bates-stamped**. No Bates range exists in the record reviewed.
+Citations therefore take the form:
+
+> [Document Title] (Drive ID `<id>`), at [internal page / statement identifier]
+
+"Internal page" means the page label in the document's own text-extraction, or the
+statement's own caption (e.g. "Statement of Partners' Capital Accounts for the Year
+Ended December 31, 2000"). **Counsel must apply Bates numbering before any document
+is used as an exhibit.** See `open_items.md`.
+
+## Documents reviewed in full
+
+| # | Document | Drive ID | Date | Nature |
+|---|---|---|---|---|
+| S-1 | 998 offer FINAL.pdf | `11VQh2jHIMvTnhVQr2bcIVZjoXcwrudYB` | undated (POS recites 1/3/2018) | Our § 998 offer + acceptance + request to enter judgment + POS |
+| S-2 | 2026-7-2 BMO Atty Cunningham Ltr.pdf | `1nnHz4PJtMz7wv-6b1GGwpV-0CT7Xq4we` | July 2, 2026 | Our counsel's cover letter / alternative monetary offer |
+| S-3 | Mediation Brief.pdf (Plaintiff's) | `1bAo0s_6EL-Jc60VPzOCoCNDwlkiqDkzO` | "January ___, 2026" (undated) | Our case narrative; mediation 1/28/2026 |
+| S-4 | Equity Accounts 1997-2015.pdf | `1O7OGL798JcaTXginVNMIUgKtNV-ckK0l` | compiled | **Reviewed** (not audited) Statements of Partners' Capital Accounts, FY1998–FY2015, plus FY1993/1992 |
+| S-5 | Manuel Leal & Son Dairy Capital Analysis 8-3-2017.pdf | `1L357_kNU9uk4pZFm2K0LuajeckXW2GOg` | Aug 3, 2017 | Capital reconciliation 1997–2016; **marked "DRAFT — FOR INTERNAL DISCUSSION PURPOSES ONLY"** on every page |
+| S-6 | STEVE.HAZEL PERSONAL EXPENSES.xlsx | `1o5Re3q_6wZTRu_Mhh4yrtNqVrgFuKmBo` | modified 9/28/2023 | Internal schedule of partnership-paid personal expenses, 1/1/15–12/6/17; **contains express estimates** |
+
+## Related documents located but NOT yet reviewed
+
+| Document | Drive ID | Why it matters |
+|---|---|---|
+| 2026.01.21 Garabedian-Leal Mediation Brief | `1BD14JDeC0VTQGemgiFgWkjmDG-kmo7ly` | Likely defendants' mediation brief — primary adverse-position source |
+| Business Valuation Report.Reddington.M. Leal Trust.05.26.16 | `1hiC7AwvpHfQoDURXnrF1HkKEscGgAlFd` | Prior partnership valuation |
+| The Manuel C. Leal Living Trust and Bypass Trust uta dtd 2.14.05 as amended | `1VJRX5Agth22AlVDzfyUXEshTUdnVtSFT` | Governing trust instrument |
+| 706 Manuel C. Leal Draft.pdf | `1_xPxlP_xD-YI2bwwHpo3HpfiZWNTAOOA` | Estate tax return — asset inventory |
+| Equity Accounts 1997-2015 with 1993.pdf | `14L6jYH16vRGQkNreIrxHcS87Mhr5RFnL` | Possible superset of S-4 |
+| equity 1997.pdf | `1O_MAgX6PGY98uluyxkDYt7KZwPCYVamG` | FY1997 capital detail |
+| equity 1992-1993.pdf | `1NlzMqhAQBaAkdGyF63wjo42tTWkPCuwI` | FY1992–93 capital detail |
+| 2017.10.06 Hazel Leal Mediation Brief.PDF | `1dyfXbzh4ytHr1RKSpxcdwBpBAJ9opX_u` | Prior-round adverse positions |
+| Annual FS PDFs, FY1999–FY2025 | (Financial Statements folder `1-SAa5BLDDQUyhGK7lnVJ51WU-xddpSHC`) | Year-by-year corroboration |
+| QB_Manuel_Leal_Dairy 10.5.2009 …Acct Transfer Jan 29 2014.QBX | `1ePWvKVpIsBy3exr2eqQ2ZPVi2Bcq5evS` | 18.4 MB legacy QuickBooks accountant-transfer file — **not extracted**; see open items |
+
+## Categories searched for and NOT located in the Drive record
+
+Each of the following was searched by title and by full-text. **No responsive document
+was located.** These are absences of evidence in the reviewed corpus, not findings that
+documents were withheld or destroyed.
+
+- **Master case brief claims list** — the input this workspace was to be graded against. Not provided and not located.
+- **Ledger extraction CSVs from the forensic pipeline** — no CSV of ledger data exists anywhere in the Litigation folder.
+- **Kaweah Drive property records** — no purchase deed, no 2002/2003 refinance, no 2004 HELOC, no 2006 ARM, no 2016 gift deed. (Full-text hits on "Kaweah" resolve to the Kaweah **groundwater subbasin**, an unrelated matter.)
+- **Shell Beach purchase, remodel, or construction records** — see verified_facts_memo.md, Claim 2.
+- **As-served proof of service for the July 2026 § 998 offer** — only the version bound into S-1 was located, and it is date-defective.
+- **FY1994, FY1995, FY1996 partnership ledgers or capital statements.**
+- **Escrow file for the 8/24/2026 closing.**
+- **Hazel J. Leal death certificate** (DOD is sourced to S-3, a brief, not a vital record).
