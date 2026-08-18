@@ -305,3 +305,113 @@ Recorded so counsel sees their theory in their words. **These are allegations, n
 > Complaint.** If that remains accurate, **defendants may not yet have answered.** Counsel
 > should confirm the pleading status and the extension's terms before the October 13 CMC —
 > it affects the case-management statement and any trial-setting position.
+
+
+---
+
+# ADDENDUM — THE EXECUTED PARTNERSHIP AGREEMENT (client upload, 8/18/2026)
+
+**Source:** `Leal_2018.07.24_Amended_and_Restated_Partnership_Agmt.pdf` — the signed original,
+16 pages, read in full. **Signed by all three parties** (Steve in three capacities; Hazel in two;
+Marla). The DATE line reads "June __, 2018" (day blank), but the final page bears a stamp:
+**"RECEIVED JUL 26 2018 — GRISWOLD, LASALLE, COBB, DOWD & GIN."** Execution is therefore fixed at
+on or before July 26, 2018, consistent with the file name (7/24/2018), and the receipt stamp
+further corroborates Griswold LaSalle as Steve's transactional counsel in 2018 (see adverse
+analysis A-6 correction).
+
+Everything previously extracted from the mediation-brief exhibit is confirmed verbatim
+(Art. I.B percentages; Art. XIII.B.1 "Dissociating Events" including "as a result of Hazel's
+death"; B.2 mandatory 90% purchase, 10% down, 20-year amortization at 4%, due in 10 years;
+XIII.J three-appraiser mechanism; the Art. XIII/XII cross-reference typos). **The following
+provisions are NEW to this workspace** — the exhibit's OCR never surfaced them:
+
+## ⭐ Article VI.B — the "negative capital account" clause. It is CONTRACT LANGUAGE.
+
+> "Hazel shall be entitled to a **guaranteed payment in the amount of necessary personal care
+> expenses** (whether in home or in a care facility of Hazel's choosing). **This distribution
+> shall be made even if Hazel's capital account is negative. Upon the death of Hazel or upon the
+> purchase of Hazel's interest in the partnership, the purchase price for her partnership
+> interest shall be reduced by the amount of the negative capital account.** Should the negative
+> capital account surpass the value of Hazel's interest in the Partnership, the value of the
+> excess negative capital account **will reduce the purchase price for Hazel's interest in the
+> real property** identified in Exhibit A… **Should Hazel's capital account be negative, another
+> Partner may take distributions from their capital account without approval from the other
+> Partners until the capital accounts reflect each Partner's Partnership Interest.**"
+
+**Three consequences:**
+1. **The Complaint's "negative capital account" allegation (¶¶46, 64, 107) is contractually
+   grounded** — the phrase comes straight from VI.B, which expressly makes it a purchase-price
+   reduction at death. The earlier workspace correction (A-4: "mislabel") is itself corrected:
+   the *concept* is the contract's own; the open question is the **measure** — VI.B speaks of a
+   literal negative capital account, while Frazer implemented the idea as a capital-parity
+   shortfall ($591,965 gross / $262,592 net). Counsel should align the pleading, Frazer's
+   computation, and VI.B's language into one story.
+2. **Hazel's care draws were GUARANTEED PAYMENTS** — required "even if" her account went
+   negative. Nobody can call them improper; and the contract itself contemplates they push her
+   account negative and then come out of the purchase price. **Note the 8/30/2022 Esraelian email
+   uses the same logic** — capping distributions at basis "taking into account distributions for
+   her medical and care expenses." Their own counsel was applying VI.B.
+3. **The equalization sentence expressly authorizes other partners' catch-up draws without
+   approval** while Hazel's account is negative — a direct contractual answer to the "funneling
+   profits under the guise of expenses" allegation, IF the negative-account premise is
+   established. (Also Art. XII.C: any debit balance in a Drawing OR Capital Account is "a
+   liability … to be paid in cash within thirty (30) days after written demand.")
+
+## ⭐ Article IX.A.2 — capital expenses over $100,000 need a MAJORITY vote, not both partners
+
+> "…any capital expenses over $100,000 shall be agreed to by the **majority vote of all the
+> Partners.** Partners shall **not unreasonably withhold** their approval where there is a
+> request for capital expenses or investment that exceeds $100,000."
+
+The Settlement Agreement ¶11 (Dec. 2017) required **both partners'** approval; the later,
+executed Partnership Agreement (July 2018) requires a **majority** — and Steve's side holds 55%
+(30% + 25%). Also note: **no $100,000-per-30-day line-of-credit clause appears anywhere in the
+executed Partnership Agreement** — that covenant lives only in Settlement ¶11(a). **Which
+instrument governs partnership internal governance after July 2018 is a genuine hierarchy
+question for counsel** (¶12 of the Settlement Agreement contemplated the amended partnership
+agreement as its implementation), and it goes to the heart of defendants' covenant-breach theory
+(adverse analysis A-13).
+
+## ⭐ Article III — the "corporate opportunities" answer
+
+> "The Partnership shall engage primarily in the business of dairying and farming, and shall
+> engage in such other business as may be determined by a **unanimous vote** of all the Partners.
+> **Should a unanimous vote not be reached, there is nothing in this Agreement preventing the
+> Partners, as individuals outside of the Partnership, from taking advantage of a business
+> opportunity that could have otherwise been Partnership business.**"
+
+Defendants' brief alleges Steve "misappropriated other corporate opportunities." **Article III
+expressly permits partners to take opportunities individually absent a unanimous vote to bring
+them into the Partnership.** Directly relevant to the BioGas/Feedstock question (OI-27) if those
+arrangements were done outside the Partnership.
+
+## Article VII.D — the contract's own audit mechanism, with a deterrent
+
+> "Upon the written request of any Partner, but no more frequently than annually, the books of
+> account of the Partnership **shall be audited**… The expense of the audit is to be initially
+> assumed by the Partnership. **Should the Partner requesting the audit fail to find any
+> discrepancies in the accounting, that Partner shall be responsible for reimbursing the
+> Partnership the costs of the audit.**"
+
+The agreement already channels audit demands: annual cadence, confidential, requester pays if
+clean. **A structured response to the retroactive-audit posture (R4, A-13).** Art. VIII.B does
+the same for real-property appraisals (requester reimburses if the new value comes in lower).
+
+## Article V.A — the pro-rata distribution rule (cuts both ways)
+
+> "…the Managing Partner shall decide when capital can be distributed… **Distributions will not
+> be made to one Partner unless a distribution is made to the other Partner at the same time
+> based upon each Partner's Partnership Interest.**"
+
+Simultaneous, proportional distributions — subject to VI.B's carve-outs (Hazel's guaranteed care
+payments; equalization draws). Counsel should test every draw-disparity allegation — theirs AND
+ours — against V.A + VI.B together.
+
+## Article XIII.D — the asymmetry has its own supremacy clause
+
+The executed copy adds a sentence the exhibit extract missed: "**Any inconsistency between this
+provision and any other in this Amended Agreement shall be resolved in favor of this
+provision.**" Steve's and Marla's estate-plan pass-through is armored; Hazel's side gets the
+mandatory buyout. The deliberateness of the asymmetry could not be clearer. Art. XIII.G likewise
+gives Steve/Marla free transfer rights (descendants, controlled entities, their own trusts) that
+Hazel does not have.

@@ -943,3 +943,17 @@ Remaining for Brandon on Westlaw: citability mechanics after dismissal (CRC 8.52
 citing history, the **unresolved published split with *Presta v. Tepper*** (Tulare sits in the
 Fifth District, bound by neither), and **whether § 16601(8) is waivable by agreement under
 § 16103(b)** — that last question is now THE dispositive legal issue on the profits claim.
+
+
+---
+
+## 🔴 OI-40 — Resolve the instrument hierarchy: Settlement ¶¶8/11 vs. executed Partnership Agreement
+The executed July 2018 Partnership Agreement (client upload, read in full 8/18/2026) sets
+**majority-vote** approval for $100,000+ capital expenses (Art. IX.A.2), contains **no
+$100,000/30-day LOC covenant**, and supplies its own audit mechanism (Art. VII.D,
+requester-pays-if-clean). Defendants' covenant-breach theory rests on the earlier Settlement
+Agreement ¶¶8/11. Settlement ¶12 contemplated the amended partnership agreement as its
+implementation. **Which governs partnership internal governance after July 26, 2018 (the
+Griswold receipt stamp date) is now a central merits question — brief it deliberately.**
+Also fold Art. VI.B into the offset story (see A-4 re-correction): the purchase-price reduction
+for Hazel's negative account is express contract text; align Frazer's parity computation with it.

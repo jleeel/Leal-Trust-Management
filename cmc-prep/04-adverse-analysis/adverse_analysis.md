@@ -1214,3 +1214,63 @@ the verified seed of the substantial-compliance argument on the misdated POS.
 
 All subject to KeyCite — especially ***Han v. Hallberg* (S256659, review granted), which is the
 single lookup that most affects the value of this case.**
+
+
+---
+
+# FIFTH ADDENDUM — AUGUST 18, 2026 (executed Partnership Agreement, client upload)
+
+## ✅✅ A-4 — RE-CORRECTED: "negative capital account" is the CONTRACT'S OWN language (Art. VI.B)
+
+The executed agreement contains a provision the exhibit's OCR never surfaced. **Article VI.B**
+guarantees Hazel's personal-care payments "even if Hazel's capital account is negative" and then
+provides: "**Upon the death of Hazel or upon the purchase of Hazel's interest in the partnership,
+the purchase price for her partnership interest shall be reduced by the amount of the negative
+capital account**" — with overflow against the real-property price, and an express right for
+other partners to take **equalization draws without approval** while her account is negative.
+
+**Revised assessment:** the Complaint's "negative capital account" language (¶¶46, 64, 107) is
+not a mislabel — it is Art. VI.B's own mechanism. What remains is a **measurement** question:
+VI.B speaks of a literal negative account; the reviewed statements show her capital positive;
+Frazer implemented the concept as a **capital-parity shortfall** ($591,965 gross → $262,592 net
+of Bypass income). Counsel's task is narrower and better than previously stated: **tie Frazer's
+computation to VI.B's mechanism** (or recompute it VI.B's way) rather than defend a label. The
+purchase-price reduction itself now has an express contractual home — which strengthens the
+$456,945 offset considerably.
+
+**Bonus:** VI.B's equalization sentence is a direct answer to the "funneling profits under the
+guise of expenses" allegation as to catch-up draws — and the 8/30/2022 Esraelian email's
+basis-cap logic ("taking into account distributions for her medical and care expenses") shows
+**their own counsel operating inside VI.B's framework.**
+
+## A-13 — UPDATED: the covenant landscape shifted in our favor, with one open hierarchy question
+
+The executed Partnership Agreement (July 2018, post-dating the December 2017 Settlement
+Agreement):
+- **Art. IX.A.2:** capital expenses over $100,000 need a **majority vote** (Steve's side = 55%),
+  approval "not [to be] unreasonably with[held]" — not "both partners" as Settlement ¶11 had it.
+- **No $100,000-per-30-day LOC covenant appears in the executed agreement at all** — that clause
+  exists only in Settlement ¶11(a).
+- **Art. VII.D** supplies the exclusive-feeling audit channel: annual, confidential,
+  **requester reimburses if no discrepancies are found** — a contractual answer to the
+  retroactive-forensic-audit posture.
+- **Art. V.A** requires simultaneous pro-rata distributions, subject to VI.B's carve-outs — test
+  every draw-disparity allegation (both directions) against it.
+
+**Open question counsel must resolve (new OI-40):** which instrument governs internal partnership
+governance after July 2018 — the Settlement Agreement's covenants or the later executed
+Partnership Agreement it contemplated (Settlement ¶12)? Defendants' breach theory is built on
+Settlement ¶11/¶8; if the integrated 2018 agreement superseded those governance terms, much of
+A-13 deflates. **Do not assume; brief it.**
+
+## A-27 — UPDATED: Article III speaks directly to "misappropriated corporate opportunities"
+
+> Art. III: "Should a unanimous vote not be reached, **there is nothing in this Agreement
+> preventing the Partners, as individuals outside of the Partnership, from taking advantage of a
+> business opportunity that could have otherwise been Partnership business.**"
+
+If the BioGas/Feedstock arrangements (their Ex. U item 5) were pursued individually outside the
+Partnership, Article III expressly permits it. Their corporate-opportunity allegation must clear
+this clause. **Still need the leases themselves (OI-27) — statutory fiduciary duties (Corp. Code
+§ 16404) are non-waivable in part, so Article III is a strong answer, not automatically a
+complete one. UNVERIFIED; counsel to confirm § 16404's limits.**
