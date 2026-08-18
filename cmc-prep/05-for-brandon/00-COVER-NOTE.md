@@ -11,11 +11,12 @@
 
 1. **`open_items.md`** — start here. Several things need action outside this workspace, and two are time-critical.
 2. **`governing-instruments-extract.md`** — the operative clauses of the three agreements, as actually written. Several conclusions in this package changed once these were read.
-3. **`verified_facts_memo.md`** — every factual assertion graded, with a citation or an explicit "no source."
-4. **`adverse_analysis.md`** — the case against us. Written to be uncomfortable.
-5. **`chronology.csv`** + **`timeline-exhibit.html`** — 88 events; the exhibit prints to one page.
-6. **`research_memos/`** — **read `00-READ-FIRST-research-reliability.md` first.** See the warning below.
-7. `source-register.md` — what was and was not reviewed, and the citation convention.
+3. **`complaint-extract.md`** — the operative pleading, read in full. Ten causes of action, punitive damages, and the exhibit list.
+4. **`verified_facts_memo.md`** — every factual assertion graded, with a citation or an explicit "no source."
+5. **`adverse_analysis.md`** — the case against us. Written to be uncomfortable.
+6. **`chronology.csv`** + **`timeline-exhibit.html`** — 100 events; the exhibit prints to one page.
+7. **`research_memos/`** — **read `00-READ-FIRST-research-reliability.md` first.** See the warning below.
+8. `source-register.md` — what was and was not reviewed, and the citation convention.
 
 ---
 
@@ -101,9 +102,42 @@ the **Complaint** (Exhibit E). Reading them **reversed two working assumptions**
   **.QBX file has never been extracted** (OI-2).
 - **No property records of any kind were located** — no Kaweah Drive deed, refinances, HELOC,
   ARM, or 2016 gift deed; no Shell Beach purchase or remodel record (OI-3, OI-6).
-- **The Complaint has still not been read.**
+- **The Complaint has now been read** (`complaint-extract.md`). **Its 21 exhibits have not** — only A, B and C, and those via defendants' brief. Retrieving Exhibits D–U from the client file is the fastest way to document the 2023–2025 chronology (OI-20).
 - **1994–1996 ledgers are recorded as "not located in available records."** This workspace
   makes **no assertion** that anything was withheld, concealed, or destroyed — no document
   supports one.
 - **Nothing in this package has been sent to any party.** No correspondence was generated,
   drafted, or transmitted.
+
+
+---
+
+## Added after reading the Complaint (Exhibit E)
+
+**The October 13, 2026 CMC is a CONTINUED date.** The clerk's stamp on the Complaint set the
+original CMC for **February 2026**. Please pull the docket for the continuance and any
+**scheduling order** — this workspace was built assuming October 13 was the first CMC, and any
+existing case-management deadlines are untracked. **OI-19.**
+
+**We pleaded punitive damages, and nothing else in the file mentions it.** Counts 3, 6 and 9
+each seek § 3294 punitives on a **breach of implied covenant** theory, alleging "fraud,
+oppression and/or malice." **No tort is pleaded anywhere in the Complaint.** Defendants have not
+responded under the open-ended extension, so no motion to strike has been filed — but it is
+available at any time. Worth deciding proactively. **OI-22, A-18.**
+
+**Complaint ¶45 may be the best fact in the case.** It pleads that **Moss Adams** — the neutral
+*defendants* retained — reviewed both real property appraisals, found both valid, and
+"**specifically found that there were no errors or an improper appraisal performed by Correia
+Xavier.**" That directly defeats defendants' stated reason for rejecting the Xavier appraisal.
+**The document is Complaint Exhibit Q and is not in this workspace. Please get it first. OI-20.**
+
+**Two things in the Complaint cut against us**, both quotable by defendants from our own
+pleading: ¶¶73 and 96 plead the Xavier appraisal was commissioned for an **IRS Form 706 filing**
+rather than on the buyout parameters (**A-20**), and ¶37 pleads that **Jace Leal agreed with
+defendants** to use Dustin at Moss Adams — while four counts rest on defendants having engaged
+Moss Adams unilaterally (**A-21, OI-21**).
+
+**The prayer asks the court to order defendants to "employ" Correia-Xavier and Moss Adams** —
+neither a party. R2 flags **Civ. Code § 3390(b) and (d)** against exactly that form of relief.
+The statute's text was read verbatim; its case-law gloss was not. **Please verify before the
+CMC and before any amendment deadline. A-19.**

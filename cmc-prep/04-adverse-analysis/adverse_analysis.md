@@ -165,7 +165,9 @@ should clarify the intended scope of ¶2 of the offer before the CMC.
 
 ## A-4. Our brief asserts Hazel had a negative capital account — our own financials say otherwise
 
-**Severity: HIGH. This is an internal contradiction in our own file.**
+**Severity: HIGH — ESCALATED 8/18/2026. It is no longer just a brief assertion; it is PLEADED
+in the operative Complaint, three times (¶¶46, 64, 107), and it is contradicted by our own
+reviewed financial statements.**
 
 **What Cunningham has.** Plaintiff's Mediation Brief p.8 states the 3/3/2025 offer took
 "into account **Hazel's negative capital account** with the Partnership."
@@ -705,3 +707,194 @@ well-positioned to support cost-shifting at all. **New open item: OI-17.**
 | 8/18/2026 | **A-6** | Softened: Steve's 2017–18 counsel was **Griswold LaSalle**, not Ormonde Rascon. The advocate-witness premise may fail at the threshold. Still unverified. |
 | 8/18/2026 | A-1, A-10 | Unchanged, but A-16 supplies the documentary origin of the 25% share. |
 | 8/18/2026 | Added | A-13, A-14, A-15, A-16, A-17. |
+
+
+---
+
+# SECOND ADDENDUM — ITEMS ADDED AUGUST 18, 2026
+### after reading the Complaint (Exhibit E to defendants' mediation brief)
+
+Full extract at `../01-verified-facts/complaint-extract.md`.
+
+---
+
+## A-18. We pleaded punitive damages on contract counts, and nobody in this file has mentioned it
+
+**Severity: HIGH — and it is entirely self-inflicted.**
+
+**What Cunningham has.** Counts **3, 6 and 9** — each a **breach of the implied covenant of good
+faith and fair dealing** — each allege verbatim:
+
+> "Defendants' **fraud, oppression and/or malice** was a substantial factor in causing Plaintiff's
+> harm and as such Plaintiff requests this court award… **punitive damages against Defendants
+> pursuant to California Civil Code 3294.**"
+
+**Neither our mediation brief, nor the § 998 offer, nor the July 2026 cover letter mentions
+punitive damages anywhere.** This appears to have dropped out of the file's working narrative
+while remaining in the operative pleading.
+
+**How she uses it.** A **motion to strike**, and she has three angles:
+
+1. **Breach of the implied covenant sounds in contract**, and § 3294 punitive damages generally
+   require a tort. **The Complaint pleads no tort at all** — no fraud count, no conversion, no
+   breach of fiduciary duty. Counsel should evaluate whether the punitive prayer can survive
+   without one.
+2. **The allegation is bare recitation of the statutory elements** with no supporting facts.
+   Fraud ordinarily requires particularity.
+3. **Defendants are sued solely as successor co-trustees.** Against whom would punitives run,
+   and out of what assets?
+
+**Our best documentary response.** **We have none on this record**, and this workspace cannot
+supply the legal answer — the research environment could not verify authority.
+
+**Honest assessment: this is the kind of thing that gets stricken and costs credibility on
+everything else in the pleading.** Because defendants have **not responded** under an
+open-ended extension, the motion has not been filed — **but it is available to them at any
+time.** Counsel may prefer to decide proactively whether to amend rather than defend it, and to
+do so before the CMC rather than in response to a motion. **See `open_items.md` OI-22.**
+
+---
+
+## A-19. The prayer asks the court to make defendants "EMPLOY" two non-parties
+
+**Severity: HIGH — structural, and it now runs through the pleading, the § 998 offer, and the relief.**
+
+Adverse item A-3 previously flagged this as a § 998 problem. **Having read the Complaint, it is
+broader than that.** Every specific-performance count seeks "**an order from the court to employ
+Correia-Xavier**" or "**to employ MOSS ADAMS jointly**," and the declaratory counts seek a
+declaration that the parties "**are required to jointly use**" them, with discounts "**as
+determined in his/their professional opinion.**"
+
+**Neither firm is a party.** Defendants' brief notes Moss Adams is **"now Baker Tilly."**
+
+Research memo **R2** flags **Civ. Code § 3390(b)** — no specific enforcement of "an obligation to
+employ another in personal service" — and **§ 3390(d)** — no order compelling a party "to procure
+the act or consent of… any other third person." The statutory text was read verbatim; **the case
+law was not, and this is UNVERIFIED.**
+
+**How she uses it.** If § 3390 reads the way its words read, our **primary relief** — pleaded
+four separate ways — may be unavailable in the form requested, and the § 998 offer built on the
+same structure inherits the defect.
+
+**Our best response:** R2's alternative framings — **judicial valuation**, appointment under
+**CCP § 1281.6** (court "shall appoint" where the agreed method fails), or **Evid. Code § 730**.
+Any of these gets a valuation without ordering a party to employ a stranger to the action.
+
+**Honest assessment: counsel must verify § 3390's gloss before doing anything — but the fit
+between the statute's words and our prayer is close enough that it should be checked before the
+CMC and before any amendment deadline passes.** **See `open_items.md` OI-18 item 6.**
+
+---
+
+## A-20. Our own Complaint says the Xavier appraisal was commissioned for a *different purpose*
+
+**Severity: MEDIUM-HIGH — and it damages our best contractual argument.**
+
+**What Cunningham has, from our own pleading:**
+
+> **¶73, ¶96.** "Defendants then unilaterally had Correia-Xavier perform a real estate appraisal
+> **for purposes of filing for a IRS 706 filing** but refused to perform a Real Property appraisal
+> to include the parameters as defined in the Settlement Agreement…"
+
+**How she uses it.** Adverse item **A-15** identified our best contractual argument: Xavier was
+"jointly appointed," so under TIC ¶11 and Art. XIII §J his decision is "**binding and
+conclusive**," and defendants' dissatisfaction with the number is irrelevant.
+
+**Our own Complaint undercuts that.** If, as we plead, the Xavier appraisal was commissioned for
+**estate-tax** purposes and *not* on the buyout parameters, then it is not the appraisal the
+buyout clauses call for — and defendants can say so **by quoting us**. Paired with our other
+concession that it "was performed on 100% ownership and **did not identify discounts as
+required**" (¶41), we have pleaded two independent reasons the Xavier appraisal is not the
+contractual one.
+
+**Our best documentary response:**
+
+1. **¶45 is the counterweight, and it is strong**: Moss Adams — a neutral **defendants** retained
+   — reportedly found "**no errors or an improper appraisal performed by Correia Xavier**," and
+   found both appraisals valid. **Obtain Complaint Exhibit Q.**
+2. The discount omission may be a **correctable computational step** rather than a defect in the
+   appraisal — Xavier could supply discounts on the same underlying valuation.
+3. **Defendants controlled the scope instruction.** Our ¶42 pleads the appraisal "was performed…
+   based on instructions from Defendants' attorney to Xavier without input from Plaintiff." If
+   the scope was wrong, defendants set it.
+
+**Honest assessment: response (3) is the coherent theory and counsel should lead with it** — the
+appraisal is the contractual one, defendants mis-scoped it, and the cure is to have Xavier
+complete it, not to start over. **But it requires abandoning any argument that the existing
+Xavier number is already binding as-is.** Those two positions are not compatible, and the
+Complaint currently gestures at both.
+
+---
+
+## A-21. Jace Leal, not counsel, was the channel — and our own pleading says he agreed to Moss Adams
+
+**Severity: MEDIUM-HIGH.**
+
+**What Cunningham has, again from our own pleading:**
+
+> **¶37.** "On July 16, 2024, Defendants attorney responded stating that **the Defendants and
+> Plaintiff's son, Jace Leal, had agreed to use Dustin at Moss Adams** to perform the Partnership
+> Appraisal."
+> **¶38.** Defendant Ashley emailed **Jace Leal** directly with the appraisals and Moss Adams
+> analysis (9/26/2024).
+> **¶39.** Defendant Ashley emailed **Jace Leal** the appraisals and valuation (1/17/2025).
+> **¶30.** Defendants' counsel emailed **Jace Leal**, copying plaintiff's counsel (6/20/2023).
+
+**How she uses it.** Our theory is that defendants **unilaterally** engaged Moss Adams without
+plaintiff's input — that is the Second, Eighth, Ninth and Tenth Causes of Action. **Our own
+Complaint records that our side, through Jace Leal, agreed to the Moss Adams engagement.** She
+argues consent, or at minimum ratification, and points out that we pleaded it ourselves.
+
+**Our best documentary response:**
+
+1. **Jace Leal is not the plaintiff and not a party.** He is the plaintiff's son. Whether he had
+   authority to bind Steve on the appointment of a contractual appraiser is a real question, and
+   the agreements require the appraiser be "**jointly appointed by all the parties**."
+2. **¶37 also pleads what happened next**: plaintiff's counsel "immediately responded requesting
+   a joint meeting with Dustin Schneider… After that time, Defendants' attorney **refused to
+   respond to phone calls**." Even if there was agreement on *who*, there was refusal on *scope*
+   — and scope is what the Complaint actually complains about.
+3. Defendants' choice to route substantive matters to a non-party while declining counsel's
+   calls is itself the conduct pleaded in the implied-covenant counts.
+
+**Honest assessment: response (2) is the right frame and counsel should sharpen the pleading
+around it** — the grievance is exclusion from *scope*, not from *selection*. As currently
+pleaded, the Complaint says both, and the "unilateral engagement" allegation is in tension with
+our own ¶37. **See `open_items.md` OI-21.**
+
+---
+
+## A-22. Nearly a year has passed with no discovery and no response to the Complaint
+
+**Severity: MEDIUM — a posture problem, and it is a CMC issue.**
+
+Timeline from the documents: **Complaint filed October 16, 2025** → original CMC set for
+**February 2026** → **mediation January 28, 2026** → **§ 998 offer July 2026** → **CMC now
+October 13, 2026**.
+
+Defendants' brief states "the parties agreed to an **open-ended extension to respond to the
+Complaint, no discovery has taken place, and no trial date has been set.**"
+
+**How she uses it.** She does not need to. **The posture speaks for itself**: roughly twelve
+months from filing, defendants have not answered, we have served no discovery, and we made a
+§ 998 offer — whose acceptance window has already expired — into a record where **no discovery
+has been taken.** Meanwhile defendants describe a "**forensic review of the Dairy's books**"
+already underway.
+
+**Our best documentary response:** the extension was consensual and the parties were mediating in
+good faith, which explains the pause.
+
+**Honest assessment: that explains the period through January 2026. It does not explain
+February through August.** **Counsel should arrive at the CMC with a discovery plan and a
+position on terminating the open-ended extension.** See `open_items.md` OI-17.
+
+---
+
+## Corrections log (continued)
+
+| Date | Item | Change |
+|---|---|---|
+| 8/18/2026 | **A-4** | **Escalated.** The negative-capital-account assertion is pleaded three times in the operative Complaint (¶¶46, 64, 107), not merely stated in a brief. Still contradicted by our own reviewed financials. |
+| 8/18/2026 | **A-3** | Broadened by **A-19**: the "employ a non-party" structure runs through the Complaint's prayer, not just the § 998 offer. |
+| 8/18/2026 | **A-15** | Weakened by **A-20**: our own Complaint pleads the Xavier appraisal was commissioned for IRS Form 706 purposes, which undercuts treating it as the binding buyout appraisal. |
+| 8/18/2026 | Added | A-18, A-19, A-20, A-21, A-22. |

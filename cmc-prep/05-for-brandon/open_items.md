@@ -407,3 +407,143 @@ egress proxy and no CourtListener MCP was available. **No pin cite is confirmed 
 5. **`M. Lowenstein & Sons`** — flagged **DO NOT CITE**. It was the intended support for the fact-of-service vs. proof-of-service distinction, which is our best answer to the POS defect. **That argument currently has no verified authority.**
 6. **Civ. Code § 3390(b) and (d)** — whether they bar an order that defendants *employ* named appraisers. **If they do, the relief we have pleaded may need reframing** (judicial valuation; CCP § 1281.6 appointment; Evid. Code § 730).
 7. **Whether the appraisal clauses are arbitration provisions** under CCP § 1280(a), which would change the enforcement vehicle from specific performance to a petition to compel.
+
+
+---
+
+# SECOND ADDENDUM — ITEMS ADDED AUGUST 18, 2026
+*after reading the Complaint (Exhibit E to defendants' mediation brief)*
+
+Full extract at `governing-instruments-extract.md`'s companion, `complaint-extract.md`.
+
+---
+
+## 🔴 OI-19 — Confirm what happened to the February 2026 CMC, and get the scheduling order
+
+**The clerk's stamp on page 1 of the Complaint sets a CASE MANAGEMENT CONFERENCE for
+`02-1?-2026 at 9:30 a.m.`** (day digit illegible on the scan).
+
+**The October 13, 2026 CMC is therefore a continued date, not the original.** This workspace was
+built on the assumption that October 13 was the first CMC. It is not.
+
+**Counsel must obtain from the docket:**
+1. What happened to the February 2026 CMC — continued by stipulation, vacated, or held?
+2. **Any case management order, scheduling order, or order continuing the CMC** — and whether it
+   imposes deadlines (discovery cutoff, ADR completion, trial setting) we are not tracking.
+3. Whether a **Case Management Statement (CM-110)** has been filed, when the next one is due,
+   and what our prior statement said.
+4. Whether the **February CMC was continued more than once**.
+
+**This is the highest-value docket call in the workspace.** Everything downstream — the discovery
+plan, the trial-setting position, the § 998 timing — depends on knowing what orders are already
+in place.
+
+---
+
+## 🔴 OI-20 — Retrieve Complaint Exhibits A–U from the client file. **Exhibit Q first.**
+
+The Complaint attaches **21 exhibits**. **Only three (A, B, C) are in this workspace**, and those
+came via defendants' mediation brief rather than the filed Complaint.
+
+**Retrieving these is the single fastest way to convert most of this workspace's "brief only"
+chronology entries into documented ones.** 24 of 100 chronology rows currently rest on a brief.
+
+**Priority order:**
+
+| Priority | Ex. | Document | Why |
+|---|---|---|---|
+| **1** | **Q** | **Moss Adams review letter** | Complaint ¶45 says it found **"no errors or an improper appraisal performed by Correia Xavier"** and that both appraisals were valid. **This directly defeats defendants' stated justification for rejecting the Xavier appraisal.** If it says what ¶45 says, it is the centerpiece document of the case. Verify it directly. |
+| 2 | I | 8/18/2023 email — "releasing it… by next week" | Pins a specific written promise to a date; anchors the delay narrative |
+| 3 | J | 9/26/2023 email — still not released | Establishes the gap |
+| 4 | N | 7/10–16/2024 emails — unilateral Moss Adams retention; the Jace Leal agreement | **Double-edged — see OI-21.** Read before relying on the "unilateral engagement" theory |
+| 5 | O | 9/26/2024 email — both appraisals credible; averaging proposed | Defendants' own position that Xavier was credible |
+| 6 | K | 11/15/2023 email — objection to J. Hower retention | Contemporaneous objection |
+| 7 | U | 6/19/2025 defendants' rejection and "Final" counteroffer | The $7,359,766 / 15% figures |
+| 8 | R, S, T | 3/3/2025 offer; 5/23/2025 and 6/20/2025 status letters | The no-response sequence |
+| 9 | D–H, L, M, P | Remaining appraiser-selection correspondence | Fills the 2023–2025 chronology |
+
+---
+
+## 🔴 OI-21 — Resolve the Jace Leal authority question before relying on "unilateral engagement"
+
+**Our own Complaint ¶37 pleads that "the Defendants and Plaintiff's son, Jace Leal, had agreed to
+use Dustin at Moss Adams to perform the Partnership Appraisal."**
+
+Four of our ten causes of action rest on defendants having engaged Moss Adams **unilaterally**.
+**Defendants will quote ¶37 back at us.**
+
+**Counsel needs to establish:**
+1. **Did Jace Leal have authority** — actual, apparent, or ostensible — to agree on behalf of
+   Steve Leal to the appointment of a contractual appraiser? The agreements require the appraiser
+   be "**jointly appointed by all the parties**," and Jace is not a party.
+2. **What exactly did Jace agree to** — the identity of the appraiser, the scope, or neither?
+   Read Exhibit N.
+3. **Why was Jace the channel at all**, and did our side object to defendants dealing with him
+   directly rather than through counsel?
+4. Whether the better framing is **exclusion from scope** rather than exclusion from selection —
+   ¶37 also pleads that plaintiff's counsel "immediately responded requesting a joint meeting"
+   and that defendants' counsel then "refused to respond to phone calls." **That is the stronger
+   and more internally consistent theory.** See `adverse_analysis.md` A-21.
+
+**Note:** Jace Leal is the person maintaining this workspace. Counsel should take his direct
+account of the July 2024 exchange.
+
+---
+
+## 🔴 OI-22 — Decide what to do about the punitive damages counts
+
+**Counts 3, 6 and 9 each plead punitive damages under Civil Code § 3294**, alleging "fraud,
+oppression and/or malice." **No tort cause of action is pleaded anywhere in the Complaint** —
+each punitive count rests on breach of the implied covenant.
+
+**Nothing else in the file mentions punitive damages** — not the mediation brief, not the § 998
+offer, not the July 2026 cover letter.
+
+**Counsel should determine, before the CMC:**
+1. Whether § 3294 punitive damages are available on an implied-covenant count absent an
+   independently pleaded tort.
+2. Whether the conclusory "fraud, oppression and/or malice" allegation survives a motion to
+   strike without supporting facts pleaded with particularity.
+3. Against whom punitives would run, and from what assets, given that defendants are sued **solely
+   in their representative capacity** as successor co-trustees.
+4. **Whether to amend proactively rather than defend a motion to strike.** Defendants have not
+   yet responded under the open-ended extension, so the motion has not been filed — **but it is
+   available at any time.**
+
+**This workspace cannot answer the legal question** — the research environment could not verify
+authority. See `adverse_analysis.md` **A-18**.
+
+---
+
+## 🟠 OI-23 — Reconcile our discount positions
+
+Four different minority-discount figures appear across our own documents:
+
+| Source | Discount |
+|---|---|
+| Complaint ¶17 — describing Xavier's prior appraisal | **20%–30%**, varying by property |
+| March 3, 2025 offer ($3,950,565.28) | **30%** |
+| **July 2, 2026 cover letter ($5,705,257.43)** | **25%**, described as "consistent with the discounts applied by Stan Xavier… in 2017" |
+| Defendants' June 19, 2025 counteroffer | 15% |
+
+The 25% characterization is defensible against a 20–30% range, **but it is not the 30% we
+demanded in March 2025**, and the movement is documented in our own correspondence. Counsel
+should settle on a position and be able to explain the change.
+
+---
+
+## 🟠 OI-24 — Verify the contract provisions cited in the Complaint
+
+Two counts cite provisions this workspace could not confirm:
+
+1. **¶105 (Eighth Cause of Action)** cites **"Article XIII, Section B.2"** of the Partnership
+   Agreement as the source of the 90% purchase right. **¶22 of the same Complaint, and our
+   mediation brief, cite Article XIII, Section J.** Confirm which provision actually grants the
+   right — the Eighth Cause of Action rests on it.
+2. **¶85 (Fifth Cause of Action)** cites **"Section 7(b) of the Tenants-in-Common Agreement."**
+   The TIC provision extracted in this workspace is **§ 11** (Determination of Fair Market Value).
+   **§ 7(b) has not been verified to exist or to say what ¶85 says it says.**
+
+Also correct, at the next opportunity: **¶53 pleads the Settlement Agreement was entered
+"December 17, 2017"** — it was **December 7, 2017**, as ¶16 of the same Complaint correctly
+states. And the caption pleads **DOES 1-10** while **¶6 pleads DOES 1 through 25**.
