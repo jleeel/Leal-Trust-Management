@@ -671,3 +671,128 @@ Settlement Agreement for Hazel.
   discovery.
 - Confirm whether Esraelian has substituted out, and whether Richardson Jones & Esraelian retains
   any role.
+
+
+---
+
+# FOURTH ADDENDUM — AUGUST 18, 2026
+*the post-death profits issue — see `post-death-profits-issue.md`*
+
+---
+
+## 🔴 OI-30 — Verify the dissociation statutes. **This decides the largest dollar issue in the case.**
+
+Defendants claim the Hazel J. Leal Revocable Trust remains a partner entitled to profits after
+September 23, 2022. The claim is **$1,617,761 through December 2024**, plus 2025 profit, plus
+BioGas/Feedstock credits.
+
+**The contract text is good for us:**
+- Art. XIII.B.1 **defines Hazel's death as a "Dissociating Event"** in express words.
+- Art. XIII.B.2: "**the Partnership shall purchase her Partnership Interest**" — mandatory.
+- Art. XIII.B.2 and Settlement ¶7(b) supply **4% interest** on the deferred balance — the parties'
+  own answer to what the selling side receives while waiting.
+- Art. XIII.D shows the parties knew how to say an interest passes by estate plan **and is not
+  bought out** — they said it for Steve and Marla, not for Hazel.
+
+**The statutory overlay is the risk, and it is UNVERIFIED:**
+- **Corp. Code § 16601(7)** reportedly provides that a trust-partner is dissociated on
+  distribution of its entire transferable interest, **"but not merely by reason of the
+  substitution of a successor trustee."** The named partner is **the Trust**, not Hazel
+  personally. **If that is the text, the default rule favours them.**
+- **Our answer** is that the Agreement's PARTIES clause defines "**Hazel**" to include "**Trustee
+  of THE HAZEL J. LEAL REVOCABLE TRUST**," so Art. XIII.B.1 makes her death the Dissociating Event
+  **for the Trust's interest** — the parties contracted around the default.
+- **Corp. Code § 16103** (extent to which the partnership agreement governs) must be confirmed,
+  including the non-waivable list.
+- **Corp. Code §§ 16603 and 16701** — R3 and R4 both report RUPA's buyout remedy is value at the
+  dissociation date **plus interest**, not post-dissociation profits. **Confirm.**
+
+**Run this first in Westlaw/CoCounsel. Everything else on this issue is downstream of it.**
+
+---
+
+## 🔴 OI-31 — Get the FY2022 statement, and reconcile their $1,617,761 against our own books
+
+**The FY2024/2023 reviewed statements have now been read** (Drive `1cqN3Cp2t9pMFiql2mXOYYZFZTxsSVZRm`)
+and they cut **against** us on the legal question but **for** us on the number.
+
+**Against us:** our own statements carry a column headed "**ESTATE OF HAZEL LEAL**" and allocate
+to it **37.5% of profit and loss in every post-death year**, with a capital account of
+**$3,218,795 at 12/31/2024** — and we made distributions to it ($8,598 in 2023; $73,192 in 2024,
+including $70,441 "Personal"). See `post-death-profits-issue.md` §5.4. **Counsel should ask
+Frazer why the account was maintained and on whose instruction, before treating the presentation
+as an admission.**
+
+**For us — the arithmetic:**
+| Year | Allocated to Estate of Hazel Leal |
+|---|---|
+| FY2023 | **($333,228)** — a LOSS |
+| FY2024 | **$759,997** |
+| **Net FY2023–24** | **$426,769** |
+
+**If she shares profits she shares losses.** FY2023 was a **$(888,608)** loss year for the Dairy.
+**Counsel should test whether defendants' $1,617,761 nets the FY2023 loss.** If it does not, the
+claim is overstated on our own reviewed financials.
+
+**Still needed:**
+1. **FY2022 statement** — Hazel's FY2022 allocation, the pre-/post-death split, and the Q4-2022
+   distributions that make up the balance of the $194,352.65 offset. (Drive `1YhdTn7bvMMbTLV02nhLyUBs66LaPRmbs`.)
+2. **FY2025 draft** (Drive `1GrOsQIpZB9LUFMV2yac4doxprRz0o3rD`) — they have reserved a 2025 claim.
+3. **A reconciliation** of $850,894.54 (2015–2021, Ex. J) → $1,617,761 (through Dec 2024, Ex. U),
+   showing what is profit, what is retains, and what is interest.
+
+---
+
+## 🟠 OI-32 — Milk retains under Settlement Agreement ¶ 9
+
+> "Hazel shall be paid the sum of **at least three thousand dollars ($3,000) each year for milk
+> retentions** commencing on **December 15, 2017** and **continuing annually thereafter.**"
+
+Ex. U claims "unpaid retains" as part of the $1,617,761. **The clause states no death cutoff.**
+Counsel should determine what was paid, when, and whether the obligation continued after
+September 23, 2022. The annual amount is small; the point is that it is a **separate contractual
+obligation** and should be unbundled from the profit-share dispute rather than defended as part of it.
+
+---
+
+## 🟠 OI-33 — JL Ag related-party disclosure
+
+> **FY2024/2023 statements, Note 6:** "**JL Ag is a related party that provides harvesting
+> services for the Dairy.** During the years ended December 31, 2024 and 2023, the Dairy paid
+> harvesting expenses totaling **$22,102 and $13,330**, respectively, to JL Ag."
+
+Small in amount, but it is a **disclosed related-party payment** by a partnership whose management
+is accused of self-dealing and of "misappropriat[ing] other corporate opportunities" (defendants'
+brief). **Counsel should establish who owns JL Ag, on what terms it was engaged, and whether the
+rates are market** — and be ready for the question rather than meet it cold.
+
+---
+
+## 🟠 OI-34 — The Bypass Trust dissolution and the transfer of its 7.5% to Steve
+
+> **FY2024/2023 statements, Note 8:** "**In 2022, Hazel Leal passed away and the Manuel Leal
+> Bypass Trust was dissolved. On January 1, 2023, the partnership interest of the Manuel Leal
+> Bypass Trust was transferred to Steve Leal.**"
+
+**$821,249** of capital moved from the Bypass Trust column to Steve's, effective the January 1
+after Hazel died.
+
+**This helps on one point and creates exposure on another.**
+- **Helps:** defendants' Ex. U claims profit due to Hazel "from her Partnership interest **in the
+  Bypass Trust**." The Bypass Trust dissolved and its partnership interest went to Steve — there
+  is no post-death Bypass *partnership* interest for her estate.
+- **Exposure:** the transfer ran **to our own client**, who was the surviving co-trustee **and**
+  the managing partner, recorded by our own accountants, and nothing in this record shows
+  defendants were told. **Counsel should obtain the Bypass Trust instrument's termination and
+  remainder provisions, and establish the authority for the dissolution and transfer, before this
+  is raised.** Ties to **OI-15** and `adverse_analysis.md` **A-14** — and makes them more urgent.
+
+---
+
+## 🟡 OI-35 — Note the qualified accountants' conclusion
+
+The FY2024/2023 review carries a **Qualified Conclusion** on two GAAP departures: **$1,391,112**
+of debt due within one year shown as long-term "**at the request of the Dairy's management**," and
+farming operations presented net rather than gross. Combined with the restatements at
+`adverse_analysis.md` **A-9**, counsel should expect the theme that our financial presentation
+bends at management's request. **Have Frazer's explanation ready.**

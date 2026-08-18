@@ -204,3 +204,56 @@ drives only the first.
 **Highest-priority missing document: Stan Xavier's May 8, 2023 email**, quoted in Exhibit K as
 showing he was "waiting for us to define the scope for appraising the property for purposes of
 buyout." It is not an exhibit. It should be in the firm's archive. **OI-28.**
+
+
+---
+
+## The post-death profits claim — `post-death-profits-issue.md`
+
+Their position is that Hazel's Trust remains a partner entitled to profits after 9/23/2022:
+**$1,617,761 through December 2024**, plus 2025 profit, plus BioGas/Feedstock credits. Their brief
+makes it a **gating** issue — "the buyout of the Dairy cannot be completed as the unpaid profits
+need to be paid prior to the sale."
+
+**The contract text is good for us.** Article XIII.B.1 **defines Hazel's death as a "Dissociating
+Event"** in express words; B.2 says the Partnership "**shall purchase**" her interest; and B.2 and
+Settlement ¶7(b) both supply **4% interest** on the deferred balance — the parties' own answer to
+what the selling side gets while it waits. Article XIII.D shows they knew how to say an interest
+passes by estate plan and is **not** bought out; they said it for you and Marla, not for Hazel.
+Article I.B also fixes the percentages: **Bypass 7.5% / Steve 30% / Hazel's Trust 37.5% / Steve &
+Marla 25%.**
+
+**Two things cut hard against us, and you should see both before the CMC.**
+
+**1. Their best legal argument.** The named partner is **the Trust**, not Hazel personally. R4
+reports **Corp. Code § 16601(7)** dissociates a trust-partner on distribution of its entire
+interest, "**but not merely by reason of the substitution of a successor trustee.**" Our answer is
+that the Agreement's PARTIES clause defines "Hazel" to include "**Trustee of THE HAZEL J. LEAL
+REVOCABLE TRUST**," so the parties contracted around the default. **That statute is UNVERIFIED and
+needs to be run first — it decides the largest dollar issue in the case. OI-30.**
+
+**2. Our own books allocate profits to her after death.** The FY2024/2023 reviewed statements
+carry a column headed "**ESTATE OF HAZEL LEAL**" and allocate **37.5% of profit and loss every
+post-death year**, with a capital account of **$3,218,795 at 12/31/2024** — and we made
+distributions to it ($73,192 in 2024, including $70,441 "Personal"). That is practical
+construction, in our own accountants' work, against the position we are taking. **Worth asking
+Frazer why the account was maintained and on whose instruction before treating it as an
+admission.**
+
+**But the arithmetic helps.** If she shares profits she shares losses, and **FY2023 was a
+$(888,608) loss year** — her allocation was **$(333,228)**. Against FY2024's **$759,997**, the net
+for both years is **$426,769**. **Check whether their $1,617,761 nets the FY2023 loss.** OI-31.
+
+**Two incidental findings worth your attention.** Note 8 records that "**the Manuel Leal Bypass
+Trust was dissolved**" and its partnership interest "**transferred to Steve Leal**" on 1/1/2023 —
+**$821,249**, to the surviving co-trustee who is also the managing partner, with nothing in this
+record showing defendants were told (**OI-34**). And the FY2024 review carries a **Qualified
+Conclusion** on two GAAP departures, one expressly "**at the request of the Dairy's management**"
+(**OI-35**).
+
+**One thing this resolves in our favour.** Article VI.E provides that a drawing-account **debit**
+balance from "**drawings in excess of his share of Partnership profits**" is "**a liability of
+that Partner to the Partnership**" and "**shall not reduce his interest in the capital of the
+Partnership.**" That is exactly our $262,592.00 offset — and it explains why the capital account
+stayed positive. **The substance is supported by the Agreement; only the Complaint's "negative
+capital account" label is wrong.** Correcting the pleading to track Article VI.E would fix it.
