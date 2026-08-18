@@ -1042,3 +1042,56 @@ The 5/1/2026 998 draft sources the Bypass income figure to an AI-chat "user uplo
 The likely real source is the Bypass Income sheet of the client financials workbook
 (cumulative $327,427.02 — matches the financials extract). **Confirm and record the citable
 source** so the served offer's second-largest component doesn't trace to a chatbot tag.
+
+---
+
+# ITEMS FROM THE FINANCIALS / TAX / BANKING SWEEP (8/18/2026)
+
+Source: `01-verified-facts/drive-sweep/financials-tax-banking-sweep.md` (~330 files
+inventoried; K-1 table, loan-by-loan detail, statement coverage maps inside).
+
+## 🔴 OI-48 — Obtain the 2023 Form 1065 + K-1s from Frazer (absent from the Drive)
+The 2022 return substitutes the Hazel Revocable Trust in at 37.5% and the 2024 return
+continues it — but 2023, **the loss year**, is missing. It is the document that forces the
+$333,228 loss netting against 2024's $759,997 (post-death-profits-issue.md §12.2) and caps
+the K-1-logic claim at $426,769. Get it before defendants do. While at Frazer: the 2018
+special-allocation explanation (K-1 line-1 not proportional to 55/37.5/7.5 — §12.4) and
+readable 2013–2014 returns.
+
+## 🔴 OI-49 — SECURITY: "important numbers.xlsx" is a live credentials list
+The FINANCIALS root file `important numbers.xlsx` contains working log-ins and passwords
+for the operating bank, IRS/EFTPS, Farm Credit/AgWest, payroll, SSA, and brokerage
+accounts. **(1) Rotate every credential in it now** — this workspace and any future
+document production should be assumed to reach adverse hands; **(2) never produce it
+without counsel review and a protective order; (3) do NOT delete it** (litigation hold) —
+rotate the credentials instead so the file's contents go stale.
+
+## OI-50 — Clean-copy / missing-records retrieval list (banking & loans)
+Unreadable scans needing clean copies or native production: Rodrigues Ranch note + escrow;
+Orozco.Rodrigues deed; all four Silveira note/modification PDFs; Machado quota title;
+signed 2024 Kubota contract; Deere 544K loader lease docs; LOL "age retirement payouts"
+policy; 2013/2014 returns and K-1s; 1993 financial statement. Missing statements: Citizens
+#37610623 before 3/31/2017 (except stray Dec 2013), Jan–Feb 2017, **Jun–Nov 2024**, and all
+2025-forward; Farm Credit/AgWest full-year 2020, 2H 2022 transactions, all 2023 and 2025,
+plus the Master Loan Agreement / commitment schedules recited in the borrowing-base
+certificates. Sources: Citizens and AgWest can produce statement archives on request;
+Frazer holds the workpapers. NOTE: the Rodrigues/Orozco documents ALSO corroborate the
+Heifer Ranch balloon recited in the 5/18/2026 letter (OI-46) — one retrieval serves both.
+
+## ✅ OI-2 — UPDATE: the QBX file is LOCATED (with limits)
+`QB_Manuel_Leal_Dairy 10.5.2009 (QuickBooks2013 Acct Transfer Jan 29,2014).QBX`, 18.4 MB,
+sits in Taxes 2013 (Drive id 1ePWvKVpIsBy3exr2eqQ2ZPVi2Bcq5evS). It is an accountant's-copy
+transfer file created 1/29/2014 — so it carries transactions only through ~January 2014,
+and the company file itself begins 10/5/2009. **It cannot contain the 1994–96 ledgers**
+(those remain "not located in available records" — the verified-facts grading stands).
+Extraction requires QuickBooks Desktop (accountant's copy import); Frazer can open it.
+Also on Drive: `Manuel Leal AJEs.QBJ` (6/4/2021 journal) with a readable xlsx twin already
+extracted.
+
+## OI-51 — Supplement to OI-42/OI-39: the frameworks now point in OPPOSITE directions
+The client's own Partnership Income Summary computes Hazel's side **UNDER-drawn $719,809**
+(Steve over-drawn $617,285) at fixed 37.5/55/7.5 through 12/31/2022 — the opposite sign of
+the Frazer-derived $591,965 "Hazel excess draws" behind the $262,592 offset. The
+reconciliation memo (OI-42, with Frazer/Mike Edwards) must now also explain WHICH
+convention the litigation adopts and why, because defendants will hold us to whichever of
+our documents helps them. See adverse analysis A-42.

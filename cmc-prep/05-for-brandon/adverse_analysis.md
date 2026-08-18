@@ -1435,3 +1435,88 @@ statements, Note 8). Paying Bypass income to Hazel's ESTATE while Steve took the
 capital is a characterization choice with no located support; discovery into the dissolution
 will test both the offset and the payee designation. **Get the Bypass dissolution paperwork
 and the reasoning behind the payee choice before defendants ask for them.**
+
+---
+
+# EIGHTH ADDENDUM — AUGUST 18, 2026 (financials / tax / banking sweep)
+
+**Source:** ~330 files inventoried, ~60 read in full, in the "LEAL TRUST PARTNERSHIP
+FINANCIALS" tree — per-document detail in
+`01-verified-facts/drive-sweep/financials-tax-banking-sweep.md`. Written as Ms. Cunningham
+would use it.
+
+## A-40. Our own federal K-1s carry the Trust as a 37.5% partner through 2024
+
+The 2022 Form 1065 closes Hazel's and the Bypass Trust's K-1s as FINAL and opens a NEW K-1
+for the **Hazel J Leal Revocable Trust at 37.5%** — income allocation, cash distributions,
+and a **$1.84M recourse-liability share** — and the 2024 return continues it (income
+$375,483; distributions $82,441; liabilities $1,499,399). Cross-examination: *"Your tax
+returns, signed under penalty of perjury two years after her death, say my client is a
+37.5% partner sharing your debts. Your lawsuit says she became a creditor the day Hazel
+died. Which document is false?"* **Mitigation is real but must be built consciously:** (1)
+the contract-based answer (Art. XIII.B buyout pending closing; tax reporting of an
+un-closed buyout is not a status election); (2) **the loss-sharing corollary** — the same
+K-1 logic nets 2023's ($333,228) against 2024's $759,997, capping the two-year claim at
+$426,769 vs their ~$1.6M construct (see post-death-profits-issue.md §12.2); (3) get the
+**missing 2023 Form 1065** (OI-48) before defendants subpoena it and we see it second.
+**Never again file or serve anything asserting the absolute "ceased to be a partner"
+version — A-30's conclusion now has tax-return teeth.**
+
+## A-41. Post-2017 borrowings signed without the Trust — the covenant we invoke cuts at us
+
+Settlement ¶11/11(a) (both partners approve; $100k/30-day cap; no partner loans) is
+defendants' covenant. The sweep found, in OUR records: **SBA EIDL $150,000** (5/12/2020)
+signed "Steve Leal, Owner/Officer" ALONE, granting a **blanket UCC lien on ALL partnership
+personal property**; **PPP $125,000** (Dec 2020); **TCFCU Ram 2500 $55,085** (6/19/2023)
+signed Steve + Marla; **Kubota $34,402.50** (7/8/2024) on Steve's signature. No
+Hazel/Trust-side signature appears on any post-2017 borrowing found. And the Farm Credit
+annual statements show line draws **far above $100k/30 days after the Settlement was
+signed** — October 2018 ≈ $400,000 across Feed+Cow in one month; August 2019 ≈ $250,000 —
+versus a conspicuously clean **one-$100,000-draw-per-month pattern beginning May 2021**.
+Their examiner will run both plays: the big draws as breach, and the 2021 shift as proof we
+knew the cap applied (or as structuring around it). **Defenses to assemble now, not at
+deposition:** ordinary-course operating draws vs "capital expenses"/new borrowing under
+¶11's actual text; the 2018 Agreement's different governance (Art. IX.A.2 majority vote —
+and the OI-40 hierarchy question); disaster-relief context for EIDL/PPP; ratification via
+Hazel's/the Trust's receipt of financials and K-1s showing the debt. **Also note the same
+sweep found Hazel signing the 2012–13 FCW documents — as an individual AND as trustee of a
+Revocable Trust the loan papers name as a PARTNER — which complicates our Han distinction
+and must be handed to counsel with the § 16601(8)/§ 16103(b) question.**
+
+## A-42. Our two draw frameworks now point in OPPOSITE directions — and the under-drawn one is ours
+
+The client's own "Partnership Income Summary.xlsx" (modified 10/2/2025) restates 12/31/2022
+capital at fixed 37.5/55/7.5 and concludes: **Hazel's side UNDER-drawn — a $719,809
+receivable; Steve OVER-drawn by $617,285; Bypass over by $102,523** — on the same sheet
+that totals "Due to Hazel 2015–2022: $1,033,717.15." Meanwhile the Frazer parity
+computation behind our offsets says Hazel took **$591,965 excess draws** (→ $262,592 net).
+These are not two measurements of one number; they are opposite signs. If defendants obtain
+the client workbook (assume they will), the offset story collapses unless the
+reconciliation memo (OI-42) exists FIRST and explains the conventions (opening-balance
+parity vs income-minus-draws; periods; Bypass credit). **Until that memo exists, every
+offset figure is a liability, not an asset.**
+
+## A-43. The 2015 federal K-1 prints a 50/50 profit split — feeding their 50/50 narrative (A-28 updated)
+
+The 2015 K-1s print beginning-of-year profit/loss **Manuel 50 / Steve 50** (capital 20/80),
+while the books, the accountant's ME-Version workpaper, and the actual 12/31/2014 capital
+(76:24) all run **75/25**. The ME-Version sheet models BOTH and warns "Under the 50/50
+scenario, Manuel only has 25% to transfer to Steve" and nothing funds the Bypass Trust.
+Defendants' 50/50 historical claim now has a federal filing to point at; our answer is that
+the SAME filing's capital percentages (20/80) and every book record contradict it, and that
+the 50/50 print is a tax-form artifact the accountant's own workpaper rejects. **Add the
+2015 K-1 to the A-28 exhibit set — on both lists.**
+
+## A-44. The client's valuation worksheets are discovery landmines
+
+The "equity estimate" series (3/1/2015 → 4/1/2026) shows, in our own hand: lack-of-
+marketability discount **growing 15% → 20% → 30%** as the dispute matured (combined
+discount 25.6% → 38.75%); LOL equity carried at a stale $719,108 for four years while the
+co-op statements said $914,942; a **$3.5M "LOL BASE" line (17,500 cwt @ $200)** in the
+4/1/2026 snapshot that appears in no Land O'Lakes document; the "Partnership" component of
+the current offer panel being the **2016 Reddington current-value equity as of 3/25/2015**
+($6,642,573) — an eleven-year-old value — while the mutually-corresponded $1,162,875
+partnership figure appears **nowhere** in these files; and the 4/1/2026 panel summing to
+$5,689,473.66, i.e., **$15,783.77 off the served offer**. Every one of these is a
+cross-examination exhibit if produced unexplained. **Counsel decides work-product/
+production posture; nobody cites these sheets until the derivations are documented.**

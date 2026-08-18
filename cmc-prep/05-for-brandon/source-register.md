@@ -67,6 +67,7 @@ documents were withheld or destroyed.
 | S-10 | trust-instruments-extract.md | Agent extract 8/18/2026 | See below — **Bypass Trust dispositive pages MISSING from Drive.** |
 | S-11 | property-valuation-history-extract.md | Agent extract 8/18/2026 | Correction deed (Griswold LaSalle), Reddington 2016 valuation (75/25), 706 draft, Hazel's 2017 brief. |
 | S-12 | drive-sweep/drafts-proposals-sweep.md | Agent sweep 8/18/2026 | All 26 files in Drive folders "Leal Trust/Partnership" + "Land Acquisition" (per-file Drive IDs inside). **Internal AI-generated drafts — NOT positions of record.** Sourced: the 5/18/2026 $5.75M cover letters (memo §6.14), the offset-stack history (A-32), the interest-staleness finding (A-35), Leal Land Holdings (A-36). |
+| S-13 | drive-sweep/financials-tax-banking-sweep.md | Agent sweep 8/18/2026 | FINANCIALS tree (~330 files; ~60 read). Federal K-1 table 2015-2024 (Rev Trust at 37.5% through 2024 — A-40), FCW/Citizens statement coverage maps, loan-by-loan table (EIDL/PPP/TCFCU/Kubota — A-41), client equity-estimate series (A-44), QBX location (OI-2), credentials-file security flag (OI-49). |
 
 ### ⚠️ Critical absence confirmed by the trust extract
 The Manuel C. Leal Living Trust instrument in the Drive is an **excerpt missing internal pages

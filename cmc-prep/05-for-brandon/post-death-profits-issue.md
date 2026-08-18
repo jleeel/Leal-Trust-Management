@@ -552,3 +552,60 @@ Also confirmed by the extract: the $327,427.02 in our July 2026 offer **is the B
 of Jace's income summary** — which resolves where the number came from, and sharpens the
 double-count flag against the $329,373 credited inside the Frazer offset (settlement model,
 ProfitsInterest tab).
+
+---
+
+## 12. UPDATE — the FEDERAL K-1s are now read (tax/banking sweep, 8/18/2026)
+
+Source: partnership Forms 1065 on Drive, 2015–2022 and 2024, read in full; per-year table in
+`drive-sweep/financials-tax-banking-sweep.md` §2. This is the strongest documentary
+development on this issue in either direction, and both sides of it must be absorbed.
+
+### 12.1 What the returns show (adverse to the "creditor-only" framing)
+
+- **2022 (the death year):** Hazel's individual K-1 is marked FINAL (37.5% → 0) and the
+  Bypass Trust's K-1 is FINAL (7.5% → 0). In their place, the **Hazel J Leal Revocable Trust
+  UDT 11/3/2008 (EIN 88-6746852) enters at 0 → 37.5%**, taking a $93,988 income allocation
+  and an $11,172 distribution, and — significantly — a **$1,841,569 share of recourse
+  liabilities**. Steve moves 55 → 62.5 (absorbing the Bypass 7.5).
+- **2024:** the partnership return continues **Steve 62.5 / Hazel Revocable Trust 37.5**,
+  allocating the Trust **$375,483 of ordinary income**, $82,441 of cash distributions, and a
+  $1,499,399 recourse-liability share.
+- **2023: the Form 1065 is NOT on the Drive** (the "2023.pdf" in the tax folder is a
+  Bankston rent cash-flow). **Obtain it from Frazer — OI-48.**
+
+The partnership's own federal filings, two tax years after death, treat the Revocable Trust
+as a **37.5% profit-sharing, liability-sharing partner** — not as a dissociated creditor
+holding a note claim at 4%. Defendants will call this our own admission, on returns our side
+signed. The absolute "she stopped being a partner on September 23, 2022" framing cannot be
+squared with these documents; the position must run through the contract (Art. XIII.B:
+death = Dissociating Event; buyout at 90% + 4% as the exclusive delay compensation) and
+election/waiver — as the drafts-sweep already forced (adverse analysis A-30), and as the
+FY2023–24 books already suggested (§5.4 above).
+
+### 12.2 What the same returns give us (the loss-sharing corollary, now locked)
+
+If the K-1s make the Trust a continuing partner, they make it a continuing partner **in the
+loss year too.** The client's Partnership Income Summary shows 2023 book income of
+**($888,608)** — and 37.5% of that is **($333,228)**, exactly the FY2023 Estate-column
+allocation in the reviewed statements (§5.4). 37.5% of 2024's $2,026,658 is $759,997 —
+again exact. So the two-year net on the defendants' own logic is **$426,769**, not the
+~$1.6M EBITDA construct: **whoever embraces the K-1s embraces the 2023 loss.** The missing
+2023 return matters precisely here — it is the document that forces the netting.
+
+### 12.3 Guaranteed payments — a fact both sides will use
+
+Hazel received guaranteed payments **every year 2015–2022**: $62,000 (2015–16) rising to
+$84,000 (2020), $78,000 (2021), $54,000 in the partial 2022 year — then none. Defendants:
+"you treated her as a partner entitled to compensation; the payments stopped only because
+you cut them off." Us: the payments track **Art. VI.B's guaranteed care payments** (paid
+"even if Hazel's capital account is negative"), i.e., contract performance, not evidence of
+open-ended partner status — and they ceased with her death because they were personal to
+her. The characterization fight is predictable; the payment history itself is now fixed.
+
+### 12.4 One more allocation anomaly to resolve before anyone testifies
+
+The **2018** K-1 line-1 figures (Steve $151,219 / Hazel $134,922 / Bypass $16,985) are
+**not in 55/37.5/7.5 proportion** as printed. Check the 2018 return for special allocations
+(a §704(c) item, a guaranteed-payment interaction, or an error) before the K-1 series is
+offered as a clean 55/37.5/7.5 baseline.
