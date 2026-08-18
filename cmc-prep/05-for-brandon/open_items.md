@@ -547,3 +547,127 @@ Two counts cite provisions this workspace could not confirm:
 Also correct, at the next opportunity: **¶53 pleads the Settlement Agreement was entered
 "December 17, 2017"** — it was **December 7, 2017**, as ¶16 of the same Complaint correctly
 states. And the caption pleads **DOES 1-10** while **¶6 pleads DOES 1 through 25**.
+
+
+---
+
+# THIRD ADDENDUM — AUGUST 18, 2026
+*after reading Complaint Exhibits D–U — all 21 exhibits, all 27 emails*
+
+> ### ✅ OI-20 IS SUPERSEDED
+> OI-20 listed Complaint Exhibits D–U for retrieval on the basis that they were not in the
+> workspace. **They were in the same PDF, after the Complaint body, and have now all been read.**
+> See `email-exhibits-extract.md`. Counsel should still obtain **conformed filed copies from the
+> client file** rather than sourcing them to the mediation brief — but the *content* is known.
+
+> ### ✅ OI-5 IS ANSWERED
+> The "negative capital account" computation exists. It is in the March 3, 2025 letter (Ex. R)
+> and it is **not a negative capital account** — it is **$262,592.00 of excess distributions
+> during Hazel's lifetime plus $194,352.65 after her death, totalling $456,944.65.**
+> $4,407,509.93 − $456,944.65 = $3,950,565.28. ✓
+>
+> **Remaining action:** obtain **Frazer's capital-account summary** — Exhibit B to that letter —
+> which is the underlying support, and **correct the "negative capital account" label** in the
+> Complaint (¶¶46, 64, 107) and the mediation brief.
+
+---
+
+## 🔴 OI-25 — Establish whether we agreed to $850,894.54
+
+**Ex. J, September 26, 2023, Esraelian → Ormonde:** "**There was an agreement as to the amount of
+the profit distribution owed to Hazel from 2015 through 2021 in the amount of $850,894.54.**…
+Please advise if your client will pay the agreed upon profit due to Hazel."
+
+**Counsel must determine:**
+1. **Does any writing evidence that agreement?** Who made it, when, and on what basis?
+2. **Did we respond to this demand?** No reply appears in this record. A written demand for an
+   agreed sum, unanswered since September 2023, is a problem in its own right.
+3. **How does $850,894.54 (through 2021) reconcile to $1,617,761 (through Dec. 2024)?**
+4. **How do both reconcile to our own $327,427.02 Bypass-income offer** (July 2, 2026)? These may
+   be overlapping or distinct claims — Ex. U item 4 describes the $1,617,761 as due to Hazel
+   "from her Partnership interest **in the Bypass Trust as well as her own interest** in the
+   Partnership," which suggests overlap.
+
+**Related and useful to us:** Ex. J shows **the dairy LOC extension required Susan's and Ashley's
+signatures**. Borrowing they signed for is not borrowing without consent — that helps on the ¶11
+covenant (A-13) — and it shows they were withholding cooperation as leverage. **Obtain the LOC
+extension documents.**
+
+---
+
+## 🔴 OI-26 — Address the Moss Adams use restriction
+
+Every page of Exhibit Q reads **"FOR CLIENT USE ONLY. NOT TO BE RELIED UPON BY THIRD PARTIES,"**
+and the letter states it "may not be presented to outside third parties without a non-reliance
+letter provided by Moss Adams," that possession "does not carry with it the right of publication,
+nor may it be used by anyone but the party for whom it has been prepared," and that **the
+signatories "shall not be required to give further consultation or testimony, nor appear in
+court… unless prior arrangements have been made with the Client."**
+
+**The Client is Robyn Esraelian / the Hazel Trust. We are the third party — and we attached the
+document to a publicly filed Complaint.**
+
+**Counsel should determine:**
+1. Whether a **non-reliance letter** should be requested from Moss Adams (now Baker Tilly).
+2. Whether **Steven A. Klett, MAI** (CA Lic. AG-026235) can be compelled to testify. **This
+   matters:** Complaint ¶45 is one of our best facts and we may need its author.
+3. Whether the restriction constrains use of Exhibit Q at the CMC or on any motion.
+4. Whether the letter's **internal contradiction** — "not intended to comply with USPAP" against
+   a Certification claiming USPAP conformity — should be raised or left alone.
+
+---
+
+## 🟠 OI-27 — BioGas and Feedstock leases
+
+Defendants' June 19, 2025 counteroffer, item 5: "It appears there may be some **credits due to
+the Partnership on account of the BioGas and Feedstock leases.** If that is the case, Hazel's
+trust should receive its pro-rata share…"
+
+**These leases appear nowhere else in this workspace** — not in the financial statements
+reviewed, not in the capital analysis, not in either mediation brief, not in the Complaint.
+
+**Counsel needs:** the lease agreements; the revenue and credit history; how the revenue was
+booked; whether it was distributed; and a quantification **before the CMC.** As raised, the claim
+is open-ended.
+
+---
+
+## 🟠 OI-28 — Retrieve Stan Xavier's May 8, 2023 email
+
+**The highest-priority missing document in the case.** Quoted in Ex. K but **not itself an
+exhibit**:
+
+> "**specifically Stan's email from May 8, 2023, after our joint call with him**… Based on Stan's
+> email, **he is waiting for us to define the scope for appraising the property for purposes of
+> buyout.**"
+
+**Why it matters:** it is the appraiser's own contemporaneous statement that (a) there was a joint
+call, and (b) he was awaiting joint instruction on buyout scope. **That is the document that
+converts "defendants revoked the agreement" from argument into record.** It should be in the
+firm's email archive.
+
+**While retrieving it, also obtain:**
+- **Frazer's capital-account summary** (Ex. B to the 3/3/2025 letter) — supports OI-5
+- **The worksheet** (Ex. A to the 3/3/2025 letter)
+- **The personal property appraisal** — disclosed in Ex. O, never seen
+- **Bill Reddington's information request list** (`REQUEST-ptshp RBV.pdf`, attached to Ex. H) and our response
+- **Ashley's 1/17/2025 cover letter and summary**, and the zipped full reports (Ex. P)
+- **The three underlying valuations** — Correia-Xavier, J. Hower, and the Moss Adams business valuation of 11/18/2024
+
+---
+
+## 🟡 OI-29 — Note the change in defendants' counsel
+
+**Robyn L. Esraelian of Richardson, Jones & Esraelian handled the entire 2023 – June 2025
+correspondence**, including the June 19, 2025 counteroffer. **Whitney Thompson & Jeffcoach
+(Thompson / Cunningham) appear by the January 2026 mediation brief.** Both firms signed the 2017
+Settlement Agreement for Hazel.
+
+**Consequences:**
+- The adverse analysis is written in Cunningham's chair, but **the historical conduct at issue is
+  Esraelian's.** Counsel should not assume Cunningham is committed to positions Esraelian took.
+- **Esraelian is a percipient witness** to the appraiser-selection sequence — she proposed Xavier,
+  engaged him, and set the scope instruction. Counsel should consider what that means for
+  discovery.
+- Confirm whether Esraelian has substituted out, and whether Richardson Jones & Esraelian retains
+  any role.

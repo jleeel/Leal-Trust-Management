@@ -141,3 +141,66 @@ Moss Adams unilaterally (**A-21, OI-21**).
 neither a party. R2 flags **Civ. Code § 3390(b) and (d)** against exactly that form of relief.
 The statute's text was read verbatim; its case-law gloss was not. **Please verify before the
 CMC and before any amendment deadline. A-19.**
+
+
+---
+
+## Added after reading Complaint Exhibits D–U (all 21 exhibits, all 27 emails)
+
+**Correction first:** an earlier note in this package said Exhibits D–U were not in the
+workspace. **They were — bound into the same PDF after the Complaint body.** All have now been
+read. `email-exhibits-extract.md` supersedes the retrieval list in OI-20.
+
+**Exhibit G is the best document in the case.** On March 21, 2023 **Robyn Esraelian — defendants'
+own counsel — emailed Stan Xavier, copying you, and attached the Tenants in Common Agreement**:
+
+> "Attached is the **Tenants in Common Agreement that sets forth the terms of the buy-out**…
+> We are seeking an appraisal of the properties **for purposes of the Tenants in Common Agreement
+> Buy out provisions** and for the Dairy Partnership valuation… **Brandon: please confirm the
+> properties are correct**…"
+
+She also **proposed Xavier in the first place** (Ex. E, 2/15/2023: "do you have any thoughts about
+using Xavier-Correrria?"). Defendants proposed the appraiser, engaged him, gave him the buy-out
+terms, and asked you to confirm scope. **That is the joint-appointment evidence, and it is
+theirs.**
+
+**Two adverse items are withdrawn or reduced as a result.** A-20 — which treated the Complaint's
+"IRS 706" allegation as an admission against us — **is withdrawn**; the emails show a two-stage
+engagement defendants interrupted before buy-out scope was set. A-21, on Jace and Moss Adams, is
+**downgraded**: the retention decision came six days before any conversation with Jace, and you
+objected twice the same day.
+
+**The "negative capital account" problem is solved — it is a mislabel, not a missing fact.**
+Exhibit R (your March 3, 2025 letter) shows the adjustment is **$262,592.00 of excess
+distributions during Hazel's lifetime plus $194,352.65 after her death = $456,944.65**, and the
+arithmetic to $3,950,565.28 checks exactly. **It is not a negative capital account**, which is
+what the Complaint pleads three times and what our own financials contradict. Worth correcting the
+label. **Frazer's capital-account summary — Exhibit B to that letter — is still missing.**
+
+**Three new adverse facts you should see before the CMC:**
+
+1. **$850,894.54.** Exhibit J (9/26/2023): Esraelian asserts "**there was an agreement** as to the
+   amount of the profit distribution owed to Hazel from 2015 through 2021 in the amount of
+   $850,894.54," and demands payment. **No response appears in the record.** OI-25.
+2. **Exhibit Q is more qualified than ¶45 says.** Moss Adams did find no errors and gave
+   Correia-Xavier a slight advantage — but it also concluded "**it is not possible to conclude to
+   a supportable indication of value as both reports are equally credible**," recommended a
+   **jointly hired third appraiser**, and described CX as "**hired by the potential buyer**"
+   coming in lower on every component. Exhibit G refutes that last point. Our May 23, 2025 letter
+   says Moss Adams "validated the findings" — that overstates it. A-24.
+3. **BioGas and Feedstock leases.** Their June 2025 counteroffer claims a pro-rata share of
+   credits from leases that **appear nowhere else in this entire record**. Unquantified. OI-27.
+
+**One procedural item:** every page of Exhibit Q reads "**FOR CLIENT USE ONLY. NOT TO BE RELIED
+UPON BY THIRD PARTIES**," and it says the signatories need not testify. **We attached it to a
+publicly filed Complaint.** Worth addressing — we may need Klett. OI-26.
+
+**The gap is narrower than it looks.** Their partnership figure — **$1,162,875 — is identical to
+ours.** The dispute reduces to four items: the real property basis (Correia-Xavier alone vs. the
+two-appraisal average), the minority discount (30% vs. 15%), their profit claim, and our
+$456,944.65 offset. That may be a more useful frame for the CMC than the appraiser fight, which
+drives only the first.
+
+**Highest-priority missing document: Stan Xavier's May 8, 2023 email**, quoted in Exhibit K as
+showing he was "waiting for us to define the scope for appraising the property for purposes of
+buyout." It is not an exhibit. It should be in the firm's archive. **OI-28.**

@@ -898,3 +898,235 @@ position on terminating the open-ended extension.** See `open_items.md` OI-17.
 | 8/18/2026 | **A-3** | Broadened by **A-19**: the "employ a non-party" structure runs through the Complaint's prayer, not just the § 998 offer. |
 | 8/18/2026 | **A-15** | Weakened by **A-20**: our own Complaint pleads the Xavier appraisal was commissioned for IRS Form 706 purposes, which undercuts treating it as the binding buyout appraisal. |
 | 8/18/2026 | Added | A-18, A-19, A-20, A-21, A-22. |
+
+
+---
+
+# THIRD ADDENDUM — AUGUST 18, 2026
+### after reading Complaint Exhibits D–U (all 21 exhibits, all 27 emails)
+
+Full extract at `../01-verified-facts/email-exhibits-extract.md`.
+
+**Correction to this memo's own record-keeping:** an earlier note reported Exhibits D–U as "not
+in workspace." They were in the same PDF, after the Complaint body. They have now been read.
+
+---
+
+## ⛔ A-20 — WITHDRAWN
+
+**A-20 held that Complaint ¶¶73 and 96 — pleading the Xavier appraisal was commissioned "for
+purposes of filing for a IRS 706 filing" — was an admission that undercut our binding-appraisal
+theory.**
+
+**The email record shows it is not an admission. It is an accurate description of a two-stage
+engagement that defendants interrupted:**
+
+- **Ex. E (2/15/2023):** *Defendants' counsel proposed Xavier.* "Do you have any thoughts about
+  using Xavier-Correrria?"
+- **Ex. G (3/21/2023):** *Defendants' counsel engaged Xavier for the buyout,* attaching the TIC
+  Agreement and writing: "We are seeking an appraisal of the properties **for purposes of the
+  Tenants in Common Agreement Buy out provisions** and for the Dairy Partnership valuation…
+  **Brandon: please confirm the properties are correct.**"
+- **Ex. H (6/20/2023):** *Defendants' counsel set the sequence*: appraisals "for purposes of
+  Hazel's federal estate tax return **and then for the Tenants in Common agreement Buy out.**"
+- **Ex. K (11/15/2023):** *Xavier was waiting on the parties.* "Based on **Stan's email** [of
+  **May 8, 2023**], **he is waiting for us to define the scope for appraising the property for
+  purposes of buyout.**"
+- **Ex. K:** *Defendants then revoked* and retained J. Hower.
+
+**The buyout appraisal was never completed because defendants walked away before scope was
+defined — not because Xavier was the wrong appraiser or produced the wrong kind of appraisal.**
+
+**A-15's assessment is correspondingly improved.** Our best contractual argument — that Xavier
+was "jointly appointed by all the parties" under TIC ¶11 and Art. XIII §J — now rests on
+defendants' own counsel proposing him, engaging him, telling him the purpose was the buyout, and
+asking our counsel to confirm scope. **Counsel should lead with Exhibit G.**
+
+---
+
+## ⬇️ A-21 — DOWNGRADED to MEDIUM
+
+A-21 warned that Complaint ¶37 undermined the "unilateral engagement" allegation. The Exhibit N
+thread, read in sequence, is defensible:
+
+- **July 10, 10:47 a.m.** — Esraelian: "Susan and Ashley, as Trustees of Hazel's Trust **have
+  determined to retain** Dustin Snyder of Moss Adams." **The decision was already made.**
+- **July 10, 1:38 p.m.** — Ormonde objects: "I'm kind of surprised they retained Moss Adams
+  already. I am the one who suggested them **pertaining to an agreed upon joint appraisal**."
+- **July 16, 11:09 a.m.** — Esraelian, hedged: "**Apparently**, Ashley talked to Jace directly
+  and Jace agreed with using Dustin."
+- **July 16, 12:11 p.m.** — Ormonde objects again: "**we also need to talk to him jointly**…
+  he would need to know **the parameters of the appraisal and the terms of the buyout**."
+
+**Jace's reported agreement went to the identity of the individual, six days after the retention
+decision, and our counsel objected the same day, twice, on scope.** The allegation holds as to
+the retention decision and as to scope. **OI-21 remains open on Jace's authority, but the
+exposure is smaller than previously assessed.**
+
+---
+
+## ✅ A-4 — CORRECTED. The fact is supportable; the label is wrong.
+
+**Exhibit R (our March 3, 2025 letter) contains the computation.** It is **not** a negative
+capital account:
+
+> "the Hazel Leal Living Trust had **excess distributions above her partnership share** during
+> Hazel's lifetime… in the amount of **$262,592.00**. Additionally, there were distributions made
+> to the Hazel Leal Living Trust **after Hazel's death** in the amount of **$194,352.65**."
+
+$4,407,509.93 − $262,592.00 − $194,352.65 = **$3,950,565.28** ✓
+
+**A partner can take distributions exceeding her profit share while her capital account stays
+positive. Those are different concepts.** The adjustment is documented and arithmetically sound.
+**The Complaint's "negative capital account" language (¶¶46, 64, 107) mischaracterizes it, and
+our own reviewed financials contradict the label.** Counsel should consider correcting the
+characterization rather than defending it. The supporting **Frazer capital-account summary**
+(Exhibit B to the March 3, 2025 letter) is still missing — see `open_items.md` OI-5 as updated.
+
+---
+
+## A-23. The $850,894.54 "agreed" profit distribution — a demand sitting unanswered since 2023
+
+**Severity: HIGH. New, and it belongs with A-13.**
+
+> **Ex. J, September 26, 2023, Esraelian → Ormonde:** "there is still the matter of the profit
+> distribution from the dairy (a matter that was covered in the settlement agreement entered into
+> in December 2017) **that has not been paid to Hazel. There was an agreement as to the amount of
+> the profit distribution owed to Hazel from 2015 through 2021 in the amount of $850,894.54.**…
+> **And this amount is only the profit through 2021** … it doesn't include Hazel's share of the
+> profit since January 2022! Please advise if your client will pay the agreed upon profit due to
+> Hazel, for 2015 through 2021, as soon possible."
+
+**How she uses it.** Three ways, and they compound:
+
+1. **"There was an agreement."** If our side agreed to $850,894.54, that is close to an admission
+   on a distribution claim, and it anchors the $1,617,761 they later demanded through December
+   2024. **Counsel must establish whether any such agreement exists.**
+2. **It went unanswered.** A written demand for an agreed sum, from September 2023, with no
+   documented response in this record — inside the Settlement Agreement ¶8 accounting regime.
+3. **It pairs with A-13 and A-14.** Their theory is not draw disparity. It is: *the managing
+   partner did not account, did not distribute, and did not pay what he agreed to pay.*
+
+**Our best documentary response.** **None on this record.** We do not have our reply, if there
+was one, and we do not know the basis of the asserted agreement.
+
+**Also note the leverage:** "Susan and Ashley have been asked to sign a dairy **LOC extension**…
+[they] are reluctant to sign yet another document to accommodate the Dairy operation without any
+good faith." **The line of credit required the trustees' signatures.** That cuts our way on the
+¶11 borrowing covenant — borrowing they signed for is not borrowing without consent — and it
+shows they were withholding cooperation as leverage. **New open item OI-25.**
+
+---
+
+## A-24. Moss Adams declined to pick a value — and called our appraiser the buyer's appraiser
+
+**Severity: MEDIUM-HIGH. Exhibit Q is more qualified than ¶45 suggests.**
+
+**What helps us is real:** "we did not identify any obvious errors or omissions in either
+report"; "we believe both appraisals are credible"; "**A slight advantage goes to the CX
+appraiser** for preparing a more detailed report and all three approaches to value"; "no obvious
+valuation bias in either report."
+
+**What Cunningham has from the same document:**
+
+1. > "**Based on the information contained in the reports, it is not possible to conclude to a
+   > supportable indication of value as both reports are equally credible.**"
+
+   **Moss Adams did not endorse the Xavier number. It refused to choose.** Our March 2025 and
+   May 2025 letters both say Moss Adams "found no errors" and "validated the findings" — the
+   first is accurate, **the second overstates it.**
+
+2. > "**It is worth noting that the CX appraiser (hired by the potential buyer) came up with a
+   > lower value for every component than the JHA appraiser (hired by the potential seller).**"
+
+   A neutral's written observation that our appraiser came in lower on **every single component**,
+   framed as buyer-aligned. **Exhibit G shows the framing is factually wrong — Esraelian engaged
+   Xavier — and counsel should be ready to correct it with Exhibit G in hand.**
+
+3. **Moss Adams' three recommendations do not include "use Xavier."** Two of them call for a
+   **jointly ordered third appraiser** — which is the contractual fallback in TIC ¶11 and
+   Art. XIII §J that neither side used (**A-15**). **The neutral, the contract, and defendants'
+   proposal all point the same direction, and our position points the other way.**
+
+**Our best documentary response:** the "slight advantage" finding, the comprehensiveness
+finding, the no-errors finding, and — most importantly — **Exhibit G**, which defeats the
+"hired by the potential buyer" characterization.
+
+**Honest assessment: ¶45 is defensible but our letters oversold it.** Counsel should say "found
+no errors and gave CX a slight advantage," not "validated the findings."
+
+---
+
+## A-25. We filed a document marked "NOT TO BE RELIED UPON BY THIRD PARTIES"
+
+**Severity: MEDIUM — procedural, and it needs attention before the CMC.**
+
+Every page of Exhibit Q is footed **"FOR CLIENT USE ONLY. NOT TO BE RELIED UPON BY THIRD
+PARTIES."** The letter adds that it "may not be presented to outside third parties without a
+non-reliance letter provided by Moss Adams," that possession "does not carry with it the right of
+publication, nor may it be used by anyone but the party for whom it has been prepared without the
+prior written consent and approval of MA," and that **the signatories "shall not be required to
+give further consultation or testimony, nor appear in court."**
+
+**The "Client" is Robyn Esraelian / the Hazel Trust. We are the third party. We attached it to a
+publicly filed Complaint.**
+
+**Counsel should evaluate:** whether a non-reliance letter is needed; whether Moss Adams should be
+notified; **whether Steven A. Klett can be compelled to testify** given the quoted limitation —
+this matters because ¶45 is one of our best facts and we may need its author; and whether the
+restriction affects using it at the CMC. **New open item OI-26.**
+
+**Two further limitations on the same document:** it is expressly **"a desk-top review"** with no
+property inspection (Google Earth aerials only) and **no math check**; and it states it is **"not
+intended to comply with USPAP"** while its own Certification claims USPAP conformity — an
+internal contradiction defendants can exploit if they later want to discount it.
+
+---
+
+## A-26. Two data discrepancies on the face of documents defendants produced
+
+**Severity: LOW-MEDIUM, but both should be run down.**
+
+1. **Acreage.** Exhibit Q's RE line reads **"565.12 acres in Tulare, CA."** The Settlement
+   Agreement, the Complaint and the § 998 offer all say **652.02 acres**. Counsel should reconcile
+   which parcels were actually appraised before relying on either appraisal for a buyout price.
+2. **Valuation date.** Exhibit Q records a date of value of **9/22/2022** for both appraisals,
+   with a footnote that the JHA report carried both 9-22-22 and 9-22-23 and that the 2023
+   references were assumed typos. **Hazel died September 23, 2022.** Both buy-out clauses require
+   valuation **as of Hazel's date of death**. **Both appraisals appear to be valued one day
+   early.** Likely immaterial in substance — but it is a contractual mismatch, on the face of a
+   defendants' document, and counsel should not learn of it from opposing counsel.
+
+---
+
+## A-27. BioGas and Feedstock leases — an entire revenue stream we have never seen
+
+**Severity: UNKNOWN, which is the problem.**
+
+Defendants' June 19, 2025 counteroffer, item 5:
+
+> "It appears there may be some **credits due to the Partnership on account of the BioGas and
+> Feedstock leases.** If that is the case, Hazel's trust should receive its pro-rata share of the
+> credits on account of her own interest in the Partnership."
+
+**BioGas and Feedstock leases appear nowhere else in this workspace** — not in the financial
+statements reviewed, not in the capital analysis, not in either mediation brief, not in the
+Complaint.
+
+**How she uses it.** It slots directly into the A-13 theory: partnership revenue the managing
+partner did not disclose or distribute. And because they raised it as an open item rather than a
+number, **it is unquantified and unbounded going into the CMC.**
+
+**Our best documentary response: none — we have not seen the leases.** **New open item OI-27.**
+
+---
+
+## Corrections log (continued)
+
+| Date | Item | Change |
+|---|---|---|
+| 8/18/2026 | **A-20** | **WITHDRAWN.** The email record shows a two-stage engagement defendants interrupted, not an adverse admission. |
+| 8/18/2026 | **A-21** | **Downgraded** MEDIUM-HIGH → MEDIUM. Retention decision preceded the Jace conversation by six days; counsel objected twice, same day, on scope. |
+| 8/18/2026 | **A-4** | **Corrected.** The adjustment is real ($456,944.65 of excess distributions, arithmetic verified). Only the "negative capital account" label is wrong. |
+| 8/18/2026 | **A-15** | **Strengthened.** Exhibit G is direct evidence of joint appointment for buyout purposes. |
+| 8/18/2026 | Added | A-23, A-24, A-25, A-26, A-27. |
