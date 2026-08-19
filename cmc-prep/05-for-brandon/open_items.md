@@ -1296,3 +1296,30 @@ trustee-certification requests, and FA Douglas Silveria's communications log (ad
 MS records request); (b) any written refusal of Steve's access (Esraelian/Gin/Ormonde
 files); (c) Steve's dated recollection — when he learned of the account, from whom, and
 any statement that he could not access it.
+
+### OI-62 SECOND UPDATE (same day): separate estates context (CLIENT-ATTESTED + record-corroborated)
+Client attests Hazel and Manuel kept separate accounts, wills, and trusts, and did not get
+along. Record corroboration: the instruments ARE separate (Manuel C. Leal Living Trust
+2/14/2005 as amended 7/27/2006; Hazel J. Leal Revocable Trust 11/3/2008, restated
+1/25/2012 and again 11/10/2017 — the restatement disinheriting Steve's line, executed
+DURING the 2017 settlement negotiations, four weeks before the Settlement); a "Marital
+Trust" is referenced in the 8/4/2017 Thompson letter (instrument never located); and the
+defense firm now (Whitney Thompson & Jeffcoach) is the same firm that represented Hazel
+against Steve's side in 2017. Consequences for the account theory:
+(1) CHARACTERIZATION IS NOW A LIVE QUESTION — if the Morgan Stanley account was Manuel's
+SEPARATE property, the "community property interest" label is wrong and the distribution
+path runs purely through his trust's missing dispositive articles; if community, Hazel
+had her half outright and Settlement para. 5's 50/50 split reads as a compromise of
+exactly that dispute. The as-filed 706's community/separate schedules decide this —
+already retrieval item 12; flag the question for the CPA when it arrives. (One neutral
+data point either way: every tax lot in the account was stepped to 3/25/2015 basis —
+full-account step-up — consistent with community property OR Manuel's-trust property;
+verify with Frazer, do not argue from it.)
+(2) CAUTION — do not overplay "everything was separate": the 1983 Partnership Agreement's
+own recital says Manuel's signature "represented the community property interest of
+Manuel AND Hazel" — the PARTNERSHIP interest, the biggest asset, is recited as community.
+A blanket separate-property narrative collides with our own founding document.
+(3) The 11/10/2017 disinheritance timing cuts both ways: it documents that the family
+rift predates the buyout and ran spouse-to-spouse (context for the account limbo and the
+2016-17 conflict) — but it also hands defendants a motive story about Steve. Counsel
+decides who tells this history first.
