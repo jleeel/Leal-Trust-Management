@@ -66,7 +66,10 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
 
 16. **Morgan Stanley** (acct 115-047237-006 + Bypass cash acct): Jan–Mar 2018; May–Dec
     2019 (the ~$117K cash-build gap); everything after 10/31/2020 through present; 2020+
-    1099s; any division/re-registration instructions ever received. (OI-59/OI-60.)
+    1099s; any division/re-registration instructions ever received; **the account's
+    registration/certification history (who sought access, when, what was provided) and
+    FA Douglas Silveria's client-communications log** — the access-denial proof.
+    (OI-59/OI-60/OI-62.)
 17. **Citizens Business Bank** (#37610623): statements before 3/31/2017; Jan–Feb 2017;
     **Jun–Nov 2024**; 2025–present. (OI-50.)
 18. **AgWest/Farm Credit**: full-year 2020, 2H 2022, all 2023 and 2025 statements; the
