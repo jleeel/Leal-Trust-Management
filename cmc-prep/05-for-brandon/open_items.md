@@ -1323,3 +1323,22 @@ A blanket separate-property narrative collides with our own founding document.
 rift predates the buyout and ran spouse-to-spouse (context for the account limbo and the
 2016-17 conflict) — but it also hands defendants a motive story about Steve. Counsel
 decides who tells this history first.
+
+## 🔴 OI-63 — DO NOT amend/reissue the partnership or Bypass K-1s; build the §736 bridge instead (client asked 8/18/2026)
+Client asked whether the trust K-1s should be amended and reissued. Recommendation
+recorded: NO retroactive amendment — (1) mid-litigation amendment of the contested
+returns reads as evidence manipulation and the originals survive everywhere (IRS, Frazer,
+defendants' copies and filings); (2) post-2018 partnership changes run through the
+centralized-audit adjustment process and push revised K-1s to ALL partners, including the
+adverse trustees — mechanically loud, cooperation-dependent, discoverable; (3) the K-1s
+are likely CORRECT: the federal §736 regime treats a deceased partner's successor as a
+partner FOR TAX PURPOSES until the interest is completely liquidated — meaning the K-1s
+evidence an UN-CLOSED BUYOUT, not continuing substantive partner status. VERIFY §736 /
+Treas. Reg. 1.736-1 with Frazer and counsel (UNVERIFIED here — no primary-source access);
+if confirmed, it is the bridge that reconciles the tax returns with the dissociation
+position (answers A-40's cross-examination problem). FRAZER SESSION AGENDA ADD: (a)
+confirm the §736 basis for 2022/2024 reporting; (b) decide PROSPECTIVE characterization
+for FY2025 (§736(a)/(b) payment treatment vs distributive share) with disclosure —
+forward-looking clarity is legitimate, retroactive erasure is not; (c) same hands-off rule
+for the Bypass 1041s (A-55). Past filings change only on Frazer's independent tax-merits
+judgment, coordinated through counsel.
