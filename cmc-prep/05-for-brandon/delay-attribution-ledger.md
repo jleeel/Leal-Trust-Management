@@ -234,6 +234,18 @@ transferred **to Steve** (FY2023 statements, Note 8). What happened to the Bypas
 of the Morgan Stanley account, and what (if anything) Susan received in the dissolution,
 appears **nowhere in the record.**
 
+**Client attestation on access (8/18/2026):** Steve was not allowed access to the account
+and it was not disclosed to him. Record-constrained refinement: the account is named in
+Settlement ¶5, which Steve signed 12/7/2017 (disclosure established no later than the 2017
+settlement negotiations); the 2015–2018 statement compilations carry 5/20/2019 file dates
+in the family Drive (information access by then); and Steve is on the title of the sibling
+Bypass cash account at the same firm since 12/2016. The version that survives cross:
+**Steve had no PRACTICAL access or control — the account was never re-registered to any
+successor trustee at all** (Manuel's SSN on the 1099s through 2019; zero withdrawals by
+anyone, ever). Proof needs: Morgan Stanley registration/certification history and the FA's
+(Douglas Silveria) communications log; any written refusal in Esraelian's/Gin's/Ormonde's
+files; Steve's dated recollection of when he learned of the account. See OI-62.
+
 **⚠️ The both-edges warning — read before anyone raises this.** Pre-death, Hazel and Steve
 were CO-trustees: their side will answer that Steve had equal power to divide the account
 and didn't. Post-death, the succession clause makes **Steve the SOLE surviving trustee**

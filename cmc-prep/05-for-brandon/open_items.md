@@ -1284,3 +1284,15 @@ Manuel's trust — if Susan's Bypass share sits undistributed today, this theory
 surcharge claim AGAINST our side, not for it. Determine entitlement, distribute properly
 if owed, and only then decide whether the pre-death story gets told. Nothing about this
 account goes to the other side until then.
+
+### OI-62 UPDATE (same day): access/disclosure attestation
+Client attests Steve was denied access to the Morgan Stanley account and it was not
+disclosed to him. Framing constraint (see ledger Part III): disclosure is established no
+later than Settlement para. 5 (signed 12/7/2017), and statements were in the family Drive
+by 5/20/2019 — the supportable claim is NO PRACTICAL ACCESS/CONTROL, corroborated by the
+account never being re-registered to any successor trustee (Manuel's SSN through TY2019;
+zero activity by anyone). Evidence to obtain: (a) Morgan Stanley registration history,
+trustee-certification requests, and FA Douglas Silveria's communications log (add to the
+MS records request); (b) any written refusal of Steve's access (Esraelian/Gin/Ormonde
+files); (c) Steve's dated recollection — when he learned of the account, from whom, and
+any statement that he could not access it.
