@@ -82,7 +82,11 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
 ## 5. FROM THE CLIENT / FAMILY (answers + rescans; some are questions, not documents)
 
 22. 🔴 **Was the ¶6 $350,000 paid?** (cancelled check/wire if yes); **was the ¶5 ~$85,000
-    reimbursement paid?** Direct answers from Steve/Marla, documented. (OI-59.)
+    reimbursement paid?** Direct answers from Steve/Marla, documented. Also: **any
+    2018–2022 correspondence (either direction) demanding or refusing the ¶5 account
+    division** — none located; it decides the dormancy attribution — and the **1/1/2023
+    Bypass dissolution distribution records: what did Susan receive?** (OI-59/OI-62;
+    ledger Part III sequencing warning applies before anything is raised externally.)
 23. 🔴 **Hazel's death certificate** (fixes the 9/22 vs 9/23/2022 date the record splits
     on) and Hazel's **as-filed 706/estate filings** if any. (OI-53.)
 24. 🔴 **Leal Land Holdings**: was the LLC formed? Did the 160-acre purchase proceed? Any

@@ -1267,3 +1267,20 @@ amendment chain** (2008 declaration, 2012 restatement, Schedule A beyond p.19); 
 Trust instrument**; the 11/3/2016 Grant Deed #2016-0069973. One letter to Griswold LaSalle
 (trust-admin matter RWG 6766.007) covers nearly all of it — see the consolidated retrieval
 list.
+
+## OI-62 — Pre-death record + the investment-account distribution question (client-raised 8/18/2026)
+The client attests: (a) pre-death delays/accusations by Hazel's side led to the 2017
+mediation (the documented 2016-2017 conflict record now appears as the PROLOGUE to the
+delay-attribution ledger); (b) the community-property interest in the Morgan Stanley
+account was withheld and "should have been distributed between Steve and Susan."
+Verification needs, in order: (1) the Bypass Trust dispositive pages 2-8 (who takes at
+Hazel's death — the missing-instrument problem, OI-61); (2) Morgan Stanley statements
+after 10/31/2020 and the 1/1/2023 Bypass dissolution distribution schedule — what did
+Susan receive, if anything (OI-60; retrieval list items 16 and 30); (3) ANY 2018-2022
+correspondence, either direction, demanding or refusing the para. 5 division — none
+located; whoever's file contains one wins the dormancy-attribution fight.
+⚠️ SEQUENCING WARNING (see ledger Part III): after 9/2022 Steve is SOLE trustee of
+Manuel's trust — if Susan's Bypass share sits undistributed today, this theory is a
+surcharge claim AGAINST our side, not for it. Determine entitlement, distribute properly
+if owed, and only then decide whether the pre-death story gets told. Nothing about this
+account goes to the other side until then.

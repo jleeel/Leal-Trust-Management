@@ -15,6 +15,43 @@ of death through 8/18/2026 (1,425 days) the accrued figure is **≈ $733,975**.
 
 ## PART I — THE LEDGER (September 22/23, 2022 → August 18, 2026; ~47 months)
 
+### PROLOGUE — the pre-death record (3/25/2015 → 9/22/2022) — added 8/18/2026 at client direction
+
+The operative delay window for buyout economics starts at Hazel's death, but the pattern
+did not. The documented pre-death record (all cited in the master chronology and the
+trust-admin sweep):
+
+**P-1 · Manuel's death → the 2017 Settlement (documented conflict, ~2.7 years).** Our side
+performed the estate work promptly: Cardoza equipment appraisal 4/5/2016, Correia-Xavier
+paid $11,500 (checks 3/25 and 5/19/2016), Reddington business valuation 5/26/2016, 706
+extension honored. The conflict record then runs almost continuously: Esraelian's
+11/21/2016 demand letter → our side's voluntary production within days (P&L, cash-flow,
+the complete 505000/515000 personal-draw registers, hay ledgers — even phone logs);
+Esraelian's 2/22/2017 letter demanding Bekedam's 75/25 recomputation by 3/15/2017; her
+4/4/2017 "outstanding issues" letter; the Thompson letters of 5/31 and 8/4/2017 (the
+$879,945.25 note computation); Jace's own 3/22/2017 adjust letters *proposing credits to
+Hazel*; a Frazer invoice line for "Broadman deposition prep" (10/9/2017); **Hazel's own
+10/6/2017 mediation brief** (the ~$4.4M note claim; the 50/50 theory) — and the 12/7/2017
+Settlement that resolved it. The accusation-then-mediation pattern defendants are running
+now is the same one their side ran in 2016–2017, against the same books, ending in a
+settlement they now under-perform. *Caveat:* the 2016 Bypass funding deed had to be
+corrected in 2017 (Griswold LaSalle drafting error) — a real pre-death delay item that
+belongs to nobody's litigation column.
+
+**P-2 · The Settlement dormancy (12/7/2017 → 9/22/2022, ~4.8 years).** ¶5 (divide the
+Morgan Stanley account, ~$85K to the Partnership, income to Hazel monthly) was performed
+by NOBODY — the account sat untouched, undivided, income accumulating, reported under a
+dead man's SSN (trust-admin sweep §2.4). ¶6's $350,000 payment has no located proof. ¶8's
+monthly accountings — compliance undocumented either way. **Attribution for this interval
+is genuinely open on the located record**: no letter, email, or instruction from either
+side about dividing the account between 2018 and 2022 has been found. The client attests
+Hazel's side resisted division (CLIENT-ATTESTED — no located document yet); Hazel was
+co-trustee with Steve, so each side had the legal power to force the issue and neither
+did. Finding any 2018–2022 division-demand correspondence (either direction) converts
+this from mutual dormancy into attributed delay — see OI-62.
+
+---
+
 ### Interval 0 — Death to first counsel contact (9/23/2022 → 10/31/2022, 5 weeks) · **OURS, PROMPT**
 Our counsel emailed defendants' then-counsel (Esraelian) on **10/31/2022** re representation,
 closing Manuel's Trust, and **exercise of the purchase option** — five weeks after death.
@@ -173,6 +210,44 @@ audit clause is still in the contract; Art. VII.D says if your auditor finds not
 pay for it.* Their real, dangerous claim is the narrower one — **¶8 monthly accountings**
 (a bright-line obligation, ~58 months, compliance provable or not from our own records) —
 and that is where counsel's defensive attention belongs, not the funneling rhetoric.
+
+---
+
+## PART III — THE INVESTMENT-ACCOUNT / COMMUNITY-PROPERTY THEORY (client-raised 8/18/2026)
+
+**The client's contention:** defendants' side withheld the community-property interest in
+the Morgan Stanley account that should have been distributed between Steve and Susan.
+
+**What the located instruments actually provide.** Manuel's community half was to fund the
+Bypass Trust; Settlement ¶5 then required the account divided **half to Hazel, half to the
+Bypass Trust** (after ~$85,000 to the Partnership), with income to Hazel monthly. Who takes
+the Bypass share **at Hazel's death** — the step where "distributed between Steve and
+Susan" would happen — is governed by the Bypass Trust's dispositive articles, and **those
+pages (2–8) are missing from every copy in the record.** Whether Steve and Susan split
+that remainder is exactly what the missing pages would say. Until they are obtained, this
+theory cannot be graded SUPPORTED — it is CLIENT-ATTESTED, INSTRUMENT-DEPENDENT.
+
+**What the account record shows.** Never divided through 10/31/2020 (last located
+statement); no statements located after that date; the Bypass Trust was dissolved
+**1/1/2023** — three months after Hazel's death — with its 7.5% partnership interest
+transferred **to Steve** (FY2023 statements, Note 8). What happened to the Bypass's share
+of the Morgan Stanley account, and what (if anything) Susan received in the dissolution,
+appears **nowhere in the record.**
+
+**⚠️ The both-edges warning — read before anyone raises this.** Pre-death, Hazel and Steve
+were CO-trustees: their side will answer that Steve had equal power to divide the account
+and didn't. Post-death, the succession clause makes **Steve the SOLE surviving trustee**
+of Manuel's trust — so from September 2022 forward, control of this account (and any
+"withholding" accusation about it) points at **our side**. If Susan's Bypass share is
+still sitting undistributed today, that is a live claim **against Steve as trustee**, not
+ammunition for him — a probate surcharge theory defendants have simply not noticed yet.
+The correct sequence is therefore: (1) get the Bypass dispositive pages, the post-2020
+statements, and the dissolution paperwork (OI-61/OI-60/OI-62); (2) determine what Susan
+was entitled to and what she received; (3) if a distribution is owed, **make it, properly
+and counsel-supervised, before it is demanded** — converting a latent exposure into
+evidence of clean administration; and only then (4) decide with counsel whether the
+pre-death withholding story is worth telling, and by whom. Do not put this account into
+any demand, brief, or conversation with the other side until steps 1–3 are done.
 
 ---
 *Sources: master chronology (169 entries, citations inline there); email-exhibits-extract;
