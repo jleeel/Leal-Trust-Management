@@ -235,3 +235,56 @@ statutes in R3/R4.**
 | **Sep 15** | **Materials to litigation counsel** |
 | Sep 15 → Oct 6 | CM-110 prep; meet-and-confer posture on extension; settlement-model runs for any renewed offer |
 | **Oct 13** | **Case Management Conference** (confirm date against docket — original was Feb 2026) |
+
+---
+
+# CURRENT PLAN — 8/18/2026 EVENING (supersedes the sequencing above; the analysis stands)
+
+**The clock:** materials to litigation counsel **9/15/2026**; CMC **10/13/2026**. New counsel
+needs runway to substitute in, pull the docket, and decide whether to continue the CMC —
+which makes counsel selection the critical path for everything below.
+
+## THIS WEEK — only you can do these (in order)
+
+1. **TODAY — preservation hygiene (30 minutes):** restore `important numbers.xlsx` from
+   Drive trash (both copies); rotate every credential in it; write one dated paragraph
+   explaining the deletion and the LEAL DAIRY tree copy; adopt the rule: nothing in the
+   Drive gets deleted or reorganized again. (OI-56/OI-49)
+2. **Hire the attorney.** The transition packet (`06-counsel-transition/`) and the refreshed
+   incoming-counsel briefing are ready to hand over on day one. Every week without counsel
+   compresses their CMC runway.
+3. **One letter/call to Ormonde's office — the file questions** (do not wait for new
+   counsel; you are entitled to your file): (a) was the 5/18/2026 $5,750,000 998 served —
+   and the enclosure + POS either way; (b) the as-served July 998 proof of service; (c) the
+   Xavier 5/8/2023 email and CX engagement letter; (d) any 2023–24 written demand for the
+   withheld appraisals; (e) the complete client file for successor counsel. (OI-1/OI-41;
+   retrieval list §1)
+4. **Steve, in writing, dated:** was the ¶6 $350,000 paid (cancelled check if yes)? the ¶5
+   ~$85,000? when did he first learn of the Morgan Stanley account and who told him he
+   couldn't access it? confirm the 160-acre/Leal Land Holdings plan is FROZEN pending
+   counsel. Order Hazel's death certificate. (OI-59/OI-62/OI-43/OI-53)
+5. **Frazer:** request the 2023 Form 1065 + K-1s and the Bypass 1041s 2020–2022; book the
+   reconciliation working session (Mike Edwards + Jace + counsel when hired) — the offset
+   stack, the $327,427.02 double-count, the opposite-sign draw frameworks, the FY2025
+   booking instructions. (OI-48/OI-60/OI-42/OI-38)
+6. **Routine records requests (your own accounts; templates unnecessary):** Morgan Stanley
+   — statements after 10/2020, registration/certification history, FA Silveria's
+   communications log; Citizens (the gap months); AgWest (2020/2022H2/2023/2025 +
+   commitment schedules); Land O'Lakes (equity-statement run). (Retrieval list §4)
+7. **Gmail:** export the native 8/30/2022 Esraelian thread with headers. Rescan the top
+   unreadable files (list: retrieval item 27).
+
+## NEXT (with new counsel, largely their calls)
+
+Westlaw session (§16103(b) — the dispositive question) · amendment decision (punitives,
+Bewick/§730 relief reframe) · fresh corrected 998 · serve discovery / end the open-ended
+extension · CCP 664.6 evaluation · CMC statement built around "the buyout is conceded in
+structure; set a schedule that forces valuation to completion" · the Griswold LaSalle
+instruments letter (counsel-signed lands better) · ¶5/¶6 cure strategy incl. Susan's
+Bypass share (ledger Part III sequencing).
+
+## WORKSPACE SIDE (this session or on request)
+
+Refresh the one-page timeline exhibit to the 169-event chronology · fold retrieval
+responses into the record as they arrive · draft-support anything counsel requests.
+Everything is committed and pushed through this update.
