@@ -1,6 +1,8 @@
 # INCOMING COUNSEL BRIEFING
 **ATTORNEY WORK-PRODUCT SUPPORT — PREPARED FOR SUCCESSOR LITIGATION COUNSEL — NOT LEGAL ADVICE**
-Prepared August 18, 2026. Read time: ~20 minutes. Everything asserted here is cited in the
+Prepared August 18, 2026; **updated same day (evening) after complete sweeps of all five
+Drive territories** (1,650 files manifested, ~350 read — reports in
+`01-verified-facts/drive-sweep/`). Read time: ~20 minutes. Everything asserted here is cited in the
 workspace files listed at the end; nothing rests on memory.
 
 > Housekeeping: the deliverables folder `05-for-brandon/` is named for prior counsel. Read it as
@@ -32,6 +34,8 @@ February). Client materials deadline: **September 15, 2026**.
 | Discovery | **None served by either side**; defendants claim a "forensic review" of the books is underway |
 | Mediation | Held 1/28/2026 (Volkmann, JAMS) — did not resolve |
 | Our § 998 offer | Served ~7/9/2026; **expired 8/13/2026** under Poster's 35-day rule; package is defect-laden (§6 below) |
+| **A possible EARLIER § 998** | Four cover letters dated **5/18/2026** for a **$5,750,000 lump sum**, final version addressed to Cunningham and signed by Ormonde, sit in the client's Drive. **Service status UNKNOWN; enclosure unlocated.** If served, the July offer was a $44,742.57 REDUCTION and the cost-shifting baseline is a two-offer question (*Martinez v. Brownco* (2013) 56 Cal.4th 1014, read and verified). **Resolve with prior counsel FIRST — OI-41** |
+| Preservation | A credentials file was deleted from the client's Drive 8/18/2026 mid-sweep (restore-from-trash instructed); a written **litigation hold** needs to issue day one (OI-56/A-51) |
 | Trial date | None |
 | Original CMC | Feb 2026 per clerk stamp; **pull the docket for the continuance and any orders** — not yet done |
 | Settlement positions | Ours $5,705,257.43 (7/2/2026) vs. theirs $7,359,766 + 2025 profit + lease credits (6/19/2025) |
@@ -68,6 +72,14 @@ CPA's computed $4,647,340 with offsets waived and rounded.
    Hazel died. The amount is conceded; the schedule was their design.
 5. **Frazer capital reconciliation (rev. 2/13/2025)** — the offset support: Hazel's excess draws
    $591,965 net of $329,373 Bypass income = $262,592; plus $194,353 post-death draws.
+6. **The delay-attribution ledger** (`05-for-brandon/delay-attribution-ledger.md`) — interval-by-
+   interval, cited, adverse intervals included. Core: defendants proposed Correia-Xavier, then
+   **withheld his completed report 17.3 months** against their counsel's written "I will send it
+   over to Brandon by next week" (8/18/2023 → 1/17/2025 delivery, to the client not counsel,
+   "forward … at your discretion") — ≈$272K of the interest they complain of accrued in that
+   interval; our priced offer followed six weeks after delivery. Part II grades their
+   "funneling" accusation (phrased as "whether" in their own brief; no forensic report located;
+   registers in their hands since 2016; Art. VII.D audit right never invoked).
 
 ## 5. The law, verified vs. open (details: `02-legal-research/verification-report-courtlistener.md`)
 
@@ -94,32 +106,57 @@ session: KeyCite Han, pull §§ 16103/16601/16603/16701 and § 16404's limits on
 
 ## 6. The exposures — do not learn these from opposing counsel (full red-team: `adverse_analysis.md`, 28 items)
 
-1. **Our own books contradict the dissociation position**: FY2023–FY2025 statements allocate
-   37.5% to "Estate of Hazel Leal" ($3.8M capital in the FY2025 draft) with distributions to it.
-   Frazer needs instructions **before the FY2025 statement finalizes** (OI-38).
+1. **Our own books AND federal returns contradict the absolute dissociation position**: the
+   2022 Form 1065 issues FINAL K-1s to Hazel/the Bypass and opens a NEW K-1 for the Hazel
+   Revocable Trust at **37.5%** (income, distributions, $1.84M recourse-liability share); the
+   2024 return continues it. **The 2023 return (the loss year) is missing — get it from Frazer
+   (OI-48)**: on the K-1s' own logic the two-year net is **$426,769**, not their ~$1.6M EBITDA
+   construct. Argue election/waiver/contract, never "no such right exists" (A-30/A-40;
+   post-death-profits-issue.md §12). Frazer needs instructions **before the FY2025 statement
+   finalizes** (OI-38).
 2. **Two internal accounting frameworks conflict**: client's income summary says Hazel was owed
    ~$1.03M through 2022; Frazer's parity math says she over-drew $262,592 — and defendants hold
    our written agreement to the first framework's 2015–21 number. One Frazer meeting to unify
    (OI-39).
 3. **The § 998 package**: POS dated January 3, 2018; offer undated; no monetary term in the
-   offer; wrong case number; misspellings. Options: fresh corrected 998 vs. fact-of-service
-   defense (*Lowenstein* analogy). Establish the as-served POS facts — **in prior counsel's
-   file** (OI-1).
+   offer; wrong case number; misspellings — and the drafting history shows the $5,705,257.43
+   total **migrated out of the offer body** between the May drafts and the served July package
+   (memo §6.15). Plus the possible earlier **5/18 $5.75M offer** (posture table). Options:
+   fresh corrected 998 vs. fact-of-service defense. Establish the as-served POS facts and the
+   5/18 service status — **both in prior counsel's file** (OI-1/OI-41).
 4. **Punitive damages pleaded on contract counts with no tort** (¶¶76, 98, 118) — motion-to-
    strike bait; amendment decision pending (OI-22), best combined with the § 3390 relief reframe.
-5. **Bypass Trust**: dissolved on Hazel's death per FS Note 8; its 7.5% transferred to Steve
-   1/1/2023; the trust instrument's dispositive pages are **missing from the client's records**
-   (OI-36); our own letter offers $327,427.02 of undistributed Bypass income — possible
-   double-count with the $329,373 inside the offset.
+5. **Bypass Trust — the double-count is now arithmetic**: $329,373 (the credit inside our
+   offset) − $1,945 (2022 Bypass draws) = **$327,427.02 exactly** (the add-on our offer pays).
+   Same figure, used twice. And the Bypass's own 1041s (2015–2019, **Hazel signing as
+   trustee**) report negative income, $0 DNI, "NO REPORTABLE INCOME" K-1s (A-55/OI-60). The
+   trust's dispositive pages are still **missing** (OI-61); its 7.5% went to Steve 1/1/2023;
+   what Susan received in the dissolution is unknown — see the Morgan Stanley/¶5 item below.
 6. **58 months of Settlement ¶8 monthly accountings unevidenced** — though OI-40 (instrument
    hierarchy: the 2018 agreement's Art. VII.D/IX.A.2 vs. Settlement ¶¶8/11) may narrow it.
 7. We filed Moss Adams' use-restricted review letter as a public exhibit (OI-26).
 8. Their side's historical conduct is **Esraelian's** (prior firm) — she proposed and engaged
    Xavier; she is a percipient witness. Current counsel (Whitney Thompson & Jeffcoach — Thompson/
-   Cunningham) inherited it (OI-29).
+   Cunningham) inherited it (OI-29) — and the same firm represented **Hazel against Steve in
+   2017**.
+9. **Settlement ¶5 was never performed and ¶6's $350,000 has no located proof of payment**: the
+   Morgan Stanley account was never divided, never re-registered (income under Manuel's SSN
+   through TY2019), zero activity ever, statements stop 10/31/2020. Both sides' trustees sat on
+   it; after 9/2022 **Steve is sole trustee**, so an undistributed Bypass share is exposure, not
+   ammunition, until cured (A-54/A-56; ledger Part III sequencing warning; OI-59/OI-62).
+10. **Preservation posture needs immediate hygiene**: 26 AI-generated drafts in the client's
+    personal Drive (chatbot artifacts, a mediation recap, five internal prices in 16 weeks);
+    one file deleted mid-sweep 8/18 (restore + rotate credentials + written hold — OI-44/56).
+11. **Leal Land Holdings / 160-acre plan** (5/21/2026 documents): insider LLC purchase modeled
+    with a $500K feed-line draw, expressly because the Partnership "cannot take title… due to
+    the § 998 litigation." Frozen pending counsel sign-off — walks into Settlement ¶11(a) and
+    the same Art. VIII/IX covenants our letters invoke (A-36/OI-43).
 
 ## 7. Suggested first 30 days (counsel's call, sequenced for the 10/13 CMC)
 
+0. **Day one asks** (before strategy): prior counsel's file — as-served 998 POS + the 5/18
+   $5.75M service answer + the Xavier 5/8/2023 email; the written litigation hold; and the
+   consolidated **document-retrieval-list.md** (31 items, source-organized) put in motion.
 1. Docket pull; confirm case number, CMC status, any orders (OI-19).
 2. Westlaw session (§5 above) — half a day, decides the biggest issue.
 3. Amendment decision: strike-proof the punitives, plead the Bewick/§ 730 valuation route
@@ -136,9 +173,14 @@ session: KeyCite Han, pull §§ 16103/16601/16603/16701 and § 16404's limits on
 
 ## 8. What the client-side support layer (this workspace) provides you
 
-131-event cited chronology · verified-facts memo grading every assertion · 28-item adverse
-analysis · four research memos + CourtListener verification report (with explicit
-reliability tags — nothing is filing-ready without KeyCite) · settlement model (xlsx, both
-letters reconciled to the penny, adjustable levers) · full extracts of the executed instruments,
-the Complaint and all 21 exhibits, both mediation briefs, FY1993–FY2025 financials · open-items
-register (40 items, prioritized). Git history shows every source and every correction.
+**169-event cited chronology** · verified-facts memo grading every assertion · **57-item
+adverse analysis** with corrections log · four research memos + CourtListener verification
+report (with explicit reliability tags — nothing is filing-ready without KeyCite) ·
+settlement model (xlsx, both letters reconciled to the penny, adjustable levers) ·
+**delay-attribution ledger** (with the funneling-accusation assessment) · full extracts of
+the executed instruments, the Complaint and all 21 exhibits, both mediation briefs,
+FY1993–FY2025 financials, the federal K-1s 2015–2024, the Bypass 1041s, and the Morgan
+Stanley account history · **five complete Drive-territory sweep reports + a 1,650-item
+master manifest** · **document-retrieval-list.md** (31 items, by producing source) ·
+open-items register (**62 items**, prioritized). Git history shows every source and every
+correction.
