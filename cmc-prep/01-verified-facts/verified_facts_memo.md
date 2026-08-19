@@ -311,6 +311,29 @@ in S-1 is a stale-template artifact rather than a substantive misrepresentation 
 support the opposing inference that this office's proofs of service are unreliable as a
 class. This memo takes no position on which reading prevails.
 
+### 6.13a — Second-copy confirmation (client uploads, 8/19/2026)
+
+The client re-uploaded both S-1 ("998 offer FINAL") and S-2 (the 7/2/2026 letter) directly.
+Both match the record copies **verbatim** — findings 6.1–6.12 are confirmed against an
+independent copy: the January 3, 2018 POS execution (Georgia Davidson; "xx By Mail"
+ordinary-business-practice box checked); the blank "Dated:" lines on the offer AND the
+Request to Enter Judgment; caption case number **VCU3627028**; "OMRMONDE" (twice),
+"TIMOHTY THOMPSON," "WHITNEY, THOMSON & JEFFCOACH," and — additionally noted — the TO
+block's "**NIKKI** CUNNINGHAM" (vs. Nikole/Niki elsewhere) and the garbled opener "For the
+purpose of Under Code of Civil Procedure Section 998"; no monetary term anywhere in the
+offer. **These uploads are the FILE copies — OI-1 (what was actually placed in the mail in
+July 2026, when, and with what proof) remains open and answerable only from prior
+counsel's records.**
+
+**New detail with retrieval consequences:** S-2 justifies the 25% minority discount as
+"consistent with the discounts applied by Stan Xavier when valuing the real property in
+**2017**" — i.e., our own served offer letter cites the **2016/2017 Correia-Xavier
+706-era appraisal** as the discount authority. That appraisal is paid-for but missing
+(trust-admin sweep §3.2; retrieval item 12) — it is now cited IN OUR OWN SERVED OFFER and
+must be located before anyone defends the 25% figure. Also noted on S-2's face: "though
+Haze's date of death" [sic], "Furthermore,," [sic] — additional drafting-quality artifacts
+consistent with 6.10–6.11.
+
 ### 6.14 — A possible EARLIER § 998 offer at $5,750,000 (added 8/18/2026, drafts-folder sweep)
 
 | Assertion | Grade | Citation |
