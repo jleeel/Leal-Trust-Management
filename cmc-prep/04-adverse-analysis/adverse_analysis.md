@@ -1795,3 +1795,22 @@ invoice… **bypasses the formal ledger**" — an admission of off-ledger cash f
 own document, on a subject (the 505000/515000 "Cash — ht" checks) the registers already
 show. Both statements are small; both are exactly what an accounting cross-examination is
 built from. **Counsel should know where they are before defendants do.**
+
+---
+
+## A-40 — UPDATED 8/19/2026: the K-1 answer is now verified regulation text (with one trap to avoid)
+
+Treas. Reg. § 1.736-1 read in full (client upload). **(a)(1)(ii):** "a retired partner or a
+deceased partner's successor **will be treated as a partner until his interest in the
+partnership has been completely liquidated**"; **(a)(6)** repeats it for a deceased
+partner's successor receiving payments. The refined answer to the K-1 cross-examination:
+the 2022/2024 returns are **non-probative** — under our theory § 736 required
+partner-treatment until the buyout closes; under theirs, ordinary rules yield identical
+K-1s; either way the reporting looks the same, so it admits nothing. **The trap:**
+(a)(1)(i) says § 736 does NOT apply "if the estate or other successor … continues as a
+partner in its own right under local law" — so never argue "§ 736 required the K-1s" as
+standalone proof of dissociation; defendants can flip (a)(1)(i) + *Han*. Neutrality is the
+argument, not compulsion. Bonus for the price fight: **(b)(1)** — an arm's-length
+agreement's valuation of the interest "will be regarded as correct" for tax purposes.
+Full quotes and the settlement-structuring lever ((b)(5)(iii) — negotiable § 736(a)/(b)
+character): OI-63 update. Frazer verifies against the post-1993 statute.

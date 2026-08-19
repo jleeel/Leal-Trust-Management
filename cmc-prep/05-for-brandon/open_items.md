@@ -1342,3 +1342,45 @@ for FY2025 (§736(a)/(b) payment treatment vs distributive share) with disclosur
 forward-looking clarity is legitimate, retroactive erasure is not; (c) same hands-off rule
 for the Bypass 1041s (A-55). Past filings change only on Frazer's independent tax-merits
 judgment, coordinated through counsel.
+
+## ✅ OI-63 UPDATE (8/19/2026) — Treas. Reg. § 1.736-1 now READ IN FULL (client upload of the Cornell LII text)
+Source: 26 CFR § 1.736-1 [T.D. 6500, 25 FR 11814 (Nov. 26, 1960), as amended by T.D. 6832
+(July 7, 1965)], client-uploaded PDF, read 8/19/2026. Key text VERBATIM:
+
+- **(a)(1)(ii):** "A partner retires when he ceases to be a partner under local law.
+  However, for the purposes of subchapter K, chapter 1 of the Code, **a retired partner or
+  a deceased partner's successor will be treated as a partner until his interest in the
+  partnership has been completely liquidated.**"
+- **(a)(6):** "A retiring partner or a deceased partner's successor in interest receiving
+  payments under section 736 **is regarded as a partner until the entire interest of the
+  retiring or deceased partner is liquidated**… the partnership shall not be considered to
+  have terminated upon the death of the partner…"
+- **⚠️ (a)(1)(i) — the honest caveat:** "Section 736 and this section **do not apply if
+  the estate or other successor in interest of a deceased partner continues as a partner
+  in its own right under local law.**"
+
+**REFINED BRIDGE (stronger than the original):** because of (a)(1)(i), the K-1s are
+**NEUTRAL, not an admission** — under OUR theory (dissociation + pending buyout) § 736
+required partner-treatment on the returns until liquidation; under THEIR theory
+(continuing partner) ordinary rules produce the identical K-1s. The reporting is the same
+under both stories, so the returns prove neither. Argue A-40's cross-examination problem
+as NON-PROBATIVE reporting, not as affirmative proof of dissociation. Do not over-claim
+"§ 736 required it" standing alone — defendants can invoke (a)(1)(i) + Han to say § 736
+never applied.
+
+**Two bonuses for settlement architecture:**
+1. **(b)(1):** "Generally, **the valuation placed by the partners upon a partner's
+   interest in partnership property in an arm's length agreement will be regarded as
+   correct.**" (Same for goodwill formulas, (b)(3).) Tax law respects the contract's
+   90%-of-appraisal price — supports the Art. XIII.B framework end-to-end.
+2. **(b)(5)(iii):** the § 736(a)/(b) allocation of payments "may be made **in any manner
+   to which all the remaining partners and the withdrawing partner or his successor in
+   interest agree**" — tax character is NEGOTIABLE. § 736(b) = capital treatment to the
+   Trust / no deduction to us; § 736(a) = ordinary income to them / reduces our shares.
+   A real lever for bridging dollar gaps in settlement — put it on the Frazer agenda.
+
+**Currency caveat for Frazer/counsel:** the uploaded reg text is the 1960/1965 version;
+the § 736 STATUTE was amended in 1993 (limiting § 736(a) treatment of goodwill/unrealized-
+receivables payments where capital is a material income-producing factor — it is, for a
+dairy), so most buyout payments here likely fall under § 736(b). Frazer applies current
+law; nothing in this update changes the DO-NOT-AMEND recommendation, which stands.
