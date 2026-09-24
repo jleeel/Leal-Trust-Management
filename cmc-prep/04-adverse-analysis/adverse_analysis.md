@@ -1814,3 +1814,53 @@ argument, not compulsion. Bonus for the price fight: **(b)(1)** — an arm's-len
 agreement's valuation of the interest "will be regarded as correct" for tax purposes.
 Full quotes and the settlement-structuring lever ((b)(5)(iii) — negotiable § 736(a)/(b)
 character): OI-63 update. Frazer verifies against the post-1993 statute.
+
+---
+
+# A-58 — SUSAN'S DIRECT EMAIL (rec'd ~9/24/2026): a $1,689.19 demand, and two gifts inside it (added 9/24/2026)
+
+**The document** (screenshot preserved at `01-verified-facts/2026-09_susan-leal-final-payment-
+email.png`; native email with headers still needed — Gmail): "Re: Susan Leal Payments," Susan
+Leal writing directly to the client side. Claims: the trust's parenthetical says **$1,655** but
+the written-out amount is **$1,665**; the "stated economic terms" ($150,000 at 6%, 120 months)
+support $1,665.31/mo; she received $1,655/mo for all 120 payments (Oct 2016 start via a
+November double payment; final scheduled 9/1/2026); demands the **$1,689.19** residual by
+**10/1/2026**. Her arithmetic is exact on her premise (PMT(150000, 6%/12, 120) = $1,665.31;
+residual after 120 × $1,655 = $1,689.19 — verified).
+
+**Gift no. 1 — a ten-year performance admission.** A defendant, in writing: the trustee side
+paid her **every scheduled payment for ten years** under Manuel's Trust §SIXTH A(2), on time
+enough that her only complaint is $10.31/month of claimed underpayment. That is affirmative
+evidence of clean administration of the very trust whose management defendants attack — and it
+corroborates §SIXTH A(2)'s existence and terms, which our record holds only in quotation.
+
+**Gift no. 2 — proof defendants hold the complete instrument.** She quotes the trust's
+parenthetical, its written-out words, AND economic terms ($150,000 / 6% / 120) that appear in
+NO located copy — text beyond our partial instruments. **The complete Manuel C. Leal Living
+Trust — retrieval item 11, the #2 missing document — is demonstrably in defendants' hands.**
+Her email is the basis for a targeted request: informally ("please send the page you are
+quoting"), or RFP No. 1.
+
+**Her claim, at full strength, and the counters:** if the written words really say $1,665, a
+words-over-figures construction argument exists (the words-control rule is a
+negotiable-instruments doctrine, Com. Code § 3114 — UNVERIFIED; its application to a trust is
+a Probate Code construction question for counsel). Counters: (a) **her own bullet list states
+"Payment stated in words: $1,655"** — the demand contradicts its own premise within one page;
+(b) both quotations of §SIXTH A(2) in the record recite $1,655/mo × 120; (c) ten years of
+acceptance without objection (practical construction / waiver / laches — counsel's doctrines);
+(d) the $150,000/6% premise is HER characterization until the instrument is produced — note
+$1,655 × 120 @ 6% retires exactly $149,071.57, so if all three terms appear, the instrument
+has been internally inconsistent since 2005 and the "correct" reading is genuinely open;
+(e) the email itself shows ghost-drafting artifacts (the third-person slip "SHE will have
+received all 120 scheduled payments" in a first-person email; the internal $1,655/$1,665
+contradiction) — the direct-to-client channel is now a documented PATTERN (Ashley 1/17/2025;
+Susan ~9/2026) of defendants bypassing counsel.
+
+**Strategic read.** $1,689.19, due 10/1, twelve days before the CMC — either housekeeping or a
+manufactured "even Susan was shorted" talking point for the trustee-conduct narrative. Either
+way the answer is the same: this is the cheapest de-escalation in the case. Confirm the
+9/1/2026 final payment actually went out (the undisputed $1,655 — do NOT let payment #120 of a
+clean ten-year streak lapse mid-litigation); obtain the quoted trust page; then counsel either
+pays the residual with reservation-of-rights language or answers with her own bullet list. A
+$1,689 dispute is worth zero except as theater — deny them the theater. **Reply goes through
+counsel; any client-drafted response becomes an exhibit.**

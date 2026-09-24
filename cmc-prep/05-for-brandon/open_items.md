@@ -1384,3 +1384,24 @@ the § 736 STATUTE was amended in 1993 (limiting § 736(a) treatment of goodwill
 receivables payments where capital is a material income-producing factor — it is, for a
 dairy), so most buyout payments here likely fall under § 736(b). Frazer applies current
 law; nothing in this update changes the DO-NOT-AMEND recommendation, which stands.
+
+---
+
+## 🔴 OI-64 — Susan's $1,689.19 final-payment demand (email rec'd ~9/24/2026; deadline 10/1/2026; CMC 10/13)
+Full analysis: adverse analysis A-58; screenshot preserved at
+`01-verified-facts/2026-09_susan-leal-final-payment-email.png`. Actions, in order:
+1. **Confirm the 9/1/2026 payment (#120 of 120, $1,655) was actually made** — if not, make
+   it now; the undisputed portion of a ten-year clean streak does not lapse mid-litigation.
+2. **Preserve the native email** (Gmail export with headers — the screenshot is not the
+   record copy) and forward to counsel. Susan is a represented defendant writing the client
+   directly — the second documented instance of that pattern. No reply except through
+   counsel.
+3. **Use her email to get the instrument**: she quotes trust text ($150,000 / 6% / 120
+   months; words vs parenthetical) found in no located copy — defendants hold the complete
+   Manuel Living Trust (retrieval item 11). Ask for the quoted page; if refused, RFP No. 1.
+4. **Counsel decides the $1,689.19**: pay with reservation-of-rights, or answer with her
+   own bullets ("Payment stated in words: $1,655") + the two record quotations at $1,655 +
+   ten years of acceptance. Verified math either way: PMT(150000, 6%/12, 120) = $1,665.31;
+   residual after 120 × $1,655 = $1,689.19; and $1,655 × 120 fully amortizes only
+   $149,071.57 — the instrument as she describes it is internally inconsistent three ways,
+   making this construction, not arithmetic.
