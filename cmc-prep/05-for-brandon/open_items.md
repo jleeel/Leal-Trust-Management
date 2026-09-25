@@ -1405,3 +1405,41 @@ Full analysis: adverse analysis A-58; screenshot preserved at
    residual after 120 × $1,655 = $1,689.19; and $1,655 × 120 fully amortizes only
    $149,071.57 — the instrument as she describes it is internally inconsistent three ways,
    making this construction, not arithmetic.
+
+---
+
+## ✅ OI-64 UPDATE + ✅ OI-62 LARGELY RESOLVED — the complete Manuel Living Trust is now in hand (9/25/2026)
+Client uploaded the complete original 2/14/2005 instrument (Drive
+1RF6LFAfyDDXwDxRSliHUMqqo-KNjYPrZ); full extract in trust-instruments-extract.md addendum.
+**Retrieval item 11 RESOLVED** (original text; the 7/27/2006 First Amendment survives in the
+partial copies — assemble the combined set for counsel).
+
+**OI-64 (Susan's $1,689.19):** the instrument supports her on two of three internal
+indicators — SIXTH A(2)'s WORDS say "SIXTY-FIVE" ($1,665), the parenthetical says $1,655,
+and the stated formula ($150,000 @ 6%, "120 equal monthly installments of principal and
+interest") computes to $1,665.31 — her residual figure is the arithmetically correct output
+of the trust's own formula. The obligation is STEVE'S PERSONAL obligation (a charge on his
+SIXTH A(1) gift), not the trust's. RECOMMENDATION: pay the $1,689.19 promptly through
+counsel and close the decade-long obligation — a construction fight over ~$1,700 that the
+instrument mostly supports is negative-value twelve days before the CMC. Two follow-ups:
+(a) confirm payment #120 went out; (b) determine WHO funded the 120 payments — if
+partnership funds paid Steve's personal obligation (~$19,860/yr, Oct 2016–Sep 2026), that
+is a draw-classification input for the OI-42 reconciliation.
+
+**OI-62 (Morgan Stanley / "Steve and Susan" theory):** SIXTH C.3 distributes the Bypass
+remainder at Hazel's death 100% TO STEVE (issue by representation as backup). Susan has NO
+Bypass remainder — her provisions are the A(2) annuity and the A(4) Pismo half. The
+client-attested "should have been distributed between Steve and Susan" is CONTRADICTED by
+the instrument as to Susan; the earlier surcharge warning about "Susan's undistributed
+share" is MOOT. The live ¶5 wind-up duty: divide the account half to HAZEL'S TRUST
+(defendants' side) and half to STEVE outright (as Bypass remainderman) — the Hazel-trust
+half is a real deliverable defendants are owed, i.e., a settlement chip Steve controls as
+sole trustee. Also VALIDATED by C.3: the 1/1/2023 transfer of the Bypass 7.5% partnership
+interest to Steve. Still outstanding from the original cluster: the as-filed 706 (answers
+whether a Marital Trust was ever funded — B.7 pours any Marital remainder into the Bypass,
+i.e., also to Steve), the Hazel Trust chain, and the post-10/2020 MS statements.
+
+**Bonus for A-28:** Exhibit A item 9 — Manuel's own 2005 schedule describes "Trustor's
+one-half interest in a undivided SEVENTY-FIVE PERCENT (75%) interest in certain milk
+retains" — a 2005-era, Gin-drafted admission of the 75/25 structure. Added to the exhibit
+set against the 50/50 claim.

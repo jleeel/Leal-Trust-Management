@@ -305,3 +305,102 @@ Items (with the three task-item-C hits in bold):
 
 - **`Certification of Trust MC Leal Bypass Trust.pdf` (fileId `1I0PiMSV9vizz9d0TuOJT2sETEZnavO6w`; duplicate `1fNtAEqkkz-U0eIp4TQ0BZlWMSGrFWZXn`) — ENTIRE 12-PAGE DOCUMENT UNREAD.** CamScanner image-only scan (scan date 3/11/2022); Drive supplies no OCR text; raw download failed on 8 attempts (transport error reproducible only at this file's 8.4 MB size); direct fetch blocked by the environment's egress proxy. Nothing from this document is used or paraphrased in this memo.
 - **`Hazel Leal Trust.pdf` — anything after internal page 19.** Drive's text extraction (both file copies, identical output) ends at the Schedule A caption page ("SCHEDULE 'A' TO HAZEL J. LEAL REVOCABLE TRUST," p. 19). The 19 MB file exceeds the 10 MB download limit, so the total page count is unverified and the Schedule A asset list (if it continues past the caption) is unread. Pages 1–19 were fully extracted; that text could not be checked against the page images.
+
+---
+
+# ADDENDUM — 9/25/2026: THE COMPLETE ORIGINAL MANUEL C. LEAL LIVING TRUST IS NOW READ IN FULL
+
+**Source:** "Manuel Leal Trust" (Drive `1RF6LFAfyDDXwDxRSliHUMqqo-KNjYPrZ`, uploaded by the
+client 9/25/2026 to the Leal Trust/Partnership folder; 27 pp incl. Exhibit "A"). This is the
+**original 2/14/2005 instrument**, notarized by ROBERT W. GIN (Griswold LaSalle), Kings
+County. NOTE: it does NOT include the **First Amendment (7/27/2006)** — that survives in the
+partial copies previously read (successor co-trustee change). "As amended" = this instrument
++ that amendment. **Retrieval item 11 is RESOLVED as to the instrument text**; the dispositive
+articles missing since the first sweep are now verbatim record.
+
+## SIXTH A — the specific gifts (all previously known only by quotation; now verbatim)
+
+- **A(1):** 30% partnership interest to MANUEL STEPHEN LEAL, 60-day survivorship. ✔ matches
+  the quotation.
+- **A(2) — the Susan annuity (resolves the construction question in her 9/2026 demand):**
+  the gift in A(1) "is subject to MANUEL STEPHEN LEAL's obligation to pay his sister, HAZEL
+  SUSAN ANDERSON, the sum of **ONE THOUSAND SIX HUNDRED SIXTY-FIVE AND NO/100 DOLLARS
+  ($1,655.00)** per month for 120 consecutive months…" — **the WORDS say $1,665; the
+  PARENTHETICAL says $1,655** — "based upon Trustor's desire to have Trustor's daughter
+  benefit from the equivalent of receiving a five percent (5%) interest in the partnership,
+  then selling the same to Trustor's son at a predetermined value of **ONE HUNDRED FIFTY
+  THOUSAND AND NO/100 DOLLARS ($150,000.00)**, with said sum being paid, **with interest
+  accruing thereon at the rate of six percent (6%) per annum, in 120 equal monthly
+  installments of principal and interest.**"
+  **Three internal indicators: words $1,665 · figures $1,655 · formula $1,665.31**
+  (PMT(150000, 6%/12, 120) — verified). Two of three support Susan's reading. **And the
+  obligation is STEVE'S PERSONAL obligation** (a charge on his A(1) gift), not the trust's or
+  the trustee's — the demand runs to him. Also determine WHO funded the 120 payments
+  (Oct 2016–Sep 2026): if partnership funds paid Steve's personal obligation, that is a draw-
+  classification item for the OI-42 reconciliation.
+- **A(3):** the 1983 note "shall be forgiven by the Trustee." ✔ verbatim as quoted (the
+  trust's half; feeds the ¶6/$350,000 analysis, A-56).
+- **A(4) — NEW:** Manuel's undivided ½ of **311 Capistrano Avenue, Pismo Beach** (Exhibit A
+  item 6) to **HAZEL SUSAN ANDERSON** outright, 60-day survivorship. This is the source of
+  Susan's 50% of the Shell Beach parcel (Settlement ¶4 schedule) — **Susan has owned half of
+  Shell Beach since Manuel's death**; the partnership-paid carrying costs analyzed in the
+  verified-facts memo (booked to Hazel's column) were carrying a property half-owned by a
+  now-adverse party.
+- **A(5):** on Hazel surviving 60 days, divide the residue into the **Marital Trust** and the
+  **Bypass Trust**.
+
+## SIXTH B–C — the Marital/Bypass architecture (the OI-62 answer)
+
+- **Marital Trust:** minimum marital-deduction amount; all income to Hazel for life; QTIP
+  election authorized; **on Hazel's death the Marital remainder pours into the Bypass Trust**
+  (B.7). Whether a Marital Trust was ever funded is answered by the as-filed 706 (still
+  outstanding).
+- **Bypass Trust C.1:** balance of Manuel's community-half and separate property after the
+  Marital allocation. **C.2:** ALL Bypass net income to Hazel currently (quarter-annual or
+  more frequent) + discretionary principal for her health/maintenance/support — the
+  instrument's framework for the "accrued Bypass income to Hazel's side" component of the
+  offer (the 1041s' negative TAX income vs trust-accounting income remains Frazer's
+  reconciliation, OI-60).
+- **⭐ C.3 — the dispositive answer:** "After the death of the Surviving Spouse, the Bypass
+  Trust plus any principal and/or income added to the Bypass Trust from the Marital Trust
+  shall be distributed, free of trust, **to Trustor's son, MANUEL STEPHEN LEAL**," with issue
+  taking by representation if he fails to survive. **The Bypass remainder at Hazel's death
+  goes 100% to STEVE — not Steve and Susan.** Susan's provisions under this instrument are
+  the A(2) annuity and the A(4) Pismo half, period. Consequences:
+  1. The **1/1/2023 transfer of the Bypass's 7.5% partnership interest to Steve** (FY2023
+     Note 8) is exactly what C.3 commands — the transfer previously flagged as "can be
+     neither matched nor contradicted" is now VALIDATED by the instrument (resolves the
+     A-39 instrument question).
+  2. The client's belief that the Morgan Stanley community-property interest "should have
+     been distributed between Steve and Susan" is **CONTRADICTED by the instrument** as to
+     Susan — she has no Bypass remainder. The post-death division owed on the ¶5 account is:
+     **Hazel's half → through HER trust (defendants' side); the Bypass half → Steve
+     outright.** The live wind-up duty is therefore delivering the Hazel-trust half to
+     defendants — a real deliverable (and settlement chip) in the wind-up, administered by
+     Steve as sole trustee with counsel.
+  3. The offer's structure — accrued Bypass INCOME to Hazel's side, Bypass CAPITAL to Steve —
+     aligns with C.2/C.3.
+
+## Other provisions of note
+
+- **NINTH A (original):** succession is SEQUENTIAL — Hazel alone on Manuel's death, THEN
+  Steve on hers. The 7/27/2006 First Amendment (partial copies) changed this to Hazel and
+  Steve as successor co-trustees "or the survivor." Either way Steve is sole trustee after
+  9/2022 — and the Bypass 1041s name **"HAZEL LEAL, TRUSTEE" alone** as fiduciary 2015–2019,
+  corroborating that Hazel was the acting administrator during the ¶5 dormancy (bears on
+  A-54 attribution and the client's access attestation, OI-62).
+- **TWELFTH — no-contest clause** (contest → treated as predeceased). Susan remains a
+  beneficiary under this instrument (annuity; Pismo). Whether any current claim implicates
+  it is counsel's question — flag only.
+- **Exhibit A item 9 — a 2005-era 75/25 admission:** "Trustor's one-half (½) interest in a
+  undivided **seventy-five percent (75%)** interest in certain milk retains from Land O'Lakes
+  Creamery." Manuel's own 2005 trust schedule, drafted by Gin, describes the Manuel/Hazel
+  side as holding **75%** (of the LOL retains) — add to the A-28 exhibit set against the
+  50/50 historical claim. Item 7: the partnership interest (no percentage stated). Item 8:
+  ½ interest in the 1983 note (matches).
+- Exhibit A items 1–6: the community half-interests in the Tulare parcels and Pismo —
+  consistent with the Settlement property schedule.
+
+*Extract prepared from full read; verbatim quotes checked character-by-character against the
+Drive text layer. The First Amendment text should be re-attached to this extract when the
+combined "as amended" set is assembled for counsel.*
