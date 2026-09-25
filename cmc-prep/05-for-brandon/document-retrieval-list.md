@@ -51,7 +51,7 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
 
 ## 3. FROM GRISWOLD LASALLE (trust-admin matter RWG 6766.007 — one letter covers all)
 
-12. 🔴 **Complete Manuel C. Leal Living Trust** (Articles FOURTH–SIXTH exist only as
+12. ✅ **RESOLVED 9/25/2026** — complete original 2/14/2005 instrument produced (Drive 1RF6LFAfyDDXwDxRSliHUMqqo-KNjYPrZ; verbatim extract in trust-instruments-extract.md addendum; assemble with the 7/27/2006 First Amendment for the counsel set). Was: **Complete Manuel C. Leal Living Trust** (Articles FOURTH–SIXTH exist only as
     quotations; §SIXTH A(3) forgives the trust's half of the 1983 note). (OI-61.)
 13. 🔴 **Final as-filed Form 706 with attached appraisals** (Drive has draft only) and
     **the 2016 Correia-Xavier 706 appraisal** ($11,500 paid by checks 26036/26324; report

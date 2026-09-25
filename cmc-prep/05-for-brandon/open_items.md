@@ -1411,7 +1411,7 @@ Full analysis: adverse analysis A-58; screenshot preserved at
 ## ✅ OI-64 UPDATE + ✅ OI-62 LARGELY RESOLVED — the complete Manuel Living Trust is now in hand (9/25/2026)
 Client uploaded the complete original 2/14/2005 instrument (Drive
 1RF6LFAfyDDXwDxRSliHUMqqo-KNjYPrZ); full extract in trust-instruments-extract.md addendum.
-**Retrieval item 11 RESOLVED** (original text; the 7/27/2006 First Amendment survives in the
+**Retrieval item 12 RESOLVED** (original text; the 7/27/2006 First Amendment survives in the
 partial copies — assemble the combined set for counsel).
 
 **OI-64 (Susan's $1,689.19):** the instrument supports her on two of three internal

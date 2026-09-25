@@ -315,7 +315,7 @@ client 9/25/2026 to the Leal Trust/Partnership folder; 27 pp incl. Exhibit "A").
 **original 2/14/2005 instrument**, notarized by ROBERT W. GIN (Griswold LaSalle), Kings
 County. NOTE: it does NOT include the **First Amendment (7/27/2006)** — that survives in the
 partial copies previously read (successor co-trustee change). "As amended" = this instrument
-+ that amendment. **Retrieval item 11 is RESOLVED as to the instrument text**; the dispositive
++ that amendment. **Retrieval item 12 is RESOLVED as to the instrument text**; the dispositive
 articles missing since the first sweep are now verbatim record.
 
 ## SIXTH A — the specific gifts (all previously known only by quotation; now verbatim)
