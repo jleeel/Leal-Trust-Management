@@ -1487,3 +1487,39 @@ ANALYSIS (recorded; counsel decides):
 NOTE: the unread "morgan stanley 2019 8.31.pdf" (Drive 1CGIpsInr20fASyvZYFxOYjVCSz8DQlbh)
 was checked in answering this — it is MANUEL's account (8/31/2019 value $821,276.79; fills
 one month of the May–Dec 2019 statement gap, retrieval item 16).
+
+### OI-65 UPDATE (9/25/2026) — the account is IDENTIFIED, and it is a JOINT TENANCY WITH SUSAN
+Client produced the TY2014 Morgan Stanley 1099 (preserved at
+`01-verified-facts/hazel-susan-jtten-ms-1099-2014.pdf`). Facts from its face:
+- **Account 115-044250-006, titled "HAZEL J LEAL & HAZEL SUSAN LEAL JT TEN"** — joint
+  tenancy between Hazel and Susan, NOT Hazel's trust. Same FA (Douglas Silveria, Visalia)
+  and branch as Manuel's account. Income reported under Hazel's TIN (XXX-XX-1195).
+- Holdings (2014): Sierra Bancorp (the dominant position, ~$1,717/yr dividends), Bank of
+  America Corp, Ericsson ADR; Morgan Stanley Bank interest de minimis. **Total 2014
+  dividends $1,807.96 → implied account scale roughly $45–60K** (dividend-yield estimate;
+  confirm with statements). This is a MODEST asset.
+- No 1099-B proceeds; no withholding; existed during Manuel's lifetime (TY2014).
+
+CONSEQUENCES (framework recorded; counsel decides; statutes UNVERIFIED from here):
+1. **Survivorship, not trusts, controls at Hazel's death**: as a JT TEN account it passed
+   to SUSAN by operation of law on 9/22/2022, outside both trusts and outside the estate
+   plan. The 25/25 and 50%-to-Steve theories do not apply to the account AS TITLED.
+2. **The only live theory is the community-property gift angle at MANUEL's death/funding**:
+   if the account was funded with community money, titling it JT TEN with a daughter was a
+   GIFT of community personal property, which California law (Fam. Code §1100(b) —
+   VERIFY) makes voidable by the non-consenting spouse as to his half absent written
+   consent; after Manuel's death the remedy would run in favor of his estate/trust → Bypass
+   → Steve. Their own 2017 brief's title-irrelevant/funding-controls argument (§III.D) is
+   the symmetry hook.
+3. **Proportionality**: Manuel's community half of a ~$50K account ≈ $25K plus growth —
+   the same order as Susan's $1,689 demand times ten, and eleven years stale. LOG IT, use
+   it as symmetry/offset material in settlement, do not build a claim on it unless the
+   statements reveal a materially larger balance history.
+4. **The funding question is answered by the ACCOUNT-OPENING FILE**: add account
+   115-044250-006 to the Morgan Stanley records request (retrieval item 16): opening
+   documents (who opened it, when, source of the initial deposit), full statement history,
+   and transfer records. Separate-property funding would require tracing to Hazel's
+   premarital assets, gifts/inheritances to her alone (Fam. Code §770 — VERIFY), or a
+   written transmutation signed by Manuel (§852 post-1985 — VERIFY); otherwise property
+   acquired during the marriage is PRESUMPTIVELY community (§760 — VERIFY) and the
+   separate-property proponent bears the tracing burden.
