@@ -1443,3 +1443,47 @@ i.e., also to Steve), the Hazel Trust chain, and the post-10/2020 MS statements.
 one-half interest in a undivided SEVENTY-FIVE PERCENT (75%) interest in certain milk
 retains" — a 2005-era, Gin-drafted admission of the 75/25 structure. Added to the exhibit
 set against the 50/50 claim.
+
+---
+
+## OI-65 — Hazel's own investment account: existence, characterization, and Steve's potential community-half claim (client-raised 9/25/2026)
+CLIENT-ATTESTED UPDATES: (1) the Manuel-trust Morgan Stanley account (115-047237-006) HAS
+now been split, with Hazel's trust receiving half — obtain the DATE and the division/
+transfer confirmations (this supersedes A-54's "no division through 10/31/2020" as of that
+date; the post-10/2020 statements, retrieval item 16, document it), and CONFIRM the other
+half was distributed to STEVE per SIXTH C.3 (Bypass remainder). (2) Client asks whether
+Hazel's own investment account should have been divided (25/25 Steve/Susan, or 50% Steve).
+
+ANALYSIS (recorded; counsel decides):
+- **No instrument produces 25/25.** Susan has no Bypass remainder (SIXTH C.3 — all to
+  Steve) and Hazel's 11/10/2017 restated trust disinherits Steve's line.
+- **The correct frame is 50% to Steve IF AND ONLY IF the account held community property**:
+  Manuel's community half of every asset — REGARDLESS OF TITLE — passed at his death
+  (3/25/2015) through HIS trust: Marital/Bypass (SIXTH A(5), C.1), then 100% to Steve at
+  Hazel's death (C.3). If her account was her SEPARATE property, it passes 100% through
+  HER trust to defendants' side and Steve takes nothing.
+- **The symmetry weapon**: defendants' own 2017 mediation brief (§III.D) argued Manuel's
+  account was "titled only in Manuel's name but funded exclusively with community
+  property... 50% is owned by Hazel outright." Title-irrelevant, funding-controls — their
+  sentence, names swapped, is Steve's claim to half of her account. They cannot have
+  community-over-title for his account and title-over-community for hers.
+- **The defenses they will raise**: (a) the separate-estates history (the client's own
+  attestation that Manuel and Hazel kept separate accounts) — if the funding source was her
+  separate property, the claim dies; (b) the as-filed 706 — the DRAFT lists only
+  Manuel-titled accounts (MS + B of A, each less a community half); if the 706 omitted any
+  Hazel-titled account from Manuel's estate, that omission reads as a separate-property
+  characterization — and STEVE SIGNED the 706 (their brief, p.3); (c) limitations/laches on
+  an 11-year-old trust-funding claim; (d) door-opening — raising community
+  recharacterization invites the same against assets on Steve's side.
+- **NO LOCATED RECORD of any Hazel-titled investment account** in ~350 read documents. To
+  evaluate: identify the account (institution/number/title); statements bracketing
+  3/25/2015 (the DOD value that fixes the community half) and current; source-of-funds
+  history; Hazel's trust Schedule A (still unreadable beyond p.19); her personal 1099s
+  (unread, in the tax folders); the as-filed 706's schedules.
+- **QUANTIFY BEFORE RAISING.** If modest, leave it; if large, it is a genuine offset/
+  leverage item against the $7.36M demand — but it re-opens 2015 estate administration
+  that Hazel ran as trustee, with both-edges consequences. Counsel's call, made once, with
+  numbers.
+NOTE: the unread "morgan stanley 2019 8.31.pdf" (Drive 1CGIpsInr20fASyvZYFxOYjVCSz8DQlbh)
+was checked in answering this — it is MANUEL's account (8/31/2019 value $821,276.79; fills
+one month of the May–Dec 2019 statement gap, retrieval item 16).
