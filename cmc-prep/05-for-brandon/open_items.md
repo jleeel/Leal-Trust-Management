@@ -1523,3 +1523,40 @@ CONSEQUENCES (framework recorded; counsel decides; statutes UNVERIFIED from here
    written transmutation signed by Manuel (§852 post-1985 — VERIFY); otherwise property
    acquired during the marriage is PRESUMPTIVELY community (§760 — VERIFY) and the
    separate-property proponent bears the tracing burden.
+
+### OI-65 SECOND UPDATE (9/26/2026) — LOL-redemption funding attestation and the go/no-go framework
+CLIENT-ATTESTED: both Morgan Stanley accounts were funded "with the same amounts" when
+Manuel and Hazel cashed out their Land O'Lakes equity. The record already holds the
+redemption evidence: Manuel ~$148,698 (2005-2007, five checks) and **Hazel $137,197.24
+(check dated 6/21/2007)** — "Leal age retirement payouts.pdf," preserved. If the JT-TEN
+account's opening deposit matches that check, the tracing is one bank record long:
+LOL age-retirement check (patronage on community dairy milk) → JT-TEN account. Supporting
+characterization: retains were dairy patronage earned during the marriage (community
+regardless of member-name titling — the same title-vs-funding rule their 2017 brief
+§III.D invoked), and Manuel's own trust Exhibit A item 9 recites his half-interest in the
+couple's 75% of LOL retains. CAUTION on size: TY2014 dividends of $1,807.96 imply only
+~$50-60K then — either funds were later moved/spent, or the seed went partly elsewhere;
+DO NOT assume Manuel-account scale. The two documents that decide the tier: (1) 2007
+account-opening/initial-deposit records; (2) the statement bracketing Hazel's DOD
+(9/22/2022, the survivorship-transfer value). Steve is NOT on this account — Morgan
+Stanley will not produce voluntarily; this is a records SUBPOENA in the existing action
+(routine, cheap — counsel).
+
+DECISION FRAMEWORK RECORDED (litigation-economics guidance, not legal advice; counsel
+prices the defenses):
+- Claim value ≈ Manuel's community half of the traced community funding + growth (or of
+  the DOD value), discounted for the defenses: limitations/laches (11 years — the largest
+  discount), implied-consent inference from Manuel's 2007-2015 silence (though Fam. Code
+  §1100(b) requires WRITTEN consent — VERIFY), and door-opening risk.
+- Incremental cost is LOW here because the vehicle already exists: active litigation
+  between the same parties, the forensic accountant already engaged, the MS records
+  request/subpoena already needed for the ¶5 account. Marginal cost to plead and prove if
+  the tracing is the single 2007 deposit: roughly $15-40K; a contested tracing war: more.
+- TIERS: DOD value ≥ ~$200-250K (Manuel's half ≥ ~$100-125K) → worth PLEADING in the
+  existing case (Prob. Code §850-type claim — VERIFY vehicle with counsel); ~$100-200K →
+  worth a priced line-item in settlement correspondence; < ~$100K → symmetry/offset
+  material only (paired with Susan's $1,689 demand and their §III.D argument).
+- STRATEGIC NOTE: the claim runs against SUSAN personally (survivorship taker) — a
+  personal-exposure lever on a defendant, distinct from every other claim in the case.
+  Same both-edges warning as before: raising it licenses reciprocal account-tracing
+  against Steve's side. Decide once, with the subpoena results, through counsel.
