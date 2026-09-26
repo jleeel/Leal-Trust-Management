@@ -1596,3 +1596,43 @@ $137,197.24 to Hazel → joint tenancy with Susan → survivorship to Susan 9/20
 Morgan Stanley subpoena (2007 opening records + DOD-2022 statement) remains the single
 decisive step. Also identify LOL #2041468 (Manuel's 4/7/2005 check rode a different
 patron number — likely a legacy/second account; ask LOL member services).
+
+### OI-65 FOURTH UPDATE (9/26/2026) — limitations map for the JT-TEN claim (Estate of Yool VERIFIED via CourtListener)
+*Estate of Yool* (2007) 151 Cal.App.4th 867 read in relevant part (CourtListener cluster
+2257154). Verbatim anchors: CCP §366.2 "pertains to actions on the 'liability of the
+person'"; a resulting trust "does not implicate the personal liability of a decedent";
+Prob. Code §9000(b) expressly EXCLUDES from creditor claims "a dispute regarding title of
+a decedent to specific property," resolved instead under §850; the resulting-trust statute
+is the four-year catch-all (CCP §343, per McCosker), and it "does not begin to run ...
+in the absence of repudiation by the trustee, that is, until demand has been made upon
+the trustee and the trustee refuses" (Berniker, quoted in Yool).
+
+THE MAP (framework for counsel; Yool text verified, statutes and application NOT):
+1. **Dead framing — damages claim against HAZEL** (breach of spousal fiduciary duty /
+   improper gift): CCP §366.2 gave ONE YEAR from her death — expired ~9/22/2023. Any
+   version of this claim pleaded as Hazel's personal liability is time-barred on the
+   statute's face.
+2. **Live framing — equitable ownership of specific property held by SUSAN** (Manuel's
+   community half never validly passed; Susan holds it as resulting/constructive trustee;
+   Prob. Code §850 petition): per Yool, §366.2 does not apply to title-to-specific-
+   property disputes; the four-year §343 clock governs and, under the Berniker rule,
+   arguably has NOT STARTED because no demand has ever been made and nothing was
+   repudiated. Counsel must map our void-gift/constructive-trust theory onto Yool's
+   resulting-trust holding (analogous, not identical — Yool involved bare title
+   accommodation; citing treatment/KeyCite required) and weigh the discovery-rule fight
+   (knowledge of the ACCOUNT vs knowledge of the community character of its funding).
+3. **Fam. Code §1101 spousal route**: keys to Manuel's ACTUAL knowledge of the
+   transaction (3-year from actual knowledge; death/dissolution provisions — statute
+   UNVERIFIED from here, Westlaw item); as a claim against Hazel it likely collides with
+   §366.2 regardless. Secondary.
+4. **Laches applies to the equitable route no matter what** — every year of delay from
+   TODAY is on us; the eleven years before now are explainable (nobody knew the facts'
+   legal significance; no demand, no repudiation, no adverse holding asserted until
+   survivorship vested in 9/2022 at the earliest).
+CLIENT CONTEXT RECORDED: the family (Manuel, Hazel, Steve, Susan) did not understand
+community-property law. Legal relevance: ignorance of LAW tolls nothing, but the operative
+clocks here key to FACTS (actual knowledge; discovery; demand-and-refusal) — and
+family-wide ignorance corroborates that no written spousal consent ever existed and that
+no demand/repudiation ever occurred, which is what keeps framing 2 alive.
+SEQUENCING: a demand on Susan STARTS the Berniker clock — do not send one until the
+Morgan Stanley subpoena returns and counsel has chosen the tier (plead / price / hold).
