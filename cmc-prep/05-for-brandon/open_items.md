@@ -1680,3 +1680,14 @@ Frazer reconciliation (the 9/23/2022 equity snapshot carries "bypass income $356
 ## OI-49 addendum — another plaintext credential
 10/6/2025: a Citizens login for defendants' accountant was emailed in plaintext (cc
 defendants). Rotate it; stop emailing credentials.
+
+### OI-66 addendum (9/26/2026) — a SECOND Gmail account holds case documents
+Client reports a second Gmail account with relevant documents (possibly the "Leal Dairy"
+address that received Susan's ~9/24/2026 $1,689.19 email — confirm). This session's Gmail
+connector reads only jaceleal@gmail.com. Paths: (a) connect the second account at
+claude.ai/customize/connectors and continue in a NEW session (connectors load at session
+start; the repo's CLAUDE.md carries the workspace forward) — do not disturb the existing
+connector while the jaceleal sweep is running; (b) for EVIDENTIARY preservation regardless
+of (a): Google Takeout export (mbox, full headers) of the second account, stored unmodified;
+(c) stopgap for analysis in this session: forward the relevant threads (inline, not as
+attachments) to jaceleal@gmail.com — originals stay in place as the evidence copies.
