@@ -106,6 +106,12 @@ responsiveness; (b) our side's activity in the interval runs through Jace, not c
 (Valuation Questions 10/3/2024) — which they will use both ways; (c) **the one gap on our
 side of this story: no located 2023–24 written demand from Ormonde for the reports.** If
 his file contains one, this interval is airtight (retrieval list §1, item 7).
+*(d) Added 9/26/2026 from the native email record:* on **5/16/2024** Ashley (cc Esraelian,
+Susan) chased **our** counsel for a business-valuation "stipulation letter" Ormonde had
+promised ~30 days earlier; Jace replied that Ormonde had been unable to reach the valuation
+professional (thread 18f827e02a9e204b). Our side owned a slice of the 2024 stall. The
+withholding of the COMPLETED appraisals remains theirs — but the interval is not one-sided,
+and the ledger must not present it as such.
 
 ### Interval 4 — Reports to offer (1/17/2025 → 3/3/2025, 6 weeks) · **OURS, PRODUCTIVE**
 Appraisal summary built 1/22/2025; capital work 2/13/2025; **priced offer served 3/3/2025**
@@ -129,16 +135,22 @@ capitulation.
 Mediation before Judge Volkmann (JAMS) **1/28/2026**; their demand ~$6,000,000; no deal.
 The original February 2026 CMC was continued to 10/13/2026.
 
-### Interval 8 — Post-mediation drift (2/2026 → 7/2/2026, 5 months) · **MIXED — and the honest interval**
+### Interval 8 — Post-mediation drift (2/2026 → 7/2/2026, 5 months) · **MOSTLY OURS — CORRECTED 9/26/2026 from the native email record**
 Ours: the served offer did not issue until **7/2/2026** — five months in which our number
 moved through five internal structures ($4.9M → $5.0M → $4.7M → $5.75M → $5.705M) without a
-served offer (drafts-proposals sweep). Theirs, in parallel: the **AgWest refinance refusal**
-— the partnership exhausted its operating line **3/1/2026** bridging the Orozco balloon
-(the note Hazel personally signed in 2011), our 5/15/2026 correspondence and 5/18/2026
-letters demand signatures, and opposing counsel's same-day reply claimed her clients "were
-not aware" of a balloon their own accountants reviewed for fifteen years. *Status caveat:*
-the AgWest events are currently sourced to our own draft letters (as-recited) — obtain the
-5/15/2026 correspondence and the Farm Credit package (OI-46) to convert them to documented.
+served offer (drafts-proposals sweep). **The AgWest refinance is NOT a their-side delay on
+the native record (gmail-extract §2, thread 19e2d918e69961b7):** defendants' counsel asked
+for the note and loan documents on **5/5/2026**; Susan reported on 5/15 that our counsel was
+"waiting on [Steve]"; Cunningham's 5/18 emails asked again for the loan documents and the
+original balloon note (the "11:16 AM" email is a document request, not the absurd denial our
+draft letter set out to refute); the documents followed; and in July defendants' review of
+the AgWest file found the new note ($1,105,000) exceeded the balloon balance ($651,937) by
+~$453K, which our side then acknowledged funded a **$600,000 LOL production-base purchase
+(3/20/2026)** — after our side had told opposing counsel in writing (5/16, 5/18) the loan
+was "not a new capital expense or investment." Defendants signed once documented; the loan
+closed by 8/11/2026. **Net: the document lag was ours, their review hold was reasonable and
+resolved, and the episode created a credibility exposure (A-59). The AgWest item is REMOVED
+from defendants' column; do not use the "held up our routine refinance" narrative.**
 
 ### Interval 9 — The 998 and since (7/2/2026 → present) · **OURS TO FIX**
 998 package served ~7/9/2026 with the defects catalogued in verified_facts_memo §6; every

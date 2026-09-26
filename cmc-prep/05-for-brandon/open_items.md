@@ -1636,3 +1636,47 @@ family-wide ignorance corroborates that no written spousal consent ever existed 
 no demand/repudiation ever occurred, which is what keeps framing 2 alive.
 SEQUENCING: a demand on Susan STARTS the Berniker clock — do not send one until the
 Morgan Stanley subpoena returns and counsel has chosen the tier (plead / price / hold).
+
+---
+
+# GMAIL PULL (9/26/2026) — resolutions and new items (full extract: 01-verified-facts/gmail-extract.md)
+
+## ✅ OI-1 — service DATE resolved; POS defect remains
+Counsel's office in writing: 998 "served July 9th" (Vieira 8/13/2026; Ormonde 7/22/2026).
+Still needed: the as-served proof of service (the file copy's January 3, 2018 execution).
+
+## ✅ OI-41 — the 5/18 $5,750,000 letters were client drafts; not served (strong inference)
+[PRIV] Jace sent the cover-letter .docx to Ormonde 5/18/2026 ("I updated the total offer…
+Feel free to make whatever changes you like"); Ormonde was still drafting the 998 on
+6/16/2026. The $44,742.57-reduction and two-offer *Martinez* issues very likely fall away.
+Ask Ormonde's office for one-line written confirmation for the file.
+
+## ✅ OI-46 — the 5/15 correspondence and the 5/18 11:16 AM email are located, verbatim
+See gmail-extract §2. The 11:16 AM email is a document request ("Can you please provide the
+original documents that show the balloon payment due in 2026…"). Do NOT use the draft
+"Refutation of Loan Ignorance" framing.
+
+## 🔴 OI-67 — The $600,000 LOL base purchase (3/20/2026): approval record + disclosure posture
+See A-59. (1) Was an Art. IX.A.2 majority vote taken/recorded for the $600K acquisition
+(and for the $1.105M note)? If not, counsel decides on ratification. (2) Confirm the LOL
+base-transfer confirmation and loan-disbursement record requested by Cunningham 7/31/2026
+were produced, and get copies into the file. (3) Settlement ¶11 exposure analysis (and the
+OI-40 hierarchy question — does ¶11 or Art. IX.A.2 govern?). (4) New counsel hears this
+from us in the first meeting.
+
+## 🔴 OI-66 — Complete Gmail sweep (the mailbox is an unswept evidence territory)
+≥201 threads involve Susan's address alone; the Esraelian (2016–2025), Ormonde (2023–2026),
+Cunningham, Ashley, Frazer, and AgWest correspondence has only been sampled. A full sweep
+(same method as the Drive sweeps: manifest, full reads, privilege tagging, both-ways
+grading, referenced-but-not-located) should run before the CMC. Also export Susan's
+$1,689.19 email from the Leal Dairy mailbox, and save the 8/10/2022 "Partnership Income
+Summary.xlsx" attachment (the version defendants' counsel agreed to) as its own exhibit.
+
+## OI-60 addendum — $356,000 vs $327,427.02
+[PRIV] 10/3/2023 Jace → Ormonde: "At a minimum we will be paying the $356,000 bypass trust
+income in full." The later offer pays $327,427.02 — a $28,573 reduction to explain in the
+Frazer reconciliation (the 9/23/2022 equity snapshot carries "bypass income $356,049").
+
+## OI-49 addendum — another plaintext credential
+10/6/2025: a Citizens login for defendants' accountant was emailed in plaintext (cc
+defendants). Rotate it; stop emailing credentials.

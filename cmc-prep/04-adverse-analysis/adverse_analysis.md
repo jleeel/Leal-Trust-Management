@@ -1864,3 +1864,83 @@ clean ten-year streak lapse mid-litigation); obtain the quoted trust page; then 
 pays the residual with reservation-of-rights language or answers with her own bullet list. A
 $1,689 dispute is worth zero except as theater — deny them the theater. **Reply goes through
 counsel; any client-drafted response becomes an exhibit.**
+
+---
+
+# THIRTEENTH ADDENDUM — 9/26/2026 (native Gmail record; full extract: 01-verified-facts/gmail-extract.md)
+
+## A-59. 🔴 The AgWest loan was represented as "not a new capital expense" — it funded a $600,000 LOL base purchase
+
+The single most dangerous item found since the Drive sweeps. On **5/16/2026** (Jace, to Susan
+cc Cunningham) and **5/18/2026** (Ormonde, to Cunningham, repeating it verbatim), our side
+told opposing counsel in writing that the AgWest refinance was "a routine, operational
+rollover of an existing partnership liability, **not a new capital expense or
+investment**." On **7/29/2026** Cunningham, reading AgWest's final loan file, asked why the
+new note was **$1,105,000** when the maturing balloon was **$651,937**. Our side's answer
+(to our own counsel, relayed to her): the ~$453K difference funded **additional Land
+O'Lakes production base — $600,000 at $200/unit, check to David Borges / Borges Dairy,
+effective 3/20/2026**, "paid for with the same loan disbursement and cash flow."
+
+Their version at a hearing: *"Plaintiff made a $600,000 capital acquisition during this
+litigation without partner approval, financed it by folding it into a 'routine rollover'
+he asked my clients to guarantee, and told us in writing it was not a capital expense. We
+found it in the lender's file."* It feeds, at once: Settlement ¶11 (capex ≥$100K needs
+partner approval) and Art. IX.A.2 (majority vote — was one taken or documented?), the
+covenant-breach counts, the "funneling"/control narrative, credibility of every financial
+representation our side makes, and — through Ormonde's repetition — counsel's own
+credibility with opposing counsel.
+
+What mitigates it (must be assembled NOW, not at deposition): the base purchase is a real
+operating asset of the partnership (it avoids over-base assessments — the Jan–Feb 2026 milk
+statements show $70,802 of base assessments in two months) and increases partnership value
+in which the Trust shares until the buyout closes; Steve holds 62.5% post-dissociation, so
+an Art. IX.A.2 majority vote was available — but only if it was taken and recorded; and
+defendants ultimately signed with full knowledge (8/11/2026), which is ratification of the
+financing (not necessarily of the purchase). **Actions: (1) the new attorney must hear this
+from us first; (2) paper the Art. IX.A.2 approval question — if no vote was recorded,
+counsel decides whether to ratify now; (3) never again characterize a financing to the
+other side without the lender file in hand; (4) the base-transfer confirmation and
+disbursement record defendants requested are exhibits — confirm they were produced.**
+
+## A-60. 🔴 "Steve never took a personal draw" — our own registers contradict it
+
+[PRIV] 7/30/2026, Jace to Ormonde: "Steve became a partner in 1985 and aside from his
+monthly salary, he never took a personal draw (or was allowed to for that matter)." The
+record: the QuickBooks 515000 "Personal-Steve" register (running −$152,504.17 through
+11/1/2016, including a single **$100,000 check to Steve on 9/30/2014**); cash distributions
+to Steve on every K-1 2015–2024; the FY2014 excess-draw finding; and a partnership agreement
+executed **March 1983**, not 1985. If Steve or Jace says this under oath, the registers
+impeach it in one exhibit — and "funneling" is exactly the theory that impeachment would
+feed. **Deposition prep: the true draw history, in numbers, before anyone testifies to
+"never."** The correct and defensible statement is comparative (Hazel's side drew more —
+the Frazer parity and personal-expense registers support that), never absolute.
+
+## A-61. Privilege and credential hygiene visible in the mailbox
+
+(1) Counsel's draft Complaint (9/18/2025) was forwarded to non-party family addresses, and
+counsel himself cc'd a non-party on the 6/16/2026 998-strategy email; whether those
+recipients are necessary agents inside the privilege is counsel's call — until decided,
+counsel communications stay inside the client circle. (2) A bank credential for defendants'
+accountant was emailed in plaintext (10/6/2025) — rotate (OI-49). (3) The 7/2/2026 letter's
+"my client has willingly provided all documents requested" sits beside a privileged 6/19/2026
+"We won't be providing anything at this time" — privileged, but counsel should not repeat
+the absolute claim.
+
+## CORRECTIONS LOG (9/26/2026)
+
+- **Delay ledger Interval 8 — CORRECTED:** the AgWest refinance is removed from defendants'
+  column (document lag ours; their review hold reasonable and resolved; A-59 created).
+- **Delay ledger Interval 3 — caveat (d) added:** 5/16/2024 stipulation-letter chase by
+  Ashley — our counsel owned part of the 2024 stall.
+- **Memo §6.14 / OI-41 — the 5/18 $5,750,000 letters were the CLIENT'S DRAFTS** sent to
+  counsel ("I updated the total offer… Feel free to make whatever changes you like"), and
+  counsel was still drafting the 998 on 6/16/2026 → not served (strong inference).
+- **Memo §6.15 / R1 — the no-monetary-term 998 was DELIBERATE:** counsel's 6/16/2026 email
+  explains the 998 was confined to the complaint's specific-performance relief, with the
+  money in a separate settlement letter. See R1 Addendum 3 — the *Mostafavi*/*Gorobets*
+  critique is re-aimed.
+- **OI-1 — service DATE documented:** counsel's office confirmed in writing that the 998 was
+  served July 9, 2026 (Ormonde 7/22; Vieira 8/13). The as-served POS (the January 3, 2018
+  execution defect) remains open.
+- **A-58/OI-64 context:** Susan's ~9/24/2026 email is not in this mailbox (sent to a Leal
+  Dairy address).

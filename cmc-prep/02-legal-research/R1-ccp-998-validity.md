@@ -406,3 +406,36 @@ fresh-corrected-998 recommendation stands, and the correction list now includes 
 number.** Also note the offer defines "Real Property" as "the 652.02 acres" — the
 valuations sweep reports NO located document that produces 652.02 acres; derive or source
 that figure before it is repeated (OI-52).
+
+---
+
+# ADDENDUM 3 (9/26/2026) — THE NO-MONETARY-TERM STRUCTURE WAS DELIBERATE; THE CRITIQUE IS RE-AIMED
+
+**New fact (privileged; counsel's own email, 6/16/2026, thread 19ed33e5a03baa31):** prior
+counsel wrote that he "revisited the complaint in order to ensure that the offer is within
+the bounds of the request sought in the complaint… Our complaint seeks specific
+performance… we are not requiring a specific purchase price. I researched the 998 as it
+pertains to the specific performance and our offer would need to stay within those
+bounds… we would likely need to simply send a settlement offer identifying our numeric
+offer and then within that same offer send the 998…" The client agreed.
+
+**Consequence for this memo.** The served package is two instruments by design: (1) a
+§ 998 offer whose terms — judgment requiring the parties to employ Correia-Xavier and Moss
+Adams — ARE stated in the offer itself; (2) a separate monetary settlement proposal
+($5,705,257.43) that was never intended as a § 998 offer. Addendum 1's reliance on
+*Mostafavi* fn. 6 and *Gorobets* ("terms must be in the offer") therefore aims at the wrong
+target: the monetary figure's absence from the 998 is not a defect of the 998, because the
+money was never a 998 term. **The live § 998 questions become:** (a) whether a
+non-monetary, specific-performance-only offer can support cost-shifting at all — i.e.,
+whether a court can determine that a later judgment is "not more favorable" than an offer to
+employ named appraisers (UNVERIFIED — research target; the comparison problem for
+non-monetary offers is the crux); (b) the independent service/form defects (POS executed
+"January 3, 2018"; undated offer; case-number variant; misspellings) — service DATE now
+documented as 7/9/2026 by counsel's office; (c) the offer's validity given the § 3390
+personal-services problem with an order to "employ" named non-parties (*Woolley*) — a
+judgment the court arguably could not enter cannot anchor cost-shifting (UNVERIFIED).
+**The "fresh corrected 998" recommendation survives, re-grounded:** a new offer should
+either be a monetary 998 aligned with an amended prayer (Bewick/§ 730 price-fixing relief)
+or a specific-performance 998 whose judgment is one the court can actually enter. Also:
+the 5/18/2026 $5.75M "offer" was a client draft and very likely never served — the
+*Martinez* two-offer discussion in Addendum 2 is probably moot (confirm with prior counsel).
