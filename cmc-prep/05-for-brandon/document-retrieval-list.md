@@ -118,6 +118,20 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     records post-death.
 31. Any as-served copy of BOTH 998 offers in their files (tests our own service record).
 
+## 7. ADDED 9/26/2026 — FINANCING-READINESS PROOF (OI-70 resolved → OI-71/OI-72)
+
+32. **The three AgWest pricing attachments**, from Jace's Gmail (thread 18ae22ec1e7ad388):
+    "Fixed Rate Pricing.xlsx" (9/29/2023, $2M), "Manuel C. Leal & Son Dairy Pricing.pdf"
+    (2/25/2025, $5M), "Manuel C. Leal & Son Dairy Pricing 1.28.26.pdf" (1/28/2026, amount
+    unknown). Save them to the Drive case folder; the connector cannot open attachments.
+33. **AgWest letter + current commitment/pre-approval** (Jonathan Kennedy, SVP): confirmation
+    of the 2023/2025 pricing requests and, only if AgWest's file supports it, their purpose. A
+    current commitment for the buyout and proof of funds for the 10% down payment. **Counsel
+    reviews the request wording first. The client sends it; this workspace sends nothing.**
+34. **Existing-debt schedule as of 2/2025 and today** (both mortgages plus both lines). This
+    is needed for the Settlement ¶7(d) / TIC §8(a) $6.5M debt-cap arithmetic (A-66 ¶4). The
+    second mortgage balance is not in the record.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

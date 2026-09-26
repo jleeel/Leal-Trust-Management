@@ -228,6 +228,14 @@ carrying the risk of an unliquidated interest for four years should share in the
 real, and a court may feel it.** Counsel should be ready with the delay chronology (§5.3) and
 with the fact that **we tendered interest**.
 
+> **[CORRECTION 9/26/2026 — see adverse analysis A-67.]** "Tendered" above means *offered in
+> a settlement letter*. The 7/2/2026 offer required "a release of all other claims by all
+> parties (Civ. §1542)". **VERIFIED:** a conditional tender does not stop the running of
+> interest under Civ. Code §§ 1504/1494 (*Mission Ins. Group v. Merco* (1983) 147 Cal.App.3d
+> 1059, 1067). The point that we consistently proposed the contract's 4% stands. The
+> suggestion that interest was *stopped* by our offers does not. For the unconditional-tender
+> option, see OI-72.
+
 ### 5.3 — "Steve caused the delay, so he cannot benefit from it"
 
 Defendants' brief: "Steve's unlawful conduct, secrecy, and breaches… are the cause of the present

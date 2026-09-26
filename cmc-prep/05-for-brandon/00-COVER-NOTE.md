@@ -287,3 +287,14 @@ DOD-2022 balance, the verified *Estate of Yool* limitations map (§366.2 framing
 the §850 specific-property framing is alive; **a demand on Susan starts the clock — do
 not demand before the Morgan Stanley subpoena returns**). A repo-root CLAUDE.md now
 orients any future support session.
+
+
+**THIRD POSTSCRIPT (9/26/2026):** The client confirms that the 2023 ($2M) and 2025 ($5M)
+AgWest loan quotes were **buyout financing**, and says "We'd love to pay them"
+(CLIENT-ATTESTED; OI-70 resolved). Under the contract only 10% is due at purchase (about
+$441K on the 3/3/2025 numbers), so the quotes fit ability to perform. The same evidence also
+raises the question "if you could pay, why didn't you?" (A-67). Every offer so far was
+conditional, and a conditional tender does not stop interest (*Mission*, 147 Cal.App.3d at
+1067, VERIFIED). **OI-72 is the new first-call decision:** an unconditional payment or § 1500
+deposit of the undisputed amount. See the R2 addendum for the verified tender statutes and
+OI-71 for the lender-proof steps. Counts now: A-1–A-67; OI through OI-72; chronology 206 rows.

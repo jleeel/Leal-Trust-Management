@@ -213,3 +213,17 @@ That is an **insurance-policy appraisal** case. No published California case was
 8. **Obregon pin cites** for the two quoted passages were not captured (approx. pp. 431–433); confirm before filing.
 
 **This pass verifies existence, text, and holdings as of the opinions' filing dates only. It does NOT substitute for KeyCite/Shepard's: no negative-treatment, depublication, review-grant (except Han, found incidentally), or amendment checking was or could be performed in CourtListener.**
+
+
+---
+
+## ADDENDUM (9/26/2026) — tender statutes (for R2 addendum / OI-72)
+
+| Authority | Status | What was verified |
+|---|---|---|
+| **Mission Ins. Group, Inc. v. Merco Construction Engineers, Inc. (1983) 147 Cal.App.3d 1059** (CL cluster 2106093) | **VERIFIED (read in full)** | Quotes Civ. §§ 1504, 1494 (fn. 1); holds a conditional tender does not stop interest (p. 1067); quotes § 1525 (p. 1068). Rehearing denied 11/2/1983; hearing denied 12/15/1983. |
+| **Hicks v. E. T. Legg & Associates (2001) 89 Cal.App.4th 496** (CL cluster 2244489) | **VERIFIED (read in full)** | Quotes Civ. § 1500 (fn. 4) and CCP § 2076 (fn. 10); a § 1500 offer without a deposit could be found ineffective (p. 510). Review denied 8/8/2001. |
+| **Turner v. Seterus, Inc. (2018) 27 Cal.App.5th 516** (CL cluster 6239945) | **PARTIAL (operative passage only)** | Quotes Civ. § 1495 at p. 542, in a tender-ability dispute (bank-balance evidence). Full opinion not read; read it before relying beyond the quoted text. |
+
+Gap: statutory text is as quoted in 1983/2001/2018 opinions. Confirm the current official
+text and run KeyCite on all three.

@@ -1750,3 +1750,92 @@ If buyout financing, they are contemporaneous readiness evidence (see adverse an
 [PRIV] 1/9/2024 Ormonde: "They have still refused to send me the appraisals for my review";
 client written requests 8/17/2023, 10/8/2024, 12/17/2024. A counsel-to-counsel written demand
 is still not located (Ormonde's file — retrieval list §1 item 7 stands).
+
+## ✅ OI-70 RESOLVED (CLIENT-ATTESTED, 9/26/2026) — the AgWest quotes were for buyout financing
+Client (Jace), 9/26/2026: **"Yes that was to fund the buyout. We'd love to pay them."**
+Graded **CLIENT-ATTESTED**: no email states the purpose. The AgWest pricing thread
+(18ae22ec1e7ad388) was re-read in full (19 messages, 9/29/2023 → 2/20/2026). Non-privileged
+context that fits the client's account:
+1. **9/29/2023**: Jace forwarded the $2,000,000 20-year pricing ("Fixed Rate Pricing.xlsx")
+   the **same day to Steve (sleal84674@aol.com) and Jordan**. AgWest's note reads "Again, these
+   rates are only good for 30 days… if everything works out to finance with AgWest." The
+   word "Again" suggests earlier talks. No source for what those talks were.
+2. **10/3/2023**: Jace to AgWest: "can you send me a copy of the signed BBR from 9/30/22? **I
+   may need it for the appraisals.**" (18af15a6bf35dd5b).
+3. **2/19/2025 $5M request**: six days after the 2/13/2025 client buyout workbook
+   ($4,900,741.45, with loan calculators at 4% and 8%) and 12 days before the 3/3/2025 offer.
+   The pricing sheet came back 2/25/2025, six days before the offer.
+4. **1/21/2026**: Jace asked AgWest to "update this quote sheet". That is the same date as
+   defendants' mediation brief. AgWest sent the updated sheet on **1/28/2026 at 4:20 PM PT,
+   the mediation day**. It priced principal and interest over 20 years; the amount is not
+   in the email body and the PDF was not opened (INDETERMINATE).
+Privileged emails also fit the client's account ([PRIV] 9/26/2023 "would have needed to refinance some
+land"; [PRIV] 10/3/2023 "the $356,000 bypass trust income in full along with the 10% down
+payment"). Using them risks subject-matter waiver, so counsel decides. The non-privileged AgWest
+emails can carry the point without them. **Limits and the risk that this argument turns
+against us: A-66, A-67.**
+
+## 🔴 OI-71 — Turn "we were ready to pay" into proof counsel can use (client + lender)
+1. **Preserve the three pricing attachments** (the connector cannot open attachments):
+   "Fixed Rate Pricing.xlsx" (9/29/2023), "Manuel C. Leal & Son Dairy Pricing.pdf"
+   (2/25/2025), "Manuel C. Leal & Son Dairy Pricing 1.28.26.pdf" (1/28/2026). Download them
+   from Gmail into the Drive case folder and record the 1/28/2026 amount.
+2. **Get a lender letter, reviewed by counsel before it is requested.** It should confirm
+   the 2023 and 2025 pricing requests, and their purpose **only if AgWest's own file or
+   recollection supports it**. Do not ask the lender to adopt our wording.
+3. **Get a current commitment or pre-approval** for the buyout, plus proof of funds for the
+   down payment. A rate quote is not a commitment (A-66). Under the contract's structure
+   the cash needed at purchase is 10%, not the full price (A-66 math).
+4. **Check the debt covenants before any buyout loan**: Settlement ¶7(d) (Partnership
+   debt ≤ lesser of 50% of total appraised real-property value or $6,500,000), TIC §8(a)
+   (the same cap for Hazel's collateral signatures), and TIC §8 (no encumbrance without
+   all Owners' written concurrence). Arithmetic in A-66. The balance of the second existing
+   mortgage is not in the record, so it is needed.
+Nothing is sent by this workspace. All correspondence stays human.
+
+## 🔴 OI-72 — COUNSEL DECISION: pay or formally tender the undisputed amount, with no conditions
+**Why this is on the list:** every offer so far was a settlement offer with conditions.
+That includes 3/3/2025, 7/2/2026 ("a release of all other claims by all parties (Civ.
+§1542)") and the 998. **VERIFIED** (*Mission Ins. Group v. Merco Construction Engineers*
+(1983) 147 Cal.App.3d 1059, 1067, read in full via CourtListener): "the conditional tender
+did not stop the running of interest," under Civ. Code §§ 1504 and 1494. If the contract's
+4% rate applies, interest has kept running even on the amount our side concedes. On our
+own $3,950,565.28 that is **$158,022.61 per year, about $13,168.55 per month**. Whether 4%
+applies, and to what base, is itself disputed.
+**Statutory text as quoted in the opinions read.** Current text and later case treatment
+(KeyCite) are not confirmed:
+- Civ. §1504: an offer of payment "duly made… stops the running of interest on the
+  obligation" (*Mission*, fn. 1).
+- §1494: an offer "must be free from any conditions which the creditor is not bound, on
+  his part, to perform" (*Mission*, fn. 1).
+- §1495: an offer "is of no effect if the person making it is not able and willing to
+  perform according to the offer" (*Turner v. Seterus, Inc.* (2018) 27 Cal.App.5th 516,
+  542; passage read, not the whole opinion).
+- §1500: a money obligation "is extinguished by a due offer of payment, if the amount is
+  immediately deposited in the name of the creditor, with some bank… and notice thereof
+  is given" (*Hicks v. E.T. Legg & Associates* (2001) 89 Cal.App.4th 496, fn. 4, read in
+  full). An offer "under Section 1500" **with no deposit** could be found ineffective
+  (id. at p. 510).
+- §1525: where part of the money is conceded, "the debtor may pay, without condition, the
+  amount conceded to be due, leaving to the other party all remedies…" (*Mission*, p. 1068).
+- CCP §2076: whoever receives a tender must state any objection at the time, "or be
+  precluded from objecting afterwards" (*Hicks*, fn. 10).
+**Considerations for counsel, both ways:**
+- *For:* paying or tendering may stop interest on that portion, if counsel concludes it does.
+  It turns "we'd love to pay them" into something a court can see. It answers the "they've
+  been paid nothing in four years" argument (post-death-profits-issue §5.2). It fits §1525's
+  stated policy. It makes defendants state their objections on the record (CCP §2076).
+- *Against / risks:* (a) **Which amount is "conceded"?** Our own figures run from
+  $3,950,565.28 (3/2025) to $5,705,257.43 (7/2026, which includes interest and bypass
+  income). Tendering less than our latest offer invites a "lowball" framing. (b) **Title
+  (OI-68).** Paying before record title is confirmed is risky. A §1500 deposit in the
+  creditor's name, escrow, or a deposit in court each leaves the funds in different hands;
+  counsel chooses the mechanics. (c) **Tax.** A payment by the partnership to the Trust as
+  successor starts a §736 liquidation (S-18; A-40's (a)(1)(i) trap), so structure it with
+  the CPA first. (d) **Who pays.** Art. XIII.B.2 says the *Partnership* pays for the
+  partnership interest; TIC §7(b) says the *Purchaser* (a remaining Owner) pays for the land.
+  (e) **Ability (§1495).** Have the financing commitment in hand first (OI-71). (f) Could
+  a payment be characterized as an election, or affect the specific-performance claim?
+  That is counsel's call. (g) A tender on the contract's own terms (10% down plus notes) at
+  *our* price needs far less cash. However, it may be treated as conditioned on accepting
+  our disputed price.

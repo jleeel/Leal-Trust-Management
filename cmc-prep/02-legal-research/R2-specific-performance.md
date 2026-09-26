@@ -380,3 +380,39 @@ potential buyer") are laid out in the sweep — this is an argument to build or 
 with the engagement letters in hand (OI-54), not to assume. UNVERIFIED as to law:
 enforceability of appraisal clauses under CCP § 1281 et seq. / case law on binding
 appraisals — Westlaw before use.
+
+
+---
+
+## ADDENDUM (9/26/2026) — Tender and offer-of-performance statutes, case-verified via CourtListener
+
+**Reliability:** statutory text below is **as quoted inside the opinions named** (each read via
+CourtListener). It is not read from the official code. Current text, later amendments, and
+negative treatment (KeyCite) are **NOT** confirmed. Nothing here is filing-ready.
+
+| Provision | Text as quoted | Source read |
+|---|---|---|
+| Civ. Code § 1504 | "An offer of payment or other performance, duly made, though the title to the thing offered be not transferred to the creditor, stops the running of interest on the obligation, and has the same effect upon all its incidents as a performance thereof." | *Mission Ins. Group, Inc. v. Merco Construction Engineers, Inc.* (1983) 147 Cal.App.3d 1059, fn. 1 (read in full) |
+| Civ. Code § 1494 | "An offer of performance must be free from any conditions which the creditor is not bound, on his part, to perform." | *Mission*, fn. 1 |
+| Holding | "We hold that the conditional tender did not stop the running of interest…" A conditional tender "does not come within the provisions of Civil Code section 1504." | *Mission*, p. 1067 |
+| Civ. Code § 1525 (part) | "In case of a dispute over total money due on a contract and it is conceded by the parties that part of the money is due, the debtor may pay, without condition, the amount conceded to be due, leaving to the other party all remedies to which he might otherwise be entitled as to any balance claimed." | *Mission*, p. 1068 (the court did not decide whether "may" means "shall") |
+| Civ. Code § 1495 | "[a]n offer of performance is of no effect if the person making it is not able and willing to perform according to the offer" | *Turner v. Seterus, Inc.* (2018) 27 Cal.App.5th 516, 542 (**passage read; full opinion not read**) |
+| Civ. Code § 1500 | "An obligation for the payment of money is extinguished by a due offer of payment, if the amount is immediately deposited in the name of the creditor, with some bank or savings and loan association within this state, of good repute, and notice thereof is given to the creditor." | *Hicks v. E. T. Legg & Associates* (2001) 89 Cal.App.4th 496, fn. 4 (read in full) |
+| Application | An offer "under Section 1500" with no deposit: "the jury could reasonably conclude the tender was ineffective because they made no deposit of funds." | *Hicks*, p. 510 |
+| CCP § 2076 (part) | "The person to whom a tender is made must, at the time, specify any objection he may have to the money, instrument, or property, or he must be deemed to have waived it; and if the objection be to the amount of money… he must specify the amount… he requires, or be precluded from objecting afterwards." | *Hicks*, fn. 10 (also cites Civ. Code § 1501) |
+
+**Considerations for counsel (none predicts an outcome):**
+1. **§ 3392 and ability.** R2 above treats § 3392 as the plaintiff-side performance/tender
+   requirement. § 1495 makes ability and willingness part of any effective offer. The client
+   attests the 2023 ($2M) and 2025 ($5M) AgWest quotes were buyout financing (OI-70). Counsel
+   should evaluate whether quotes, as opposed to a commitment, would carry an ability showing
+   (A-66). *Turner* shows ability being attacked with bank-balance evidence.
+2. **Contract structure.** Settlement ¶7, TIC §7(b) and Art. XIII.B.2 require 10% at purchase
+   plus a note. Counsel should evaluate whether "performance" for § 3392 and § 1495 purposes
+   means 10% down plus executed notes and deeds of trust, rather than the full price in cash.
+3. **Prior offers were conditional** (settlement and release terms). Under *Mission*, counsel
+   should evaluate whether any of them affected interest; A-67 assumes they did not.
+4. **The unconditional option** (OI-72): § 1525 payment of the conceded amount, or a § 1500
+   deposit with notice. Counsel should weigh title risk (OI-68), § 736 tax structuring (S-18),
+   who the proper payor is (Partnership vs. Purchaser), and the risk of having it
+   characterized as an election.

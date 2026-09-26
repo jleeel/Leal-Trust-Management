@@ -288,3 +288,16 @@ Bypass share (ledger Part III sequencing).
 Refresh the one-page timeline exhibit to the 169-event chronology · fold retrieval
 responses into the record as they arrive · draft-support anything counsel requests.
 Everything is committed and pushed through this update.
+
+
+## UPDATE 9/26/2026 — "We'd love to pay them": making readiness count (OI-70 → OI-71/OI-72)
+
+**Client, this week:** (1) save the three AgWest pricing attachments to the Drive case folder
+(retrieval item 32); (2) after counsel approves the wording, ask AgWest (Kennedy) for a
+confirmation letter and a **current commitment or pre-approval** for the buyout (item 33),
+and pull the current debt schedule (item 34). **New counsel, first decisions:** OI-72,
+whether to pay or formally tender, **without conditions**, the amount our side concedes. Every
+offer so far carried conditions, and on the verified *Mission* rule a conditional offer does
+not stop interest. At 4% on our own $3,950,565.28 that is about $13,169 a month. Weigh it
+against title (OI-68), § 736 tax structuring, and the debt-cap question (A-66). Read with
+A-66/A-67 (the limits and the "why didn't you pay?" question) and the R2 tender addendum.

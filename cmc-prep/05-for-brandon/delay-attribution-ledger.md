@@ -138,11 +138,25 @@ and/or sale" (A-62); Esraelian tied the Hower appraisal to the 12/15/2023 Form 7
 deadline (a stated estate-tax purpose, not merely a litigation pivot). **Net: the 17-month
 delivery gap remains theirs — they held completed reports while our side asked for them —
 but the interval carries real ours-side slack and must be argued that way.**
+*(f) Added 9/26/2026: financing readiness inside the withholding (OI-70, A-66/A-67).* On
+**9/29/2023**, six weeks after the appraisal was "coming next week," AgWest priced a
+**$2,000,000** 20-year mortgage. Jace forwarded it the same day to Steve and Jordan. On
+**10/3/2023** Jace told AgWest "I may need it for the appraisals." The client attests
+(9/26/2026) that this was buyout financing. Under Settlement ¶7 only 10% is due at purchase,
+about $441K on the later 3/3/2025 figures, so a $2M loan fits ability to perform on the
+contract's own terms. **Helps:** while their side held the reports, ours was lining up the
+money. **Limits:** it is a quote, not a commitment; the purpose is CLIENT-ATTESTED; and the
+non-privileged record does not show the readiness was communicated to defendants.
 
 ### Interval 4 — Reports to offer (1/17/2025 → 3/3/2025, 6 weeks) · **OURS, PRODUCTIVE**
 Appraisal summary built 1/22/2025; capital work 2/13/2025; **priced offer served 3/3/2025**
 ($3,950,565.28, full computation attached). Six weeks from finally receiving the numbers to
 a complete offer — the best single proof that the appraisals were the bottleneck all along.
+*Added 9/26/2026:* financing was priced inside the same six weeks. Jace asked AgWest for a
+**$5,000,000** quote on 2/19/2025 ("in addition to the existing") and received the pricing
+sheet on 2/25/2025, six days before the offer. $5M is more than the offer's $4,407,509.93
+gross price. The purpose is CLIENT-ATTESTED (OI-70). **Limit:** the offer that followed was a
+conditional settlement offer, so on the verified *Mission* rule it did not stop interest (A-67).
 
 ### Interval 5 — Offer to "final" counter (3/3/2025 → 6/25/2025, **3.7 months**) · **THEIRS, DOCUMENTED**
 No response to the 3/3/2025 offer; our status letters **5/23/2025** and **6/20/2025** (the
@@ -160,6 +174,10 @@ capitulation.
 ### Interval 7 — Litigation to mediation (10/16/2025 → 1/28/2026, 3.4 months) · **PROCESS, ORDINARY**
 Mediation before Judge Volkmann (JAMS) **1/28/2026**; their demand ~$6,000,000; no deal.
 The original February 2026 CMC was continued to 10/13/2026.
+*Added 9/26/2026:* Jace asked AgWest to update the buyout quote sheet on **1/21/2026** (the date
+of their mediation brief). The updated pricing arrived on **1/28/2026**, the mediation day
+(18ae22ec1e7ad388). Financing readiness was refreshed for the mediation; the amount is
+INDETERMINATE (the PDF was not opened).
 
 ### Interval 8 — Post-mediation drift (2/2026 → 7/2/2026, 5 months) · **MOSTLY OURS — CORRECTED 9/26/2026 from the native email record**
 Ours: the served offer did not issue until **7/2/2026** — five months in which our number
@@ -177,12 +195,21 @@ was "not a new capital expense or investment." Defendants signed once documented
 closed by 8/11/2026. **Net: the document lag was ours, their review hold was reasonable and
 resolved, and the episode created a credibility exposure (A-59). The AgWest item is REMOVED
 from defendants' column; do not use the "held up our routine refinance" narrative.**
+*Added 9/26/2026 (A-66 ¶2):* after the mediation failed, the financing thread with AgWest moved
+from buyout pricing (1/28) to the heifer-ranch refinance and the LOL base (2/19–2/20/2026).
+Their framing will be that borrowing capacity went to expansion instead of the Trust. Our
+answer, that no buyout can close while the price is in litigation, has to be made
+explicitly.
 
 ### Interval 9 — The 998 and since (7/2/2026 → present) · **OURS TO FIX**
 998 package served ~7/9/2026 with the defects catalogued in verified_facts_memo §6; every
 computed acceptance window expired by **8/13/2026**; no discovery served by either side;
 CMC **10/13/2026**. The fastest path to re-seizing the delay narrative is the one already
 recommended: a clean, corrected, unconditional offer with a current interest figure.
+*Added 9/26/2026:* the verified tender rules (*Mission*, 147 Cal.App.3d at 1067; *Hicks*, 89
+Cal.App.4th 496, fn. 4 and p. 510) sharpen this. An offer conditioned on a release does not stop
+interest. Paying, or depositing under §1500, the amount we concede, without conditions, is
+the move that could stop the clock on that portion. That is a counsel decision (OI-72).
 
 ### The tally
 Of ~47 months from death to today: **~21 months are documented-theirs** (Intervals 3 and 5),

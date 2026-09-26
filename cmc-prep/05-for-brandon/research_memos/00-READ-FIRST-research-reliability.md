@@ -180,3 +180,9 @@ EARLIER $5,750,000 § 998 offer (service unestablished — OI-41). If two succes
 exist, Martinez/Wilson/T. M. Cobb govern the baseline analysis; R1 Addendum 2 frames the
 briefing question. Still Westlaw-only: subsequent history/citing treatment of all four
 successive-offer cases, and whether Martinez extends to a LOWER second offer by the offeror.
+
+
+**Update 9/26/2026:** R2 gains a tender-statute addendum. Civ. §§ 1494, 1495, 1500, 1504 and
+1525 and CCP § 2076 are case-verified **as quoted** in *Mission* (1983), *Hicks* (2001) and
+*Turner* (2018, passage only). They are not verified against the official code text, and
+KeyCite has not been run.

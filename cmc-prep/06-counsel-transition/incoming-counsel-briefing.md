@@ -184,3 +184,15 @@ Stanley account history · **five complete Drive-territory sweep reports + a 1,6
 master manifest** · **document-retrieval-list.md** (31 items, by producing source) ·
 open-items register (**62 items**, prioritized). Git history shows every source and every
 correction.
+
+
+---
+
+**Late addendum (9/26/2026) — readiness to pay and the tender question.** The client attests
+that the AgWest quotes (9/29/2023 $2M; 2/19/2025 $5M; refreshed 1/28/2026, the mediation day)
+were buyout financing (OI-70). They fit the contract's 10%-down structure. They are quotes,
+not commitments. They may raise a debt-cap question under Settlement ¶7(d). They also invite
+"why was the conceded amount never paid?", because every offer was conditional and, on the
+verified *Mission* rule, did not stop interest (A-66, A-67). **Decision for you:** OI-72, an
+unconditional payment or § 1500 deposit of the undisputed amount, weighed against title
+(OI-68) and § 736 structuring. Verified statute text as quoted in the cases: R2 addendum.

@@ -2041,3 +2041,83 @@ $5,000,000 with current rates?" — "That would be in addition to the existing" 
 before the 3/3/2025 offer). If these were buyout-financing inquiries, they are the
 contemporaneous "ready, willing and able" proof the record has lacked. **Confirm purpose with
 the client before characterizing.**
+
+## READINESS EVIDENCE — UPDATED 9/26/2026: purpose now CLIENT-ATTESTED (OI-70 resolved)
+
+The client confirms that the 9/29/2023 ($2M) and 2/19/2025 ($5M) AgWest quotes were for buyout
+financing: "Yes that was to fund the buyout. We'd love to pay them." This is CLIENT-ATTESTED;
+no email states the purpose. The non-privileged context that fits it is in OI-70. The above
+note ("purpose unconfirmed") is superseded but kept. Why it matters: the contract requires
+only **10% at purchase**, not the full price. Settlement ¶7(a)/(b) sets 10% down plus a note
+secured by a deed of trust; the land note is due in 2 years and the partnership note in 10.
+TIC §7(b) and Art. XIII.B.2 say the same. On the 3/3/2025 figures the down payments are
+$336,092.24 (land) + $104,658.75 (partnership) = **$440,750.99**. With the $356,000 bypass
+income the [PRIV] 10/3/2023 email said would be paid, the total is **$796,750.99**, well
+inside a $2,000,000 loan. The 2/2025 $5,000,000 quote was more than the whole
+**$4,407,509.93** gross price in the 3/3/2025 offer. **On this record the quotes fit ability
+to perform on the contract's own terms.** The limits come next and must travel with it.
+
+## A-66. The readiness evidence has hard limits: quotes, not commitments
+
+1. **They are rate quotes, not applications, approvals, or commitments.** "Just for
+   informational purposes" are Jace's own words (2/19/2025). No underwriting, collateral
+   appraisal, or credit decision is in the record. Where ability is contested, courts test
+   it against actual funds: in *Turner v. Seterus*, 27 Cal.App.5th at 542, the other side
+   attacked a tender using the offeror's bank balance nine days later. A rate sheet is weak
+   proof of ability. A commitment letter is strong proof (OI-71).
+2. **The purpose rests on the client's word.** The other side can suggest other uses. The
+   only financing that actually closed after these quotes (8/11/2026) paid the heifer-ranch
+   balloon and a **$600,000 LOL base purchase** (A-59). Their line: *"After the mediation
+   failed, they spent their borrowing capacity on expansion, not on paying the Trust."*
+   Our answer: nobody can close a buyout while the price is being litigated, and the
+   business still has to run. That answer is fair, but it has to be made. It cannot be
+   assumed.
+3. **Nothing shows the readiness was communicated to the other side.** The non-privileged
+   record shows only family (9/29/2023) and the lender. On the delay question the quotes
+   still show we were not the bottleneck. On tender law, however, an uncommunicated ability
+   does nothing (A-67).
+4. **Debt-cap arithmetic (INDETERMINATE; a question the other side could raise).** Settlement
+   ¶7(d) caps Partnership debt at the lesser of 50% of total appraised real-property value
+   or **$6,500,000**. On the 3/3/2025 letter's $14,047,460 land total, 50% is $7,023,730, so
+   **$6.5M governs**. Jace said the $5M would be "in addition to the existing" mortgages.
+   Add the 12/31/2024 herd line (**$1,391,112**, FY2025 draft Note 3) and the Rodrigues
+   balloon (**≈$651,937**) and the total is at least about **$7.04M**, over the cap before
+   counting the second mortgage, whose balance is not in the record. If the mortgages were
+   refinanced *into* the $5M, as AgWest itself suggested on 2/25/2025, the total is about
+   **$6,391,112**, just under the cap. Open questions for counsel: whether the cap binds
+   buyout financing at all (if the Trust is paid in full at closing it is no longer a
+   noteholder or owner), and whether TIC §8's all-owner concurrence was needed. Note that
+   the TIC §6(c) *lifetime* clause expressly exempts debt increases "the result of a need to
+   borrow money to pay off said promissory note." The parties expected a buyer to borrow to
+   retire the purchase note. Whether §7(b) carries the same exemption is not shown in the
+   extract, so read the instrument.
+5. **The borrower named on the pricing is the Partnership** ("Manuel C. Leal & Son Dairy
+   Pricing"). That fits Art. XIII.B.2, where the Partnership pays for the partnership
+   interest. For the land, TIC §7(b) names the "Purchaser" (a remaining Owner). Structure
+   and tax treatment (§736 vs. a cross-purchase) are for counsel and the CPA.
+
+## A-67. The question the readiness evidence invites: "If you could pay, why didn't you?"
+
+Proving we were **able** to pay since 2023 raises a question we must answer: *why was the
+amount we concede never paid?* Every offer our side made came with conditions: 3/3/2025
+(settlement), 7/2/2026 ("a release of all other claims by all parties (Civ. §1542)"), and the
+998. **VERIFIED:** "the conditional tender did not stop the running of interest" (*Mission Ins.
+Group v. Merco* (1983) 147 Cal.App.3d 1059, 1067, under Civ. Code §§ 1504, 1494). So on the
+contract's 4% theory, interest has run the whole time even on our own $3,950,565.28, about
+**$13,168.55 per month**. Their line: *"Plaintiff says he was ready and able since 2023, yet
+never paid the Trust a dollar of the amount he admits is owed. The Trust has been an
+unpaid partner the entire time."* That supports their equitable claim to post-death profits
+(post-death-profits-issue §5.2). Our honest answers:
+(a) Before 1/17/2025 the price could not be computed. The contract fixes it by appraisal,
+and they held the appraisals (ledger Interval 3). So for 2023–24 the readiness evidence
+**helps**.
+(b) After 3/3/2025 the answer is weaker. We had the numbers and the financing capacity but
+made only conditional offers.
+(c) The remedy is still available: see **OI-72** (an unconditional payment or tender of the
+undisputed amount, a counsel decision).
+
+**CORRECTION (logged, not silent):** post-death-profits-issue.md §5.2 says "we tendered interest"
+and "our own July 2026 offer tendered" 4%. That wording means a *settlement offer*. It was
+conditioned on a general release, so under *Mission* it is **not** a statutory tender under
+Civ. Code §1504 and does not by itself stop interest. The substantive point stands: our side
+has consistently proposed paying the contract's 4%. A note is added at that passage.

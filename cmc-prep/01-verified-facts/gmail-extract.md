@@ -112,6 +112,25 @@ Now held natively (previously only a screenshot). Full sequence, all read:
 4. Explains A-44's unsourced "$3.5M LOL BASE" line in the 4/1/2026 equity model (in part:
    3,000 units @ $200 purchased 3/20/2026).
 
+### 2.x Buyout-financing readiness — the pricing thread (18ae22ec1e7ad388), added 9/26/2026
+
+Read in full (19 messages). **9/29/2023** Averee Johnson → Jace: "Attached is current fixed pricing
+for a $2,000,000 mortgage over 20 years… Again, these rates are only good for 30 days, so most
+likely you'll see a slight difference if everything works out to finance with AgWest."
+Jace forwarded it the same day to sleal84674@aol.com and jordanleal9@gmail.com.
+**2/19/2025** Jace: "Hi Averee, Just for informational purposes can you quote $5,000,000 with
+current rates?" **2/24** AgWest asked whether this included the two existing mortgages; Jace:
+"That would be in addition to the existing." **2/25** pricing sheet: "The variable/floating rate
+is lower than your current mortgages now due to the large loan amount. If you were to finance
+this loan with us, we could refinance the current mortgages with this one." **1/21/2026** Jace
+to Jonathan Kennedy: "Would you be able to update this quote sheet for me?" **1/28/2026** (4:20
+PM PT, the mediation day) the updated PDF, repriced as 20-year principal and interest. **2/19–
+2/20/2026** the thread turns to the Inyo heifer-ranch refinance and the LOL base (A-59).
+Companion thread 18af15a6bf35dd5b, **10/3/2023**: "I may need it for the appraisals."
+**No message states the purpose.** Per the client, 9/26/2026: "Yes that was to fund the
+buyout. We'd love to pay them" (CLIENT-ATTESTED; OI-70). The attachments were not opened
+(OI-71). Limits: A-66/A-67.
+
 ## 3. The § 998 — design, service, and the 5/18 draft (19e3be022c92f7c0; 19ed33e5a03baa31; 19f24f22912e7e74; 19faef5ef5a7be1a)
 
 - **[PRIV] 5/18/2026 16:16 UTC, Jace → Ormonde:** attachment "Formal Cover Letter - CCP
