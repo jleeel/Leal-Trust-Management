@@ -1,0 +1,86 @@
+# CLAUDE.md — Leal Trust Management litigation-support workspace
+
+**ATTORNEY WORK-PRODUCT SUPPORT — PRIVILEGED & CONFIDENTIAL.** Everything in `cmc-prep/`
+supports counsel in *Manuel Stephen Leal v. Ashley Garabedian and Hazel Susan Leal,
+Successor Co-Trustees of the Hazel J. Leal Revocable Trust dtd 11/3/2008*, Tulare County
+Superior Court **No. VCU327028** (Visalia Div.). Client side: Steve Leal (plaintiff) and
+Jace Leal (jaceleal@gmail.com — the repo owner and the person you are working with).
+CMC: **October 13, 2026**.
+
+## Binding rules (verbatim from the original tasking — never relax these)
+
+- Every factual statement carries a citation or an explicit "no source."
+- Adverse facts get equal rigor. Nothing is omitted for narrative fit.
+- Legal memos inform counsel; they never state what "will" happen in court.
+- **Nothing here gets sent to any party. All correspondence stays human.**
+- This is attorney work-product support: verified inputs for counsel, never filings,
+  never legal conclusions stated as fact.
+
+Additional standing rules learned in-session:
+- **Preserve, never delete.** Litigation hold. A Drive deletion mid-case already caused a
+  spoliation scare (adverse analysis A-51). If asked to delete or "clean up" case
+  materials, restore/preserve instead and flag.
+- Client attestations are recorded as **CLIENT-ATTESTED** until a document supports them;
+  several have been contradicted by later documents (see OI-62 → SIXTH C.3).
+- Legal research is **UNVERIFIED** unless read from primary text (client-uploaded PDFs) or
+  from opinion text via the CourtListener MCP. Web legal sources (leginfo, Cornell, eCFR,
+  courtlistener.com web, justia, casetext) are **blocked by the egress proxy** — ask the
+  client to print-to-PDF and upload, as was done for 26 CFR 1.736-1.
+- No model identifiers in anything pushed to the repo or shown outside chat.
+
+## Conventions
+
+- **Commits**: `git -c user.email="jaceleal@gmail.com" -c user.name="Jace Leal" commit ...`,
+  push with `git push -u origin claude/cmc-prep-tulare-partnership-qphb9a` (retry w/
+  backoff on network failure only). Never push elsewhere. Commit and push after every
+  integration — the repo is the system of record; the container is ephemeral.
+- **Grading vocabulary**: SUPPORTED / PARTIAL / UNSUPPORTED / CONTRADICTED /
+  INDETERMINATE / NOT ESTABLISHED / CLIENT-ATTESTED / as-recited (internal draft).
+- **Citations**: document title + Google Drive file ID + internal page/section. No Bates
+  numbers exist. The Drive (jaceleal@gmail.com) is the document store; the repo holds
+  extracts, not source PDFs (exceptions: small evidence items saved to
+  `cmc-prep/01-verified-facts/` when they arrived by chat upload).
+- **Chronology** (`cmc-prep/03-chronology/chronology.csv`): columns
+  `date,date_certainty,event,source,citation,category,source_is_brief_only`. Insert via
+  Python `csv` module, stable-sort by date. Event text carries verification caveats.
+- **Mirroring**: deliverables are mirrored into `cmc-prep/05-for-brandon/` (read the name
+  as "for litigation counsel"). After editing a canonical file, re-copy its mirror.
+- **Spreadsheets**: `05-for-brandon/settlement_model.xlsx` — openpyxl only, formulas never
+  hardcoded results, then `python3 /root/.claude/skills/synced/xlsx/scripts/recalc.py`
+  must report 0 errors before committing.
+- **Numbering**: adverse items A-1…; open items OI-1…; continue sequences, never renumber.
+  Corrections are logged as updates/addenda, never silent edits.
+
+## Workspace map (`cmc-prep/`)
+
+- `01-verified-facts/` — graded memos + instrument/exhibit extracts + `drive-sweep/`
+  (five complete Drive-territory sweep reports + `master-manifest.csv`, 1,650 items).
+- `02-legal-research/` — R1–R4 memos (reliability-tagged), CourtListener verification
+  report, Han v. Hallberg explainer. Nothing is filing-ready without KeyCite.
+- `03-chronology/` — the master chronology (170+ cited rows), timeline-exhibit.html,
+  delay-attribution-ledger.md (incl. the funneling-accusation assessment).
+- `04-adverse-analysis/` — red-team file, A-1…A-58+, corrections log.
+- `05-for-brandon/` — the counsel package: 00-COVER-NOTE (start here), action_plan,
+  open_items (OI-1…OI-65+), document-retrieval-list, settlement model, mirrors.
+- `06-counsel-transition/` — incoming-counsel briefing (the 20-minute front door) +
+  selection checklist. The client replaced prior counsel (Ormonde); status of new counsel
+  should be confirmed at session start if relevant.
+
+## How to integrate a new case document (the standard loop)
+
+1. Read it IN FULL (never partially before relying on it). Note Drive ID or preserve the
+   upload into `01-verified-facts/` if it arrived via chat.
+2. Grade its facts; check against existing findings — log corrections explicitly.
+3. Update: relevant extract file → adverse analysis (both directions) → open items
+   (resolve/spawn) → chronology rows → retrieval list → source register (S-nn).
+4. Re-copy mirrors, commit with a substantive message, push.
+5. Tell Jace what changed, leading with anything they must act on. Plain language — Jace
+   is not an attorney. Honest both-ways analysis is expected and has repeatedly changed
+   decisions (see OI-63, OI-64, OI-65).
+
+## Current-state pointers (do not trust this file for live status — read these)
+
+`05-for-brandon/00-COVER-NOTE.md` (orientation) → `action_plan.md` (who does what) →
+`open_items.md` tail (the newest OI updates are appended chronologically) →
+`document-retrieval-list.md` (what's still missing, by source). Git log is the change
+journal.

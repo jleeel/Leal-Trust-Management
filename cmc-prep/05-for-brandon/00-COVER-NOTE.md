@@ -270,3 +270,20 @@ referenced in the record that still needs to be obtained, with the case-posture-
 items flagged. The four highest-priority questions for your first call remain: (1) was the
 5/18/2026 $5.75M 998 served (OI-41); (2) the as-served July 998 POS (OI-1); (3) the ¶5/¶6
 performance answers (OI-59); (4) the Frazer reconciliation session (OI-42/OI-60).
+
+**SECOND POSTSCRIPT (9/26/2026):** Current counts: adverse analysis A-1–A-58; open items
+through OI-65 (newest updates append at the file's tail); chronology 173 cited entries;
+retrieval-list items 11 and 12 resolved (the complete original Manuel Living Trust was
+produced 9/25/2026 and read in full — extract addendum in trust-instruments-extract.md).
+Late-September developments a new reader must see: (1) **OI-64** — Susan's $1,689.19
+final-annuity demand; the instrument supports her on two of three internal indicators;
+recommendation is pay-and-close through counsel, and the obligation is Steve's personal
+charge, not the trust's; (2) **SIXTH C.3** — the Bypass remainder passes 100% to Steve,
+validating the 1/1/2023 7.5% transfer and reframing the ¶5 Morgan Stanley wind-up as
+half to Hazel's trust / half to Steve; (3) **OI-65** — the Hazel/Susan JT-TEN Morgan
+Stanley account (115-044250-006): community-funding evidence (LOL redemption check
+$137,197.24, 6/21/2007, partnership patron #2017201), go/no-go tiers keyed to the
+DOD-2022 balance, the verified *Estate of Yool* limitations map (§366.2 framing is dead;
+the §850 specific-property framing is alive; **a demand on Susan starts the clock — do
+not demand before the Morgan Stanley subpoena returns**). A repo-root CLAUDE.md now
+orients any future support session.
