@@ -1560,3 +1560,39 @@ prices the defenses):
   personal-exposure lever on a defendant, distinct from every other claim in the case.
   Same both-edges warning as before: raising it licenses reciprocal account-tracing
   against Steve's side. Decide once, with the subpoena results, through counsel.
+
+### OI-65 THIRD UPDATE (9/26/2026) — the LOL payout document read firsthand; check-level detail verified
+Source read directly this session: "Leal age retirement payouts.pdf" (Drive
+1z0GK1mZCS-6yZqdUu0tu5rHgl5khGlep). The verified check table (LOL age-75 100% equity
+redemptions, all drawn on LOL's Wells Fargo account, all payable to the individual at
+21127 Road 68):
+
+| Payee | Check # | Date | Amount | LOL ref |
+|---|---|---|---|---|
+| Manuel C. Leal | 14465258 | 2/24/2005 | $86,534.70 | **#2017201** |
+| Manuel C. Leal | 14477101 | 4/7/2005 | $12,541.61 | **#2041468** (second patron no. — identify) |
+| Manuel C. Leal | 14571322 | 4/6/2006 | $5,800.81 | #2017201 |
+| Manuel C. Leal | 14645390 | 2/22/2007 | $29,088.18 | #2017201 |
+| Manuel C. Leal | 14654723 | 4/5/2007 | $14,732.93 | #2017201 |
+| **Hazel Leal** | **14670580** | **6/21/2007** | **$137,197.24** | **#2017201** |
+
+Manuel total $148,698.23; combined $285,895.47. Hazel's DOB 4/16/1932 (license image in
+the document) — her check issued two months after her 75th birthday, matching the
+program's terms.
+
+**NEW FINDING — the patron number on the checks:** Hazel's redemption letter and check
+reference **LOL #2017201 — the PARTNERSHIP'S patron account** ("Manuel C. Leal & Son,"
+the same number on every milk settlement and equity statement in the record). The equity
+redeemed to her individually accrued as patronage under the dairy's patron relationship —
+i.e., on partnership milk produced during the marriage. On these documents the redeemed
+funds are **community property (the couple's share of dairy patronage) or arguably
+partnership-derived — under no reading Hazel's SEPARATE property.** (Manuel's trust
+Exhibit A item 9 — his half of the couple's 75% of LOL retains — corroborates the
+community treatment; invoice code "IND_RET" confirms these were the individual member
+equities, distinct from the partnership's own ~$900K patron-equity account that remains
+partnership property.) If check #14670580 is the JT-TEN account's opening deposit, the
+tracing chain is complete on documents already in hand: partnership-patronage equity →
+$137,197.24 to Hazel → joint tenancy with Susan → survivorship to Susan 9/2022. The
+Morgan Stanley subpoena (2007 opening records + DOD-2022 statement) remains the single
+decisive step. Also identify LOL #2041468 (Manuel's 4/7/2005 check rode a different
+patron number — likely a legacy/second account; ask LOL member services).
