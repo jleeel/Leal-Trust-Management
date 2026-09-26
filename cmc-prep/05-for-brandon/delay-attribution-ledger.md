@@ -38,25 +38,35 @@ settlement they now under-perform. *Caveat:* the 2016 Bypass funding deed had to
 corrected in 2017 (Griswold LaSalle drafting error) — a real pre-death delay item that
 belongs to nobody's litigation column.
 
-**P-2 · The Settlement dormancy (12/7/2017 → 9/22/2022, ~4.8 years).** ¶5 (divide the
-Morgan Stanley account, ~$85K to the Partnership, income to Hazel monthly) was performed
-by NOBODY — the account sat untouched, undivided, income accumulating, reported under a
-dead man's SSN (trust-admin sweep §2.4). ¶6's $350,000 payment has no located proof. ¶8's
-monthly accountings — compliance undocumented either way. **Attribution for this interval
-is genuinely open on the located record**: no letter, email, or instruction from either
-side about dividing the account between 2018 and 2022 has been found. The client attests
-Hazel's side resisted division (CLIENT-ATTESTED — no located document yet); Hazel was
-co-trustee with Steve, so each side had the legal power to force the issue and neither
-did. Finding any 2018–2022 division-demand correspondence (either direction) converts
-this from mutual dormancy into attributed delay — see OI-62.
+**P-2 · Settlement implementation (12/7/2017 → 9/22/2022, ~4.8 years) — CORRECTED 9/26/2026 from the Gmail sweep.**
+Not dormancy: **¶5 was actively fought over and performed as modified** (gmail-sweep §2.2(a),
+all cited there). Griswold LaSalle worked the Morgan Stanley paperwork from 7/2018; on
+**1/17/2019** GL proposed the $101,140.67 reimbursement to the Dairy with the balance halved
+between Hazel and the Bypass — and **Esraelian refused**: "*NO*, you cannot instruct Morgan
+Stanley to reimburse the Dairy $101,140.67… we *DO NOT AGREE*… WITHOUT PROOF AND BACK UP"
+(1685d8f08355cec2, verified verbatim). GL: "We have provided to you all the information. We
+remain at a stand still" (2/14/2019: "awaiting your instructions"). Then the delay shifted to
+OUR side: in 2020 Esraelian reported GL "hasn't been available for my last 3 phone calls," and
+GL "dropped the ball" on Jace's house deed. The MS letter was signed by Hazel (8/12/2020) and
+Steve (11/11/2020); MS issued the check ~12/3/2020; Frazer confirmed on 2/17/2021 that **the
+Bypass Trust reimbursed the Dairy $80,000**. **Attribution: 2019 = theirs (the reimbursement
+hold, on a documented backup demand); 2020 = ours (GL unresponsive); performance achieved
+at a modified $80,000.** Still unconfirmed in any email: that the account itself was divided
+after the letter reached MS (post-10/2020 MS statements — retrieval list). ¶6 ($350,000):
+no email either way. ¶8 monthly accountings: sporadic production shown (11/2017, 10/2020,
+1/2021, 7/2021, CPA online access 9/2020) — partial compliance, monthly regularity not shown.
 
 ---
 
-### Interval 0 — Death to first counsel contact (9/23/2022 → 10/31/2022, 5 weeks) · **OURS, PROMPT**
-Our counsel emailed defendants' then-counsel (Esraelian) on **10/31/2022** re representation,
-closing Manuel's Trust, and **exercise of the purchase option** — five weeks after death.
-Prompt initiation is documented. *Caveat:* the TIC ¶11 / Art. XIII.J 30-day window to agree
-on a single appraiser lapsed **10/23/2022** with no agreement — a joint miss at the start.
+### Interval 0 — Death to first counsel contact (9/23/2022 → 10/31/2022, 5 weeks) · **JOINT — CORRECTED 9/26/2026**
+**Esraelian made first contact on 10/25/2022** (to Jace, re the Bypass Trust; 18410662dabc4837).
+Ormonde's **10/31/2022** email to her (1842fd51aee29cca — read verbatim) announced his
+retention by "Steve and Jace Leal to help in the administration of the Manuel Leal trust,
+including the bypass trust" and requested prior counsel's files. **It says nothing about a
+purchase option or the buyout** — the earlier characterization is withdrawn. Ormonde's
+12/8/2022 note to Jace refers to "renewing the demand" in a letter not located (retrieval
+item). *Caveat unchanged:* the TIC ¶11 / Art. XIII.J 30-day appraiser window lapsed
+**10/23/2022** with no agreement — a joint miss.
 
 ### Interval 1 — Appraiser selection (11/2022 → 3/9/2023, ~4 months) · **JOINT, ORDINARY PACE**
 Esraelian opened her file 1/4/2023; parties agreed on **Reddington** for the partnership by
@@ -112,6 +122,22 @@ promised ~30 days earlier; Jace replied that Ormonde had been unable to reach th
 professional (thread 18f827e02a9e204b). Our side owned a slice of the 2024 stall. The
 withholding of the COMPLETED appraisals remains theirs — but the interval is not one-sided,
 and the ledger must not present it as such.
+*(e) Added 9/26/2026 from the Gmail sweep, both directions (gmail-sweep §2.4):*
+**Helps** — [PRIV] 1/9/2024, Ormonde to the client: "**They have still refused to send me the
+appraisals for my review**… they have proposed sitting down jointly to review"; the client's
+written requests: 8/17/2023 (to Esraelian: "If the other appraisals are finished can you send
+those as well"), 10/8/2024 and 12/17/2024 (to Ashley: "review the appraisals before any
+meeting"). Gap (c) is therefore PARTLY closed — the counsel-side record is privileged and no
+counsel-to-counsel written demand has been found. **Hurts** — Susan chased our counsel on
+4/11 and 4/17/2024 for a response to Esraelian's business-valuation request; [PRIV] Ormonde's
+own lags (9/12/2023, 1/19/2024); and **[PRIV] 6/24/2024, Jace: "I guess if they're not in a
+hurry, we're not in a hurry"** (Ormonde: "No, I'm going to start pushing harder"). **Qualifies**
+— Stan Xavier, 4/1/2024: "I only completed the estate appraisal… paid by the client (Robyn
+Esraelian). I have not completed any additional appraisal work regarding the partnership
+and/or sale" (A-62); Esraelian tied the Hower appraisal to the 12/15/2023 Form 706 filing
+deadline (a stated estate-tax purpose, not merely a litigation pivot). **Net: the 17-month
+delivery gap remains theirs — they held completed reports while our side asked for them —
+but the interval carries real ours-side slack and must be argued that way.**
 
 ### Interval 4 — Reports to offer (1/17/2025 → 3/3/2025, 6 weeks) · **OURS, PRODUCTIVE**
 Appraisal summary built 1/22/2025; capital work 2/13/2025; **priced offer served 3/3/2025**

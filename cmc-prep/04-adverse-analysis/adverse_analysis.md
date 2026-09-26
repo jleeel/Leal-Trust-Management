@@ -1944,3 +1944,100 @@ the absolute claim.
   execution defect) remains open.
 - **A-58/OI-64 context:** Susan's ~9/24/2026 email is not in this mailbox (sent to a Leal
   Dairy address).
+
+---
+
+# FOURTEENTH ADDENDUM — 9/26/2026 (full Gmail sweep: 01-verified-facts/drive-sweep/gmail-sweep.md; key claims spot-verified against source threads)
+
+## A-62. 🔴 Stan Xavier says he did ONLY an estate appraisal, paid by Esraelian — this reaches the Complaint's core relief
+
+4/1/2024, Stan Xavier to Jace (18a04a1afcfad26d): "I only completed the estate appraisal …
+The estate project was paid by the client (Robyn Esraelian). I have not completed any
+additional appraisal work regarding the partnership and/or sale." 8/17/2023: "I turned the
+appraisal in for estate purposes to Robyn." Against us: the Complaint's specific-performance
+theory (and the served 998) require defendants to "employ Stan Xavier" to appraise for the
+buyout — the appraiser himself describes his 2023 engagement as estate-tax work for their
+counsel, and Esraelian's 6/20/2023 reframing ("for purposes of Hazel's federal estate tax
+return") now has the appraiser's corroboration. For us: Esraelian's own 3/21/2023 engagement
+email attached the TIC and stated the purpose as "the Tenants in Common Agreement buyout
+provisions and … the dairy partnership" (Ex. G); Jace offered on 4/1/2024 to pay 50% of
+additional buyout work under Art. XIII.J. **The intended-use fight is now a genuine two-
+document conflict, and it strengthens the amendment case (OI-22): plead the Bewick / § 730
+court-fixed-price route rather than depending on an order to "employ" a named appraiser who
+says he was never engaged for the sale.**
+
+## A-63. The profits admissions — both sides of them
+
+[PRIV] 9/26/2023, Jace to Ormonde (18ad39fec1de083a, verified): "We agreed to pay that while
+hazel was still alive, and would have needed to refinance some land to do so. **I assumed it
+was now going to be tied to the** [overall purchase]" — Ormonde's prompting email: "I'm
+assuming that this payment was going to be tied into the overall purchase of the property."
+12/2/2020, Jace to Esraelian: "I don't believe the partnership agreement requires the
+distribution of partner profits"; 12/16/2020 Esraelian: Art. VII.A says "shall"; 1/7/2021
+Jace: "We are not opposed to distributing her share." 2/4/2025, Frazer (Edwards) reading the
+Living Trust: Bypass net income "should have been distributed to Hazel" under SIXTH C.2 —
+and C.3 gives the remainder to Steve. **Read together:** the pre-death 2015–2021 profit
+($850,894.54) was agreed and owed; our side's consistent position is that it is embedded in
+her capital account and therefore in the buyout price (the 8/10/2022 email says the same),
+not a separate add-on — which is exactly what defendants' $1.6M claim double-counts. Also
+helpful: 3/13/2019 Edwards questioned Hazel receiving profit distributions "but not share in
+years of losses." Counsel must present the agreed figure as a component of the price, never
+deny it was owed.
+
+## A-64. 🔴 Title risk: the 2018 settlement conveyances may be incomplete
+
+[PRIV] 1/22/2025, Ormonde (19489247e0882687): one 12.5% deed on APN 158-160-004 "was not
+recorded … **I cannot find anywhere that transfers the other APN's from Hazel and Manuel to
+Steve and Marla.**" That deed was recorded only **6/4/2025** (after Hazel's death), with a
+PCOR altered by hand (193e675338680e09; 19572f9c8a5d31f7). CalBio's title read (6/2/2025):
+"37.5% Manuel Leal Bypass Trust; 50% Hazel Leal Trust; 12.5% Steve and Marla Trust." If the
+TIC ownership (37.5/37.5/25 per Settlement ¶2) was never fully conveyed of record, then (a)
+the Real Property the buyout prices is vested differently than every appraisal and offer
+assumes, and (b) the Bypass's record 37.5% now belongs to Steve outright under Living Trust
+SIXTH C.3 — which changes whose interest is being bought. **Order a title report on every
+buyout APN before any price is re-served (OI-68).**
+
+## A-65. "If they're not in a hurry, we're not in a hurry" — and other own-side delay
+
+[PRIV] 6/24/2024, Jace (18ff42390e3a62da). Privileged — but it describes a stance, and if the
+client adopts that stance in testimony about 2024, the delay argument inverts. Combined with
+Susan's 4/11 and 4/17/2024 emails chasing our counsel and the 5/16/2024 stipulation-letter
+chase (A-59 era corrections), the 2024 portion of the withholding interval must be presented
+as "their completed reports withheld; our side slow to press" — not as one-sided obstruction.
+
+## A-59 — EXTENDED: the base purchase was planned before the loan was presented as a rollover
+
+2/20/2026, Jace to AgWest (message 19c7b7fc7ac37813, verified): "I will make the final payment
+next month for 647,038.79. **We also plan on purchasing some LOL base soon and would like to
+finance close to the max on that parcel to help with cash flow.**" 4/17/2026: "We will go with
+the maximum at 20 year term." 4/21/2026: "We purchased 3000 gallons. Out total now is 17500
+gallons." 5/5/2026, Cunningham: "**We weren't aware of this loan**." No partner-approval request
+located. The 5/16 and 5/18 "not a new capital expense" statements were therefore made
+**after** the purchase was planned (2/20), financed at the maximum (4/17), and completed
+(4/21). This moves A-59 from "mischaracterization" toward "knowing" in an adversary's hands.
+Counsel's first-meeting agenda item.
+
+## A-54 — CORRECTED: ¶5 was fought over and performed (modified), not dormant
+
+See ledger P-2 (corrected): Esraelian refused the $101,140.67 reimbursement 1/17/2019 pending
+backup; GL was unresponsive in 2020; the Bypass reimbursed the Dairy **$80,000** (~12/2020,
+confirmed by Frazer 2/17/2021). The account division itself remains unconfirmed.
+
+## A-61 — EXTENDED: hygiene items from the full sweep
+
+Hazel's full SSN emailed in plaintext (2/14/2025); a full bank account number to Frazer
+(4/9/2026); **both sides' mediation briefs sent to Frazer (1/30/2026) — mediation-
+confidentiality exposure (Evid. Code §§ 1119 et seq.)**; the client's draft 998 sent to Frazer
+before counsel (5/4/2026); the client emailed opposing counsel directly (7/7/2026); a
+**public Gemini share link** to case analysis (8/13/2025) — revoke; Drive/ShareFile share
+links in several threads — audit; a case-relevant Frazer email (9/14/2026, 1a0a1e83521e3cc6)
+sits in Gmail **Trash** — restore it (the connector could not re-open it on 9/26).
+
+## POSSIBLE READINESS EVIDENCE (new, purpose unconfirmed)
+
+AgWest thread 18ae22ec1e7ad388: **9/29/2023** — fixed pricing on a $2,000,000 mortgage (during
+the withholding interval); **2/19/2025** — Jace: "Just for informational purposes can you quote
+$5,000,000 with current rates?" — "That would be in addition to the existing" (two weeks
+before the 3/3/2025 offer). If these were buyout-financing inquiries, they are the
+contemporaneous "ready, willing and able" proof the record has lacked. **Confirm purpose with
+the client before characterizing.**

@@ -1691,3 +1691,62 @@ connector while the jaceleal sweep is running; (b) for EVIDENTIARY preservation 
 of (a): Google Takeout export (mbox, full headers) of the second account, stored unmodified;
 (c) stopgap for analysis in this session: forward the relevant threads (inline, not as
 attachments) to jaceleal@gmail.com — originals stay in place as the evidence copies.
+
+---
+
+# FULL GMAIL SWEEP (9/26/2026) — resolutions and new items (report: 01-verified-facts/drive-sweep/gmail-sweep.md)
+
+## ✅ OI-66 — jaceleal@gmail.com sweep COMPLETE; remaining scope identified
+118 threads logged (2017–9/2026), ~60 read in full; Susan's thread count is ~61 (the "201"
+was Gmail's capped estimate — corrected). Remaining: (1) **the second mailbox is
+lealdairy@gmail.com** — many 2017–2021 settlement messages were addressed there, plus Susan's
+$1,689.19 email; connect it (the jaceleal sweep is done, so switching the Gmail connector is
+now safe) or export it; (2) attachments were not opened (the connector cannot) — the
+spreadsheets holding $194,352.65 / $327,427.02 / $329,373 are attachments; (3) the sweep's
+§1b list of listed-but-unread threads.
+
+## ✅ OI-62(3) RESOLVED / ✅ OI-59(2) CORRECTED — ¶5 fought over and performed as modified
+Esraelian refused the $101,140.67 reimbursement 1/17/2019; the Bypass reimbursed the Dairy
+$80,000 ~12/2020 (Frazer 2/17/2021). The ~$85,000 "never paid" statement is withdrawn. Still
+open: whether the account was divided (post-10/2020 MS statements). ¶6 $350,000: no email.
+
+## OI-64 — answered in part: the PARTNERSHIP funded Susan's $1,655 payments
+7/22/2019, Frazer: "Monthly payments to Susan Leal ($1,655) should be included in account
+515600." Confirm 515600 is a Steve personal-draw sub-account (i.e., the partnership paid
+Steve's personal obligation and charged it to him) — that is the correct treatment and
+closes the draw-classification question if so. The $1,689.19 residual is still Steve's
+obligation.
+
+## 🔴 OI-67 — EXTENDED (see A-59 extension)
+The base purchase was planned 2/20/2026, financed at the maximum 4/17, completed 4/21 — all
+before the 5/16 and 5/18 "not a new capital expense" statements. No approval request found.
+
+## OI-60 — EXTENDED
+Frazer's excess-draw offset: $591,235 (1/30/2025) → $262,592 (5/7/2026) + $57,700.08 later
+draws; 2022 income 1,943,423 (Frazer) vs 1,392,956 (statements); a 2021 "55% share" column;
+$89,928 of Bypass draws not netted because of the $80,000 MS reimbursement. All for the
+Frazer reconciliation session.
+
+## 🔴 OI-68 — Title report on every buyout APN (A-64)
+Ormonde (1/22/2025) could not find deeds conveying the Hazel/Manuel interests to Steve and
+Marla on APNs other than 158-160-004 (recorded only 6/4/2025). Order a title report on each
+TIC/buyout parcel; reconcile record vesting with Settlement ¶2's 37.5/37.5/25 and with SIXTH
+C.3 (the Bypass's record interest now belongs to Steve outright).
+
+## 🔴 OI-69 — Preservation and exposure clean-up (today)
+(1) Restore Gmail Trash item 1a0a1e83521e3cc6 (Edwards 9/14/2026: "I discussed Hazel's
+trusts share of income with Tad Edwards and he's fine with it") and the other September
+Frazer/AgWest Trash items — Trash auto-purges at ~30 days; (2) revoke the public Gemini case-
+analysis share link (8/13/2025) and audit Drive/ShareFile share links; (3) Hazel's SSN and a
+full bank account number were emailed in plaintext — contain, do not re-forward; (4) stop
+sending mediation briefs, draft offers, or counsel communications to Frazer or family
+without counsel's approval; (5) no direct client email to opposing counsel (7/7/2026 was one).
+
+## OI-70 — Confirm purpose of the 9/29/2023 ($2M) and 2/19/2025 ($5M) AgWest quotes
+If buyout financing, they are contemporaneous readiness evidence (see adverse analysis
+"possible readiness evidence").
+
+## Interval 3(c) — PARTLY CLOSED
+[PRIV] 1/9/2024 Ormonde: "They have still refused to send me the appraisals for my review";
+client written requests 8/17/2023, 10/8/2024, 12/17/2024. A counsel-to-counsel written demand
+is still not located (Ormonde's file — retrieval list §1 item 7 stands).
