@@ -41,9 +41,95 @@ CMC."
 February. What they want now is **source documents behind the entries**: receipts, third-party
 statements and check images. They are not asking for more ledgers.
 
+## 0.5 STOP — four things counsel must hear before anything more is produced
+
+These come from the Drive sweep (`01-verified-facts/drive-sweep/nikki-requests-drive-sweep.md`).
+The coordinator re-read the sources for each one. **Their CPA has the full QuickBooks file, so
+assume they can already see (b) and (c).**
+
+**(a) Our own draft admits cash income kept off the books.** The 5/1/2026 "CPA Rebuttal"
+drafts:
+- "CPA Rebuttal_ Response to Accounting Inquiries.docx", 1es0vqG5m8UTenVKViRUxrFGh4G5VH4bo;
+- the Google Doc "Response to Accounting Inquiries 5/1/26", 1Y_ZPJ3Cuz8jJbxzTW0Fla12mSXKLJPsECiXcxlGA0Rs;
+- the "Operational Fact Sheet", 1HLj3-ettspxMtZhK1YXpbbfmqGJRIhldMUZmReV8d04.
+
+They say: "a mobile home located on the ranch is rented to a third party for cash. … 100% of
+that rental cash is used directly to pay the monthly hoof-trimmer invoice. This revenue is
+utilized as an immediate business subsidy that **bypasses the formal ledger**."
+
+The draft carries an AI citation artifact ("[cite: user prompt]"), so the fact came from the
+client, not from the records. No transmission outside counsel has been located. [PRIV] 5/15:
+"We have the full CPA Rebuttal ready to roll next week." Jace's 5/7 email to Ormonde attached
+"several draft documents" (not opened).
+
+**This is item 1's question ("income deposited outside the dairy account").** Before any
+answer to item 1 goes out, the client must tell counsel:
+- whether it is true;
+- the amounts and the period;
+- whose mobile home it is, on whose land (the "ranch" may be the trust-owned heifer ranch, see
+  (d));
+- how the hoof trimmer was otherwise paid.
+
+This also has tax and 1099 implications for counsel and the CPA. Nothing about it should go to
+the other side in writing without counsel.
+
+**(b) The "cash distributions" in Hazel's account (505000) are mostly checks to "Cash", which
+the drafts call hoof-trimmer payments.**
+- Sweep count: 94 checks payable to "Cash", 2015–2025, $69,401.50 (not re-verified).
+- 16 carry the memo "ht".
+- The 5/1 drafts: "cash was pulled… monthly specifically to pay for the dairy's hoof-trimming
+  services… recorded as draws against Steve's and Hazel's capital accounts on a 60/40 split."
+
+**Both-ways consequence.** If these were dairy operating costs booked as Hazel's *draws*, they
+inflate Hazel's lifetime distributions, and so the **$262,592 excess-distribution offset** in
+every offer we have made (OI-60). Expect them to demand the reversal. The split is 60/40,
+which matches no partnership percentage. The statements also separately expense "Testing and
+trimming" ($49,000 in 2024).
+
+**(c) The post-death ledger has two versions, and $165,000 was paid as "salary" to a deceased
+partner.**
+- **The two versions.** The 1/31/2025 export behind our $194,352.65 figure (1HMjBSPj…,
+  verified) is $27,057.41 of 505000 + $2,295.24 of Anthem premiums + **$165,000 of "725000
+  Partners Salaries": automatic $6,000 payments to "Hazel Leal" on the 15th of each month,
+  10/15/2022–1/15/2025**. It contains **no** post-death "Cash" checks. The 7/10/2026 export of
+  the same account (1SPoDoMV…, verified) shows **ten post-death Cash checks, $8,447.50**
+  (9/30/2022–1/27/2025).
+- **The statements match the later version.** FY2023 Estate "Personal" $8,174 equals the 7/10
+  version ($8,173.56), not the 1/31 version ($6,413.56).
+- **The salary.** Frazer later moved $54,000 (9/30/2024), $42,000 (7/31/2025) and $6,000
+  (12/31/2025) from salary to draws.
+- **Questions counsel needs answered:** who received the $6,000 ACH payments (the
+  co-trustees? Hazel's trust account?); why the two exports differ (the QuickBooks audit trail
+  will show whether the earlier report was filtered or the entries were recoded later); and
+  what "danielle insurance" (Mercury, charged to Hazel through 5/31/2026) is.
+
+**(d) The heifer ranch: the note was the trusts' debt, and it did have a 15-year balloon.**
+- **The note.** The escrow file (Chicago Title 11-42705244-FM, 2/23/2011;
+  10ZCnjymzZ2nTAHSwPnCw9Do7m6YvDnqU, verified) shows a $1,125,000 Installment Note to Mary Jane
+  Orozco at 5%, "$6,500.00, OR MORE" per month. Its start and maturity blanks are **empty** in
+  this unsigned copy.
+- **Who owns and owes it.** The **makers, trustors and grantees are the three trusts**:
+  - the Steve & Marla Leal Living Trust (1/2);
+  - Manuel's trust and **Hazel J. Leal's Revocable Trust** (1/2).
+
+  The partnership is not a maker or a grantee, though it made a $12,000 deposit into escrow.
+  The property is APN 160-130-007/008/009, about 84 acres.
+- **The balloon.** The amortization schedule (1b_jf6r…, verified) is "BASED ON 308 PAYMENTS",
+  first payment 4/1/2011, and ends at **payment #180, 3/1/2026, $647,038.79, balance 0.00**.
+  That is a 15-year balloon, consistent with what we told them. FY2024 FS Note 3 says "matures
+  October 2036", which is roughly where a 308-payment amortization runs out. That explains
+  their "we were not aware of a balloon." The FY2025 draft says March 2026.
+- **Consequences, both ways:**
+  - **Helps:** Hazel's trust was a *co-maker* of the balloon note. The partnership's payoff
+    relieved the defendants' own trust of that liability. Their signatures on the refinance
+    were needed because their trust is a record owner, not because of a partnership formality.
+  - **Hurts:** our 5/16 and 5/18 statements called it "an existing *partnership* liability".
+    The partnership carries a ranch it does not hold title to ("Rodrigues Ranch $1,275,274",
+    FY2024 FS). The ranch's vesting belongs in OI-68.
+
 ## 1. Item by item
 
-*(Sections marked ⏳ are completed from the Drive sweep report,
+*(Drive findings integrated 9/28/2026 from the sweep report,
 `01-verified-facts/drive-sweep/nikki-requests-drive-sweep.md`.)*
 
 ### Item 1 — Cash sales of hay, crops, equipment or cattle; deposits outside the dairy account
@@ -64,7 +150,20 @@ Nothing has been said yet about equipment or cows and calves.
 
 **Caution:** the 2024 statements report **$121,148 of crops sold to third parties**. The 3/6
 answer "no cash hay sales" holds only if every one of those sales was paid by check or wire into
-Citizens. Answer with a buyer list and the deposit trail, not a blanket statement. ⏳ (sweep §11)
+Citizens. Answer with a buyer list and the deposit trail, not a blanket statement.
+
+**Drive sweep (§§1, 11):**
+- **No 2024 crop-sale invoices, buyer list or deposit records are in Drive.**
+- Equipment was sold in 2016, 2019 (a 1995 International feed truck, $8,500, first booked to
+  Miscellaneous), 2023, 2024 ($13,970) and 2025 ($12,500).
+- A "688000 · Feed sales" income account exists (2020 Frazer adjusting entries).
+- **Two inconsistent explanations of "Hay Cash Sales" exist:**
+  - 3/6: it is the purchased-hay *expense* account;
+  - 5/1 drafts: it is a *revenue* label for non-cooperative feed sales, plus journal entry
+    FrzrQ4-08, $221,467.15, reclassifying Hay to Alfalfa.
+- Frazer's 2020 entries also show a "Caleb Garcia – Customer" posted in the Alfalfa account and
+  "Tulare Sales Yard – Cust" cow sales.
+- See §0.5(a) for the mobile-home cash rent.
 
 **Best proof, strongest first:**
 1. **Third-party settlement records.** Sale-yard or cattle-buyer statements for cull cows,
@@ -88,7 +187,26 @@ it anyway.
   - Frazer's herd summary ("Herd Summary Frazer.xlsx", 1wzAcIhJX7OiwCltTzZq0D-lMq6fUdaqA) and
     "Herd Inventory 9.30.22.xlsx" (1ZMA3XuNnIlEedQNrTYaKQutz2wbrty6W);
   - the statements' herd data (average herd 1,622/1,601; turnover 43.0%/45.1%; FY2024 FS p.20).
-  ⏳
+
+  **The herd summary shows:**
+
+  | Year | Heifers born | Heifers sold | Heifers died | Cows sold | Cows died |
+  |---|---|---|---|---|---|
+  | 2022 | 997 | 170 | 135 | 716 | 67 |
+  | 2023 | 998 | 170 | 74 | 638 | 80 |
+  | 2024 | 792 | 146 | 53 | 628 | 70 |
+  | 2025 | 813 | 154 | 75 | 538 | 62 |
+
+  Cows sold ties to the statements. Dead cows in 2023 do not: 84 in the statements, 80 in the
+  herd summary.
+
+  **The gap they will find:** Prime Cattle bought **815–1,013 calves a year** (the Prime
+  sheet), but the herd summary shows only 146–170 heifers sold. Day-old bull and beef-cross
+  calves apparently never enter the herd records. Explain this before they ask.
+
+  A herd database exists and can export born, sold and died events: "BORNS.CSV",
+  1vy01FhQkCsXjjOdfDrCv7q63XLB6zqxP, and the DairyComp-style "Calf Projections" sheet. No
+  sale-yard or rendering records are in Drive.
 - **Gap, stated honestly:** Jace, 7/22/2026: "I don't save years of daily receipts for calves
   picked up." Expect them to call this a records gap (partner-manager bookkeeping; see §2).
   **Fix it with third-party records:** Prime Cattle's own purchase history (item 3) plus the
@@ -97,8 +215,18 @@ it anyway.
 
 ### Item 3 — Receipts for the twice-monthly Prime Cattle checks
 - **Already said (3/6):** "We do not invoice Prime Cattle. They pick up one day old calves and
-  send a check bi-monthly." **Sent 7/16:** the Prime Cattle QuickBooks summary and "Leal Summary -
-  Prime Cattle.xlsx" (1VGBML2d_FlOVNkmXhi8Q6pHaWCk2R-Gm; 1p55Kg4HpZsyBeSmcc8oQ9Eg3egF2hIML). ⏳
+  send a check bi-monthly." **Jace sent to Ormonde on 7/16** (forwarding to Cunningham
+  unconfirmed): the Prime Cattle QuickBooks summary and "Leal Summary - Prime Cattle.xlsx"
+  (1VGBML2d_FlOVNkmXhi8Q6pHaWCk2R-Gm; 1p55Kg4HpZsyBeSmcc8oQ9Eg3egF2hIML).
+- **Sweep §3:**
+  - **2026 ties out.** All 12 Prime deposits ($484,860) match Prime's settlements one for one.
+  - **2023–2025 do not.** Prime's detail exceeds QuickBooks account 606000 by about $44K (2023),
+    $103K (2024) and $107K (2025). Part of that is timing: four late-2025 settlements were
+    booked in 2026, three of them dated 1/1/2026, a bank holiday.
+  - **The Prime sheet contradicts itself.** Its summary tab disagrees with its own detail tab.
+
+  **If these went to their CPA, they can run the same comparison.** Reconcile it before
+  producing anything more.
 - **Why it didn't satisfy them:** these are our own ledger summaries.
 - **What will:**
   1. a **purchase-history statement from Prime Cattle** for 2015 to date (head count, date,
@@ -138,7 +266,23 @@ file). If her family arranged it, the invoices may also be in defendants' hands.
 
 (FY2024/2023 FS p.6; FY2025 draft.) These make up the $194,352.65 of post-death distributions
 in the 3/3/2025 offer, per "Hazel Draws 9.22.22-1.31.25.xlsx" (1HMjBSPjcexZxjwoyXSBKkOALzWY4UkH1)
-and "Hazel's draws 1-15-25 thru 5-7-26.pdf" (1bBIP8sSpjtbTXcDlD-6BDpjNUEccc2bT). ⏳ **Where a
+and "Hazel's draws 1-15-25 thru 5-7-26.pdf" (1bBIP8sSpjtbTXcDlD-6BDpjNUEccc2bT).
+**Read §0.5(b) and (c) first.**
+
+**What the post-death entries actually are** (from the verified exports):
+- the $6,000 monthly "Partners Salaries" to "Hazel Leal";
+- Culligan water; Fly Girl ("fly spray houses"); Res-Com pest control;
+- Mercury "danielle insurance";
+- Susan Leal "payment for grave" ($3,774.33, 10/5/2022);
+- Jack's Catering, "Hazel Leal Memorial" ($4,271.48);
+- Anthem premiums after death ($2,295.24 — ask whether they were refunded);
+- ten Cash checks.
+
+**Lifetime entries** include Danielle's house plumbing (2019, $2,480.56) and gardeners. In
+**503000 (Donations–Hazel)**, three 2018 Iglesias Gardening checks carry the memo "**Steve**"
+($1,020): Steve-coded items charged to Hazel. They are small, but their CPA will find them.
+
+**Where a
 payment went to the co-trustees or to Hazel's trust, the defendants' own bank records confirm
 receipt.** Produce the payee list and invite them to reconcile it to their deposits.
 
@@ -147,8 +291,17 @@ receipt.** Produce the payee list and invite them to reconcile it to their depos
 - **2023: $360,000 capital contribution by Steve.** It appears in Exhibit C, and the cash-flow
   statement lists "Capital contributions 360,000" under financing (FY2024/2023 FS pp. 6–7).
 - **2021, 2022, 2024, 2025: none** (Exhibit C for each year; financials-2022-2025-extract).
-- **2015–2020:** covered by Frazer's "Item 6 - Leal Contributions.pdf" (7/15/2026, not yet in
-  Drive).
+- **2015–2020** (sweep §6, from the FS16/FS18/FS20 statements, not re-verified):
+  - 2015: $346,052 (internal draft split: Hazel $88,026 / Steve $258,026);
+  - 2017: $60,000 (Steve);
+  - 2018: $93,630 (Steve);
+  - 2020: $80,000 (**the Bypass Trust**, a Morgan Stanley trust-expense reimbursement that Frazer
+    reclassified out of income);
+  - 2016 and 2019: none. **A 2019 closing entry *credits* Steve's contribution account by
+    $60,000, unexplained.** If it repaid the 2017 $60,000, it supports the "bridge loan"
+    description, but it also shows money going back to Steve.
+
+  Frazer's "Item 6 - Leal Contributions.pdf" (7/15/2026) is not yet in Drive.
 
 **Source of funds:** Steve's personal bank statements showing the transfers out, and the
 Citizens deposit records showing them coming in. Frazer: "Maybe Jace has access to them from
@@ -181,7 +334,18 @@ bore $0.**
 
 **Supporting documents:** the donation receipts, e.g. "2022 donations.pdf"
 (19KanJWF9SHiK5GOUHw-c7Wi0LbZPjh4V) and "Steve Marla donations 2024.pdf"
-(1oKePDllPEfc4MFauABHUGReJrnsQgj0Q). ⏳
+(1oKePDllPEfc4MFauABHUGReJrnsQgj0Q).
+
+**Sweep §7 (verified): the 2022 Hazel-column $570 is all pre-death** (T.D.E.S 2/19 and 6/19;
+St Rita's 3/8/2022). **Nothing was charged to Hazel's donations account after her death.**
+
+**Caution:** the church statements are addressed to "Steve & Marla Leal" and are household
+totals that do not tie to the partnership figures:
+- 2022: $7,315 against $7,084;
+- 2024: $7,550 against $4,045.
+
+Producing them invites the question of which gifts the dairy paid. Produce account 513000 with
+its check images instead.
 
 **Framing for counsel to weigh:** a withdrawal charged to the donor partner's own capital
 needs no authority from the other partner.
@@ -237,8 +401,17 @@ look for a Citizens deposit that did not happen.
 > "Mary Jane Orozco" real-estate note ($6,500/month at 5%, $696,134 at 12/31/2024) as maturing
 > **October 2036**. Cunningham (7/29) reads the FY2025 statements as showing "$651,937 balance
 > maturing in March 2026." Our side told them it "had a balloon payment due this year." The
-> note's own terms decide which is right, and **they will compare the two statements.** ⏳
-> (sweep §10)
+> note's own terms decide which is right, and **they will compare the two statements.**
+> **RESOLVED by the sweep (verified): see §0.5(d).** The schedule shows a 15-year balloon of
+> $647,038.79 on 3/1/2026, and the note's maturity blank is empty in the escrow copy. The
+> executed note may be in the image-only "Orozco.Rodrigues Deed.pdf" (1ATNLIoV…), which could
+> not be read. **Also:** the makers were the three trusts, so answer "AP/AR associated with the
+> balloon" knowing the partnership paid a note that the trusts owed.
+>
+> **Which line paid it?** At 12/31/2025 the $1.0M feed line had only about $99K of room and the
+> herd line about $1.2M (FS25 draft). Our 5/18 statement said the "operating line of credit"
+> paid it. Confirm which line was used before repeating that. None of the payoff proof (AgWest
+> loan documents, payoff, reconveyance, 2025–26 Citizens statements) is in Drive.
 
 ## 2. Cross-cutting points for counsel (both directions)
 
@@ -304,3 +477,9 @@ look for a Citizens deposit that did not happen.
 | 12 | AgWest line statements Feb–Aug 2026 and the loan closing/disbursement statement | AgWest |
 | 13 | Forms 1065 with Form 4797 and the farm schedules, 2015–2025 | Frazer |
 | 14 | Minute order from the last CMC (Judge Mathias) | Ormonde |
+| 15 | **Tell counsel (not the other side):** the mobile-home cash rent — whose home, on whose land, amounts, period; how the hoof trimmer was paid | client → Ormonde |
+| 16 | Hoof-trimmer invoices 2015–26 and check images for every "Cash" check in 505000 | trimmer; Citizens |
+| 17 | Payee and account for the $6,000 monthly "Hazel Leal" ACH payments, 10/2022–1/2025 | Citizens |
+| 18 | QuickBooks audit-trail report for 505000 (why the 1/31/2025 and 7/10/2026 exports differ) | QuickBooks / Frazer |
+| 19 | Executed Orozco note; recorded deed of trust and reconveyance for APN 160-130-007/008/009 | County Recorder; Chicago Title |
+| 20 | Prime-versus-606000 reconciliation for 2023–25 | Frazer |

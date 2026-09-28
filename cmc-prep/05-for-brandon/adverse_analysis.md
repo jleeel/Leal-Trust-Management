@@ -2121,3 +2121,85 @@ and "our own July 2026 offer tendered" 4%. That wording means a *settlement offe
 conditioned on a general release, so under *Mission* it is **not** a statutory tender under
 Civ. Code §1504 and does not by itself stop interest. The substantive point stands: our side
 has consistently proposed paying the contract's 4%. A note is added at that passage.
+
+
+## A-68. 🔴 Our own draft says a cash rent stream "bypasses the formal ledger"
+
+The 5/1/2026 client drafts ("CPA Rebuttal", 1es0vqG5m8UTenVKViRUxrFGh4G5VH4bo, coordinator-verified;
+duplicates 1Y_ZPJ3C…, 1HLj3-et…) say a mobile home "on the ranch is rented to a third party for
+cash… 100% of that rental cash is used directly to pay the monthly hoof-trimmer invoice… bypasses
+the formal ledger." The draft carries the AI artifact "[cite: user prompt]", so the fact is the
+client's own (CLIENT-ATTESTED via draft).
+
+Why it matters:
+- It is precisely what Cunningham's item 1 asks: income deposited outside the dairy account.
+- It is the concrete fact a "funneling" cross-complaint needs.
+- It raises tax and information-return questions (unreported rent; a contractor paid in cash).
+
+**Mitigation, if true:** the amount is presumably small, the cash went to a dairy expense, and
+it was volunteered in our own draft rather than concealed. Mitigation depends on whose land the
+home sits on: the "ranch" may be the trust-owned heifer ranch (A-71), in which case the rent
+belongs to the co-owners, not the partnership. No transmission outside counsel located [PRIV?].
+**Counsel must hear the facts before item 1 is answered** (OI-74).
+
+## A-69. 🔴 Hoof-trimmer cash booked as Hazel's draws: the $262,592 offset is exposed
+
+Sweep (not re-verified in total): 94 checks payable to "Cash", 2015–2025, totaling $69,401.50, sit
+in 505000 Personal–Hazel. The 5/1 drafts explain them as hoof-trimmer payments "recorded as draws
+against Steve's and Hazel's capital accounts on a 60/40 split."
+
+If the dairy's operating costs were charged to Hazel's capital as *distributions*, her
+lifetime draws are overstated. So is the **$262,592 net-excess offset** used in every offer
+(3/3/2025, 7/2/2026, the 998). Defendants' CPA holds the QuickBooks backup and can make this
+argument. The 60/40 split matches no partnership percentage (55/37.5/7.5).
+
+Our side's counter, which needs the invoices behind it: the costs were real, and they were
+charged to partners rather than to the P&L by long practice that Hazel's side never objected
+to. **Quantify the lifetime Cash-check total and the Steve 515000 side before relying on the
+offset again** (OI-75, OI-60).
+
+## A-70. 🔴 Two versions of the post-death ledger, and a "salary" to a deceased partner
+
+Coordinator-verified:
+- **The 1/31/2025 export behind our $194,352.65** (1HMjBSPj…) contains no post-death Cash checks.
+- **The 7/10/2026 export** (1SPoDoMV…) shows ten of them ($8,447.50, 9/30/2022–1/27/2025) on the
+  same dates. The FY2023 statements match the 7/10 version.
+- **$165,000 of the $194,352.65** was automatic $6,000 monthly "725000 Partners Salaries"
+  payments to "Hazel Leal", 10/15/2022–1/15/2025. $102,000 was later reclassified to draws
+  (9/30/2024, 7/31/2025, 12/31/2025).
+
+The risks:
+1. **Book integrity.** Either the earlier report was filtered or the entries were recoded
+   later. The QuickBooks audit trail answers which, and their CPA has the file.
+2. **A continuing "partner salary"** after death feeds their "still a partner" theme (§16601
+   dispute).
+3. **The payee is unknown.** If it was the co-trustees or Hazel's trust account, the payments
+   *help* us: they are distributions the defendants received. If not, the question is who
+   received them.
+
+The ledger and statements also stop tying after 2023: a $6,000 gap in 2024 and $18,000.33 in
+2025 (sweep calc) (OI-76).
+
+## A-71. The heifer ranch belongs to the trusts, not the partnership, and Hazel's trust co-signed the balloon note
+
+Coordinator-verified from the Chicago Title escrow file (10ZCnjymzZ2nTAHSwPnCw9Do7m6YvDnqU, 2/23/2011):
+- the grantees, and the makers of the $1,125,000 Orozco note, are the Steve & Marla Leal Living
+  Trust (1/2) and Manuel's and **Hazel J. Leal's trusts** (1/2);
+- the note's maturity blank is empty;
+- the schedule (1b_jf6r…) ends in a $647,038.79 balloon on 3/1/2026.
+
+**Both ways:**
+- **Helps:**
+  - The balloon was real.
+  - The partnership's payoff relieved Hazel's trust of a debt it co-owed.
+  - The defendants' signatures on the refinance were required because their trust is a record
+    owner.
+- **Hurts:**
+  - Our 5/16 and 5/18 statements called it "an existing *partnership* liability".
+  - The partnership books the ranch as its own asset ($1,275,274, FY2024 FS) without holding
+    title.
+  - FY2024 FS Note 3 said the note "matures October 2036", which explains the other side's
+    "we were not aware of a balloon."
+  - The AgWest refinance was secured on land that Hazel's trust co-owns.
+
+Ties to OI-68 (title) and A-59.

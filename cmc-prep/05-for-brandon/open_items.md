@@ -1850,3 +1850,34 @@ shown as maturing October 2036 (FY2024 FS Note 3) vs. the "balloon due this year
 records (kit §3 checklist). (4) **Get the minute order from the "last CMC" (Judge Mathias)** —
 Cunningham says they will file an answer and a cross-complaint per his comments. Drive
 sweep in progress: 01-verified-facts/drive-sweep/nikki-requests-drive-sweep.md.
+
+
+## 🔴 OI-74 — The mobile-home cash rent (A-68): client to tell counsel first
+The client must tell counsel:
+- whether the 5/1/2026 draft statement is true;
+- whose mobile home it is, on which parcel, and who owns that land;
+- the tenant, rent and period;
+- the hoof-trimmer payment history.
+
+Nothing on this goes to the other side without counsel. Also confirm whether any version of
+the 5/1 "CPA Rebuttal" drafts left counsel's hands.
+
+## 🔴 OI-75 — Quantify the hoof-trimmer "Cash" draws before relying on $262,592 again (A-69)
+- Total the Cash checks in 505000 (Hazel) and 515000 (Steve), 2015 → 9/22/2022.
+- Get the trimmer's invoices and the check images.
+- Frazer to state the effect on Hazel's net excess if the checks are treated as dairy expense.
+
+Feeds OI-60.
+
+## 🔴 OI-76 — The 505000 export versions and the $6,000 "Hazel Leal" salary (A-70)
+- Pull the QuickBooks audit trail for 505000 and 725000.
+- Identify the ACH payee and account for the $6,000 payments (10/2022–1/2025).
+- Get Frazer's explanation of the 2024 ($6,000) and 2025 ($18,000.33) ledger-to-statement gaps.
+- Identify "danielle" (Mercury insurance charged to Hazel through 5/2026).
+
+## OI-77 — Heifer ranch vesting and the balloon payer (A-71)
+- Record vesting for APN 160-130-007/008/009 (add to OI-68's title report).
+- The executed Orozco note (the deed scan 1ATNLIoV… is image-only).
+- The recorded reconveyance.
+- Which AgWest line paid the 3/1/2026 balloon (feed line vs. herd line).
+- Correct the "partnership liability" characterization before it is repeated.
