@@ -1839,3 +1839,14 @@ applies, and to what base, is itself disputed.
   That is counsel's call. (g) A tender on the contract's own terms (10% down plus notes) at
   *our* price needs far less cash. However, it may be treated as conditioned on accepting
   our disputed price.
+
+## 🔴 OI-73 — Cunningham's nine document requests (status 9/28/2026) → nikki-9-requests-kit.md
+(1) **Ask Ormonde** whether Frazer's 7/15/2026 answers to items 6 and 8 and Jace's 7/16
+attachments were forwarded; Cunningham reports "no response" on 6–9. (2) Resolve the four
+consistency items before any further production: the $121,148 of 2024 third-party crop sales vs.
+"no cash hay sales"; "bridge loans" vs. the booked $360,000 capital contribution; the Orozco note
+shown as maturing October 2036 (FY2024 FS Note 3) vs. the "balloon due this year" statement;
+"He chose not to pull draws" vs. Steve's yearly Personal withdrawals. (3) Pull the third-party
+records (kit §3 checklist). (4) **Get the minute order from the "last CMC" (Judge Mathias)** —
+Cunningham says they will file an answer and a cross-complaint per his comments. Drive
+sweep in progress: 01-verified-facts/drive-sweep/nikki-requests-drive-sweep.md.
