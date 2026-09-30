@@ -132,6 +132,19 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     is needed for the Settlement ¶7(d) / TIC §8(a) $6.5M debt-cap arithmetic (A-66 ¶4). The
     second mortgage balance is not in the record.
 
+## 8. ADDED 9/30/2026 — KAWEAH DRIVE (Susan's Tulare house)
+
+35. **Recorded grant deed for Susan's Kaweah Drive house** (Tulare County Recorder or a title
+    company property profile). The recording date is the purchase date of record, and the deed
+    shows how title was taken. Also get the later refinances and the gift deed the original
+    tasking referred to (2002/2003/2004/2006/2016). **No purchase document is in the Drive or
+    Gmail record.** The purchase date is NOT ESTABLISHED (chronology rows 2000/2002/2003/2004/
+    2006; verified_facts_memo §1). One lead: Gmail's full-text search matches "Kaweah" only in
+    the 6/15/2018 Griswold LaSalle "Leal - Draft Deeds" thread (16405a876a30e93c). The word
+    does not appear in the email text, so it is presumably inside an attachment, possibly the
+    recorded 2008/2016 Pismo deeds. The connector cannot open attachments, so the client should
+    open them.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open
