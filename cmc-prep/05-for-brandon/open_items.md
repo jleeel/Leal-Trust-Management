@@ -2160,3 +2160,11 @@ auto-reply confirms delivery. The client attests the series ran monthly from the
    Did earlier versions name Aaron J. Garabedian? Did they disinherit Steve?
 3. **Counsel only:** evaluate whether the drafter-relative rules, the time limits and the
    no-contest clause make any of this usable beyond bias and knowledge. The default is no.
+
+## OI-89 / OI-90 — UPDATED 10/1/2026
+Client: Lauren Garabedian Ruff is Aaron's sister (CLIENT-ATTESTED). Remaining unknowns:
+- Aaron's and Lauren's relationship to Dale and Robyn;
+- Brandon Esraelian's role;
+- the divorce date.
+
+Confirm from public sources only.

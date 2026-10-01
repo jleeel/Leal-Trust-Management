@@ -266,8 +266,9 @@ after reviewing check images.
 
 **Questions:**
 1. Who engaged you, when, and for what scope?
-2. Your full name is Lauren Garabedian Ruff? *(Her email display name, S-35.)* Are you related to
-   defendant Ashley Garabedian? To Aaron or Dale Garabedian? Does The Garabedian Group do work for
+2. Your full name is Lauren Garabedian Ruff? *(Her email display name, S-35.)* Aaron Garabedian is
+   your brother? *(Client.)* He was married to defendant Ashley Garabedian while you were Hazel's
+   CPA? How are you related to Dale Garabedian and Robyn Esraelian? Does The Garabedian Group do work for
    Ashley? *(Relationships NOT ESTABLISHED. They go to independence.)*
 3. You had online access to the dairy's Citizens account from September 2020? Until when?
 4. What did you receive monthly? QuickBooks files? Bank statements? From whom?

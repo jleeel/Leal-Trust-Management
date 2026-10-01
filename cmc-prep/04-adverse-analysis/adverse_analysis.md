@@ -2916,3 +2916,19 @@ name is Garabedian."
    relative raises any issue is UNVERIFIED and minor. Do not lead with it.
 
 **Use:** for knowledge, coordination and bias, in deposition and argument. Not as a trust attack.
+
+### A-78 / A-79 — UPDATE 10/1/2026: Lauren Garabedian Ruff is Aaron's sister (client)
+
+**Client (CLIENT-ATTESTED):** "Lauren is Aaron's sister."
+
+- So "Hazel's CPA" for 2020–2022 was:
+  - the sister of a named contingent beneficiary of Hazel's trust (Aaron, Art. Five C.1);
+  - the then sister-in-law of co-trustee Ashley.
+- She is the person who held online bank access from 9/10/2020, received the monthly QuickBooks
+  packets (A-13 updates), and co-agreed the $850,894.54 on 8/30/2022.
+- **Still not established:** how Aaron and Lauren relate to Dale and Robyn (for example,
+  Dale's children, which would make Robyn their aunt). Confirm from public sources (OI-90).
+
+**Use is unchanged (A-78):**
+- Lead with knowledge. The co-trustee's own family received the dairy's books every month.
+- Be careful with independence, because it cuts into the $850,894.54 agreement we rely on.
