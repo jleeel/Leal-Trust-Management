@@ -2117,3 +2117,20 @@ buyout to be valued at the date of death (CLIENT-ATTESTED). It is booked as a co
 3. Note any months missing.
 
 This list is likely the single most useful exhibit against defendants' covenant-breach theory.
+
+## OI-14 — FURTHER UPDATE 10/1/2026: four monthly packets confirmed (5/2022–8/2022)
+A client screenshot of the lealdairy Sent folder shows "May/June/July/August 2022 Statements" sent
+to lauren@tgg-cpa.com on 6/9, 7/6, 8/4 and 9/9/2022. Each carried the QuickBooks file; August
+also carried the 8/31 statement. **All were sent before the 15th.** Lauren's 9/9/2022
+auto-reply confirms delivery. The client attests the series ran monthly from the mediation
+(12/2017) to Hazel's death.
+
+**To finish the proof (client):**
+1. In lealdairy, run each of these searches, **sorted by date (oldest first)**:
+   - `to:lauren@tgg-cpa.com`
+   - `to:esraelian@attitude.com subject:Statements`
+   - `to:aaron@thegarabediangroup.com`
+   - `subject:"Statements" before:2022/10/01 after:2017/11/30`
+2. Screenshot or print every page of results, so the list shows each month and recipient.
+3. Save 3–4 sample emails per year as PDFs, with headers and attachment names visible.
+4. Note any gap month and why (for example, a QuickBooks link instead of an attachment).

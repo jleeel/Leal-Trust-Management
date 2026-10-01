@@ -227,10 +227,14 @@ after reviewing check images.
 
 **Questions:**
 1. Who engaged you, when, and for what scope?
-2. Is The Garabedian Group affiliated with or related to Ashley Garabedian? *(Relationship NOT
-   ESTABLISHED in this workspace.)*
+2. Your full name is Lauren Garabedian Ruff? *(Her email display name, S-35.)* Are you related to
+   defendant Ashley Garabedian? To Aaron or Dale Garabedian? Does The Garabedian Group do work for
+   Ashley? *(Relationships NOT ESTABLISHED. They go to independence.)*
 3. You had online access to the dairy's Citizens account from September 2020? Until when?
 4. What did you receive monthly? QuickBooks files? Bank statements? From whom?
+   *(Foundation: 'May–August 2022 Statements' sent 6/9, 7/6, 8/4, 9/9/2022, each with the
+   QuickBooks file; your 9/9/2022 auto-reply. S-35, plus the lealdairy export when complete.)*
+   You received a QuickBooks file for the dairy every month? Before the 15th? Did you open them?
 5. Your 2020 review of the dairy's financial information: what did you find? Any written
    report?
 6. In August 2022 you reviewed and agreed with Jace's calculation of $850,894.54?

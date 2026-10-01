@@ -2780,3 +2780,33 @@ called her "Hazel's CPA" on 12/29/2020.
 **Hygiene flag:** the 2019 QuickBooks portable file in Drive (`1qdxYcJsv-CdfdDwcKY4xiZiojCjXmKAr`,
 owner lealdairy) is shared "**anyone with the link — writer.**" Do not delete it (litigation
 hold). The client may wish to restrict sharing on counsel's advice.
+
+### A-13 — FURTHER UPDATE 10/1/2026: monthly packets to Hazel's CPA, from the lealdairy mailbox
+
+**Client screenshot** (lealdairy@gmail.com search for "lauren@tgg-cpa.com"; preserved as
+`01-verified-facts/2026-10-01_lealdairy-sent-to-lauren-ruff-monthly-statements-2022.png`) shows
+these sent messages:
+
+| Packet | Sent | Content |
+|---|---|---|
+| "May 2022 Statements" | 6/9/2022 | QuickBooks file "QB_Manuel_Leal_Dairy 10.5.2009-LealHous…" |
+| "June 2022 Statements" | 7/6/2022 | Same |
+| "July 2022 Statements" | 8/4/2022 | Same |
+| "August 2022 Statements" | 9/9/2022 | QuickBooks file plus a PDF "2022 08_31_20…" (the 8/31/2022 statement) |
+
+- On 9/9/2022 the recipient's automatic reply came back: "Thank you for your email Re: August
+  2022 St… I am unavailable…". The address was live and the message was delivered.
+- **All four were sent between the 4th and 9th of the following month, ahead of ¶8's "15th."**
+- The August 2022 packet is the last full month before Hazel's death (9/23/2022).
+- **The recipient's display name is "Lauren Garabedian Ruff."** A shared surname with defendant
+  Ashley Garabedian and with Aaron and Dale Garabedian of The Garabedian Group. **Any
+  relationship is NOT ESTABLISHED.** It goes to the independence of "Hazel's CPA" (deposition
+  outline §2).
+
+**Grade:**
+- Monthly delivery **5/2022–8/2022: SUPPORTED** (screenshot; the native messages should be
+  exported).
+- **12/2017–4/2022: CLIENT-ATTESTED** ("every month starting from the mediation date until
+  Hazel's date of death"). The screenshot is one scrolled portion of a "most relevant" search.
+  Earlier packets may have gone to Esraelian (as the June 2021 packet did) or to Aaron
+  Garabedian before Lauren.
