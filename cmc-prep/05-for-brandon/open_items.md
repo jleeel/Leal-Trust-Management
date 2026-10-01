@@ -2016,3 +2016,32 @@ and Hazel $137,197.24 (6/21/2007).
    about $286,000.
 3. Pre-2010 bank records: were the checks deposited to the dairy?
 4. How the client came to hold the scan (possibly the 2016 Gin enclosures).
+
+## OI-83 — Dairy water to the three Trust-owned houses (CLIENT-ATTESTED; A-75)
+1. Addresses and APNs. Current owner: in 3/2025, per Ashley, "owned 100% by the Hazel J. Leal
+   Revocable Trust." Has any been distributed to Susan? Get the deeds.
+2. How the water is delivered: which well, the line, and any meters. Do the houses have their
+   own wells?
+3. A basis for cost: pump electric meter and kWh, repairs, and any groundwater fee per acre-foot.
+   **Do not estimate without a cited basis.**
+4. When it began, who asked, and any writing (email or text).
+
+## OI-84 — The Danielle / Hazel credit-card incident (CLIENT-ATTESTED; A-75)
+1. Hazel's card statements for the period showing the charges and ship-to addresses. The estate
+   now holds these records; BofA.
+2. Any dispute, police report, repayment or family discussion in writing.
+3. Approximate year.
+4. Confirm Danielle's full name and relationship. Hazel's trust names Danielle Pedroncelli.
+**Counsel decides whether it is used at all.**
+
+## OI-85 — Classification of Trust-side expenses paid by the partnership (A-75)
+1. Mercury declarations for both payment series (monthly in 760000, quarterly in 505000): the
+   named insured and vehicles.
+2. Waste Management and Culligan service addresses (dairy versus the three houses).
+3. Nationwide farm-policy declarations: does the schedule of locations include the three
+   houses?
+4. Any trustee instruction to keep paying Danielle's insurance after 9/23/2022 ($26,325.31,
+   calc).
+5. "2017.12.06 Jace Leal Draw Reconcilliation.xlsx" (Johnson to Esraelian, Thompson and
+   Garabedian, 12/6/2017; Gmail `1602de83c0269477`). Save it to Drive.
+6. Frazer, privately through counsel: the reclassification and tax treatment.

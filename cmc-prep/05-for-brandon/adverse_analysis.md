@@ -2506,3 +2506,42 @@ until the LOL membership records are in hand.
   - The January 2018 payment was **$150,000**, check #29635, coded Personal-Steve.
   - Noted in each place; originals kept.
 - **A-1 severity reduced** (second update). **A-73 and A-74 added.**
+
+## A-75. 🔴 Danielle's insurance and other Trust-side costs were partly booked as partnership expenses
+
+Full analysis: `01-verified-facts/trust-side-benefits-water-insurance-card.md`.
+
+**The client's framing:** Trust-side costs were "paid through the business (under Hazel Personal
+Draws)." The Citizens register (S-29) shows:
+- **Mercury Insurance {Danielle}:** 26 payments, $18,999.45, charged to Hazel's draws (2020–26),
+  **but 70 payments, $23,735.05, booked as 760000 Insurance-General** (2016–26).
+- Waste Management was always a dairy expense: $47,293.60, 2010–26.
+- Culligan was mostly dairy supplies before 2021.
+- 12/31/2016: "Danielle Ins" reimbursed to Jace as "Supplies."
+- 1/15/2019: a Danielle membership fee was charged to Steve's donations.
+
+**How Cunningham uses it:** "The plaintiff's own books misclassify personal expenses as business
+deductions. None of their classifications can be trusted, including the 505000 ledger they rely
+on." It also raises a tax question (Frazer).
+
+**Our response:**
+- Every misclassified item **favored the Trust side** (it understated their draws).
+- The trustees knew: Ashley, 3/12/2025, about insurance on the three houses "owned 100% by the
+  Hazel J. Leal Revocable Trust," which Jace confirmed; and the Danielle-insurance email of
+  12/4/2025.
+- Our side disclosed partnership-paid personal expenses for all families in 2017.
+
+**Limits:**
+- The same 2017 schedule shows Steve's and his sons' personal items expensed too.
+- After Hazel's death, $26,325.31 of Danielle's insurance was paid with no trustee instruction
+  located.
+
+**Action:** have Frazer review the classification privately through counsel before any production
+touching 760000 or 505000 (OI-85).
+
+**Two related client statements, kept off the offensive list until documented:**
+- **Water to the three Trust houses (about ten years):** no document; no quantification (OI-83).
+- **The Danielle credit-card incident:** no document. Danielle is not a party, and it involved
+  Hazel's personal card. Character evidence is restricted (admissibility for counsel). Leading
+  with it risks looking retaliatory. Note also that Hazel's BofA card emails went to Jace's
+  address in 2013–16, which the other side can turn into a "control" point (OI-84).
