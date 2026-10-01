@@ -257,7 +257,7 @@ irregularity is identified by date, account, or amount.
 ### What a real forensic pass WOULD find (equal rigor — counsel must hold these already answered)
 An examiner will find: the hoof-trimmer **cash checks** ("Cash — ht") through the registers
 and the May 2026 draft's admission that mobile-home rent cash "bypasses the formal ledger";
-Steve's single **$100,000 check** (9/30/2014, pre-Settlement); the **JL AG related-party
+Steve's single **$100,000 check** (9/30/2014, pre-Settlement) [CORRECTED 10/1/2026: not a check — a Frazer 12/31/2014 reclass of a payment first booked against Steve's capital-contribution account; A-60 second update, A-72]; the **JL AG related-party
 hay pricing** dispute ($22/ac vs $34/ac claimed); the post-Settlement **line draws over
 $100K/30 days** in 2018–19 (A-41) — against the ¶11(a) safe harbor for draws *up to*
 $100K; and the two **opposite-sign draw frameworks** (A-42). None of that is diversion:

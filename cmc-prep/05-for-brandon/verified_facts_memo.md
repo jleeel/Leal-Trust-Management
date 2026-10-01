@@ -233,6 +233,12 @@ the year down by category:
 ratio of roughly 16 to 1.** Note also that the bulk of Manuel's FY2014 draw is *Medical*
 ($59,962), a category that is difficult to characterize as discretionary.
 
+> **UPDATE 10/1/2026:** $100,000 of Steve's FY2014 "Personal" $120,155 is a single Frazer
+> adjusting entry (12/31/2014, "TO RECLASS STEVE LEAL WITHDRAWALS", from 512000 Capital
+> Cont.-Steve). Without it Steve's FY2014 withdrawals are $67,503 vs. Manuel's $110,081. Whether
+> the underlying payment returned a loan (e.g., the FY2012 $125,987 contribution) is
+> INDETERMINATE. See `steve-temp-loans-512000.md`, A-1 update, A-72, OI-80.
+
 **Counsel should assume opposing counsel will lead with FY2014.** It is in our own
 reviewed financial statements, it is unambiguous, and it is the single strongest
 documentary fact against a disparity narrative. It is addressed in

@@ -317,6 +317,24 @@ online banking."
 > the capital-parity and excess-distribution math ($262,592). Confirm with Frazer which it was
 > and use that word.
 
+> **ADDED 10/1/2026: the "loan" description is already on record with their side, since 2018.**
+> On 2/22/2018 Frazer (Edwards) wrote to Garabedian, with Esraelian, Thompson and **Cunningham**
+> copied: "Steve's capital contributions are for money Steve loaned the business to cover bills.
+> Jace uses this account to post the money Steve put in and when Steve is reimbursed the
+> payments are also ran through this account." (Gmail `1602be0a88bae639`.) Garabedian had asked
+> about two 512000 entries memo'd "Temp Loan to Partner," $70,000 and $100,000, on 11/8/2017.
+>
+> **That helps on item 6**, because "temporary loans / bridge loans" is not a 2026 invention.
+> **It also means their side can match every 512000 debit to a repayment to Steve.**
+> - One such repayment is the $100,000 Frazer reclassed into Steve's FY2014 withdrawals.
+> - Another is the January 2018 self-repayment of most of $170,000.
+>
+> Before anything goes out, get the 512000 ledger for 2012–2019 and reconcile it:
+> - the emails say $170,000 was outstanding in 11/2017 and $70,000 in 2/2018;
+> - the statements show $60,000 (2017), $93,630 (2018) and a $60,000 debit in 2019.
+>
+> See `01-verified-facts/steve-temp-loans-512000.md`, A-72, OI-80.
+
 ### Item 7 — Donations after Hazel's death: support and authority
 **Every post-death donation was charged to Steve's own capital account. The Estate's column
 bore $0.**
@@ -483,3 +501,5 @@ look for a Citizens deposit that did not happen.
 | 18 | QuickBooks audit-trail report for 505000 (why the 1/31/2025 and 7/10/2026 exports differ) | QuickBooks / Frazer |
 | 19 | Executed Orozco note; recorded deed of trust and reconveyance for APN 160-130-007/008/009 | County Recorder; Chicago Title |
 | 20 | Prime-versus-606000 reconciliation for 2023–25 | Frazer |
+| 21 | **512000 Capital Cont.-Steve GL detail 2012–2019**, plus the Gmail attachments "512000 - Capital Cont. - Steve.pdf" (12/6/2017) and "Steve Temp Loan to Partner.pdf" (11/9/2017), saved to Drive (OI-80) | QuickBooks / Frazer; Jace's Gmail |
+| 22 | Bank proof of each Steve loan in and repayment out (2012, 2014, 2017, 1/2018) | Steve's bank; Citizens |

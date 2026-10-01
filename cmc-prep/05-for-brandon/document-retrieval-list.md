@@ -157,6 +157,23 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     side. Client attests it was paid shortly after signing (OI-79). **Top priority:** it rebuts
     defendants' "failed to repay the Note."
 
+38. **512000 Capital Cont.-Steve GL detail, 2012–2019, and the two Gmail attachments that already
+    contain it**: "512000 - Capital Cont. - Steve.pdf" (Edwards → Johnson, 12/6/2017, thread
+    `1602be0a88bae639`) and "Steve Temp Loan to Partner.pdf" (Esraelian, 11/9/2017, thread
+    `15fa1ce3b9f72277`). The client saves both to Drive. They tie the 12/31/2014 $100,000 reclass to its
+    inflow and reconcile the 2017–2019 temporary loans (OI-80, A-72).
+
+39. **Bank proof of Steve's temporary loans and repayments**:
+    - the Citizens check image or transfer for the 2014 payment later reclassed by Frazer;
+    - Steve's bank records for the 2012 $125,987 contribution, the 2017 $70,000 and $100,000
+      advances, and the January 2018 repayment (~$100,000).
+    - Source: client / Citizens online banking (OI-80).
+
+40. **"2017.10.20 Partnership Loan Approval Agreement.pdf"** (Griswold draft for Esraelian,
+    thread `15f3bc24ecfe3e5e`) and the form Esraelian sent Farm Credit on 11/2/2017: the terms
+    under which Hazel's signature was required for line draws. Source: client's Gmail attachment;
+    Griswold LaSalle file; AgWest (formerly Farm Credit West) loan file.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

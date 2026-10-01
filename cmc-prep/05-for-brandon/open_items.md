@@ -1924,3 +1924,39 @@ it rebuts a written allegation in defendants' brief.
 4. **The 2018 return.** Any interest deduction tied to the $350,000 payment (OI-79).
 
 **Priority years:** 1993–1997, then 1983–84, then 2018.
+
+## 🔴 OI-80 — Steve's temporary loans (512000) and which "$100,000" the client means (A-1 update, A-60 correction, A-72)
+**Opened 10/1/2026.** Analysis: `01-verified-facts/steve-temp-loans-512000.md`.
+
+**Where it stands:**
+- **There was no $100,000 check on 9/30/2014** (check #23074 was $126). The $100,000 is a
+  Frazer 12/31/2014 reclass of a payment that had first been booked against Steve's
+  capital-contribution account.
+- Frazer told opposing counsel on 2/22/2018 that repayments of Steve's loans ran through that
+  account.
+- The client says the $100,000 repaid a temporary loan made because Esraelian stalled the Farm
+  Credit line (CLIENT-ATTESTED). The documented stalling is **9/2017–6/2018**, so it fits the
+  **January 2018** repayment ("paid himself back most of it… currently owed $70,000"), not 2014.
+
+**Get:**
+1. **Client: which $100,000?** The 2014 year-end item, the January 2018 repayment, or both?
+   What was the 2014 payment for, and when did Steve put that money in?
+2. **Save two Gmail attachments to Drive** (the connector cannot open them):
+   - "512000 - Capital Cont. - Steve.pdf" (Edwards, 12/6/2017, thread `1602be0a88bae639`);
+   - "Steve Temp Loan to Partner.pdf" (Esraelian, 11/9/2017, thread `15fa1ce3b9f72277`).
+3. **512000 GL detail for 2012–2019 from QuickBooks or Frazer.** This ties:
+   - the 2014 payment to its inflow (candidate: FY2012 Steve contribution $125,987);
+   - the $70,000 and $100,000 "Temp Loan to Partner" entries;
+   - the January 2018 repayment;
+   - the 2019 $60,000 debit.
+4. **Bank proof:**
+   - Citizens check image or transfer for the 2014 payment;
+   - Steve's bank records for each loan in and each repayment out.
+5. **Whether "Response 11.9.17" was sent,** and in what final form (Griswold file / sent mail).
+
+**Why it matters:**
+- If the 2014 payment returned money Steve had put in, A-1 (the "strongest documentary fact
+  against us") loses most of its force.
+- The netting point already stands on printed figures: FY2012–14 net of contributions, Steve
+  $154,600 vs. Manuel $282,659.
+- **Until then, no one should testify that the 2014 entry was "because of Esraelian"** (A-72).

@@ -1907,7 +1907,7 @@ disbursement record defendants requested are exhibits — confirm they were prod
 [PRIV] 7/30/2026, Jace to Ormonde: "Steve became a partner in 1985 and aside from his
 monthly salary, he never took a personal draw (or was allowed to for that matter)." The
 record: the QuickBooks 515000 "Personal-Steve" register (running −$152,504.17 through
-11/1/2016, including a single **$100,000 check to Steve on 9/30/2014**); cash distributions
+11/1/2016, including a single **$100,000 check to Steve on 9/30/2014** [CORRECTED 10/1/2026: no such check — check #23074 was $126; the $100,000 is a Frazer 12/31/2014 reclass from 512000 Capital Cont.-Steve; see A-60 second update]); cash distributions
 to Steve on every K-1 2015–2024; the FY2014 excess-draw finding; and a partnership agreement
 executed **March 1983**, not 1985. If Steve or Jace says this under oath, the registers
 impeach it in one exhibit — and "funneling" is exactly the theory that impeachment would
@@ -2244,5 +2244,116 @@ that." **CLIENT-ATTESTED.** This replaces the absolute "never took a personal dr
    $80,713 (2023), $32,782 (2024) and $95,942 (2025). The post-2015 framing has to rest on the
    2017/2018 agreements: Settlement ¶11(a)'s draw authority and Art. VI.
 2. **The $100,000 check to Steve on 9/30/2014** (515000 register) was in Manuel's lifetime. Ask
-   whether Manuel approved it and whether anything shows that.
+   whether Manuel approved it and whether anything shows that. **[CORRECTED 10/1/2026 — there
+   was no such check; the $100,000 is a Frazer 12/31/2014 reclass. See A-60 second update and
+   A-72.]**
 3. **Consent is CLIENT-ATTESTED.** No document shows Manuel approving or refusing draws.
+
+## A-60 — SECOND UPDATE 10/1/2026: CORRECTION — there was no $100,000 check on 9/30/2014
+
+**Correction.** A-60 (original text) and item 2 of the 10/1 update above said Steve received "a single
+$100,000 check… on 9/30/2014." **That is wrong.** The register was misread when its columns
+were extracted. Re-parsed with every row tied to its amount (the running balance ties on all
+230 rows):
+- **check #23074 (9/30/2014) was $126.00**;
+- the **−$100,000.00** is a **Frazer year-end journal entry dated 12/31/2014**, "TO RECLASS
+  STEVE LEAL WITHDRAWALS". It moves $100,000 from 512000 Capital Cont.-Steve to 515000
+  Personal-Steve.
+
+Sources: "personal steve.pdf" `1wVz1Won1T_ovfpqPGhBB71qOKGoEkPTA`; Frazer "Accountant Changes
+12.31.14.pdf" `1f5JGW5GYY4weVMoBqbfqETX3Llgz_VNp`, p. 36, entry 202. Full analysis:
+`01-verified-facts/steve-temp-loans-512000.md`.
+
+**What changes:**
+- The $100,000 was a payment to Steve that the dairy's books first ran through his
+  *capital-contribution* account. That is how Frazer later said repayments of Steve's loans
+  were handled (2/22/2018, to opposing counsel).
+- Frazer relabeled it a withdrawal at year-end.
+- It is still in FY2014 "Personal," so A-1's printed numbers stand. But it is **not a $100,000
+  check Steve wrote himself in September 2014**, and no one should describe it that way.
+
+**Client explanation (CLIENT-ATTESTED):** "a repayment of a temporary loan to the partnership."
+- The repayment *mechanism* is supported.
+- The *inflow* it repaid is not yet tied. The nearest candidate is Steve's FY2012 $125,987
+  contribution (INDETERMINATE).
+- The client's stated *reason* (Esraelian stalling the Farm Credit line) is documented only for
+  **9/2017–6/2018**. It cannot apply to a 2014 entry (see A-72).
+
+## A-1 — UPDATED 10/1/2026: the FY2014 excess is one $100,000 accountant reclass
+
+The FY2014 numbers in A-1 are printed and stand. But **$100,000 of Steve's $120,155 "Personal"
+is a single Frazer adjusting entry** (A-60 second update). It relabeled a payment the books had
+first treated as a return of Steve's contributed capital.
+
+**New response (4), from printed figures (calc, S-4):**
+- **Steve's FY2014 withdrawals without the reclass: $67,503** (Personal $20,155), against
+  Manuel's $110,081.
+- **Netting contributions over FY2012–FY2014:**
+  - withdrawals: Steve $280,587, Manuel $282,700;
+  - contributions: Steve $125,987, Manuel $41;
+  - net: **Steve $154,600, Manuel $282,659.**
+
+Point (4) needs no proof of "loan" character. It only asks that money Steve put in be counted
+alongside money that came back to him.
+
+**Limits (both ways):**
+- Frazer's choice to label the 2014 payment a withdrawal is the accountant's, and the reviewed
+  statements reflect it.
+- A three-year window invites the cherry-picking reply. FY2011 ($612 Steve excess) sits just
+  outside it.
+- The 2012→2014 link is an inference until the 512000 ledger is read (OI-80).
+
+**Severity:** A-1 remains HIGH until OI-80 is closed. If the 512000 detail shows the 2014
+payment returning the 2012 money, response (4) becomes response (1).
+
+## A-72. 🔴 The "Esraelian stalled the line" explanation cannot cover 2014, and the 2018 self-repayment needs care
+
+1. **Timing.**
+   - The client attributes the $100,000 to a temporary loan forced by Esraelian stalling Farm
+     Credit draws.
+   - Every stalling document is dated 9/18/2017–6/19/2018 (`steve-temp-loans-512000.md` §3).
+   - The only $100,000 in Steve's 1999–2016 personal register is the **12/31/2014** reclass.
+     That was during Manuel's lifetime and years before any documented Esraelian role.
+   - If anyone testifies that the 2014 entry was "because of Esraelian," the dates impeach it.
+   - **The account fits a different $100,000:** Jace wrote (2/22/2018) that in January 2018 Steve
+     "paid himself back most of" $170,000 in temporary loans and was "currently owed $70,000."
+   - **Pin down which $100,000 the client means before anyone repeats the explanation** (OI-80).
+2. **"Paid himself back," after the Settlement.**
+   - The January 2018 repayment came after the 12/7/2017 Settlement effective date. ¶11 restricts
+     partnership borrowing and partner loans; its signature blocks are dated 2018.
+   - Whether repaying a pre-Settlement partner loan required Hazel's approval is a question for
+     counsel (UNVERIFIED).
+   - Mitigation: Frazer told Garabedian, Esraelian, Thompson and Cunningham in writing on
+     2/22/2018 that repayments to Steve ran through 512000 and about $70,000 remained owed.
+3. **Loan versus capital.**
+   - These advances were booked as capital contributions, with no note and no interest.
+   - The documents call them "temporary loans" (2017–18), "capital contributions" (statements)
+     and "bridge loans" (7/16/2026).
+   - The other side can call every repayment a draw. Pick one word with Frazer (kit Item 6
+     caution).
+4. **The amounts do not reconcile yet:** $170,000 outstanding in 11/2017, a FY2017 contribution
+   of $60,000, a FY2018 contribution of $93,630, and a 2019 $60,000 debit. Until the 512000
+   ledger is read, no one should give a figure.
+5. **Tone.**
+   - Esraelian's non-privileged 11/9/2017 accusation: "continued threats to take away or to stop
+     paying Hazel's caregivers."
+   - Jace's own non-privileged 11/3/2017 linkage of the advance to "home care nurse expenses for
+     Hazel… ~$138,000."
+   - The [PRIV] "My Dad just isn't too excited about loaning the partnership to pay for nurses."
+   - Together these feed a leverage narrative. Deposition prep should address it directly.
+
+**What helps:** the same emails show Hazel's side conditioning operating-line advances on
+information demands, while counsel told them "The bills for the dairy cannot be paid until we
+receive the funds from the advance" (11/9/2017) and "There is not enough money to meet current
+operating needs" (6/19/2018). That is the documented reason Steve's bridge money was needed.
+
+## CORRECTIONS LOG (10/1/2026)
+
+- **"$100,000 check #23074 to Steve, 9/30/2014" — WRONG; corrected by note wherever it
+  appeared:** A-60 (original), A-60 10/1 update item 2, gmail-extract §2, trust-admin-sweep §2.6,
+  delay-attribution-ledger line 260, chronology row 2014-09-30.
+  - Check #23074 was $126.00.
+  - The $100,000 is Frazer AJE #202, 12/31/2014, a reclass from 512000 to 515000.
+  - Cause: a text extraction that misaligned the register's rows and amounts. Fixed by
+    tying every row to its running balance (0 breaks / 230 rows).
+- **A-1 updated** (response 4, netting contributions); **A-72 added**.

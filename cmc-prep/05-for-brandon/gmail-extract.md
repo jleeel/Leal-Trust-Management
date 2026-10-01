@@ -199,7 +199,7 @@ buyout. We'd love to pay them" (CLIENT-ATTESTED; OI-70). The attachments were no
 - **[PRIV] 7/30/2026:** Jace: "Steve became a partner in 1985 and aside from his monthly
   salary, **he never took a personal draw** (or was allowed to for that matter)." **The
   record contradicts this** — the 515000 "Personal-Steve" register (running −$152,504 through
-  11/2016, incl. a single $100,000 check to Steve 9/30/2014), cash distributions on every
+  11/2016, incl. a single $100,000 check to Steve 9/30/2014 [CORRECTED 10/1/2026: no such check — #23074 was $126; the $100,000 is a Frazer 12/31/2014 reclass from 512000; A-60 second update]), cash distributions on every
   K-1, FY2014 excess draws; and the partnership agreement dates to March 1983. If Steve or
   Jace testified to this, the registers impeach it. **Deposition-prep item — A-60.**
 - **[PRIV] 7/30/2026:** Jace: "Hazel's personal investment account was NOT treated as

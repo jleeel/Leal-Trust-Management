@@ -301,3 +301,23 @@ offer so far carried conditions, and on the verified *Mission* rule a conditiona
 not stop interest. At 4% on our own $3,950,565.28 that is about $13,169 a month. Weigh it
 against title (OI-68), § 736 tax structuring, and the debt-cap question (A-66). Read with
 A-66/A-67 (the limits and the "why didn't you pay?" question) and the R2 tender addendum.
+
+
+## UPDATE 10/1/2026 — Steve's temporary loans and the FY2014 "$100,000" (OI-80, A-1 update, A-60 correction, A-72)
+
+**Correction first:** there was no "$100,000 check to Steve on 9/30/2014." It is a Frazer
+year-end reclass (12/31/2014) of a payment first booked against Steve's capital-contribution
+account. Frazer told opposing counsel in writing (2/22/2018) that this is how repayments of
+Steve's loans were handled.
+
+**Client, this week:**
+1. Save the two Gmail attachments "512000 - Capital Cont. - Steve.pdf" and "Steve Temp Loan to
+   Partner.pdf" to Drive (retrieval item 38).
+2. Pull the 512000 ledger for 2012–2019 from QuickBooks.
+3. Say which $100,000 you meant: the 2014 entry, the January 2018 repayment, or both.
+
+**Counsel:**
+- Response (4) to A-1 (netting contributions) is available now from printed figures.
+- Do not let anyone attribute the 2014 entry to Esraelian. Her documented holds are 9/2017–6/2018
+  (A-72).
+- Decide whether the January 2018 self-repayment raises a ¶11 issue.
