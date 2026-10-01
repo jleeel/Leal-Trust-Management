@@ -219,8 +219,10 @@ missing; confirm with the lealdairy export before asserting "every month."
 **Questions (Ashley):**
 1. Aaron J. Garabedian is named in Hazel's trust?
 2. In 2017–2018 he acted as the CPA for Hazel's side in the dairy matter?
-3. You were married to him at that time? *(Professional facts only. Do not ask about the
-   divorce. Counsel's judgment.)*
+3. In 2017–2018 you and he were engaged or together, and you married him on November 11, 2018?
+   *(Corrected 10/1/2026: the wedding was 11/11/2018, after his CPA work. Professional facts only.
+   Do not ask about the 2026 divorce. Counsel's judgment.)*
+3a. When Hazel's trust named him on November 10, 2017, you were not yet married?
 4. Who is Lauren Garabedian Ruff? Related to you or Aaron?
 5. She received the dairy's QuickBooks file every month in 2022?
 6. She had online access to the dairy's bank account from 2020?

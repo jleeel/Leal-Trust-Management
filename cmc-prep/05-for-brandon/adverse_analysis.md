@@ -2957,3 +2957,38 @@ certified the instrument.**
 - **Counsel only.** The working use remains knowledge, coordination and bias.
 - Every relationship in this table except Ashley's is CLIENT-ATTESTED. Confirm from public
   sources before anyone repeats it (OI-90).
+
+### A-78 / A-79 — CORRECTION 10/1/2026: Ashley and Aaron married on 11/11/2018, not before
+
+**Source:** client screenshot of texts with Ashley (preserved
+`01-verified-facts/2018-10-06_ashley-text-wedding-11-11-2018.png`). On 10/6/2018 Ashley wrote: "It
+is Sunday, November 11 in Fresno at 5:00 at the Grand… the reception is at the Grand too." Jace
+and Monica RSVP'd. **Client:** married in 2018, divorced this year, 2026 (month not stated).
+
+**Correction:**
+- A-78 called Aaron "Ashley's then-husband" for his 2017–18 CPA work, and the deposition outline
+  1J Q3 asked "You were married to him at that time?"
+- **They were not yet married in 2017–early 2018.** They married on 11/11/2018. Aaron's
+  documented CPA work for Hazel's side ran 10/2017–2/2018.
+- They **were** married during Lauren's 2020–22 role (sister-in-law, correct).
+- Corrected here by note. The outline question is revised.
+
+**What the corrected date changes (counsel only; UNVERIFIED):**
+- Hazel's 11/10/2017 restatement named "AARON J. GARABEDIAN" as contingent taker **a year
+  before he married Hazel's granddaughter.** At signing he was not related to Hazel by marriage.
+  On the client's account he was the nephew of the certifying attorney.
+- If the drafter-relative rules (Prob. Code §21380 et seq.) measure relationships at signing, the
+  "transferor's own relatives" exemption discussed in A-79 may not have covered him then.
+- **When the relationship is measured, and whether any remedy survives the time limits and the
+  no-contest clause, is for counsel.** The working use is still knowledge and bias. This makes
+  the flag stronger, not actionable.
+
+**Also visible in the screenshot (partly obscured; preserve, do not over-read):**
+- Before 10/6/2018, a text from Jace to Ashley after a meeting: "…was helpful. I'm definitely
+  hopeful for a resolution… Jordan plays big part of the management of the business… [vaavaa]
+  often fails to see the results of her actions. Playing… can hurt feelings."
+- Ashley replied: "Thanks for meeting, we are hopeful too and I understand."
+- **Both ways:**
+  - good-faith outreach and a cordial family relationship (wedding invitation, RSVP);
+  - but Ashley holds a written criticism of Hazel by Jace in 2018 and can produce it.
+- Get the full thread from the client before anyone characterizes it.

@@ -2174,3 +2174,13 @@ Confirm from public sources only.
 - Robyn Esraelian (née Garabedian) is Dale's sister, so she is Aaron's and Lauren's aunt.
 
 All CLIENT-ATTESTED; confirm from public sources. **Counsel:** Aaron, a named contingent beneficiary, is the nephew of the attorney who certified and notarized the 11/10/2017 restatement. Evaluate the drafter-relative rules (UNVERIFIED), the exemptions, the time limits and the no-contest clause before deciding whether this is more than a bias point. The default is bias only.
+
+## OI-89 / OI-90 — UPDATED 10/1/2026: marriage date fixed; full text thread wanted
+- Ashley and Aaron married **11/11/2018** (Ashley's text of 10/6/2018) and divorced in 2026 (client).
+- The 11/10/2017 restatement named Aaron a year before the marriage (A-78/A-79 correction).
+
+**Client:**
+1. Export the **full** text thread with Ashley, 2017 onward, to PDF. The screenshot shows a partly
+   hidden 2018 text from Jace about a meeting, Jordan's role, and a comment about Hazel. Counsel
+   needs the whole thread, since Ashley has it too.
+2. The divorce month, if known.
