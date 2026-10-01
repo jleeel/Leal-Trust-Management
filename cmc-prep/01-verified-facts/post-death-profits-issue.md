@@ -672,3 +672,32 @@ calc).
 **cash** continued at $6,000 a month to 9/2026. Frazer relabeled part of it as draws: $102,000 at
 9/30/2024, 7/31/2025 and 12/31/2025 (A-70). The statement "they ceased with her death" is
 corrected accordingly. The guaranteed-payment *label* ceased; the payments did not.
+
+### ADDENDUM 10/1/2026 (later): the client's "double-dipping" framing, and two additional points for counsel
+
+**Client (Jace, 10/1/2026):** "How would it be reasonable to suggest that they can sell their share
+of a business and also share in the profits after that date of appraisal? That's double dipping. I
+really doubt they would be putting money into the business if we had a losing year." This is the
+§3(c) argument in plain words: value is fixed at death, and waiting is paid at 4%. It is not a new
+legal theory.
+
+**Two additional points for counsel to test:**
+
+1. **Does the date-of-death value already price the future profits?**
+   - If the Moss Adams business valuation (the agreed $1,162,612.50 pre-90% figure) used an income
+     or going-concern approach, it valued the 37.5% interest by the profits it was expected to
+     earn.
+   - Paying that value **and** the actual post-death profits would then pay for the same earnings
+     twice.
+   - **Check the Moss Adams method section before using this** (the valuation method is not
+     confirmed in this workspace).
+2. **The losing-year point needs care.**
+   - **On paper**, the estate *did* share the 2023 loss. The books charged its column $333,228,
+     and defendants' own 6/19/2025 schedule nets the 2022 and 2023 losses (§13.1).
+   - **In cash**, the estate shared none of it. In 2023 it contributed $0 and drew about $72,000,
+     while Steve contributed $360,000 (A-77; OI-88).
+   - The accurate version of the client's point: **the estate shared losses only as bookkeeping
+     entries, while Steve alone funded them.**
+   - Expect the reply that no one asked the trustees for capital. Whether the agreement has a
+     capital-call mechanism is NOT ESTABLISHED in this workspace; counsel should check the
+     executed Partnership Agreement.
