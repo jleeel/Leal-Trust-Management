@@ -333,3 +333,34 @@ Steve's loans were handled.
 - **Counsel:** no "loan repayment" description of the 2018 checks until that is done.
 - **New, OI-82:** Land O'Lakes equity checks to Manuel and Hazel, 2005–2007 ($285,895). Ownership
   of the equity is unknown until LOL membership records are obtained.
+
+## STATUS 10/1/2026 (end of day): priorities before the 10/13 CMC
+
+**Resolved today:**
+- FY2014 "excess draw" explained (A-1, severity reduced).
+- 2017–2018 checks to Steve shown to repay $250,000 of documented loans (A-73 corrected).
+- Caregivers were paid weekly through the 11/2017 dispute (OI-81).
+- Hazel's 2010–2019 checks expensed through the dairy identified (A-76).
+- Trustees received the $6,000 monthly payments, $288,000 (client; proof pending, OI-88).
+- Susan's $1,689.19 was paid 9/30/2026 (check #42765, register).
+
+**This week — client:**
+1. **Confirm with Ormonde who is appearing on 10/13** and whether the case-management statement
+   has been filed. The filing deadline precedes the hearing; counsel to confirm the exact date.
+2. **Proof documents, in order of value:**
+   - the ¶6 $350,000 payment (OI-79);
+   - the ACH destination for the $6,000 monthly payments (OI-88);
+   - the recorded deed(s) of the houses to Susan (OI-83).
+3. **One Frazer session, with counsel present** (privilege):
+   - the 2018 repayment coding;
+   - "salary" versus draw after the death;
+   - the 2023 $360,000 label (A-77);
+   - the Danielle insurance and Hazel check-series classification (A-75/A-76);
+   - the 2023 Form 1065.
+
+**Counsel decisions:**
+- Unconditional tender (OI-72).
+- The post-death profits statute and case check (OI-30; the largest dollar issue).
+- The response to Cunningham's nine requests: see the kit; the STOP items first.
+- Serve discovery.
+- **Hold until documented:** the Danielle card incident and the water claim (A-75).
