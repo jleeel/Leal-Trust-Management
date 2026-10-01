@@ -2099,3 +2099,21 @@ buyout to be valued at the date of death (CLIENT-ATTESTED). It is booked as a co
 2. Whether the 7/16 email went to Cunningham (OI-73).
 3. How to present the 2023 contrast: Steve $360,000 in; the estate $72,000 out plus $333,228 of
    loss allocated.
+
+## 🔴 OI-14 — UPDATED 10/1/2026: ¶8 compliance is now partly documented (A-13 update)
+- Hazel's CPA, **Lauren Ruff (The Garabedian Group)**, had **online banking access from
+  9/10/2020.**
+- 2020 bank statements were delivered 1/7/2021.
+- A "June 2021 Statements" monthly packet (bank statements plus QuickBooks file) went to
+  Esraelian 7/16/2021.
+- Frazer told opposing counsel on 2/22/2018 that Jace would send "monthly QB activity."
+
+**Client, next:**
+1. **Search lealdairy@gmail.com Sent mail, 12/2017–9/2022**, for subject "Statements" and for
+   mail to esraelian@attitude.com, robyn@rje-law.com, lauren@tgg-cpa.com and
+   aaron@thegarabediangroup.com.
+2. **Export a list: one line per month (date sent, to whom, what was attached).** Save the list
+   and the emails as PDFs to Drive.
+3. Note any months missing.
+
+This list is likely the single most useful exhibit against defendants' covenant-breach theory.

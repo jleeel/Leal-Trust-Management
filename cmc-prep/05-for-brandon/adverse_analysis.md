@@ -2734,3 +2734,49 @@ of his own cash while you took out over $70,000?"
   cross-examination question that lets the witness explain is a risk.
 - Before asking whether they knew the dairy needed money: what information did the trustees
   actually receive in 2023 (monthly statements, bank access from 10/2025)?
+
+## A-13 — UPDATED 10/1/2026: ¶8 information flow is partly documented. The rest is likely in the lealdairy mailbox.
+
+**Client (CLIENT-ATTESTED):** "I was providing financials monthly to the trust's accountant." The
+trust's accountant was **Lauren Ruff, The Garabedian Group** (lauren@tgg-cpa.com). Esraelian
+called her "Hazel's CPA" on 12/29/2020.
+
+**What the jaceleal@gmail.com mailbox shows (all read 10/1/2026):**
+
+| Date | Item | Gmail thread |
+|---|---|---|
+| 11/9/2017 | Esraelian conditions Hazel's line-of-credit signature on information requested "after review of the **monthly financial information** for the dairy is submitted to Hazel." Monthly information was already flowing. | `15fa1ce3b9f72277` |
+| 12/27/2017 | Esraelian: "As long as information is provided in a manner that keeps us apprised of what is going on, there should be no delays." | `16099bc4ac9deb75` |
+| 2/22/2018 | Frazer (Edwards) to Garabedian, cc Esraelian, Thompson and Cunningham: "going forward Jace would send you **monthly QB activity** and he would answer questions as they come up." | `1602be0a88bae639` |
+| **9/10/2020** | Esraelian: "can you provide the **online banking** information to Lauren Ruff now?" Jace: "**Lauren is set up for access.**" | `17478c6c734b18b4` |
+| 12/29/2020 → 1/7/2021 | "Hazel's CPA" requests all 2020 bank statements and payroll returns for "her review of the 2020 financial information from the Dairy." Jace sends 12 months of Citizens statements, quarterly Farm Credit statements and payroll forms. Esraelian: "I will review with the CPA." | `176afefbff2f602c` |
+| 2/2021 | Lauren's questions on Jace's spreadsheet, answered by Frazer (Edwards → Lauren). | `17687a1d2514e969` |
+| **7/16/2021** | **"June 2021 Statements"** to Esraelian: 6/30/2021 bank statements plus a QuickBooks portable-file link. That is a **monthly packet in the form the client describes.** | `17aab063f852269e` |
+| 8/30/2022 | Esraelian: "**Lauren and I have reviewed this and agree** with your calculation" ($850,894.54). | `1827e17104001f86` |
+| 6/21/2023 | Esraelian: "Thank you for the Dairy financial information. I have forwarded it to Bill Reddington." | `188dea70e13178f7` |
+| 10/2025 | Direct bank access given to defendants' accountant (existing finding, gmail-extract). | — |
+
+**Grade:**
+- That **information flowed and Hazel's CPA had online bank access from 9/10/2020: SUPPORTED.**
+- **That a packet went every month from 12/2017 to 9/2022: CLIENT-ATTESTED.** Only one monthly
+  packet (June 2021) is in this mailbox. The rest were probably sent from lealdairy@gmail.com,
+  which has not been searched.
+
+**Effect:**
+- A-13's statement "no evidence of a single monthly accounting" is **superseded.**
+- The ¶8 exposure falls from "unanswered" to "**answerable, pending the lealdairy sent-mail
+  export.**"
+
+**Limits:**
+1. ¶8 says "provided to **Hazel** on the 15th." Whether delivery to her attorney or CPA satisfies
+   it is a question for counsel (UNVERIFIED). Their own requests routed through counsel and CPA,
+   which helps.
+2. Bank statements and a QuickBooks file are raw records, not an "accounting of the Partnership
+   operations." Expect that argument.
+3. The June 2021 packet went out on 7/16, one day after the 15th.
+4. The 2020 statements were sent in a batch on request (1/7/2021), not monthly. The online access
+   covers the gap from 9/2020.
+
+**Hygiene flag:** the 2019 QuickBooks portable file in Drive (`1qdxYcJsv-CdfdDwcKY4xiZiojCjXmKAr`,
+owner lealdairy) is shared "**anyone with the link — writer.**" Do not delete it (litigation
+hold). The client may wish to restrict sharing on counsel's advice.
