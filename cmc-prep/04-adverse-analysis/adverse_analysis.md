@@ -2687,3 +2687,50 @@ reached Cunningham (OI-73), our side has given two characterizations.
 
 **Action:** counsel and Frazer settle the word before any answer to Cunningham's item 6.
 `steve-temp-loans-512000.md` §9.
+
+## A-77 — UPDATE 10/1/2026: the client's proposed question, and how it can go wrong
+
+**Client's proposed question for the trustees:** "In 2023, when the dairy was strapped for cash
+amid an unprofitable year, why, if you considered yourself a partner, did Steve inject $360,000
+of his own cash while you took out over $70,000?"
+
+**Supporting facts:**
+
+| Fact | Source / grade |
+|---|---|
+| FY2023 net loss $888,608 | Reviewed FS; SUPPORTED |
+| Estate column charged $333,228 of the loss | Reviewed FS; SUPPORTED |
+| Steve deposited $360,000 (6/24, 7/20 and 8/14/2023) | 512000 GL; SUPPORTED |
+| Cash was tight around those deposits | Register; SUPPORTED as a *book* balance: about −$144,600 just before 6/24, about −$143,500 before 8/14, and a low of −$463,208.84 on 6/24/2023. Bank-statement balances would be cleaner. |
+| 12 × $6,000 = $72,000 paid to "Hazel Leal" in 2023 | Register; coded 725000 Partners Salaries |
+| That payee is the trustees | **CLIENT-ATTESTED (OI-88)** |
+
+**Traps to clear before anyone asks it:**
+1. **"You took out over $70,000" does not match our own FY2023 statement.** It shows Estate
+   *withdrawals* of only **$8,598**, because the $72,000 was booked as **partner-salary expense**.
+   Cunningham can hand the witness our statement. Say instead "the partnership paid you $72,000,"
+   and only after the ACH proof and Frazer's explanation of the reclass (A-70).
+2. **The "Partners Salaries" label answers "if you considered yourself a partner"** for them:
+   "Yes, and you paid us as one." Reconcile the label first.
+3. **"Inject capital" must match the word chosen for the $360,000** (A-77). If the 7/16/2026
+   "bridge loans" email reached Cunningham, she will reply that Steve lent the money and expects
+   it back.
+4. **The likely answer to any "why" question is "No one asked us, and we didn't know."** The ¶8
+   monthly-accounting record is our weak point (no compliance located). The 2023 statements were
+   reviewed in 2/2025, after the fact. The answer then becomes a ¶8 attack.
+5. **Steve's own reason** (he expected to be sole owner; §9 of the loans memo) can be used against
+   him: "He was investing in a business he planned to own, at his own risk."
+
+**Suggested structure for counsel (deposition first, where a "why" is safe):**
+- Short, one-fact questions:
+  - the trust claims partner status after 9/23/2022;
+  - 2023 was a loss year;
+  - the trust contributed nothing in 2023;
+  - Steve contributed $360,000;
+  - the partnership paid the trustees $72,000;
+  - the trust never offered capital.
+- Then the "why" question.
+- At trial, ask only the one-fact questions and argue the point in closing. A trial
+  cross-examination question that lets the witness explain is a risk.
+- Before asking whether they knew the dairy needed money: what information did the trustees
+  actually receive in 2023 (monthly statements, bank access from 10/2025)?
