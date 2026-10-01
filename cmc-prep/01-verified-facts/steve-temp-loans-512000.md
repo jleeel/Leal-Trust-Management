@@ -333,3 +333,86 @@ SUPPORTED.**
 | "$170,000 outstanding 11/2017" (my §3–§5 reading) | — | **WITHDRAWN.** Repaid 3–4/2017 |
 | 2018 $220,000 = loan repayment (client 2/22/2018 email) | — | **UNSUPPORTED** for ~$190,000 on the ledger; INDETERMINATE pending other channels |
 | Nurses paid on schedule in 11/2017 | open | **SUPPORTED** (register) |
+
+---
+
+## 8. UPDATE 10/1/2026 (latest): the complete 512000 ledger, 2004–2026, reverses §7.2(e)
+
+**Source:** "steve capital contributions.xlsx" (Drive `1K8BSGBlDp8p-Bkd4trxMzynhOsckBZqX`; client
+export 10/1/2026, QuickBooks Account QuickReport, 512000 Capital Cont.-Steve, all transactions;
+read in full).
+- It matches the 8/18/2017 printout line for line through 4/25/2017.
+- It shows the full memos ("Temp Loan Payback"; "RECLASS INSURANCE SETTLEMENT TO CAPITAL
+  CONTRIBUTION").
+- **It adds entries the Citizens register could not show, because they sit inside split
+  deposits.**
+
+### 8.1 Entries after 4/25/2017
+
+| Date | Type / No. | Memo | Amount | Balance |
+|---|---|---|---|---|
+| 8/29/2017 | Deposit 6020 | **temp loan** | +100,000.00 | −70,000.00 |
+| 10/6/2017 | Deposit 6042 | **Temporary Loan** | +50,000.00 | −20,000.00 |
+| **11/9/2017** | Deposit 6064 | **temp loan** | **+20,000.00** | 0.00 |
+| 11/17/2017 | Check 29338 | Temp Loan Payback | −20,000.00 | −20,000.00 |
+| 11/29/2017 | Deposit 6074 | temporary loan | +40,000.00 | 20,000.00 |
+| 12/5/2017 | Deposit 6077 | temp loan | +40,000.00 | 60,000.00 |
+| 1/1/2018 | GJ Frazer 18-8 | close out 12/31/17 capital | −60,000.00 | 0.00 (= FY2017 "contribution" $60,000) |
+| 6/8/2018 | Deposit 6154 | Deposit | +10,000.00 | 10,000.00 |
+| 7/11/2018 | Deposit 6164 | Temp Loan | +15,000.00 | 25,000.00 |
+| 7/16/2018 | Deposit | **2013 2014 FTB refund** | +43,630.24 | 68,630.24 |
+| 9/11/2018 | Deposit 6193 | TEMP LOAN | +25,000.00 | 93,630.24 |
+| 1/1/2019 | GJ Frazer 49- | TO CLOSE CAPITAL | −93,630.24 | 0.00 (= FY2018 "contribution" $93,630) |
+| 4/22/2019 | Check 31962 | | −60,000.00 | −60,000.00 |
+| 1/1/2020 | GJ Frazer 1 | To close capital | +60,000.00 | 0.00 |
+| 6/24/2023 | Deposit 6881 | Deposit | +155,000.00 | 155,000.00 |
+| 6/24/2023 | Deposit ("Cash") | Deposit | +5,000.00 | 160,000.00 |
+| 7/20/2023 | Deposit | Deposit | +100,000.00 | 260,000.00 |
+| 8/14/2023 | Deposit 6900 | Deposit | +100,000.00 | 360,000.00 |
+| 1/1/2024 | GJ FrzrTXP-01 | To close capital | −360,000.00 | 0.00 (= FY2023 "contribution" $360,000) |
+
+**Also:** 12/31/2015, Frazer, "RECLASS INSURANCE SETTLEMENT TO CAPITAL CONTRIBUTION," from 689000
+"Proceeds from Home Fire Claims," +$88,025.87. The FY2015 statements show the same $88,026
+credited to Manuel's column. That implies $176,051.74 of home-fire insurance proceeds split to
+the partners' capital (calc). **Whose home, and why it went to capital: open (OI-87).**
+
+### 8.2 What changes
+
+**§7.2(e) and A-73 were wrong on the key point. Corrected:**
+- Between 8/29 and 12/5/2017, Steve lent the partnership **$250,000**, every deposit memo'd
+  "temp loan" or "temporary loan." He was repaid $20,000 on 11/17.
+- **About $230,000 was owed to him at 12/31/2017** (calc).
+- The **$150,000 (1/13/2018) and $70,000 (6/1/2018)** checks therefore repaid documented loans.
+- **Grade: SUPPORTED** as loan repayments in substance. They were *coded* to 515000
+  Personal-Steve rather than 512000, the same presentation problem as 2014. So Steve's FY2018
+  "Personal" withdrawals are overstated by about $220,000 of loan repayment (calc).
+- Jace's 2/22/2018 "currently owed $70,000" is close to the ledger's $230,000 − $150,000 =
+  $80,000. A **$10,000 difference** is unexplained.
+
+**Esraelian. The client's explanation fits this loan series. PARTLY SUPPORTED:**
+- The $250,000 came in exactly while Hazel's sign-off on Farm Credit draws was being withheld or
+  conditioned (documented 9/18–12/27/2017).
+- The 8/29/2017 $100,000 "temp loan" precedes the first Esraelian email found (9/18/2017) by
+  three weeks. Ryan Camara had already sent her the renewal documents by then (date NOT
+  ESTABLISHED).
+- **On 11/9/2017, the day of the authorization fight and the "nurses" email, Steve lent
+  $20,000.** That answers the same-day "[PRIV] My Dad just isn't too excited about loaning the
+  partnership to pay for nurses": he lent anyway, and lent $80,000 more by 12/5.
+
+**The client's "$100,000 repayment of a temporary loan"** now has three candidates, all supported
+as loan repayments:
+- the 2014 net $100,000 (Frazer reclass);
+- 3/2/2017 "Temp Loan Payback" $100,000;
+- the 1/13/2018 $150,000, which repaid the 8/29/2017 $100,000 plus the 10/6 $50,000.
+
+Only the last one fits the Esraelian explanation.
+
+**6/19/2018 "not enough money" (A-73):**
+- Steve had been repaid $70,000 on 6/1 for late-2017 loans.
+- He then lent again: $10,000 (6/8), $15,000 (7/11) and $43,630.24 (7/16, his FTB refund).
+- That is consistent with Johnson's "he has deposited it back."
+- The timing still reads poorly, but it is explicable as a revolving bridge.
+
+**2023:** $360,000 in (6/24–8/14/2023), "Deposit" memos, no repayment through 512000 since.
+Jace's 7/16/2026 "bridge loans" description therefore has **no repayment yet** for the 2023
+money. If it is a loan, it is still outstanding.

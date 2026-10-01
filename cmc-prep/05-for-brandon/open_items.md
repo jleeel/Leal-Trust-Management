@@ -2045,3 +2045,31 @@ and Hazel $137,197.24 (6/21/2007).
 5. "2017.12.06 Jace Leal Draw Reconcilliation.xlsx" (Johnson to Esraelian, Thompson and
    Garabedian, 12/6/2017; Gmail `1602de83c0269477`). Save it to Drive.
 6. Frazer, privately through counsel: the reclassification and tax treatment.
+
+## OI-80 — UPDATED 10/1/2026 (latest): 2018 resolved by the full 512000 ledger
+The complete ledger (S-32) shows **$250,000 of "temp loan" deposits from 8/29 to 12/5/2017.** The
+2018 $150,000 and $70,000 checks repaid them. A-73 is corrected.
+**Still open:**
+- the $10,000 difference against Jace's "$70,000 still owed";
+- Frazer's FY2018 presentation;
+- whether the **2023 $360,000** (no repayment through 512000 since) is a loan or a contribution.
+  That one word drives the buyout math (kit Item 6).
+
+## OI-83 — UPDATED: the deed to Susan
+The client says the three houses are deeded to Susan. Drive has only the 2018 Bypass→Hazel-trust
+deed for APN 158-160-006 (21145 Road 68) and the 2016 Pismo deed (50% to Susan). Get the
+recorded deed(s) to Susan: date, grantor, and whether trustee-to-trustee. Source: Tulare County
+Recorder.
+
+## OI-86 — Hazel's handwritten check series (A-76)
+1. Check images for a sample of the 886 partnership-coded checks below #4477. Priority: Pismo tax
+   and utilities, Anthem, pet vet, DIRECTV and gardener. Citizens statements or images, 2010–2019.
+2. The Citizens signature card for the account: was Hazel an authorized signer before 2015?
+3. Counsel: does the agreed 12/31/2016 capital schedule (Frazer 2/22/2018) close pre-2017
+   reclassification?
+4. Frazer, privately: what a reclassification would do to each partner's capital.
+
+## OI-87 — 2015 "Proceeds from Home Fire Claims" credited to capital
+Frazer 12/31/2015: $88,025.87 reclassed from 689000 to Steve's capital contribution. The same
+amount went to Manuel's column (FY2015 $88,026). Whose home burned, who owned it, and why were
+the proceeds split to both partners' capital?

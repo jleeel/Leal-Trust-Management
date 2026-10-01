@@ -348,6 +348,12 @@ online banking."
 > (1/13/2018) and $70,000 (6/1/2018), coded as personal draws, against only about $30,000 of
 > loans then outstanding** (A-73). Do not describe the 2018 checks as loan repayments in any
 > response to item 6 until Frazer's FY2018 treatment is confirmed.
+>
+> **CORRECTED 10/1/2026 (latest):** the complete 512000 ledger (S-32) shows **$250,000 of "temp
+> loan" deposits from 8/29 to 12/5/2017.** So the 2018 $150,000 and $70,000 checks *were* loan
+> repayments; they were just coded to Personal-Steve. **Open:** the 2023 $360,000 has no
+> repayment yet, so decide with Frazer whether it is a loan or a contribution before answering
+> item 6.
 
 ### Item 7 — Donations after Hazel's death: support and authority
 **Every post-death donation was charged to Steve's own capital account. The Estate's column

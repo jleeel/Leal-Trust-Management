@@ -167,3 +167,29 @@ charged to **Steve's** capital account: 510000, or 515600 "Steve Draws - Susan L
 2019. They end with check #42765, **9/30/2026, "Last Payment," $1,689.19**. This corroborates
 A-58 (ten years of performance on Susan's annuity, paid from Steve's side) at bank-register
 level.
+
+## §0 UPDATE 10/1/2026 (later): client says the houses are deeded to Susan
+
+- **Client (CLIENT-ATTESTED):** "the houses are deeded to susan."
+- **Deeds found in Drive** (the client's bulk attachment save):
+  - **"Leal 2018.07.24 Grant Deed APN 158.160.006.pdf"** (Drive `1qfthXjyoAuJR73MGGUVDFMxt4lGhOjp1`;
+    dup `18IaSq5LUr9YMWcNBtBeJahq1cW2K90Ap`; read in full).
+    - Property: APN 158-160-006, **21145 Road 68, Tulare, about 1.03 acres**. The draft's title
+      calls it "two houses."
+    - Grantors: Hazel J. Leal and Manuel Stephen Leal, Co-Trustees of the Manuel C. Leal Bypass
+      Trust.
+    - Grantee: the Hazel J. Leal Revocable Trust, "as to an undivided 50% interest."
+    - Executed and notarized 2018 (Hazel before Robyn Esraelian as notary; Steve in Kings
+      County). Esraelian requested recording; the recording stamp is not legible in the text
+      layer.
+    - **This deed runs to Hazel's trust, not to Susan.**
+  - The Pismo house: 2008 deed to Hazel; **10/20/2016 recorded deed (Pismo house – Susan)**,
+    APN 010-252-077 (title only).
+  - **No deed of any Tulare house to Susan was found.**
+- **Reconciliation:** Ashley wrote on 3/12/2025 that the three houses were "owned 100% by the
+  Hazel J. Leal Revocable Trust." If they are now in Susan's name, the transfer is **after
+  3/12/2025**, during this litigation, from a trust Susan co-administers to Susan. Whether that
+  matters (trust distributions during the case, title for the buyout and TIC, lot line) is for
+  counsel.
+- **Get the recorded deed(s)** from the Tulare County Recorder (APN 158-160-006 and Hazel's home
+  parcel at 21127 Road 68) (OI-83).

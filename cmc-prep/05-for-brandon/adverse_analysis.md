@@ -2545,3 +2545,81 @@ touching 760000 or 505000 (OI-85).
   Hazel's personal card. Character evidence is restricted (admissibility for counsel). Leading
   with it risks looking retaliatory. Note also that Hazel's BofA card emails went to Jace's
   address in 2013–16, which the other side can turn into a "control" point (OI-84).
+
+## A-73 — CORRECTED 10/1/2026 (latest): the 2018 checks repaid $250,000 of documented late-2017 loans
+
+The complete 512000 ledger (S-32, Drive `1K8BSGBlDp8p-Bkd4trxMzynhOsckBZqX`) shows deposits the bank
+register hid inside split deposits:
+- 8/29/2017 $100,000 "temp loan";
+- 10/6 $50,000 "Temporary Loan";
+- **11/9 $20,000 "temp loan"**;
+- 11/29 $40,000 "temporary loan";
+- 12/5 $40,000 "temp loan."
+
+$20,000 was repaid on 11/17, so **about $230,000 was owed to Steve at 12/31/2017.**
+
+The 1/13/2018 $150,000 and 6/1/2018 $70,000 checks are **SUPPORTED as loan repayments.** My
+statement that "~$190,000 is unsupported" is **withdrawn.**
+
+**What remains:**
+- They were coded to Personal-Steve. FY2018 "Personal" withdrawals therefore include about
+  $220,000 of loan repayment, the same presentation issue as FY2014. That helps on parity once
+  explained.
+- There is a $10,000 gap against Jace's "$70,000 still owed."
+- The 6/19/2018 timing optics remain. Steve then lent $10,000 (6/8), $15,000 (7/11) and
+  $43,630.24 (7/16).
+- **Severity reduced** to LOW–MODERATE: presentation, not substance.
+
+**Esraelian:**
+- The late-2017 loans line up with the documented line-authorization holds. The client's
+  explanation is **PARTLY SUPPORTED** for this series.
+- The 11/9/2017 $20,000 loan, the same day as the "nurses" email, undercuts the leverage
+  narrative.
+
+## A-70 — UPDATED 10/1/2026: the post-death "salary" ran to September 2026, $288,000
+
+The Citizens register shows 48 automatic $6,000 payments to "Hazel Leal," coded 725000 Partners
+Salaries, 10/15/2022–9/15/2026 (calc). A-70's $165,000 ran only to 1/15/2025.
+
+The payee account is still the decisive unknown:
+- if the trustees received it, $288,000 is cash the defendants have had during the litigation;
+- if not, someone else did.
+
+Get the ACH destination account from Citizens (OI-76).
+
+## A-76. Hazel's handwritten checks on the partnership account were booked as dairy expenses (both ways)
+
+`01-verified-facts/hazel-checkbook-series-2010-2019.md`.
+- Client: every check numbered below 4477 was written by Hazel. Three scanned checks (2/2013)
+  confirm it for those three, each signed "Hazel J. Leal."
+- Register: 886 such checks, **$196,724**, were coded to partnership expense accounts (salaries
+  excluded). Of those, **$98,775 are personal on their face**: gardener, health insurance, Pismo
+  property tax and utilities, pet vet, DIRECTV, newspaper, restaurant.
+- The Pismo house is not partnership property: Settlement ¶4; Susan has held 50% since
+  10/20/2016.
+
+**For us:** Manuel's and Hazel's withdrawals are understated, and Steve bore part of each item.
+This is a strong rebuttal to "Steve took more."
+
+**Limits:**
+- Our side kept the books (A-75).
+- $186,446 predates the Settlement. The agreed 12/31/2016 capital schedule may close it
+  (counsel).
+- Some items were disclosed in 2017.
+- The gardener also served Steve's household.
+- Steve's family had personal items expensed too.
+- Authorship beyond three checks is CLIENT-ATTESTED.
+
+**Use as rebuttal unless counsel concludes pre-2017 items are open.**
+
+## CORRECTIONS LOG (10/1/2026, latest)
+
+- **A-73 / `steve-temp-loans-512000.md` §7.2(e) / chronology rows 2018-01-13 and 2018-06-01:**
+  "~$190,000 unsupported as loan repayment" is **WITHDRAWN.**
+  - The complete 512000 ledger shows $250,000 of late-2017 temp loans.
+  - Cause: the Citizens QuickReport shows split deposits only as "-SPLIT-," and §7.1 used a
+    ledger printed 8/18/2017. I relied on an incomplete source and should have waited for the
+    full ledger.
+- **`trust-side-benefits-water-insurance-card.md` §0:** the client states the three houses are now
+  deeded to Susan (CLIENT-ATTESTED). The 3/12/2025 email (Trust-owned) stands as of that date.
+  No deed to Susan is in Drive (see §0 update).
