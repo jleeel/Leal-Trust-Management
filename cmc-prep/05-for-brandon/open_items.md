@@ -1973,3 +1973,46 @@ it rebuts a written allegation in defendants' brief.
 3. **Save the native 11/9/2017 thread** ("Re: Line of Credit Authoriztion and List of
    Accounting Requests - Leal Dairy") from lealdairy as a PDF to Drive. The screenshot shows only
    part of it, and the native copy carries the full headers.
+
+## OI-80 — UPDATED 10/1/2026 (later): ledger obtained; 2014 and 2017 resolved, 2018 opened
+- **Done:** the client saved "Steve Temp Loan to Partner.pdf." It is the full 512000 ledger
+  through 8/18/2017 (Drive `1sf5rKftJWQsrm95oLqAaQxRVmjvaNzLB`). The client also saved the
+  Citizens QuickBooks register for 2009–2026 (Drive `1XhazEklYhxAH27FlpuY6IqHSMEZ1muvR`).
+- **Resolved:**
+  - the 2014 $100,000 returned Steve's 2012 loans (2012–14: $375,000 each way);
+  - the 2017 $170,000 returned his 2015 loans;
+  - the client's "$100,000" is best matched by check #27872, 3/2/2017, "Temp Loan Payback";
+  - Esraelian fits only the 10/2017 $50,000 bridge.
+  - See `steve-temp-loans-512000.md` §7 and A-1/A-72 second updates.
+- **Still open (now the priority, A-73):**
+  1. What were the **1/13/2018 $150,000** and **6/1/2018 $70,000** checks to Steve, coded
+     Personal-Steve? The ledger supports only about $30,000 of loan balance then.
+  2. Frazer's FY2018 treatment of those checks (statements, K-1, any reclass).
+  3. Any Steve money that reached the dairy outside 512000 in 2016–2018: direct vendor payments,
+     split deposits, another account.
+  4. The 512000 ledger **after 8/18/2017** (QuickBooks: run the same report through today).
+- "512000 - Capital Cont. - Steve.pdf" (Edwards, 12/6/2017) is no longer needed if (4) is run.
+
+## OI-81 — UPDATED 10/1/2026 (later): item 1 answered from the register
+- Weekly caregiver checks (504000 Medical-Hazel; seven caregivers) ran without a gap from
+  10/6/2017 to 12/28/2017.
+- Six checks (#29306–29311) are dated **11/9/2017**, the day of the "nurses" email.
+- The book balance was negative from about 11/9 until the 11/13 $100,000 deposit, and again
+  late in November.
+- **Still open:**
+  - bank clearing dates for the 11/9 checks (Citizens statements, 11/2017);
+  - item 2 (other "nurses" messages in lealdairy);
+  - item 3 (the native thread). The client reports saving the thread PDF, but no file with that
+    subject is identifiable in Drive yet. Ask for its file name.
+
+## OI-82 — Land O'Lakes equity age-retirement checks, 2005–2007 (A-74)
+**Opened 10/1/2026.** $285,895.47 in six LOL checks: Manuel ×5 (members 2017201 and 2041468),
+and Hazel $137,197.24 (6/21/2007).
+
+**Get:**
+1. LOL membership and equity-allocation records for both member numbers: name, entity, and
+   allocation by year. Source: LOL member services; 1099-PATR forms on Drive.
+2. The 2004–2008 partnership balance sheets: the LOL investment line, and whether it fell by
+   about $286,000.
+3. Pre-2010 bank records: were the checks deposited to the dairy?
+4. How the client came to hold the scan (possibly the 2016 Gin enclosures).

@@ -181,6 +181,18 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     - settlement-payment acknowledgments (OI-79, OI-80, OI-81).
     - Also November–December 2017 caregiver check images (Citizens).
 
+42. **Status 10/1/2026 (later):** items 38 and 39 are partly done.
+    - The 512000 ledger through 8/18/2017 and the 2009–2026 Citizens register are now in Drive
+      (S-29, S-30).
+    - **Still needed:** the 512000 ledger after 8/18/2017; Frazer's FY2018 treatment of the
+      1/13/2018 $150,000 and 6/1/2018 $70,000 checks to Steve; and evidence of any Steve money
+      that reached the dairy outside 512000 in 2016–2018 (A-73, OI-80).
+
+43. **Land O'Lakes membership and equity records for members 2017201 and 2041468**, plus the
+    2004–2008 partnership balance sheets (LOL investment line). They decide whether the 2005–2007
+    age-retirement checks ($285,895.47) were partnership equity (A-74, OI-82). Source: LOL member
+    services; 1099-PATR forms on Drive; Frazer / Adair, Evans files.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

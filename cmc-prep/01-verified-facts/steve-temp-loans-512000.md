@@ -195,3 +195,141 @@ The approval had already been given 12 minutes before the "nurses" message was s
    mail).
 5. The client's answer: is "the $100,000" the January 2018 repayment, the 2014 reclass, or
    both?
+
+---
+
+## 7. UPDATE 10/1/2026 (later the same day): the 512000 ledger and the Citizens register settle most of this
+
+**New sources, each read in full:**
+- **"Steve Temp Loan to Partner.pdf"** (Drive `1sf5rKftJWQsrm95oLqAaQxRVmjvaNzLB`; client-saved Gmail
+  attachment from Esraelian's 11/9/2017 email). One page: QuickBooks "Transactions by Account,
+  All Transactions," **512000 · Capital Cont. - Steve**, printed **10:27 AM 08/18/17**.
+  - Someone has written "Send to Tim" on it and highlighted it; the writer is not identified.
+  - **Defendants' side has had this ledger since at least 11/9/2017.**
+- **"quickbooks citizens checking transactions since 2009.xlsx"** (Drive
+  `1XhazEklYhxAH27FlpuY6IqHSMEZ1muvR`).
+  - QuickBooks Account QuickReport, 102001 · Citizens Checking, 12/31/2009–9/30/2026, exported
+    10/1/2026.
+  - 33,364 transaction lines. The running balance ties on every line (0 breaks, calc).
+  - **Limit:** a deposit with several offsetting accounts shows only "-SPLIT-". A Steve deposit
+    inside a split deposit is invisible here. The 512000 ledger fills that gap through 8/18/2017.
+
+### 7.1 The 512000 ledger, transcribed (debit = money to Steve; credit = money from Steve)
+
+| Date | Type / No. | Memo | Debit | Credit | Balance |
+|---|---|---|---|---|---|
+| 5/31/2004, 1/31/2005 | GJ (MSW) | Transactions… | 5,936.00 | 5,936.00 | 0.00 |
+| 2/1/2012 | Deposit | **LOAN** | | 25,000.00 | 25,000.00 |
+| 2/16/2012 | Check 19538 | | 25,000.00 | | 0.00 |
+| 8/23/2012 | Deposit | **Temporary Lo[an]** | | 50,000.00 | 50,000.00 |
+| 8/29/2012 | Deposit 5293 | Deposit | | 40,000.00 | 90,000.00 |
+| 10/3/2012 | Deposit | Deposit | | 10,000.00 | 100,000.00 |
+| 1/1/2013 | GJ FRAZE | To tie out cap… (500000 Capital) | 125,987.00 | | −25,987.00 |
+| 3/4/2013 | Check 21027 | Hay loan | 75,000.00 | | −100,987.00 |
+| 4/11/2013 | Deposit | Deposit | | 80,000.00 | −20,987.00 |
+| 5/1/2013 | Deposit | **temp loan** | | 50,000.00 | 29,013.00 |
+| 5/16/2013 | Check 21283 | | 50,000.00 | | −20,987.00 |
+| 5/22/2013 | Check 21288 | | 25,000.00 | | −45,987.00 |
+| 8/12/2013 | Deposit | Deposit | | 20,000.00 | −25,987.00 |
+| 10/17/2013 | Check 21844 | | 50,000.00 | | −75,987.00 |
+| 10/31/2013 | Deposit | Deposit | | 50,000.00 | −25,987.00 |
+| 12/31/2013 | GJ FRAZ | To tie to FRA… | | 25,987.00 | 0.00 |
+| 2/13/2014 | Check 22327 | | 50,000.00 | | −50,000.00 |
+| 3/15/2014 | Check 22468 | | 50,000.00 | | −100,000.00 |
+| 7/2/2014 | Deposit | Deposit | | 50,000.00 | −50,000.00 |
+| 10/2/2014 | Check 23248 | **Pay back Loan** | 50,000.00 | | −100,000.00 |
+| 12/31/2014 | GJ FRAZE | TO RECLAS… (515000 Pers…) | | 100,000.00 | 0.00 |
+| 6/30/2015 | Deposit 5686 | **TEMP LOAN** | | 100,000.00 | 100,000.00 |
+| 7/9/2015 | Deposit 5692 | Deposit | | 50,000.00 | 150,000.00 |
+| 10/6/2015 | Deposit 5371 | Deposit | | 20,000.00 | 170,000.00 |
+| 12/31/2015 | GJ Frazer | RECLASS IN… (689000 Proc…) | | 88,025.87 | 258,025.87 |
+| 1/1/2016 | GJ FZR-Y… | To close capit… (502000) | 258,025.87 | | 0.00 |
+| **3/2/2017** | **Check 27872** | **Temp Loan P[ayback]** | **100,000.00** | | −100,000.00 |
+| **4/25/2017** | **Check 28235** | **Temp Loan P[ayback]** | **70,000.00** | | **−170,000.00** |
+
+Totals as printed: debits 934,948.87, credits 764,948.87, balance −170,000.00. Every check and
+non-split deposit in the table matches the Citizens register by date, number and amount. The
+8/29/2012, 7/2/2014 and 7/9/2015 deposits fall inside same-day "-SPLIT-" deposits there.
+
+### 7.2 What it proves
+
+**(a) The 2014 "$100,000" was the return of Steve's 2012 loans. SUPPORTED** (partnership GL plus
+bank register).
+- 2012: Steve put in $125,000 and took back $25,000, net **+$100,000**. Memos: "LOAN,"
+  "Temporary Loan."
+- 2013: $200,000 in and $200,000 out, net 0. Memo "temp loan."
+- 2014: $50,000 in and $150,000 out, net **−$100,000**. Memo "Pay back Loan."
+- Over 2012–2014, cash in equals cash out: **$375,000 each way** (calc).
+- Frazer's 12/31/2014 entry moved exactly that net $100,000 into "withdrawals."
+- **The FY2014 "Personal" excess in A-1 is Steve being repaid his own 2012 money.**
+- Minor wrinkle: Frazer closed **$125,987** to capital at 1/1/2013 when the account held
+  $100,000, then reversed the $25,987 difference at 12/31/2013. So the FY2012 statement's
+  "capital contribution $125,987" overstates Steve's 2012 cash by $25,987.
+
+**(b) The 2017 $170,000 were repayments TO Steve of his 2015 loans, not loans outstanding.
+SUPPORTED.**
+- 2015 in: 6/30 "TEMP LOAN" $100,000 + 7/9 $50,000 + 10/6 $20,000 = $170,000.
+- 2017 out: 3/2 $100,000 + 4/25 $70,000 = $170,000.
+- Frazer closed the 2015 loans to capital at year-end. That is why the account shows −$170,000
+  in 8/2017. Jace's draft ("If you remove the Frazer Journal Entries from the account the
+  balance would show zero") is **accurate**.
+- **Correction to §3–§5:**
+  - Garabedian's "Temp Loan to Partner" entries are these two 2017 *repayment* checks. Their
+    memo is "Temp Loan P…," which the bank register gives in full as "Temp Loan **Payback**."
+  - My reading that $170,000 was still owed in 11/2017 was wrong.
+- **The client's "$100,000 repayment of a temporary loan" most directly matches check #27872,
+  3/2/2017, "Temp Loan Payback," $100,000.** It repaid the 6/30/2015 "TEMP LOAN" of $100,000.
+
+**(c) Esraelian cannot explain the $100,000 items. NOT SUPPORTED for 2012–2017.**
+- 2012–2014 was Manuel's lifetime.
+- On 6/30/2015, the day of the $100,000 "TEMP LOAN," the register also shows a **$150,000 Farm
+  Credit feed-line advance**. Feed-line advances posted throughout 2015: 4/29, 6/5, 6/30, 8/3,
+  8/11, 9/1, 9/12, 10/6, 11/2, 11/13 and 12/1. The line was being drawn.
+- **What does fit the Esraelian account:**
+  - **10/6/2017, $50,000 from Steve.** It came while the FCW renewal documents sat with
+    Esraelian (due 10/1/2017; 9/19 "The form is incorrect").
+  - **11/17/2017, $20,000 back to Steve ("Repay loan")** four days after a **$100,000
+    deposit on 11/13/2017**. The amount and date are consistent with the advance Hazel signed
+    for on 11/10.
+  - The book balance was **−$111,560.43 just before that deposit** and **−$258,204.46 on
+    11/28/2017** (calc from register). The cash squeeze was real.
+
+**(d) The nurses were paid every week (OI-81 item 1). SUPPORTED at register level.**
+- Weekly caregiver checks (504000 Medical-Hazel) went to Jennifer Sousa, Brailee Scoggin,
+  Maria Trovao, Maria Cardosa, Brittany McGarrah, Rebecca Sousa and Carrie Alvarado.
+- Check dates: 10/6, 10/9, 10/19, 10/25, 11/2, **11/9**, 11/16, 11/24, 11/30, 12/7, 12/14,
+  12/15 and 12/28/2017. Checks #29306–29311 are **dated 11/9/2017**, the day of the "I will not
+  be able to make checks for the home care nurses" email. They were written against a book
+  balance of about −$155,000.
+- Both ways:
+  - No week was skipped, so the statement never stopped Hazel's care.
+  - But the checks were written anyway, so the email overstated the constraint.
+  - Clearing dates need the bank statements.
+
+**(e) 🔴 New, adverse: $220,000 to Steve in 2018, coded as personal draws (A-73).**
+- **1/13/2018, check #29635, $150,000**, 515000 · Personal-Steve.
+- **6/1/2018, check #30321, $70,000**, 515000 · Personal-Steve. The balance afterward was
+  $4,493.98.
+- Jace's 2/22/2018 email calls the January check repayment of "most of" the temporary loans,
+  with "$70,000" still owed. The June check matches that $70,000.
+- **But the ledger and register show only about $30,000 of Steve loans outstanding at the
+  time:** 10/6/2017 +$50,000, less 11/17/2017 −$20,000. The 2015 loans were already repaid in
+  2017.
+- So about **$190,000 of the $220,000 is not supported as loan repayment** by either record
+  (calc). It is booked as Steve's draws. A loan that came in through some other channel is not
+  ruled out (INDETERMINATE).
+- Steve's 515000 checks through Citizens in 2018 total **$236,286.53** (26 items, calc).
+- **On 6/19/2018, 18 days after the $70,000 check, Johnson told Esraelian "There is not
+  enough money to meet current operating needs"** and pressed for loan approval. He mentioned
+  Steve returning a $50,000 tax refund but not the $70,000.
+
+### 7.3 Regrades
+
+| Item | Was | Now |
+|---|---|---|
+| 2014 $100,000 = loan repayment | INDETERMINATE | **SUPPORTED** (GL + register; 2012–14 nets to zero) |
+| 2017 $100,000 (3/2) = loan repayment | — | **SUPPORTED** ("Temp Loan Payback"; repays 6/30/2015 "TEMP LOAN") |
+| Esraelian stalling caused the $100,000 loans | CLIENT-ATTESTED | **NOT SUPPORTED** for 2012–15 loans; **fits** only the 10/2017 $50,000 |
+| "$170,000 outstanding 11/2017" (my §3–§5 reading) | — | **WITHDRAWN.** Repaid 3–4/2017 |
+| 2018 $220,000 = loan repayment (client 2/22/2018 email) | — | **UNSUPPORTED** for ~$190,000 on the ledger; INDETERMINATE pending other channels |
+| Nurses paid on schedule in 11/2017 | open | **SUPPORTED** (register) |

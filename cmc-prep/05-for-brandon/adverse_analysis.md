@@ -2393,3 +2393,116 @@ threats to take away or to stop paying Hazel's caregivers" email replies to it.
 **Deposition prep:** neither deny the message nor defend it as leverage. Acknowledge it as a
 cash-timing statement written in frustration, and establish (OI-81) whether every nurse was
 actually paid on time in November 2017. If they were, the "threat" never touched Hazel.
+
+## A-1 — SECOND UPDATE 10/1/2026: the FY2014 excess is documented as Steve's own 2012 loan coming back
+
+The partnership's 512000 general ledger (printed 8/18/2017; Drive `1sf5rKftJWQsrm95oLqAaQxRVmjvaNzLB`)
+and the Citizens register (Drive `1XhazEklYhxAH27FlpuY6IqHSMEZ1muvR`, 0 balance breaks / 33,364
+lines) show the following (`steve-temp-loans-512000.md` §7):
+- 2012: Steve put $125,000 in and took $25,000 back. Memos: "LOAN," "Temporary Loan."
+- 2013: $200,000 each way. Memo "temp loan."
+- 2014: $50,000 in, $150,000 out. Memo "Pay back Loan."
+- **Over 2012–2014: $375,000 in and $375,000 out.** The $100,000 Frazer reclassed into Steve's
+  FY2014 "Personal" is the net 2012 loan being returned.
+
+**Response (4) becomes the lead response, and it is SUPPORTED by the partnership's own books:**
+- excluding the returned loan, Steve's FY2014 withdrawals were **$67,503 against Manuel's
+  $110,081**;
+- defendants' side has had this ledger since at least 11/9/2017 (Esraelian's email attachment,
+  annotated "Send to Tim").
+
+**Remaining limits:**
+- The reviewed FY2014 statement itself still prints $120,155. Counsel needs Frazer to explain the
+  reclass, or the ledger as an exhibit.
+- The FY2012 statement's $125,987 "contribution" overstates Steve's 2012 cash by $25,987, which
+  Frazer reversed at 12/31/2013. Use $100,000, not $125,987, in any netting.
+
+**Severity:** reduced from HIGHEST to **MODERATE**. It remains an exhibit Cunningham can show,
+but it now has a documented answer.
+
+## A-72 — SECOND UPDATE 10/1/2026: correcting my own reading, and where Esraelian fits
+
+**Corrections:**
+- Garabedian's 11/8/2017 "Temp Loan to Partner" $70,000 and $100,000 entries are **repayment
+  checks to Steve** dated 3/2/2017 and 4/25/2017. The ledger memo is "Temp Loan P…"; the bank
+  register gives it in full as "Temp Loan Payback."
+- They repaid Steve's 2015 loans: 6/30/2015 "TEMP LOAN" $100,000, 7/9 $50,000, 10/6 $20,000.
+- My earlier statement that $170,000 was still owed in 11/2017 is **withdrawn.**
+- The client's "$100,000 repayment of a temporary loan" is best matched by check #27872
+  (3/2/2017).
+
+**Esraelian:**
+- The documented holds (9/2017–6/2018) do not explain the 2012–2015 loans. On the day of the
+  6/30/2015 $100,000 "TEMP LOAN," a $150,000 Farm Credit feed-line advance also posted, so the
+  line was being drawn.
+- What does fit: Steve's **$50,000 loan on 10/6/2017**, made while the renewal sat with
+  Esraelian, and the **$20,000 repaid 11/17/2017** after the 11/13 advance.
+- **Testimony should tie Esraelian only to the fall-2017 bridge, not to the $100,000 items.**
+
+**The "nurses" message (OI-81):** weekly caregiver checks ran without a gap through
+October–December 2017, including six checks dated 11/9/2017. That is the best answer to the
+"threats" accusation. Both ways, though: the checks were written while the email said they
+could not be.
+
+## A-73. 🔴 $220,000 to Steve in 2018 booked as personal draws, while counsel pleaded a cash crisis
+
+**What Cunningham could assemble from records she already has or will get in discovery:**
+- **Check #29635, 1/13/2018, $150,000** to Steve, coded 515000 · Personal-Steve.
+- **Check #30321, 6/1/2018, $70,000** to Steve, same code. The book balance afterward was
+  $4,493.98.
+- Steve's 515000 checks through Citizens in 2018 total **$236,286.53** (calc).
+- **Eighteen days later (6/19/2018)**, Johnson wrote to Esraelian: "The dairy is having severe
+  cash flow issues right now… There is not enough money to meet current operating needs." He
+  pressed her for loan approval and cited only Steve *returning* a $50,000 tax refund.
+
+**Our side's explanation:** Jace to Frazer (2/22/2018) said the January payment repaid "most
+of" Steve's temporary loans, with $70,000 still owed; the June check matches that $70,000.
+**But the ledger shows only about $30,000 of Steve loans outstanding at the time:** 10/6/2017
++$50,000, less 11/17/2017 −$20,000. The 2015 loans had already been repaid in 2017. About
+**$190,000 is unsupported as loan repayment** on the books we have (calc). If there were other
+loans (paid directly to vendors, deposited inside split deposits, or through another account),
+they have to be documented. If not, these were draws: post-Settlement, during the
+borrowing-approval dispute, and while Hazel's side was told there was no money.
+
+**Possible mitigations, all to be verified:**
+- the 1/13/2018 check was two days before the 1/15 estimated-tax deadline, and Jace wrote on
+  12/26/2017 about year-end "tax planning… prepay." It may have funded Steve's taxes on
+  partnership income (Johnson, 6/19/2018: "He took a draw to pay the taxes");
+- Steve returned $50,000 in mid-2018 and $25,000 on 9/11/2018 (512000);
+- Settlement ¶11 and Partnership Agreement Art. VI terms on draws (counsel; UNVERIFIED).
+
+**Action:** before any deposition or production touching 2018, have Frazer show how the $220,000
+was treated in the FY2018 statements and K-1s. Pin down whether any portion was a loan
+repayment, with documents (OI-80). **No one should describe the 2018 checks as "loan
+repayments" until that is done.**
+
+## A-74. Land O'Lakes equity age-retirement checks to Manuel and Hazel, 2005–2007 (both ways)
+
+Client-saved PDF (Drive `1Cr2YBKQtc0PJRCwLUe7Y3c6_kJO78SP8`; extract
+`01-verified-facts/lol-equity-age-retirement-2005-2007.md`):
+- six LOL "equity age retirement" checks, **$285,895.47** in all;
+- five to Manuel (2005–2007), and **$137,197.24 to Hazel individually** (6/21/2007).
+
+**For us:** if member no. 2017201 carried partnership-earned patronage equity, partnership value
+went to Manuel and Hazel personally, and to Hazel when she was not a partner. It also fits
+Manuel's outsized FY2005/FY2007 "Personal" withdrawals.
+
+**Against us:**
+- LOL paid the member of record; the other side will say it was their own equity.
+- The release-scope question applies (Settlement ¶13/¶15).
+- Nothing yet ties the membership to the partnership.
+
+**Grade: payments SUPPORTED; ownership and booking INDETERMINATE** (OI-82). Do not use this
+until the LOL membership records are in hand.
+
+## CORRECTIONS LOG (10/1/2026, later)
+
+- **`steve-temp-loans-512000.md` §3–§5, A-72 (first text), chronology rows 2017-11-08,
+  2017-11-09 (draft response) and 2018-01-00** treated Garabedian's "Temp Loan to Partner"
+  $70,000/$100,000 as loans outstanding in 11/2017, and inferred a "~$100,000" January 2018
+  repayment.
+  - **Corrected:** they were repayment checks to Steve on 3/2 and 4/25/2017 (512000 GL;
+    Citizens register).
+  - The January 2018 payment was **$150,000**, check #29635, coded Personal-Steve.
+  - Noted in each place; originals kept.
+- **A-1 severity reduced** (second update). **A-73 and A-74 added.**

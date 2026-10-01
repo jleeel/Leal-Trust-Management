@@ -321,3 +321,15 @@ Steve's loans were handled.
 - Do not let anyone attribute the 2014 entry to Esraelian. Her documented holds are 9/2017–6/2018
   (A-72).
 - Decide whether the January 2018 self-repayment raises a ¶11 issue.
+
+### Later 10/1/2026: ledger obtained
+- **A-1 now has a documented answer.** The FY2014 $100,000 is Steve's 2012 loan coming back.
+- **New priority, A-73:**
+  - the $150,000 (1/13/2018) and $70,000 (6/1/2018) checks to Steve are coded as personal draws;
+  - the ledger supports only about $30,000 of loans outstanding then;
+  - counsel pleaded "not enough money" to Esraelian on 6/19/2018.
+- **Client:** ask Frazer how FY2018 treated those checks, and run the 512000 report from 8/2017
+  to today.
+- **Counsel:** no "loan repayment" description of the 2018 checks until that is done.
+- **New, OI-82:** Land O'Lakes equity checks to Manuel and Hazel, 2005–2007 ($285,895). Ownership
+  of the equity is unknown until LOL membership records are obtained.

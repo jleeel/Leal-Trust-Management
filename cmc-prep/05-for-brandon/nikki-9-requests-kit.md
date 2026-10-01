@@ -335,6 +335,20 @@ online banking."
 >
 > See `01-verified-facts/steve-temp-loans-512000.md`, A-72, OI-80.
 
+> **UPDATED 10/1/2026 (later): the ledger is in hand. It helps for 2012–2017 and hurts for 2018.**
+> The 512000 ledger (S-30), which their side has had since 11/2017, and the Citizens register
+> (S-29) show the following.
+> - **2012–2014:** Steve lent and was repaid $375,000 each way. Memos: "LOAN," "temp loan," "Pay
+>   back Loan."
+> - **2015–2017:** he lent $170,000 in 2015 ("TEMP LOAN") and was repaid $170,000 in 3–4/2017
+>   ("Temp Loan Payback").
+> - **10/2017:** a $50,000 bridge, $20,000 of it repaid 11/17/2017.
+>
+> That supports "temporary loans" through 2017. **But in 2018 Steve received $150,000
+> (1/13/2018) and $70,000 (6/1/2018), coded as personal draws, against only about $30,000 of
+> loans then outstanding** (A-73). Do not describe the 2018 checks as loan repayments in any
+> response to item 6 until Frazer's FY2018 treatment is confirmed.
+
 ### Item 7 — Donations after Hazel's death: support and authority
 **Every post-death donation was charged to Steve's own capital account. The Estate's column
 bore $0.**

@@ -238,6 +238,9 @@ ratio of roughly 16 to 1.** Note also that the bulk of Manuel's FY2014 draw is *
 > Cont.-Steve). Without it Steve's FY2014 withdrawals are $67,503 vs. Manuel's $110,081. Whether
 > the underlying payment returned a loan (e.g., the FY2012 $125,987 contribution) is
 > INDETERMINATE. See `steve-temp-loans-512000.md`, A-1 update, A-72, OI-80.
+> **LATER 10/1/2026:** now SUPPORTED. The 512000 ledger shows Steve's 2012 net loans of
+> $100,000 repaid in 2014 ("Pay back Loan"); 2012–14 cash was $375,000 each way. See A-1
+> second update.
 
 **Counsel should assume opposing counsel will lead with FY2014.** It is in our own
 reviewed financial statements, it is unambiguous, and it is the single strongest
