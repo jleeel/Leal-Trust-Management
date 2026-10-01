@@ -2932,3 +2932,28 @@ name is Garabedian."
 **Use is unchanged (A-78):**
 - Lead with knowledge. The co-trustee's own family received the dairy's books every month.
 - Be careful with independence, because it cuts into the $850,894.54 agreement we rely on.
+
+### A-79 — UPDATE 10/1/2026: the family tree is complete (client)
+
+**Client (CLIENT-ATTESTED):** "Dale is Aaron and Lauren's dad."
+
+| Person | Relationship | Role |
+|---|---|---|
+| Dale Garabedian | Father | The Garabedian Group |
+| Robyn Esraelian (née Garabedian) | Dale's sister; **aunt** of Aaron and Lauren | The trust's attorney |
+| Aaron J. Garabedian | Dale's son; Robyn's nephew; Ashley's former husband | Trust-side CPA 2017–18; **named contingent beneficiary in the 11/10/2017 restatement Robyn certified and notarized** |
+| Lauren Garabedian Ruff | Dale's daughter; Robyn's niece; Aaron's sister | "Hazel's CPA" 2020–22 |
+
+**What changes:** the named contingent beneficiary (Aaron) is the **nephew of the attorney who
+certified the instrument.**
+- That is the fact pattern California's drafter-relative rules address (Prob. Code §21380 et
+  seq.; **UNVERIFIED**).
+- The earlier cautions still govern, and probably decide it:
+  - a likely exemption for the transferor's own relatives (Aaron was Hazel's grandson-in-law);
+  - the interest is only contingent;
+  - the time limits for any trust challenge;
+  - the no-contest clause;
+  - this case is about the partnership buyout, not Hazel's trust.
+- **Counsel only.** The working use remains knowledge, coordination and bias.
+- Every relationship in this table except Ashley's is CLIENT-ATTESTED. Confirm from public
+  sources before anyone repeats it (OI-90).

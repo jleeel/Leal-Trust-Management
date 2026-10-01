@@ -236,7 +236,8 @@ independence.
 **Questions (Ashley or Susan):**
 1. Robyn Esraelian's maiden name is Garabedian?
 2. She is Dale Garabedian's sister?
-3. How is Aaron Garabedian related to Robyn and Dale? Lauren Garabedian Ruff? Brandon Esraelian?
+3. Aaron and Lauren are Dale's children, and Robyn is their aunt? *(Client.)* Who is Brandon
+   Esraelian?
 4. Who chose The Garabedian Group as Hazel's accountants?
 5. Who drafted Hazel's November 10, 2017 trust restatement? Who decided to name Aaron
    Garabedian in it?

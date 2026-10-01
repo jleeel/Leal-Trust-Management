@@ -2168,3 +2168,9 @@ Client: Lauren Garabedian Ruff is Aaron's sister (CLIENT-ATTESTED). Remaining un
 - the divorce date.
 
 Confirm from public sources only.
+
+## OI-90 — UPDATED 10/1/2026: family tree per client
+- Dale Garabedian is the father of Aaron and Lauren.
+- Robyn Esraelian (née Garabedian) is Dale's sister, so she is Aaron's and Lauren's aunt.
+
+All CLIENT-ATTESTED; confirm from public sources. **Counsel:** Aaron, a named contingent beneficiary, is the nephew of the attorney who certified and notarized the 11/10/2017 restatement. Evaluate the drafter-relative rules (UNVERIFIED), the exemptions, the time limits and the no-contest clause before deciding whether this is more than a bias point. The default is bias only.
