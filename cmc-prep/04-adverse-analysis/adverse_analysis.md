@@ -2357,3 +2357,39 @@ operating needs" (6/19/2018). That is the documented reason Steve's bridge money
   - Cause: a text extraction that misaligned the register's rows and amounts. Fixed by
     tying every row to its running balance (0 breaks / 230 rows).
 - **A-1 updated** (response 4, netting contributions); **A-72 added**.
+
+## A-72 — UPDATED 10/1/2026: what prompted the "continued threats" accusation
+
+Client screenshot of the lealdairy@gmail.com mailbox (preserved:
+`01-verified-facts/2017-11-09_lealdairy-to-esraelian-nurse-checks-email.png`; native message not
+yet read).
+
+**The message.** 11/9/2017, 9:44 AM, Leal Dairy to Esraelian, cc Johnson, Thompson,
+**Cunningham**, Brandon Esraelian and both Garabedians: "When can we expect the signed
+authorization to arrive at Farm Credit? I will not be able to make checks for the home care
+nurses until the funds are in the business checking account." Esraelian's 1:09 PM "continued
+threats to take away or to stop paying Hazel's caregivers" email replies to it.
+
+**For us:**
+- It is a timing statement about cash, sent while a partnership advance was being held for
+  Hazel's signature.
+- The partnership was paying Hazel's home care. Jace's 11/3/2017 email put that at ~$138,000
+  year-to-date.
+- Johnson's neutral restatement an hour later ("The bills for the dairy cannot be paid…") is
+  the version counsel should adopt.
+
+**Against us:**
+- It singled out Hazel's caregivers among all the bills.
+- It was sent 12 minutes after Johnson had already thanked Esraelian "for approving the credit
+  request."
+- It went to opposing counsel and their CPAs.
+- Within an hour Johnson privately told Jace, [PRIV], "Let me be the bad guy on these
+  communications."
+- The same day, [PRIV]: "My Dad just isn't too excited about loaning the partnership to pay for
+  nurses." Steve had been bridging the dairy with personal loans, so "could he have covered the
+  nurses?" has an uncomfortable answer.
+- "Continued" implies earlier instances not yet located.
+
+**Deposition prep:** neither deny the message nor defend it as leverage. Acknowledge it as a
+cash-timing statement written in frustration, and establish (OI-81) whether every nurse was
+actually paid on time in November 2017. If they were, the "threat" never touched Hazel.

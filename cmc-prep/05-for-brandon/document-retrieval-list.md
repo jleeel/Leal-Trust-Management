@@ -174,6 +174,13 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     under which Hazel's signature was required for line draws. Source: client's Gmail attachment;
     Griswold LaSalle file; AgWest (formerly Farm Credit West) loan file.
 
+41. **lealdairy@gmail.com, 2016–2018** (now accessible to the client):
+    - the native 11/9/2017 line-of-credit thread, saved as PDF;
+    - any other message tying caregiver or nurse payments to approvals;
+    - the sent version of "Response 11.9.17";
+    - settlement-payment acknowledgments (OI-79, OI-80, OI-81).
+    - Also November–December 2017 caregiver check images (Citizens).
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

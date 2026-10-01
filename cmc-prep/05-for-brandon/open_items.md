@@ -1960,3 +1960,16 @@ it rebuts a written allegation in defendants' brief.
 - The netting point already stands on printed figures: FY2012–14 net of contributions, Steve
   $154,600 vs. Manuel $282,659.
 - **Until then, no one should testify that the 2014 entry was "because of Esraelian"** (A-72).
+
+## OI-81 — The 11/9/2017 "nurse checks" message and Esraelian's "continued threats" (A-72 update)
+**Opened 10/1/2026.**
+1. **Were the home-care nurses paid on time in November 2017?** Pull the November–December 2017
+   checks to each caregiver from the QuickBooks register and Citizens images. On-time payment
+   means the statement never affected Hazel.
+2. **Search lealdairy@gmail.com, 2016–2018,** for any other message tying caregiver or nurse
+   payments to signatures, approvals or money ("nurses", "caregivers", "home care",
+   "authorization"). Esraelian wrote "continued," so find any earlier instance before they
+   produce it.
+3. **Save the native 11/9/2017 thread** ("Re: Line of Credit Authoriztion and List of
+   Accounting Requests - Leal Dairy") from lealdairy as a PDF to Drive. The screenshot shows only
+   part of it, and the native copy carries the full headers.

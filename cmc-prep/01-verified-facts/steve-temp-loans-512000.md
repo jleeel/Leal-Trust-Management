@@ -92,6 +92,7 @@ from **September 2017 to June 2018** (all read in full, 10/1/2026):
 | 11/3/2017 | Esraelian: "I have received a withdrawal request from Ryan Camara… for $100,000. Ryan has asked for Hazel's signature. I cannot advise Hazel to sign without more information." Jace answers the same day: A&M Livestock cows $46,430, property taxes ~$28,000, TID ~$10,000; "~$96000 of principal is paid toward these loans each month"; "home care nurse expenses for Hazel have totaled ~$138,000 for this year to date." | `15f9daabdb9b5d4f` | non-priv |
 | 11/8/2017 | Aaron Garabedian's accounting requests, item 1: "Narrative of GL account # 512000 - Capital Contribution Steve… two entries with a memo of 'Temp Loan to Partner'. One transaction is for $70,000 and the other is for $100,000. Source of funds and use of funds." | quoted in `15fa1ce3b9f72277` | non-priv |
 | 11/9/2017 | Esraelian: Hazel "will agree to sign this request at this time" but "will not sign future requests… in the event Steve fails to provide the information requested." Signature conditioned on written confirmation of answers by 11/17. Johnson: "The bills for the dairy cannot be paid until we receive the funds from the advance." Esraelian (later): "Your continued threats to take away or to stop paying Hazel's caregivers is causing Hazel severe emotional distress." | `15fa1ce3b9f72277` (att. "Steve Temp Loan to Partner.pdf", not opened) | mixed (Esraelian/Johnson-to-Esraelian msgs non-priv; Johnson↔Jace [PRIV]) |
+| 11/9/2017, 9:44 AM PT | **The message behind the "threats" accusation** (lealdairy@gmail.com; seen 10/1/2026 in a client screenshot, not yet read natively). Leal Dairy to Esraelian, cc Johnson, Thompson, Cunningham, Brandon Esraelian, Aaron and Dale Garabedian: "When can we expect the signed authorization to arrive at Farm Credit? **I will not be able to make checks for the home care nurses until the funds are in the business checking account.**" Esraelian's 1:09 PM "continued threats" reply quotes this message. | screenshot `01-verified-facts/2017-11-09_lealdairy-to-esraelian-nurse-checks-email.png` | non-priv (sent to opposing counsel) |
 | 11/9/2017 (draft) | "Response 11.9.17.docx": "Steve has made a temporary loan to the partnership for $170,000. The source is personal funds. If you remove the Frazer Journal Entries from the account the balance would show zero. The current total of temporary loans from Steve is $170,000." | Drive `1--NBmBDOT7CgW02vsECpqAdzJjm3bZN2` | client draft; whether sent is NOT ESTABLISHED |
 | 12/27/2017 | Esraelian: "I'm not sure we are ready to give up the loan authorization issue yet… we will still want to have the loan authorization in place for Hazel's security." | `16099bc4ac9deb75` | non-priv |
 | 2/22/2018 | Jace to Edwards (cc Johnson): "That is where I put the temporary loans that Steve made to the partnership. **Last month he paid himself back most of it and is currently owed $70,000.** He doesn't plan on doing that again in the future for obvious reasons." Edwards to Garabedian: §2 above. | `1602be0a88bae639` | Jace→Edwards: counsel to assess (Johnson cc'd); Edwards→Garabedian: non-priv |
@@ -108,6 +109,21 @@ The client's account does fit a *different* $100,000. Per Jace's 2/22/2018 email
 himself "most of" the $170,000 in **January 2018**, leaving $70,000. That implies roughly a
 $100,000 repayment (calc: $170,000 − $70,000). **The client may be describing the January 2018
 repayment, not the 2014 reclass.** OI-80 asks the client to say which.
+
+**Same-day sequence, 11/9/2017 (Pacific time; reconstructed from Gmail timestamps and the
+screenshot):**
+
+| Time | Who | What |
+|---|---|---|
+| 9:13 | Esraelian | Conditional approval |
+| 9:23–9:32 | Johnson | Commits to answers by 11/17 and thanks her "for approving the credit request" |
+| **9:44** | Leal Dairy | "nurses" message |
+| 10:44 | Johnson to Jace, [PRIV] | "Remember Judge Broadman wants your hands clean… Let me be the bad guy on these communications" |
+| 10:46 | Johnson to all | Restates it neutrally: "The bills for the dairy cannot be paid until we receive the funds from the advance" |
+| 11:45 | Jace to Johnson, [PRIV] | "My Dad just isn't too excited about loaning the partnership to pay for nurses" |
+| 1:09 PM | Esraelian | Will take the document to Hazel Friday, plus the "continued threats" sentence |
+
+The approval had already been given 12 minutes before the "nurses" message was sent.
 
 ## 4. What does not reconcile yet (adverse rigor)
 
@@ -134,6 +150,18 @@ repayment, not the 2014 reclass.** OI-80 asks the client to say which.
      paying Hazel's caregivers," and Jace's own 11/3/2017 tie between the advance and "home care
      nurse expenses for Hazel… ~$138,000."
    - Expect this used for a control or leverage narrative.
+   - **Updated 10/1/2026:** the "threats" sentence answered a specific non-privileged message
+     (11/9/2017, 9:44 AM, see the sequence above). Read both ways:
+     - **Helps:** it states a cash-timing fact, not a refusal. The nurses were paid from
+       partnership funds, and the partnership was waiting on a signature Hazel's side controlled.
+     - **Hurts:** of all the dairy's bills, it singled out Hazel's caregivers. It was sent after
+       the approval was already given. Johnson moved within the hour to take over the
+       communications and restate it neutrally.
+     - The same-day [PRIV] line shows Steve was able to bridge but unwilling to do it for the
+       nurses. That would matter if privilege were ever lost, and it shapes deposition answers to
+       "Could Steve have covered those checks?"
+     - Esraelian's word "continued" implies other instances. Search lealdairy before any
+       deposition (OI-81).
 
 ## 5. What helps
 
