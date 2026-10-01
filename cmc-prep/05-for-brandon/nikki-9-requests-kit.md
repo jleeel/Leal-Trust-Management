@@ -1,5 +1,10 @@
 # Response kit: opposing counsel's nine document requests (as of 9/28/2026)
 
+> **SUPERSEDED IN PART 10/1/2026.** The informal list is now a formal Demand for Production, Set
+> One (served 9/28/2026). Use `rfp-set-one-response-map.md` for the demand-by-demand map. This
+> kit stays as the detailed record for items 1–3 and 5–9. Corrections are in the addendum at the
+> end.
+
 **ATTORNEY WORK-PRODUCT SUPPORT — PRIVILEGED & CONFIDENTIAL.** This kit is for Brandon Ormonde to
 use in deciding what to produce. Nothing in it has been sent to any party, and it is not a draft
 letter. The facts carry citations: Drive file IDs, Gmail thread IDs, and financial-statement pages.
@@ -529,3 +534,20 @@ look for a Citizens deposit that did not happen.
 | 20 | Prime-versus-606000 reconciliation for 2023–25 | Frazer |
 | 21 | **512000 Capital Cont.-Steve GL detail 2012–2019**, plus the Gmail attachments "512000 - Capital Cont. - Steve.pdf" (12/6/2017) and "Steve Temp Loan to Partner.pdf" (11/9/2017), saved to Drive (OI-80) | QuickBooks / Frazer; Jace's Gmail |
 | 22 | Bank proof of each Steve loan in and repayment out (2012, 2014, 2017, 1/2018) | Steve's bank; Citizens |
+
+
+## ADDENDUM 10/1/2026 (night): the formal demand, and a correction to item 9
+
+1. **Formal demand served 9/28/2026** (S-38). Demands 1–3 and 5–10 track kit items 1–3 and 5–9.
+   Demands 11–18 are new (Built Wright, C.I.G., United of Omaha, Morris Levin, Phelps, Saltzman,
+   Turnupseed, and insurance on Steve's investment properties). Demand 4 (Prime Cattle) and
+   demand 5 (herd inventories) have no date limit. See `rfp-set-one-response-map.md`.
+2. **Correction to item 9:** the books show the AgWest money **did** pass through Citizens.
+   On 3/4/2026 a $600,000 deposit was coded "437000 · NP Cow Line FCW". The same day, the
+   $637,853.98 "Mary Jane Orozco — Final Payment" was debited (S-29). The "if it never passed
+   through Citizens" caveat above is moot. The advance is coded to the **Cow Line**, not the
+   Feed line that the "operating line" wording implies. A $474 Chicago Title "Reconveyance" check
+   was paid 8/31/2026.
+3. **§0.5(a) update:** demand 6 quotes "cash rental income **YOU claim** was used directly for
+   hoof trimming." So the statement reached their side (A-68 update, OI-93). The partnership
+   bought and capitalized a mobile home in 2017 ($71,060).

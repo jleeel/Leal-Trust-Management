@@ -2198,3 +2198,56 @@ All CLIENT-ATTESTED; confirm from public sources. **Counsel:** Aaron, a named co
 Give the account to counsel only. Add it to the full text-thread export (OI-89/90). **Counsel:**
 decide whether to raise it in Ashley's deposition. Raising it opens Jace's 9/28/2017 text about
 Hazel.
+
+## OI-92 — Defendants' Demand for Production, Set One: collect and deliver (served 9/28/2026)
+**Status:** OPEN. Map: `rfp-set-one-response-map.md`. 18 demands; served on Ormonde by mail and
+email 9/28/2026 (S-38). **Ormonde asked for responsive documents "within 15 days" of 9/29/2026,
+which is about 10/14/2026** (S-39). That is his working date. The formal response date is
+counsel's to calendar.
+**Client:** pull the documents in map §5, by source. Deliver to Ormonde only, unedited, with an
+index. Do not annotate originals. Comments on a copy are, under their Instruction 2, a separate
+document. **Counsel:** objections, privilege log, verification, the Frazer coordination, and
+whether to produce on a rolling basis.
+
+## OI-93 — The cash-rent statement reached their side: how, and the facts behind it (A-68 update)
+**Counsel:** identify what was transmitted that contains the cash-rent / hoof-trimmer
+explanation, by whom and when. Their Demand No. 6 says "YOU claim."
+**Client, to counsel only:**
+- which mobile home is rented, and whether it is the unit the partnership bought in 2017
+  ($71,060 capitalized) or the 2020 unit;
+- to whom, since when, the monthly amounts, and on whose land;
+- the trimmer's name and full invoice history from 2015;
+- what Specialty Sales LLC supplies (798000, $300,115.31).
+
+These decide whether the trimmer was paid through more than one channel.
+
+## OI-94 — Built Wright "new freestall": site, land owner, documents (A-82)
+**Client:** the APN and site; the Tulare County building permit; the contract and bids;
+invoices #1500–#1636; lien releases; completion status. Also any message to or from the
+co-trustees about the project.
+**Counsel:** whether any consent or notice was required (Settlement ¶11, Partnership Agreement).
+Weigh how to present a ~$1.48M post-death capital project, $1.04M of it paid during the suit.
+
+## OI-95 — Insurance: what CIG covers, and the United of Omaha policy (demands 12, 13, 18)
+**Client / agent:**
+- the CIG declarations and schedule of locations and vehicles, 2021–2026, and the Nationwide
+  ones for 2015–2021;
+- the premium allocation by location behind the 3/6/2026 figures ($2,170 / $4,030 / $1,826);
+- J G Parker / Starstone coverage;
+- United of Omaha: the insured, owner and beneficiary, and why the 2018 premiums were coded to
+  Steve's medical account.
+
+**Frazer (with counsel):** whether Steve's rental-house share was ever charged to his capital.
+**Note for the response:** three of the four listed C.I.G. check numbers do not match the register
+(map, demand 12).
+
+## OI-96 — Vendor account histories: Morris Levin, Phelps, Saltzman, Turnupseed (demands 14–17)
+**Client:** request each vendor's customer-account history with ship-to, job or VIN, 2015 onward.
+**Identify any non-dairy work before producing**, with how it was charged. Saltzman first: the
+2020–2022 and 2026 spikes are Cummins and "454" engine work, and the vehicles are not identified.
+
+## OI-97 — Partnership-paid legal fees: LEA-0648 and the "Jace Bill" (A-83)
+**Counsel (own facts):** what LEA-0426 and LEA-0648 are and who the client is; what the "Jace
+Bill" covers; whether partnership payment, and the 5/2025 switch from 518000 to 768000 Legal and
+Accounting, is defensible. Any re-booking is counsel's and Frazer's decision. Do not change the
+books unilaterally during litigation.

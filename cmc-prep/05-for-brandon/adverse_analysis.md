@@ -3048,3 +3048,135 @@ and Monica RSVP'd. **Client:** married in 2018, divorced this year, 2026 (month 
 **Use:** mainly as context for counsel, and possibly in Ashley's deposition: "you proposed
 removing Steve, then signed a Settlement keeping him." Counsel decides whether to open it. Doing
 so also opens the Hazel-favoritism text.
+
+
+## A-68 — UPDATED 10/1/2026 (night): their side has the cash-rent statement, and the partnership owns a mobile home
+
+**Transmission.** Defendants' Demand for Production No. 6 (served 9/28/2026, S-38, p.7–8) asks
+for "cash rental income **YOU claim** was used directly for hoof trimming." That language means
+the cash-rent / hoof-trimmer explanation reached their side. The original entry said "No
+transmission outside counsel located." That is now superseded. **The channel is not established**
+(no source). Candidates: the CPA Rebuttal ([PRIV] "ready to roll" 5/15), Ormonde's 7/9 "initial
+responses", the Frazer or Edwards & Barber exchanges. Ask Ormonde (OI-93).
+
+**Ownership of the home (register, S-29).** The partnership bought and installed a mobile home in
+2017 and capitalized it:
+- First American Title, "Mobile Home", 6/19/2017: $55,660, coded 220000 Buildings;
+- Danny Tenhet, "Mobile Home Install", 5/2017: $12,000, coded 220000;
+- Rios Heating & Air, "Mobile Home AC": $3,400, coded 230000.
+
+That totals **$71,060**. In 2020 it paid to "Move mobile home" ($3,325) and paid Tony Leonardo
+$12,500 + $600 memo'd "Mobile Home." **Against us:** if the rented home is a partnership unit,
+the rent is partnership income kept off the ledger, on a partnership asset. That is stronger for
+their side than the "whose ranch" question alone. **For us:** none new, beyond the existing
+mitigation (small amounts; spent on a dairy cost; volunteered in our own draft). Which unit is
+rented is CLIENT knowledge (no source).
+
+**Three trimming payment channels.** The register also shows trimming paid by check through the
+P&L: 798000 "Testing and Trimming" — Tulare DHIA 201 checks / $323,800.83; Specialty Sales LLC
+136 checks / $300,115.31; 2010–2026. Specialty Sales' service is not established. Together with
+the "Cash" checks charged 60/40 to the partners (A-69), there are up to three channels for one
+service. Only the trimmer's invoice history shows whether anything was paid twice.
+
+## A-81. Defendants' Demand for Production, Set One (9/28/2026): what it reveals (both ways)
+
+The demand has 18 items (S-38). Items 1–3 and 5–10 formalize Cunningham's informal list. Items
+11–18 are new, payee-by-payee "was this really a dairy expense" demands with check numbers
+(response map: `05-for-brandon/rfp-set-one-response-map.md`).
+
+**Against us:**
+1. **Their CPA is reviewing entry by entry**, with data dated as late as 6/15/2026. The source of
+   their post-February data is not established.
+2. **They hold the cash-rent statement** (A-68 update).
+3. **Formal discovery changes the stakes of non-production.** Ormonde, 9/29/2026: failing to
+   produce available items can bar their use at trial (S-39, his words). The earlier
+   informal-request record ("Instead of just answering these…", 5/4; [PRIV] "We won't be
+   providing anything at this time", 6/19) is the backdrop.
+4. **The demands track a cross-complaint theory:** off-book income, personal expenses and
+   capital-account manipulation. Expect it to be pleaded.
+
+**For us:**
+1. Several answers are documented and favorable:
+   - the balloon money did pass through Citizens (A-71 / kit item 9 correction);
+   - Built Wright is "the new freestall" per Frazer (A-82);
+   - post-death donations were charged to Steve alone;
+   - the Bypass transfer follows SIXTH C.3.
+2. The insurance demands (12, 18) open the allocation that shows the dairy insured the
+   Hazel/Susan houses at a higher premium than Steve's rentals (A-75).
+3. The demands are requests, not findings. None alleges a specific taking.
+
+**Accuracy point for the response:** three of the four C.I.G. check numbers and the Built Wright
+#41972 amount do not match the register (response map, demands 11–12).
+
+## A-82. Built Wright "new freestall": $1.48M of leasehold improvements, mostly while the suit was pending (both ways)
+
+Register (S-29):
+- 27 checks, 9/20/2024–9/29/2026, **$1,479,054.85**, all coded 230000 Leasehold Improvements;
+- by year: 2024 $85,031.40; 2025 $504,220.13; 2026 $889,803.32;
+- **$1,040,414.94 was paid after the complaint was filed (10/16/2025).**
+
+Frazer (Vos), 2/3/2026: "You're paying Built Wright monthly for the new freestall." Jace: "Yes
+the project is still going. Should finish up mid-year." (Gmail `19c244dd811a1b04`, S-40.)
+
+**For us:**
+- It is a dairy facility.
+- It is capitalized, not expensed, so reported profit is not reduced.
+- It creates partnership property.
+- The 2008 estate appraisal treats dairy improvements as "owned by partnership" on trust-owned
+  land, and recites 50% of the dairy home parcels as Hazel's trust's. If the freestall is there,
+  it improves land in which the defendants' trust holds a recited interest. Current vesting is
+  per OI-68.
+
+**Against us:**
+- It is a major capital commitment begun two years after the death, mostly during litigation.
+  The record shows no notice to or consent from the co-trustees (no source either way).
+- Whether Settlement ¶11 thresholds or the partnership agreement reach capital spending is
+  counsel's call (UNVERIFIED).
+- It was paid while our side described cash as tight (chronology 3/1/2026 internal-draft row)
+  and while the partnership drew on AgWest lines.
+- It is cash that could have funded the buyout.
+- **"Leasehold" means the partnership does not own the land. Site and APN: no source.** If the
+  site is land owned only by Steve's side, this becomes a strong "funneling" exhibit.
+
+**Needed:** the building permit (site/APN), the contract, invoices #1500–#1636, and any
+communication with the co-trustees about the project (OI-94).
+
+## A-83. The partnership pays Steve's litigation counsel, plus a "Jace Bill" (both ways)
+
+Register (S-29), Ormonde & Rascon:
+- matter LEA-0426, 1/2023–5/2023: $4,331.25;
+- matter LEA-0648, 7/2023–9/2026: **$39,441.12**, of which $22,430.62 was paid after the
+  complaint.
+
+Through 4/2025 these were coded to **518000 "Appraisal Fees / Trust Admin"**. That is an equity
+account used since 2015 for Manuel's estate administration: funeral, appraisals, Griswold. Its
+capital allocation is not established. **From 5/2025 they are coded to 768000 Legal and
+Accounting, an operating expense.** The 8/21/2026 ($2,949.70) and 9/29/2026 ($1,295.00) checks
+are memo'd "**LEA-0648 plus Jace Bill**." A 10/5/2021 check ($243.75) is memo'd "Jace & Monica
+Leal." JAMS mediation (2026): $6,556.33, coded 768000.
+
+**Against us:**
+1. A partnership expense for the plaintiff's lawyer in a suit against the other partner's trust
+   is exactly a "funneling" exhibit, especially if their side claims a share of post-death
+   profits.
+2. The account change from 518000 to 768000 in 5/2025 will be asked about.
+3. "Jace Bill" reads as a personal legal matter paid by the dairy.
+
+**For us / context:**
+1. What LEA-0648 covers, and who the client is, are counsel's own facts. If the engagement is
+   for the partnership (e.g., the buyout under the partnership agreement), partnership payment
+   may be defensible.
+2. The amounts are modest.
+3. Mediation costs are arguably a partnership cost.
+
+**Counsel:** decide the characterization. Any re-booking during litigation is counsel's call
+with Frazer, not ours (OI-97).
+
+## CORRECTIONS LOG (10/1/2026, night)
+
+- **A-68:** "No transmission outside counsel located" is superseded. Demand No. 6's "YOU claim"
+  wording shows the statement reached the defense (channel unknown).
+- **Kit item 9 / A-71 context:** the AgWest money for the balloon **did** pass through Citizens:
+  a $600,000 deposit coded 437000 NP Cow Line FCW and the $637,853.98 Orozco final payment, both
+  3/4/2026 (S-29). The advance is coded to the Cow Line, not the "operating" (Feed) line, so the
+  5/18 wording needs reconciling.

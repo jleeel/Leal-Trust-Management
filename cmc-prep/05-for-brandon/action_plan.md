@@ -364,3 +364,33 @@ Steve's loans were handled.
 - The response to Cunningham's nine requests: see the kit; the STOP items first.
 - Serve discovery.
 - **Hold until documented:** the Danielle card incident and the water claim (A-75).
+
+## UPDATE 10/1/2026 (night): Defendants' Demand for Production, Set One (OI-92 to OI-97)
+
+Served 9/28/2026: 18 demands (S-38). Map: `rfp-set-one-response-map.md`. **Ormonde wants the
+documents by about 10/14/2026** (S-39). That is the day after the CMC, so collection overlaps CMC
+prep.
+
+**Client, in order:**
+1. **Easy, favorable items first:**
+   - the March 2026 Citizens statement and AgWest Cow Line advance (balloon);
+   - Built Wright invoices and the building permit;
+   - 513000 donations;
+   - the Bypass documents.
+2. **Third-party records:**
+   - Prime purchase history;
+   - CIG and Nationwide location schedules;
+   - vendor account histories (Morris Levin, Phelps, Saltzman, Turnupseed);
+   - the trimmer's invoices;
+   - the United of Omaha policy.
+3. **Tell counsel only:** the mobile-home rent facts (OI-93); what the "Jace Bill" was (OI-97).
+4. **Do not annotate originals.** Do not "clean up" anything in QuickBooks or Drive (litigation
+   hold).
+
+**Counsel:**
+- the response date and service extension;
+- objections (no date limit on demands 4–5; "affiliated accounts"; DAIRY and YOU definitions);
+- the privilege log (the CPA Rebuttal drafts and analysis files);
+- how the cash-rent statement reached their side;
+- the characterization of the partnership-paid legal fees (A-83);
+- how to present the $1.48M freestall (A-82).

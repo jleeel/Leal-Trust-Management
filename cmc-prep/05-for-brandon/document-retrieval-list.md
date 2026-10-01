@@ -193,6 +193,43 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     age-retirement checks ($285,895.47) were partnership equity (A-74, OI-82). Source: LOL member
     services; 1099-PATR forms on Drive; Frazer / Adair, Evans files.
 
+44. **Defendants' Demand for Production, Set One (served 9/28/2026): everything in the response
+    map §5** (`rfp-set-one-response-map.md`). Ormonde wants it within 15 days of 9/29, about
+    10/14/2026 (OI-92). Items 45–49 below are the parts that are new to this list.
+
+45. **Built Wright Construction "new freestall"** (A-82, OI-94): the contract and bids; invoices
+    #1500–#1636; lien releases; the **Tulare County building permit** (site and APN). Source:
+    Built Wright; County permit center; Jace's files.
+
+46. **Insurance schedules** (OI-95):
+    - CIG (policy 0-CIG-0-7406013) declarations and location and vehicle schedules, 2021–2026;
+    - Nationwide 2015–2021;
+    - J G Parker / Starstone;
+    - the premium allocation by property behind the 3/6/2026 figures;
+    - the **United of Omaha** life policy, with insured, owner and beneficiary.
+
+    Source: the agent; the carriers; Frazer.
+
+47. **Vendor customer-account histories, 2015 onward, with ship-to, job or VIN**: Morris Levin
+    and Son (cust #561604), C.P. Phelps Inc (acct #43180033), Saltzman Electric (acct 09650),
+    Turnupseed Electric Service (cust #17230). OI-96.
+
+48. **Balloon payoff proof** (supersedes the "if never passed through Citizens" caveat in kit item
+    9):
+    - the March 2026 Citizens statement showing the 3/4/2026 $600,000 Cow Line deposit and the
+      $637,853.98 Orozco debit;
+    - the AgWest Cow Line statement and advance confirmations, 2/2026–4/2026;
+    - the payoff demand;
+    - the **recorded reconveyance** (a $474 Chicago Title "Reconveyance" check was paid
+      8/31/2026).
+
+49. **Hoof-trimming and mobile-home records** (OI-93):
+    - the trimmer's invoice history, 2015 onward;
+    - what Specialty Sales LLC supplies;
+    - the 2017 First American Title mobile-home purchase file ($55,660);
+    - the 2020 Tony Leonardo transaction;
+    - for counsel only: which unit is rented and the rent history.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

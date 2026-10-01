@@ -7,6 +7,11 @@
 
 ---
 
+> **ADDED 10/1/2026 — formal discovery has started.** Defendants served a Demand for Production,
+> Set One, on Steve on 9/28/2026 (18 demands). Read **`rfp-set-one-response-map.md`** first. It
+> maps each demand to the record, both ways. Ormonde asked the client for documents by about
+> 10/14/2026 (OI-92). New exposures: A-81 to A-83, plus the A-68 update.
+
 ## Read in this order
 
 1. **`open_items.md`** — start here. Several things need action outside this workspace, and two are time-critical.
