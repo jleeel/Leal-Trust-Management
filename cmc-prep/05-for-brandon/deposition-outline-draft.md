@@ -209,6 +209,28 @@ missing; confirm with the lealdairy export before asserting "every month."
 **⚠️ Risk:** trustees signing *as partners* in 2023–2024 supports their continuing-partner theory
 (A-40). Counsel to decide whether Q3 is worth it.
 
+### 1J. The trust side's accountants (A-78)
+
+**Foundation:**
+- Hazel's trust Art. Five C.1 (Aaron J. Garabedian named as contingent beneficiary);
+- Aaron's 2017 requests;
+- Lauren Garabedian Ruff's monthly packets and bank access (A-13 updates).
+
+**Questions (Ashley):**
+1. Aaron J. Garabedian is named in Hazel's trust?
+2. In 2017–2018 he acted as the CPA for Hazel's side in the dairy matter?
+3. You were married to him at that time? *(Professional facts only. Do not ask about the
+   divorce. Counsel's judgment.)*
+4. Who is Lauren Garabedian Ruff? Related to you or Aaron?
+5. She received the dairy's QuickBooks file every month in 2022?
+6. She had online access to the dairy's bank account from 2020?
+7. After you became co-trustee in 2022, did the trust engage or pay The Garabedian Group? How
+   much? Who approved it?
+
+**⚠️ Risk:** pushing "not independent" invites the reply that their 8/30/2022 agreement to
+$850,894.54 was not independent either, and we rely on that number. Lead with knowledge, not
+independence.
+
 ### 1I. Hazel's own checks on the partnership account (A-76)
 
 **Questions:**

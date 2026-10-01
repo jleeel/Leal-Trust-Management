@@ -2810,3 +2810,54 @@ these sent messages:
   Hazel's date of death"). The screenshot is one scrolled portion of a "most relevant" search.
   Earlier packets may have gone to Esraelian (as the June 2021 packet did) or to Aaron
   Garabedian before Lauren.
+
+## A-78. The trust side's accountants were family: the co-trustee's husband, a named beneficiary (both ways)
+
+**Facts:**
+- **Client (CLIENT-ATTESTED, 10/1/2026):** "Ashley was married to Aaron. They recently divorced."
+- **Hazel's 2008 trust names Aaron J. Garabedian as a contingent remainder beneficiary.**
+  Art. Five C.1: "If ASHLEY ANDERSON has no issue then living, then to AARON J. GARABEDIAN, free of
+  trust" (trust-instruments-extract §IV.A.3; read from the instrument). The same instrument names
+  "ASHLEY ANDERSON" as a 10% income beneficiary (Art. Five B.1) and a successor co-trustee
+  (Art. Ten A).
+- **Aaron J. Garabedian, CPA (The Garabedian Group), was the trust side's accountant in
+  2017–2018.**
+  - 10/27/2017: Frazer to Aaron, "Accounting Records and QuickBooks" (Gmail `15f5b261f287a9d3`).
+  - 11/8/2017: Aaron's accounting requests, including the 512000 "Temp Loan to Partner" question
+    (quoted in `15fa1ce3b9f72277`).
+  - 12/6/2017: Johnson's "Draw Reconciliation" sent to him (`1602de83c0269477`).
+  - 2/22/2018: Frazer to Aaron, "monthly QB activity" (`1602be0a88bae639`).
+- **From 2020 to 2022, "Hazel's CPA" was "Lauren Garabedian Ruff" of The Garabedian Group**
+  (tgg-cpa.com).
+  - Online bank access from 9/10/2020.
+  - Monthly QuickBooks packets (A-13 updates).
+  - She co-reviewed and agreed to the $850,894.54 (8/30/2022).
+  - **Her relationship to Aaron or Ashley: NOT ESTABLISHED.**
+- **The register shows no partnership payment to The Garabedian Group, 2010–2026** (search of
+  S-29; calc). Who paid TGG is unknown. The partnership did pay Richardson, Jones & Esraelian
+  $1,260 on 2/5/2018 (Legal & Accounting).
+
+**For us:**
+1. **Knowledge.** The people receiving the dairy's monthly QuickBooks files, bank access and the
+   loan ledger were the co-trustee's husband (2017–18) and the same family firm (2020–22).
+   "We didn't know what was going on" is hard for Ashley to say. Whether an agent's knowledge is
+   imputed to the trustees is for counsel (UNVERIFIED).
+2. **Not independent.** The accountant who questioned Steve's "Temp Loan" entries in 2017 was a
+   named contingent beneficiary of the trust. He had a personal stake in maximizing the trust's
+   recovery.
+3. **Trustee conflict question.** If, after 9/2022, co-trustee Ashley used her husband's firm and
+   the trust paid it, that raises a fiduciary self-dealing question (counsel; UNVERIFIED).
+   Get the engagement letters and fee records in discovery.
+
+**Against us, or to handle carefully:**
+1. **It cuts into the $850,894.54 agreement.** That figure was agreed by "Lauren and I"
+   (Esraelian). We want to hold them to it against their later $1,368,326.65. Attacking TGG's
+   independence invites the reply that the $850,894.54 review was not independent either.
+   **Use the knowledge point. Be careful with the independence point.**
+2. **A divorce is personal.** Use only the professional facts (role, firm, beneficiary status),
+   never the marriage's end. Raising it gratuitously looks retaliatory.
+3. **Aaron is an unpredictable witness after a divorce.** He could help or hurt. His work for the
+   trust may be protected as part of counsel's work (UNVERIFIED). **No one on our side should
+   contact him. Counsel decides whether and how.**
+4. Whether the divorce affects Aaron's contingent interest under Hazel's trust is a legal
+   question (UNVERIFIED). It does not change his position in 2017–2022.

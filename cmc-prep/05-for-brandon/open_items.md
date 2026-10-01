@@ -2134,3 +2134,15 @@ auto-reply confirms delivery. The client attests the series ran monthly from the
 2. Screenshot or print every page of results, so the list shows each month and recipient.
 3. Save 3–4 sample emails per year as PDFs, with headers and attachment names visible.
 4. Note any gap month and why (for example, a QuickBooks link instead of an attachment).
+
+## OI-89 — The Garabedian Group: roles, relationships and fees (A-78)
+1. **Client:**
+   - the approximate divorce date (public record, Fresno or Tulare County family court);
+   - Lauren Garabedian Ruff's relationship to Aaron and Ashley;
+   - when the trust side stopped using The Garabedian Group, and why (Edwards & Barber appear by
+     2026).
+2. **Discovery (counsel):**
+   - TGG engagement letters, invoices and payment records for the trust side, 2017–2026;
+   - who paid them;
+   - whether co-trustee Ashley approved any engagement after 9/23/2022.
+3. **No contact with Aaron Garabedian by the client side.** Counsel decides.
