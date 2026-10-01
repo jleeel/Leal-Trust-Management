@@ -145,6 +145,13 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     recorded 2008/2016 Pismo deeds. The connector cannot open attachments, so the client should
     open them.
 
+36. **1994–1996 partnership tax returns (Forms 1065 with K-1 capital analyses), and Steve's,
+    Manuel's and Hazel's 1994–96 personal returns.** These test whether the $212,035 1983 note was
+    paid by a capital transfer (OI-78). Sources: the client (Steve's returns back to 1983 reportedly
+    exist), Frazer (Jace's 9/30/2026 "Tax returns" email attachments), and defendants' side for
+    Manuel's and Hazel's returns (discovery). Adair, Evans statements for 1994–96, if the firm or a
+    successor kept them.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

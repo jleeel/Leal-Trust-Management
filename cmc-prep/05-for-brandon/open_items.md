@@ -1881,3 +1881,19 @@ Feeds OI-60.
 - The recorded reconveyance.
 - Which AgWest line paid the 3/1/2026 balloon (feed line vs. herd line).
 - Correct the "partnership liability" characterization before it is repeated.
+
+## OI-78 — The 1983 note and the 1994–96 capital shift (client hypothesis; 1983-note-capital-shift-1994-96.md)
+**What the statements show:** Steve's capital fell $126,090 while Manuel's rose $270,501 between
+12/31/1993 and 1/1/1997. Under 50/50 profit sharing this implies a reallocation of about
+$198K–$262K from Steve to Manuel, which brackets the note's $212,035 principal. The note expressly
+allowed prepayment without the holders' consent. **Status: INDETERMINATE.** The 1994–96 records
+are missing, and a 75/25 reallocation is a competing explanation.
+
+**Next:**
+1. Save the 9/30/2026 "Tax returns" email attachments to Drive so they can be read.
+2. Locate the 1994–96 Forms 1065 and K-1s: Steve's personal returns, and Manuel's and Hazel's.
+3. Check Manuel's and Hazel's Schedule B for interest received on the note.
+
+**Counsel note:** the theory was raised in March 2017, *before* the Settlement Agreement
+compromised the note at $350,000 (¶6). Whether the 1990s history affects ¶6 is counsel's call.
+A-56, the unproven $350,000 payment, remains the live exposure.
