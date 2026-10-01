@@ -2992,3 +2992,59 @@ and Monica RSVP'd. **Client:** married in 2018, divorced this year, 2026 (month 
   - good-faith outreach and a cordial family relationship (wedding invitation, RSVP);
   - but Ashley holds a written criticism of Hazel by Jace in 2018 and can produce it.
 - Get the full thread from the client before anyone characterizes it.
+
+## A-80. The 9/28/2017 meeting with Ashley and Aaron, and the "CEO of a new LLC" proposal (both ways)
+
+**Correction first:**
+- The partly hidden text noted in the A-78/A-79 correction (and called "2018" in chat) is dated
+  **9/28/2017, 9:03 PM**.
+- Full screenshot preserved: `01-verified-facts/2017-09-28_jace-ashley-text-after-meeting.png`.
+
+**Verbatim:**
+- Jace: "Thanks for meeting up. I think it was helpful. I'm definitely hopeful for a resolution.
+  I'm not sure if I said it earlier but Jordan plays big part of the management of the business.
+  I think vaavaa often fails to see the results of her actions. Playing favorites can hurt
+  feelings."
+- Ashley: "Thanks for meeting, we are hopeful too and I understand."
+- Earlier the same day: Jace, "Sounds good. What time are you thinking?"; Ashley, "5:30 work?";
+  Jace, "Yes."
+
+**Client (CLIENT-ATTESTED, 10/1/2026):**
+- Jace met in person with Ashley and Aaron that day.
+- **They proposed making Jace the CEO of a new LLC, because "everyone on their side thought my dad
+  was untrustworthy."** The client disputes that view.
+- No email about the proposal was found (Gmail search 8/2017–1/2018 for CEO, LLC, management
+  company and similar).
+
+**Context (record):**
+- The meeting fell two days after the parties exchanged mediation briefs (9/26/2017) and before
+  the October 2017 mediation at Judge Broadman's office.
+- Aaron was then acting as the trust side's CPA (A-78).
+- Six weeks later, 11/10/2017, Hazel signed the restatement disinheriting Steve (A-79).
+- **Corroboration that Jace was a back channel:** [PRIV] Johnson to Jace, 11/9/2017: "Remember
+  Judge Broadman wants your hands clean as he is using your relationship as the mechanism to help
+  facilitate this settlement." (Gmail `15fa1ce3b9f72277`)
+
+**For us:**
+1. **The "Steve can't be trusted" theme is old, and the Settlement resolved it.**
+   - Their side floated replacing Steve's management in 9/2017.
+   - **Then signed the 12/7/2017 Settlement that kept Steve as manager**, with credit-line
+     authority (¶11(a)) and safeguards: monthly accounting (¶8) and approval thresholds (¶11).
+   - The safeguards were the bargain. Replaying the 2017 distrust now re-argues a settled point.
+2. Jace's text is conciliatory and documents good-faith efforts at a resolution.
+
+**Against us:**
+1. **The text is ours, in writing, and Ashley has it.** "vaavaa often fails to see the results of
+   her actions. Playing favorites can hurt feelings" reads as resentment of Hazel. Six weeks later
+   Hazel disinherited Steve. Expect the motive story (OI-62 second update, item 3).
+2. **The proposal is CLIENT-ATTESTED.** They will deny it or reframe it ("we suggested
+   professional management because of real concerns"). It also shows their concerns are
+   longstanding, which they will present as consistency, not as a settled point.
+3. **"Jordan plays big part of the management"** invites questions about who actually runs the
+   dairy and in what capacity. It bears on the management and compensation questions.
+4. **Tone for testimony:** describe the meeting factually. No characterizations of their side's
+   motives.
+
+**Use:** mainly as context for counsel, and possibly in Ashley's deposition: "you proposed
+removing Steve, then signed a Settlement keeping him." Counsel decides whether to open it. Doing
+so also opens the Hazel-favoritism text.

@@ -2184,3 +2184,17 @@ All CLIENT-ATTESTED; confirm from public sources. **Counsel:** Aaron, a named co
    hidden 2018 text from Jace about a meeting, Jordan's role, and a comment about Hazel. Counsel
    needs the whole thread, since Ashley has it too.
 2. The divorce month, if known.
+
+## OI-91 — The 9/28/2017 meeting and the LLC/CEO proposal (A-80)
+**Client:** write a dated, factual account now, while memory is fresh. Include:
+- who was present, where, and who asked for the meeting;
+- what exactly was proposed: who would own the LLC, whether it would buy, lease or manage the
+  dairy, and Steve's role;
+- what you said in response;
+- whether you told Steve or Michael Johnson, and when. A communication to Johnson is privileged
+  but still corroborates;
+- any later message about it.
+
+Give the account to counsel only. Add it to the full text-thread export (OI-89/90). **Counsel:**
+decide whether to raise it in Ashley's deposition. Raising it opens Jace's 9/28/2017 text about
+Hazel.

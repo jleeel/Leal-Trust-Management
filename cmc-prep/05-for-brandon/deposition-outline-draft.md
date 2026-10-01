@@ -251,6 +251,22 @@ independence.
 - Privilege objections are certain.
 - Keep to knowledge and bias.
 
+### 1L. The 9/28/2017 meeting (A-80). Counsel's call whether to open it.
+
+**Questions (Ashley):**
+1. On September 28, 2017, you and Aaron met with Jace?
+2. Aaron was then acting as the accountant for Hazel's side?
+3. Did you propose forming a new LLC with Jace as its CEO? Whose idea was it? Who on your side
+   knew of it? Did Robyn Esraelian know?
+4. Why?
+5. Ten weeks later, your side signed the Settlement Agreement keeping Steve as manager, with
+   monthly accountings and approval limits?
+
+**⚠️ Risks:**
+- Q4 invites their distrust narrative.
+- Opening this lets them introduce Jace's 9/28/2017 text criticizing Hazel ("playing
+  favorites").
+
 ### 1I. Hazel's own checks on the partnership account (A-76)
 
 **Questions:**
