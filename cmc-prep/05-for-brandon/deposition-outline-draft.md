@@ -24,7 +24,7 @@ side yet** (incoming-counsel briefing §2). Depositions follow counsel's discove
 | 5 | Stan Xavier (Correia-Xavier) | Appraiser | Third party |
 | 6 | Moss Adams (now Baker Tilly) reviewer | Appraisal review | Third party |
 | 7 | Ryan Camara / AgWest (formerly Farm Credit West) | Lender | Third party; likely friendly on the facts |
-| 8 | Robyn Esraelian | Hazel's / the trust's attorney | ⚠️ Deposing a party's attorney is restricted and privilege-heavy. Counsel to evaluate (UNVERIFIED standard). Her non-privileged emails to our side may make her testimony unnecessary. |
+| 8 | Robyn Esraelian (née Garabedian, client) | Hazel's / the trust's attorney; certified and notarized the 11/10/2017 restatement | ⚠️ Deposing a party's attorney is restricted and privilege-heavy. Counsel to evaluate (UNVERIFIED standard). Her non-privileged emails to our side may make her testimony unnecessary. |
 
 ---
 
@@ -230,6 +230,23 @@ missing; confirm with the lealdairy export before asserting "every month."
 **⚠️ Risk:** pushing "not independent" invites the reply that their 8/30/2022 agreement to
 $850,894.54 was not independent either, and we rely on that number. Lead with knowledge, not
 independence.
+
+### 1K. The trust side's professionals (A-79)
+
+**Questions (Ashley or Susan):**
+1. Robyn Esraelian's maiden name is Garabedian?
+2. She is Dale Garabedian's sister?
+3. How is Aaron Garabedian related to Robyn and Dale? Lauren Garabedian Ruff? Brandon Esraelian?
+4. Who chose The Garabedian Group as Hazel's accountants?
+5. Who drafted Hazel's November 10, 2017 trust restatement? Who decided to name Aaron
+   Garabedian in it?
+6. Were you present on November 10, 2017?
+
+**⚠️ Risks:**
+- Q5–Q6 approach the trust's drafting history. Counsel decides whether to go there at all
+  (A-79: low value, high escalation).
+- Privilege objections are certain.
+- Keep to knowledge and bias.
 
 ### 1I. Hazel's own checks on the partnership account (A-76)
 

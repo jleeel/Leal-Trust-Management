@@ -2146,3 +2146,17 @@ auto-reply confirms delivery. The client attests the series ran monthly from the
    - who paid them;
    - whether co-trustee Ashley approved any engagement after 9/23/2022.
 3. **No contact with Aaron Garabedian by the client side.** Counsel decides.
+
+## OI-90 — Confirm the Garabedian–Esraelian relationships, and get the earlier versions of Hazel's trust (A-79)
+1. **Confirm from public sources** (no contact with the individuals):
+   - Robyn Esraelian née Garabedian and Dale's sister (client);
+   - how Aaron and Lauren relate to Dale and Robyn;
+   - Brandon Esraelian's role and relationship.
+   Possible sources: State Bar profile, firm biographies, obituaries, marriage and divorce records.
+2. **Discovery (counsel):**
+   - Hazel's 11/3/2008 trust and the 1/25/2012 restatement;
+   - the complete 11/10/2017 restatement, including pp. 5–7, 11–16 and Schedule A (OI-54);
+   - Esraelian's engagement and drafting file, subject to privilege rulings.
+   Did earlier versions name Aaron J. Garabedian? Did they disinherit Steve?
+3. **Counsel only:** evaluate whether the drafter-relative rules, the time limits and the
+   no-contest clause make any of this usable beyond bias and knowledge. The default is no.

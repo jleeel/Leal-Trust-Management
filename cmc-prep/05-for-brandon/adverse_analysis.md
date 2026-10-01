@@ -2861,3 +2861,58 @@ these sent messages:
    contact him. Counsel decides whether and how.**
 4. Whether the divorce affects Aaron's contingent interest under Hazel's trust is a legal
    question (UNVERIFIED). It does not change his position in 2017–2022.
+
+## A-79. One family on the other side: trust attorney, trust CPAs and a named beneficiary (both ways)
+
+**Client (CLIENT-ATTESTED, 10/1/2026):** "Robyn Esraelian is Dale Garabedian's sister. Her maiden
+name is Garabedian."
+
+**Combined with the record:**
+
+| Person | Role in the record | Relationship (source) |
+|---|---|---|
+| Robyn L. Esraelian | Hazel's / the trust's attorney 2016–2026. **Attorney's certification and notary on Hazel's Third Amended and Complete Restatement, executed Fresno, Friday 11/10/2017** (trust-instruments-extract §IV.A). Notary on Hazel's 2018 deed signatures (S-34). | Née Garabedian; Dale's sister (client) |
+| Dale Garabedian | The Garabedian Group; cc'd on the 11/9/2017 line-of-credit emails (`15fa1ce3b9f72277`) | Robyn's brother (client) |
+| Aaron J. Garabedian, CPA | The Garabedian Group; trust side's accountant 2017–18 (A-78). **Named contingent taker in the restatement Robyn certified** (Art. Five C.1). | Ashley's then-husband (client). **Relation to Dale and Robyn: NOT ESTABLISHED.** |
+| Lauren Garabedian Ruff | "Hazel's CPA" 2020–22; bank access and monthly QuickBooks packets | Relationship NOT ESTABLISHED |
+| Brandon Esraelian | cc'd on 2017–18 settlement emails; consulted on lot-line terms (6/15/2018, `164047e526301ab2`) | Role and relationship NOT ESTABLISHED |
+| Ashley (Anderson) Garabedian | 10% income beneficiary and successor co-trustee under the same restatement; now defendant | Hazel's granddaughter |
+
+**The 11/10/2017 cluster (chronology):**
+- The same Friday on which Esraelian said she would take "the document" (the line-of-credit
+  authorization) to Hazel "about 1:30" (11/9/2017 email), Hazel signed in Fresno:
+  - the restatement that **disinherits Steve and his issue** (Art. Two);
+  - Hazel's assignment of her half of the 1983 note to her trust.
+- Esraelian certified and notarized the restatement.
+- Four weeks later the Settlement took effect.
+- **This is chronology, not a finding of anything improper.**
+
+**For us:**
+1. **Knowledge and coordination.** The attorney and the accountants on the trust side were one
+   family network. Information sent to any of them (monthly QuickBooks files, bank access, the
+   512000 loan ledger) stayed within it. That undercuts "we were kept in the dark" (A-13, A-78).
+2. **Credibility and bias of Esraelian's characterizations**: estate-only appraisal (A-62), the
+   line-of-credit holds, and the "continued threats" accusation (A-72).
+3. **Drafter-related beneficiary question (counsel only; UNVERIFIED and probably low practical
+   value).**
+   - California has statutory rules on gifts in an instrument to the drafter or the drafter's
+     relatives (Prob. Code §21380 et seq.).
+   - **But:** exemptions for the transferor's own relatives may cover a grandson-in-law. Aaron's
+     interest is only contingent. Any challenge to Hazel's trust is outside this case, is likely
+     subject to strict time limits long passed, and faces the restatement's no-contest clause
+     (Art. Eleven).
+   - **Do not raise it with anyone except counsel.**
+   - Whether earlier versions of the trust (11/3/2008; restated 1/25/2012) already named Aaron or
+     already disinherited Steve is unknown, and it matters to any such question (OI-90).
+
+**Against us:**
+1. **Family networks are common and are not wrongdoing.** Our side's bookkeeper is Steve's son.
+   Attacking their family ties invites the mirror attack on Jace's control of the books (A-12).
+2. **The disinheritance cuts both ways.** It documents the 2016–17 family rift, and it gives
+   defendants a motive story about Steve (OI-62 second update, item 3).
+3. **All relationships above except Ashley's are CLIENT-ATTESTED or unestablished.** Confirm from
+   public sources before anyone repeats them.
+4. **Notary point:** whether a lawyer notarizing a client's instrument that names her possible
+   relative raises any issue is UNVERIFIED and minor. Do not lead with it.
+
+**Use:** for knowledge, coordination and bias, in deposition and argument. Not as a trust attack.
