@@ -1897,3 +1897,30 @@ are missing, and a 75/25 reallocation is a competing explanation.
 **Counsel note:** the theory was raised in March 2017, *before* the Settlement Agreement
 compromised the note at $350,000 (¶6). Whether the 1990s history affects ¶6 is counsel's call.
 A-56, the unproven $350,000 payment, remains the live exposure.
+
+## 🔴 OI-79 — Prove the ¶6 $350,000 payment (client attests paid; A-56 updated)
+Steve paid "right after the settlement agreement was signed" (CLIENT-ATTESTED, 10/1/2026).
+
+**Get:**
+- the cancelled check or wire confirmation, with its date and the payee account;
+- Steve and Marla's bank statements around the payment;
+- any receipt or acknowledgment from Hazel's side or counsel.
+
+Settlement drafts circulated through 6–7/2018, so confirm whether payment came before or after
+the ~6/7/2018 deadline. **This is the highest-value document the client can produce right now:**
+it rebuts a written allegation in defendants' brief.
+
+## OI-78 — UPDATED 10/1/2026: only Steve's personal returns located (no partnership 1065s or K-1s)
+**What Steve's personal returns can still show:**
+1. **Schedule E page 2, the partnership income line.**
+   - 1993 and 1997 can be checked against known partnership income ($212,202 and $80,298). A 1993
+     figure of about $106,101 would *document* the 1993 50/50 split, which is now only a
+     handwritten derivation.
+   - For 1994–96, Steve's share alone shows his income from the dairy.
+2. **Any K-1 copies kept with the returns.** Preparers often include them; check every year's
+   packet.
+3. **Interest deductions on the note** (Schedule A, Schedule E, or Form 4952), at about $19,083 a
+   year. Look for when they start and when they stop.
+4. **The 2018 return.** Any interest deduction tied to the $350,000 payment (OI-79).
+
+**Priority years:** 1993–1997, then 1983–84, then 2018.

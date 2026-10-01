@@ -2203,3 +2203,46 @@ Coordinator-verified from the Chicago Title escrow file (10ZCnjymzZ2nTAHSwPnCw9D
   - The AgWest refinance was secured on land that Hazel's trust co-owns.
 
 Ties to OI-68 (title) and A-59.
+
+## A-56 — UPDATED 10/1/2026: client attests the $350,000 was paid
+
+Jace, 10/1/2026: "Steve paid the 350,000 right after the settlement agreement was signed."
+**CLIENT-ATTESTED. No document located.** The Gmail search (11/2017–12/2018) and the earlier
+sweeps found no transmittal, receipt, or bank record.
+
+If a document is found, this item reverses. Defendants' mediation brief asserts "Steve also
+failed to repay the Note," and a cancelled check or wire would directly contradict them. It
+would also defuse A-38: a release would no longer silently discharge an *unpaid* obligation.
+
+**Timing caution.** ¶6 required payment "on or before six (6) months from December 7, 2017"
+(about 6/7/2018). The Gmail record shows the settlement documents were still being revised from
+2/24/2018 through 6/19/2018 ("getting close to going final"), with the last documents sent
+7/27/2018. "Right after signing" may therefore mean mid-2018, at or just after the deadline. Get
+the actual date.
+
+**Proof to obtain:**
+- Steve and Marla's bank statements and the cancelled check or wire confirmation (about 12/2017–8/2018);
+- the payee and deposit account (Hazel's trust);
+- any Griswold LaSalle or Esraelian acknowledgment of receipt;
+- Steve's 2018 return, which may show an interest deduction tied to the payment;
+- the lealdairy@gmail.com mailbox for that period.
+
+## A-60 — UPDATED 10/1/2026: client's refined statement on Steve's draws
+
+Jace, 10/1/2026: "It's not that Steve never took a personal draw, it's that Manuel didn't allow
+him to take much and certainly not without Manuel's consent. The capital accounting reflects
+that." **CLIENT-ATTESTED.** This replaces the absolute "never took a personal draw" ([PRIV]
+7/30/2026) with the comparative framing A-60 recommended.
+
+**What the record supports:**
+- **1997 (printed Exhibit C):** withdrawals Manuel $16,231 / Steve $1,483.
+- **1993 (handwritten derivation, not printed):** Manuel $82,430 / Steve $39,633.
+
+**Limits to keep in view:**
+1. **"With Manuel's consent" covers Manuel's lifetime only, to 3/25/2015.** After that Steve
+   managed the books. Steve's "Personal" withdrawals were $37,240 (2021), $86,302 (2022),
+   $80,713 (2023), $32,782 (2024) and $95,942 (2025). The post-2015 framing has to rest on the
+   2017/2018 agreements: Settlement ¶11(a)'s draw authority and Art. VI.
+2. **The $100,000 check to Steve on 9/30/2014** (515000 register) was in Manuel's lifetime. Ask
+   whether Manuel approved it and whether anything shows that.
+3. **Consent is CLIENT-ATTESTED.** No document shows Manuel approving or refusing draws.

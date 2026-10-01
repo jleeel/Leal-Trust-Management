@@ -152,6 +152,11 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     Manuel's and Hazel's returns (discovery). Adair, Evans statements for 1994–96, if the firm or a
     successor kept them.
 
+37. **Proof of the ¶6 $350,000 payment.** Steve and Marla's cancelled check or wire and the bank
+    statement showing it (about 12/2017–8/2018), plus any acknowledgment of receipt by Hazel's
+    side. Client attests it was paid shortly after signing (OI-79). **Top priority:** it rebuts
+    defendants' "failed to repay the Note."
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open
