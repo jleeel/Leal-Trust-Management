@@ -416,3 +416,45 @@ Only the last one fits the Esraelian explanation.
 **2023:** $360,000 in (6/24–8/14/2023), "Deposit" memos, no repayment through 512000 since.
 Jace's 7/16/2026 "bridge loans" description therefore has **no repayment yet** for the 2023
 money. If it is a loan, it is still outstanding.
+
+## 9. The 2023 $360,000: the client's account of why Steve put it in (10/1/2026)
+
+**Client** (Jace, 10/1/2026; CLIENT-ATTESTED): "Steve was under the assumption that the buyout
+would be calculated as of Hazel's date of death. He put that money into the business assuming he
+was going to be the sole owner of it during a tight cash flow year."
+
+**The record:**
+- Deposits: 6/24/2023 $155,000 + $5,000 ("Cash"), 7/20 $100,000, 8/14 $100,000. Frazer closed
+  them to capital as a FY2023 "contribution" of $360,000 (S-32).
+- No repayment through 512000 since.
+- **FY2023 was a loss year:** $888,608, of which the estate's column bore $333,228 (kit Item 6;
+  FS24 Exhibit C).
+- **In 2023 the trustees received $72,000** in $6,000 monthly payments (register; destination
+  CLIENT-ATTESTED, OI-88).
+- **The instruments do fix value at the date of death:** Settlement, TIC ¶11 and Partnership
+  Agreement Art. XIII.J, "as of the date of Hazel's death" (`post-death-profits-issue.md` §5.2).
+  Steve's assumption matches the text on *valuation*. Whether post-death results belong to the
+  estate is the disputed issue (§5.1); counsel decides.
+
+**What the statement does:**
+- It explains the money as an owner's own investment. That fits the books ("capital
+  contribution") **better than the 7/16/2026 "bridge loans" email.** Jace wrote there, to Ormonde
+  and Frazer: "temporary cash infusions… Steve never charged or collected a cent of interest on
+  these bridge loans."
+- Whether that email reached Cunningham is not established (OI-73).
+
+**Why the label matters (for counsel and Frazer; no legal conclusion here):**
+
+| If it is… | Effect | Risk |
+|---|---|---|
+| **A capital contribution** (books; client's stated intent) | Raises Steve's capital account. Under a date-of-death valuation it does not change the estate's buyout price. | Their side may argue Steve chose to invest at his own risk while the buyout was open. Mainly a capital-account effect. |
+| **A loan** (7/16/2026 email) | A partnership liability owed to Steve, which would have to be repaid. | Settlement ¶11(a) bars borrowing without all partners' approval. Calling a 2023 advance a "loan" invites a covenant-breach argument, the same pattern as A-59. No note, no interest, no approval located. |
+
+**Strongest use, both ways:**
+- In 2023 Steve put **$360,000** into the business.
+- The estate took out **$72,000** and contributed nothing, while being allocated **$333,228** of
+  the loss on the books.
+- If the estate is treated as sharing post-death results, the estate both bore part of the 2023
+  loss and drew cash while Steve alone funded the shortfall. That is a strong fairness point.
+- It cuts the other way only if counsel's theory relies on Steve treating himself as sole owner
+  *before* any purchase closed. Defendants will say he assumed the risk.

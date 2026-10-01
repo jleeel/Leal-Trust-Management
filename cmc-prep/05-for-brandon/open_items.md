@@ -2073,3 +2073,29 @@ Recorder.
 Frazer 12/31/2015: $88,025.87 reclassed from 689000 to Steve's capital contribution. The same
 amount went to Manuel's column (FY2015 $88,026). Whose home burned, who owned it, and why were
 the proceeds split to both partners' capital?
+
+## 🔴 OI-88 — Prove the $288,000 went to the trustees, and decide how it is credited (A-70 second update)
+**Client attests the $6,000 monthly payments go to the trustees.**
+
+**Get:**
+1. The **Citizens ACH detail** for the recurring "Hazel Leal" payment, 10/2022–9/2026: receiving
+   bank, account name and last four digits. Source: online banking ACH or Bill Pay history, or a
+   bank letter.
+2. Whether the account is titled to the Hazel J. Leal Revocable Trust, its trustees, or Hazel
+   individually. If in Hazel's name, who has controlled it since 9/23/2022?
+3. Frazer: how each year's payments were booked after the 2024–25 reclasses, and what is still
+   "salary" expense. Also the 2023 return.
+4. **Counsel:** characterize the $288,000 (toward the agreed $850,894.54, an advance on post-death
+   profit, or a buyout credit), and enter it in the settlement model (Inputs!B24 or a new input).
+   Counsel should also decide whether to keep paying during the case, and under what label.
+
+## OI-80 — UPDATED 10/1/2026: the client's account of the 2023 $360,000 (A-77)
+Client: Steve invested it "assuming he was going to be the sole owner," because he understood the
+buyout to be valued at the date of death (CLIENT-ATTESTED). It is booked as a contribution. The
+7/16/2026 email called it "bridge loans."
+
+**Decide (counsel and Frazer):**
+1. Which label to use. A loan carries a ¶11(a) borrowing-approval risk.
+2. Whether the 7/16 email went to Cunningham (OI-73).
+3. How to present the 2023 contrast: Steve $360,000 in; the estate $72,000 out plus $333,228 of
+   loss allocated.

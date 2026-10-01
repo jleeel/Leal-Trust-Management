@@ -2623,3 +2623,67 @@ This is a strong rebuttal to "Steve took more."
 - **`trust-side-benefits-water-insurance-card.md` §0:** the client states the three houses are now
   deeded to Susan (CLIENT-ATTESTED). The 3/12/2025 email (Trust-owned) stands as of that date.
   No deed to Susan is in Drive (see §0 update).
+
+## A-70 — SECOND UPDATE 10/1/2026: the $6,000 monthly payments go to the trustees (client)
+
+**Client, 10/1/2026:** "It goes to the trustees." This is **CLIENT-ATTESTED** until the
+receiving account is documented.
+
+**What the documents show:**
+- Bank register: 48 automatic $6,000 payments to "Hazel Leal," coded 725000 Partners Salaries,
+  10/15/2022–9/15/2026, **$288,000** (calc).
+- K-1s: Hazel's *guaranteed payments* stop after 2022, and the 2024 K-1 shows only $36,000 of
+  guaranteed payments in total.
+- **The cash did not stop. The tax label changed.** A-70 records $102,000 reclassified to draws
+  (9/30/2024, 7/31/2025, 12/31/2025).
+- The 2024 K-1 shows $82,441 of cash distributions to the Hazel J. Leal Revocable Trust. That is
+  consistent with about $72,000 of these payments plus other items, but not proof.
+- The 2022 trust K-1 ($11,172) does not tie to the three post-death 2022 payments ($18,000). The
+  2023 return is not on Drive.
+
+**For us, if proven:**
+1. **Defendants' "the Trust has received nothing" argument fails** (`post-death-profits-issue.md`
+   §5.2). Since the death, the trustees have received $288,000 in cash, on top of the $1,371,182
+   distributed to Hazel's column 3/25/2015–9/22/2022 (settlement model, CapitalRecon F44).
+2. **It answers "funneling" and "cessation of distributions."** The partnership paid the estate
+   side every month through the litigation.
+3. **The amount comes off whatever is owed.** Whether as payment toward the agreed $850,894.54
+   pre-death profit, an advance on post-death profit, or a credit against the buyout is for
+   counsel to characterize (model Inputs!B24 is still 0; OI-88).
+4. **Any part still booked as "salary" expense has been partly borne by Steve.** Example
+   (calc): if $186,000 (= $288,000 − $102,000) is still expensed, Steve's 62.5% share is
+   $116,250. Correcting it moves the cost to the estate's capital. Frazer must confirm what
+   remains expensed.
+
+**Still against us:**
+- The "Partners Salaries" label after death feeds the "still a partner" theme. Expect: "you kept
+  paying her as a partner."
+- Answer: these were cash distributions to the estate, re-labeled at year-end by Frazer.
+- The ledger-version problem in A-70 (1/31/2025 vs 7/10/2026 exports) remains.
+- **Proof is required:** the ACH receiving-account detail from Citizens and the trustees' own
+  account records (OI-88).
+
+## A-77. The 2023 $360,000: "loan" or "contribution" — pick one, and know what each costs
+
+The client now says (CLIENT-ATTESTED, 10/1/2026) that Steve put the $360,000 in "assuming he was
+going to be the sole owner," because he understood the buyout to be valued at Hazel's date of
+death. The books agree with that: a FY2023 capital contribution, never repaid.
+
+**The problem:** the 7/16/2026 email to Ormonde and Frazer called these "bridge loans." If that
+reached Cunningham (OI-73), our side has given two characterizations.
+
+**What each label costs:**
+- **"Loan"** invites a Settlement ¶11(a) argument: borrowing without all partners' approval. No
+  note, interest or approval has been located.
+- **"Contribution"** is consistent with the books and the client's stated intent. Under the
+  date-of-death valuation the instruments recite, it does not move the estate's buyout price.
+  (That theory is for counsel; the post-death-results question in `post-death-profits-issue.md`
+  §5.1 is disputed.)
+
+**Use (both ways):**
+- In 2023 Steve funded $360,000.
+- The estate drew $72,000 (OI-88) and was allocated $333,228 of the loss.
+- Expect the reply that Steve acted as an owner before any purchase closed, at his own risk.
+
+**Action:** counsel and Frazer settle the word before any answer to Cunningham's item 6.
+`steve-temp-loans-512000.md` §9.

@@ -653,3 +653,22 @@ Also from the same sweep, bearing on §5.4's valuation-date foundation: the prof
 reports use THREE different death dates (CX 9/22/2022; MA BV 9/23/2022; EL&T "September
 30, 2022, which was the reported date of death"), and **no death certificate for Hazel
 was located in any sweep** — obtain it before any expert relies on a date (OI-53, A-48).
+
+---
+
+### ADDENDUM 10/1/2026: §5.2 "received nothing" and §12.3 "then none"
+
+**§5.2 — new answer (3).** The trustees have received **$288,000 in cash** since the death: 48
+automatic $6,000 payments, 10/15/2022–9/15/2026 (Citizens QuickBooks register S-29, coded 725000;
+calc).
+- That the receiving account is the trustees' is **CLIENT-ATTESTED** (Jace, 10/1/2026). The ACH
+  record must be obtained (OI-88).
+- Before the death, Hazel's column received $1,371,182 in cash distributions, 3/25/2015–9/22/2022
+  (settlement model CapitalRecon F44).
+- "The Trust has received nothing" is therefore answerable with the partnership's own bank
+  records.
+
+**§12.3 — correction note.** "Then none" is accurate only for **K-1 guaranteed payments**. The
+**cash** continued at $6,000 a month to 9/2026. Frazer relabeled part of it as draws: $102,000 at
+9/30/2024, 7/31/2025 and 12/31/2025 (A-70). The statement "they ceased with her death" is
+corrected accordingly. The guaranteed-payment *label* ceased; the payments did not.

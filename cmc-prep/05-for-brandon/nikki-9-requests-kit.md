@@ -354,6 +354,12 @@ online banking."
 > repayments; they were just coded to Personal-Steve. **Open:** the 2023 $360,000 has no
 > repayment yet, so decide with Frazer whether it is a loan or a contribution before answering
 > item 6.
+>
+> **Client, 10/1/2026:** Steve put the 2023 $360,000 in "assuming he was going to be the sole
+> owner," because he understood the buyout to be valued as of Hazel's date of death. That matches
+> the books (contribution) and **conflicts with the 7/16/2026 "bridge loans" email.** "Loan" also
+> invites a ¶11(a) borrowing-approval argument (A-77). Counsel and Frazer should choose before
+> item 6 is answered.
 
 ### Item 7 — Donations after Hazel's death: support and authority
 **Every post-death donation was charged to Steve's own capital account. The Estate's column
