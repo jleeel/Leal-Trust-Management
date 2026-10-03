@@ -1,4 +1,9 @@
 # INCOMING COUNSEL BRIEFING
+
+> **STATUS 10/3/2026:** no change of counsel. Brandon Ormonde remains lead and Erika Rason (same
+> office) joins as co-counsel (client, 10/3/2026). Read "successor counsel" below as "litigation
+> counsel." Posture has moved since 8/18: formal discovery started 9/28/2026 (S-38). Current status
+> is in the attorney dashboard and `05-for-brandon/action_plan.md`.
 **ATTORNEY WORK-PRODUCT SUPPORT — PREPARED FOR SUCCESSOR LITIGATION COUNSEL — NOT LEGAL ADVICE**
 Prepared August 18, 2026; **updated same day (evening) after complete sweeps of all five
 Drive territories** (1,650 files manifested, ~350 read — reports in

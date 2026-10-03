@@ -411,3 +411,11 @@ prep.
 - **Counsel:**
   - Demand 6: reconcile the draft's "third-party cash rent" with the client's "employee housing."
   - Demand 13: the books treat the life policy as Steve's personal.
+
+## UPDATE 10/3/2026: attorney dashboard (OI-99)
+
+Counsel team: Brandon Ormonde (lead) and Erika Rason (co-counsel, same office) (client, 10/3/2026).
+
+The dashboard is `07-attorney-dashboard/leal-case-dashboard.html`, with a separate no-analysis
+document index. Jace saves both to Drive and shares the case folder with counsel only. The
+workspace rebuilds the dashboard after every update.

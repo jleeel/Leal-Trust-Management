@@ -7,6 +7,12 @@
 
 ---
 
+> **ADDED 10/3/2026 — counsel team and dashboard.** Brandon Ormonde remains lead; Erika Rason
+> (same office) is co-counsel (client, 10/3/2026). The quickest way into everything below is
+> the attorney dashboard, `07-attorney-dashboard/leal-case-dashboard.html`: download it and open it
+> in a browser. It holds status, issues, the discovery tracker, open items, red team, timeline,
+> documents and every memo. It is work product; share it with counsel only.
+
 > **ADDED 10/1/2026 — formal discovery has started.** Defendants served a Demand for Production,
 > Set One, on Steve on 9/28/2026 (18 demands). Read **`rfp-set-one-response-map.md`** first. It
 > maps each demand to the record, both ways. Ormonde asked the client for documents by about

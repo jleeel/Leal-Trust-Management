@@ -2313,3 +2313,21 @@ explanation.
 
 **Do not** condense data, verify/rebuild, or edit any transaction (litigation hold). Running and
 exporting reports changes nothing in the file.
+
+## OI-99 — Get the attorney dashboard to counsel (10/3/2026)
+**Built:** `07-attorney-dashboard/leal-case-dashboard.html` (work product: status, issues,
+discovery tracker, open items, red team, timeline, documents, all memos) and
+`leal-document-index.html` (Drive index, no analysis). Both are self-contained and make no
+outside connections.
+
+**Client:**
+1. Save both files into the Drive case folder.
+2. Share the case folder ("Leal Trust Administration Litigation") with Brandon and Erika only.
+   Drive links in the page open only for people with access.
+3. Tell them to download the file and open it in a browser; Drive's preview shows HTML as code.
+4. Save the chat-upload evidence (the text screenshots, the RFP PDF, the Susan email) into the
+   Drive folder too.
+5. Confirm the spelling of Erika's surname. The firm is "Ormonde Rascon"; the client wrote
+   "Rason".
+
+**Workspace:** rebuild after every update; status of the 18 demands lives in `rfp-tracker.csv`.
