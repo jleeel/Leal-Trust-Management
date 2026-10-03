@@ -551,3 +551,10 @@ look for a Citizens deposit that did not happen.
 3. **§0.5(a) update:** demand 6 quotes "cash rental income **YOU claim** was used directly for
    hoof trimming." So the statement reached their side (A-68 update, OI-93). The partnership
    bought and capitalized a mobile home in 2017 ($71,060).
+4. **Correction 10/3/2026 to §0.5(b):** the "60/40" split comes from our own 5/1 drafts. The ledgers
+   contradict it. The "ht" Cash checks were charged to both partners: Hazel $49,300.10 and Steve
+   $67,710.00 (2009–1/2018). The 2017–18 split checks were 50/50 (A-69 update).
+
+   The client also says the mobile home houses an employee, not a third party (A-68 second
+   update, OI-93).
+

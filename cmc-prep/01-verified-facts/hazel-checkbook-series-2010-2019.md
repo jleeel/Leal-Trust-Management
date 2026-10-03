@@ -103,3 +103,22 @@ The register shows **48 automatic payments of $6,000 to "Hazel Leal," coded 7250
 Salaries, from 10/15/2022 to 9/15/2026: $288,000** (calc). A-70 counted $165,000 through
 1/15/2025. **The payments continued to last month.** The payee account is still unknown
 (A-70 item 3).
+
+## 5. CORRECTION 10/3/2026: some items were reclassified into Hazel's draws (A-76 update)
+
+The full 505000 history (S-41) shows Frazer year-end entries moving these items into Hazel's
+draws:
+- the 2013 San Luis Tax Collector checks ($3,322.86);
+- the 2013–15 South County Sanitary charges (Hazel-series $319.94);
+- part of the 2013 Pismo utilities (up to $641.71);
+- other items not in this memo's table: Charter $930.40 and Manuel's 2012 Form 1040, $18,913.
+
+**At least $4,284.51 of the $98,774.70 in §2 was therefore not left as dairy expense.** About
+$94,490 shows no reclass into 505000.
+
+For 2010–2012, QuickBooks was plugged to Frazer's balances in 2013, so the final treatment of
+those years ($34,081.63 of the table) is **INDETERMINATE**. Throughout this memo, "booked as" means
+"**coded** as" on the check.
+
+Detail: `partner-draw-accounts-505000-515000.md`.
+

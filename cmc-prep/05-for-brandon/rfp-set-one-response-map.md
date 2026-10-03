@@ -481,3 +481,29 @@ confirmation that the expense was a DAIRY expense." No checks are listed.
 
 *Cross-references: A-68 (update), A-81, A-82, A-83; OI-92 to OI-97; retrieval items 44–49;
 S-38 to S-40.*
+
+---
+
+## ADDENDUM 10/3/2026: draw-account exports and the mobile home
+
+Sources: S-41 and S-42, analyzed in `01-verified-facts/partner-draw-accounts-505000-515000.md`.
+
+- **Demand 6:**
+  - **Mobile home.** The client says it is **employee housing, not a third-party rental**
+    (CLIENT-ATTESTED). That conflicts with the 5/1 draft that Demand 6 quotes. Resolve before
+    responding (OI-93).
+  - **Hoof-trimmer split.** The "ht" Cash checks were charged to **both** partners: Hazel
+    $49,300.10, Steve $67,710.00 (2009–1/2018). The 2017–18 split checks were 50/50, not "60/40."
+  - **Version check.** The full 505000 history (2009–2026) matches the 7/10/2026 version.
+  - **The reclasses into Hazel's draws** are listed in the analysis, §3A.
+- **Demand 13:** the books treat United of Omaha as **Steve's personal**: a 12/31/2016 Frazer
+  reclass of $4,126.20, and the 2018 premiums coded to Steve's medical account. The three listed
+  checks remain coded as general insurance. Answer consistently with that (OI-95).
+- **Demands 11/14 context:** Frazer reclassified **$49,352.87 of Jacobsma Construction "personal
+  home repairs - Steve"** from dairy repairs into Steve's draws in 2022. It was corrected the same
+  year, but it is the precedent their side will cite when asking about Built Wright and other
+  contractors. Israel Rivas did Steve's home repairs (2025, charged to Steve) and also dairy-coded
+  work (2020–21) and leasehold work (7/2026) (OI-96).
+- **Steve's 515000** also shows the 2012 tax, the 2014 $100,000, the Susan payments and the Ram 2500
+  financing charged to Steve. That is useful to show symmetric treatment, if counsel chooses to.
+

@@ -394,3 +394,20 @@ prep.
 - how the cash-rent statement reached their side;
 - the characterization of the partnership-paid legal fees (A-83);
 - how to present the $1.48M freestall (A-82).
+
+## UPDATE 10/3/2026: draw-account exports (S-41, S-42); mobile home; journal export (OI-98)
+
+- **Read:** `01-verified-facts/partner-draw-accounts-505000-515000.md`.
+  - Frazer's year-end reclasses ran on **both** partners' accounts. The 2012 taxes went to each
+    side in one entry. Steve-side items include $49,352.87 of home repairs and the Ram 2500.
+  - A-76 is corrected by $4,284.51.
+  - The "60/40" hoof-trim split is contradicted (it was 50/50, and both partners were charged).
+- **Client, next:**
+  1. Export the QuickBooks Journal report and Audit Trail, plus the remaining draw accounts
+     (steps in OI-98).
+  2. Answer the mobile-home questions (OI-93).
+  3. Supply the Israel Rivas and Jacobsma job sites (OI-96).
+  4. Confirm the United of Omaha policy (OI-95).
+- **Counsel:**
+  - Demand 6: reconcile the draft's "third-party cash rent" with the client's "employee housing."
+  - Demand 13: the books treat the life policy as Steve's personal.

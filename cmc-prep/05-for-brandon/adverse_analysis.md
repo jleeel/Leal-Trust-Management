@@ -3180,3 +3180,131 @@ with Frazer, not ours (OI-97).
   a $600,000 deposit coded 437000 NP Cow Line FCW and the $637,853.98 Orozco final payment, both
   3/4/2026 (S-29). The advance is coded to the Cow Line, not the "operating" (Feed) line, so the
   5/18 wording needs reconciling.
+
+
+## A-76 — UPDATED 10/3/2026: some of Hazel's items were reclassified into her draws (correction)
+
+The client's 505000 export (S-41) shows Frazer year-end entries moving Hazel-side personal items
+out of dairy expense and into her draws:
+- the Pismo house's property tax, trash, utilities and cable, 2013–2015: $5,401.91 by memo;
+- Manuel's 2012 federal income tax: $18,913.
+
+**Of A-76's $98,774.70 "personal on its face," at least $4,284.51 was reclassified:**
+- San Luis Tax Collector, 2013: $3,322.86;
+- South County Sanitary, 2013–14: $319.94;
+- City of Pismo, 2013: up to $641.71.
+
+About $94,490 shows no reclass into 505000. That includes the gardener ($58,235.26), Anthem
+($14,992.06), DIRECTV, the pet vet and restaurants.
+
+**For 2010–2012 the final treatment is INDETERMINATE.** QuickBooks was plugged to Frazer's balances
+in 2013 ("To tie to FRAZER @ 12.31.12"), so his adjustments for those years sit outside
+QuickBooks. That period is $34,081.63 of the $98,774.70.
+
+**Wording correction:** "booked as dairy expense" in A-76 means "coded as dairy expense on the
+check." The final treatment is confirmed only where the exports show it. Detail:
+`01-verified-facts/partner-draw-accounts-505000-515000.md` §4.
+
+## A-69 — UPDATED 10/3/2026: the hoof-trimmer cash was charged to both partners, and not 60/40
+
+The two draw-account exports (S-41, S-42) show the "ht" Cash checks:
+
+| | Checks | Total | Period |
+|---|---|---|---|
+| Hazel | 42 | $49,300.10 | 2009–1/2018 |
+| Steve | 51 | $67,710.00 | 2010–1/2018 |
+
+The 2017–2018 checks were split between the two accounts, ten of eleven at **50/50**. **The
+"60/40" in the 5/1/2026 drafts is CONTRADICTED** for the years tested.
+
+**Both ways:**
+- **For us:** the practice charged a dairy cost to both partners, and Steve bore more of it in
+  total. That undercuts a one-sided "loaded onto Hazel" story.
+- **Against us:**
+  1. It is still an operating cost kept off the P&L for at least nine years.
+  2. A 50/50 charge matches no partnership percentage.
+  3. The $262,592 offset (OI-60) still includes Hazel's share.
+  4. Our own draft misdescribed the split, so correct it before any response to Demand 6.
+
+## A-68 — SECOND UPDATE 10/3/2026: client says the mobile home is employee housing
+
+**CLIENT-ATTESTED (10/3/2026):** "The mobile home was for an employee, not a third party."
+
+**This conflicts with the 5/1/2026 drafts:** "rented to a third party for cash … 100% of that
+rental cash is used directly to pay the monthly hoof-trimmer invoice." Defendants' Demand No. 6
+quotes the cash-rent claim as ours.
+
+**Both ways:**
+- **For us:** employee housing is an ordinary dairy use. The 2017 purchase ($71,060 capitalized)
+  then looks like a legitimate partnership asset, not a personal one.
+- **Against us, unless resolved:** the question becomes whether the employee pays rent, in cash,
+  and where that cash goes.
+  - If the employee pays cash rent that is not on the books, that is still off-ledger partnership
+    income, now from a partnership asset.
+  - If no rent is paid, our draft's "cash rental income" statement was wrong. It must be corrected
+    with counsel before any verified response to Demand 6.
+  - Either way the response must say one thing, consistently.
+
+**OI-93 updated.**
+
+## A-70 — UPDATED 10/3/2026: a third export matches the later version; the statement gaps explained arithmetically
+
+**The version question.** The 505000 export run 10/3/2026 (S-41) shows ten post-death Cash checks
+($8,447.50), matching the 7/10/2026 version, not the 1/31/2025 one.
+
+**The statement gaps (calc; not confirmed by Frazer):**
+- FY2024 Estate "Personal" $70,441 = checks + **$60,000** of salary treated as draws. The ledger
+  has $54,000.
+- The FY2025 draft's $75,285 = checks + **$66,000**. The ledger has $48,000.
+
+The statements treat more of the $6,000 monthly payments as draws than the ledger does. The rest
+stays in 725000 Partners Salaries, an expense. Which treatment is final is a Frazer question.
+
+## A-84. The year-end reclasses ran on both sides, and they prove personal items were first coded as dairy (both ways)
+
+From Steve's 515000 export (S-42), Frazer moved these Steve-side items into Steve's draws:
+- **his 2012 income tax**, $23,302.81, in the *same* 11/30/2013 entry that moved Manuel's $18,913
+  to Hazel's side;
+- the 2014 $100,000;
+- **United of Omaha life insurance**, $4,126.20 (12/31/2016);
+- the Susan payments, $24,825 (2016–17);
+- **Jacobsma Construction "personal home repairs - Steve"**, $49,352.87: all three 2022 checks,
+  originally coded 748000 Repairs–Dairy;
+- the financed **2021 Ram 2500**, $55,085 (12/31/2023), on a loan the partnership pays.
+
+**For us:**
+1. Treatment was symmetric where tested. The 2012 tax entry hits both partners at once.
+2. The Steve-side corrections are larger than Hazel's.
+3. When personal spending was found, the CPA charged it to the partner. That is the opposite of
+   concealment.
+
+**Against us:**
+1. **The entries are proof that Steve's personal items were initially coded as dairy expenses:**
+   $49K of home repairs, plus taxes and insurance. That is exactly the pattern Demands 11, 14 and
+   16 probe. Expect their side to argue: what else wasn't caught?
+2. **United of Omaha:** the books treat the policy as Steve's personal in 2016 and 2018. Yet
+   8 × $2,063.10 = $16,504.80 of premiums (2013–2022) remain coded as general insurance,
+   including all three checks in Demand 13.
+3. **Israel Rivas** did Steve's "Home repairs 813 E Pleasant" in 2025, charged to Steve. The same
+   contractor was paid $7,620 in 2020–21 as dairy repairs and $14,747 on 7/24/2026 as Leasehold
+   Improvements. The job sites are needed.
+4. **Steve's 2012 California payment** ($5,174, FTB #21144) is coded to **Hazel's** income-tax
+   account. No correction is shown in the accounts reviewed.
+5. The partnership is the borrower on Steve's personal truck.
+
+**Limits:**
+- Most items predate the 12/31/2016 agreed capital schedule (A-76 limits apply).
+- 2009–2012 adjustments sit outside QuickBooks.
+- 503/504/506/510–518 and 725000 not yet reviewed (OI-98).
+
+## CORRECTIONS LOG (10/3/2026)
+
+- **A-76:** $4,284.51 of the $98,774.70 was reclassified into Hazel's draws. 2010–2012 treatment
+  is INDETERMINATE. "Booked" corrected to "coded on the check."
+- **A-69 / kit §0.5(b):** the "60/40" hoof-trimmer split (from our 5/1 drafts) is contradicted.
+  The 2017–18 split checks were 50/50, and Steve's account bore $67,710 against Hazel's $49,300.10
+  overall.
+- **A-68:** client now says the mobile home houses an employee, not a third party. This conflicts
+  with the 5/1 draft. Unresolved (OI-93).
+- **Response map, Demand 13:** "insured, owner, beneficiary: no source" stands, but the books treat
+  the policy as Steve's personal in 2016 and 2018 (A-84).

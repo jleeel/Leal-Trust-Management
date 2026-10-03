@@ -230,6 +230,19 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     - the 2020 Tony Leonardo transaction;
     - for counsel only: which unit is rented and the rent history.
 
+50. **QuickBooks journal export and audit trail** (OI-98):
+    - the Journal report, all dates, General Journal only, with Entered/Last Modified and Last
+      modified by;
+    - the Audit Trail, all dates;
+    - Account QuickReports for 503000/504000/506000, 510000/512000/513000/514000/516000/518000
+      and 725000;
+    - Frazer's adjusting-entry reports for 2009–2025 (2009–2012 were kept outside QuickBooks).
+
+    Steps are in OI-98. Source: QuickBooks Desktop (client); Frazer.
+
+51. **Job-site records:** Israel Rivas (2020–21 dairy-coded work; 7/24/2026 $14,747 leasehold;
+    "813 E Pleasant"); Jacobsma Construction 2022 invoices. OI-96.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

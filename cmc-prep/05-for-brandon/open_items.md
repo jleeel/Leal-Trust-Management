@@ -2251,3 +2251,65 @@ Weigh how to present a ~$1.48M post-death capital project, $1.04M of it paid dur
 Bill" covers; whether partnership payment, and the 5/2025 switch from 518000 to 768000 Legal and
 Accounting, is defensible. Any re-booking is counsel's and Frazer's decision. Do not change the
 books unilaterally during litigation.
+
+## OI-93 — UPDATED 10/3/2026: client says the mobile home is employee housing
+**Client:** "The mobile home was for an employee, not a third party" (CLIENT-ATTESTED). That
+conflicts with the 5/1/2026 draft ("rented to a third party for cash"). Demand 6 quotes the
+cash-rent claim. **Still needed, for counsel only:**
+1. Does the employee pay rent? If so, in cash, how much, and since when?
+2. Where did any rent cash go: to the trimmer, or elsewhere?
+3. Is the employee the hoof trimmer?
+4. Is there any other mobile home or rental on the property? The 2020 Tony Leonardo / "Move
+   mobile home" entries suggest a second unit or a move.
+5. Is housing part of the employee's pay? That is a payroll and tax question for Frazer.
+
+If no rent was ever paid, counsel needs to know before any verified response repeats or corrects
+the draft.
+
+## OI-95 — UPDATED 10/3/2026: United of Omaha
+Steve's 515000 export shows a Frazer entry on 12/31/2016, "To reclass life insurance", moving
+$4,126.20 into Steve's personal draws. The 2018 premiums were coded to Steve's medical account. So
+the books treat the policy as Steve's personal. 8 × $2,063.10 = $16,504.80 of other premiums
+remain coded as general insurance, including all three Demand-13 checks.
+**Client:** confirm the insured, owner and beneficiary. **Counsel/Frazer:** how to answer Demand
+13 consistently with the 2016 entry.
+
+## OI-96 — UPDATED 10/3/2026: add Israel Rivas
+Israel Rivas was paid as follows:
+- "Home repairs 813 E Pleasant", 2025, $24,705, charged to Steve (correct);
+- $7,620 in 2020–21, coded dairy repairs;
+- $14,747 on 7/24/2026, coded Leasehold Improvements.
+
+**Client:** whose property 813 E Pleasant is, and the job site for the 2020–21 and 2026 work.
+Also, Jacobsma Construction: confirm the 2022 work ($49,352.87) was all at Steve's home, as
+Frazer's reclass says.
+
+## OI-98 — Export every journal entry and the audit trail from QuickBooks
+**Why:** three reclass entries are multi-line "-SPLIT-" entries whose other lines can't be seen:
+- the 2012 Form 1040 entry;
+- the Pismo utilities entry;
+- "TIE TO 12.31.15", which charged Hazel $17,148.24 and credited Steve $4,757.11 in the year
+  Manuel died.
+
+The 2016 life-insurance entry needs a keyed-in date. The two ledger versions in A-70 need an
+explanation.
+
+**Client (QuickBooks Desktop; read-only reports, change nothing):**
+1. **Reports > Accountant & Taxes > Journal.** Dates "All". Customize Report > Filters >
+   Transaction Type = **Journal**. Columns: add Entered/Last Modified, Last modified by, Adj,
+   Account, Memo, Debit, Credit. Then **Excel > Create New Worksheet**, save the .xlsx to Drive.
+   - If it is too large, run it year by year.
+   - Running it with no type filter gives every transaction; useful, but large.
+2. **Reports > Accountant & Taxes > Adjusting Journal Entries**, all dates, if the menu item
+   exists.
+3. **Reports > Accountant & Taxes > Audit Trail**, all dates. It shows each entry's original and
+   later versions, with user and timestamp. Export to Excel.
+4. **The same Account QuickReport as before for:**
+   - 503000, 504000 and 506000 (Hazel);
+   - 510000, 512000, 513000, 514000, 516000 and 518000 (Steve);
+   - 725000 Partners Salaries.
+5. **From Frazer:** the adjusting-entry reports for 2009–2025, especially 2009–2012, which were kept
+   outside QuickBooks.
+
+**Do not** condense data, verify/rebuild, or edit any transaction (litigation hold). Running and
+exporting reports changes nothing in the file.
