@@ -184,8 +184,8 @@ $4,284.51 that Frazer later reclassified into her draws (§5). That is **about $
 - **Salary is not a disparity.** The salary checks are symmetrical with Steve's salary (§2).
 - **Limits:**
   - Our side kept the books.
-  - 86% of the dairy-expense amount predates the Settlement and the agreed 12/31/2016 capital
-    schedule. Whether it can be reopened is counsel's question (UNVERIFIED).
+  - 95% of the dairy-expense amount ($186,445.92 of $196,724.02) predates the Settlement and the
+    agreed 12/31/2016 capital schedule. *(Corrected 10/5/2026: first written as "86%".)* Whether it can be reopened is counsel's question (UNVERIFIED).
   - Some payees served Steve too: the gardener (Johnson, 12/6/2017).
   - The 2018 TIC Agreement makes the partnership pay expenses of the Tulare County TIC property
     (governing-instruments-extract §2). It postdates almost all of these checks, but counsel
