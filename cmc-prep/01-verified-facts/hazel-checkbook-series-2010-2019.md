@@ -240,3 +240,45 @@ adds the 12/10/2009 check, which predates the register, for 15 paid checks, $16,
 utilities 39 checks, $4,792.17; South County Sanitary 37 checks, $1,162.75; South County Cart
 Service 5 checks, $1,766.24. Charter Communication (49 checks, $5,056.91) may be the coast house
 or Hazel's Tulare home (no source).
+
+## 8. Avila Brothers (10/5/2026)
+
+Sources: the register (S-29) and S-6 ("STEVE.HAZEL PERSONAL EXPENSES.xlsx", Drive
+`1o5Re3q_6wZTRu_Mhh4yrtNqVrgFuKmBo`, re-read in full 10/5/2026). Avila Brothers' trade is not
+stated in any record.
+
+| Date | Check | Series | Amount | S-6 note |
+|---|---|---|---|---|
+| 2/28/2010 | 2512 | Hazel | $1,690.30 | (before S-6 period) |
+| 11/30/2010 | 2677 | Hazel | $233.97 | |
+| 12/31/2011 | 2952 | Hazel | $321.15 | |
+| 10/31/2012 | 3165 | Hazel | $200.00 | |
+| 12/31/2012 | 3197 | Hazel | $80.00 | |
+| 2/28/2014 | 3506 | Hazel | $150.00 | |
+| 4/30/2014 | 3508 | Hazel | $3,520.00 | |
+| 12/31/2014 | 23511 | business | $2,025.46 | |
+| 1/31/2015 | 23706 | business | $3,000.00 | "Work on Hazel's house" |
+| 2/28/2015 | 23886 | business | $4,392.26 | "Work on Hazel's house" |
+| 4/30/2015 | 24058 | business | $320.22 | "Work on Hazel's house" |
+| 1/31/2016 | 25287 | business | $65.00 | "Work on Hazel's house" |
+| 11/30/2016 | 3739 | Hazel | $250.00 | "Work on Hazel's house" |
+
+**13 checks, $16,248.36, 2/2010–11/2016, all coded 748000 Repairs & Maintenance–Dairy.** No
+memo appears on any check. None appears in the 505000 export (S-41) or in any reclass entry, so
+**none is shown charged to Hazel's draws.**
+
+**The five 2015–16 checks, $8,027.48**, are listed on S-6 in Hazel's column, "Work on Hazel's
+house". They are part of the $66,072.53 Hazel total that S-6 calls "NOT CURRENTLY CATEGORIZED
+AS DRAWS". That total matches the Hazel figure in the 12/6/2017 "Draw Reconciliation" sent to the
+trust side's CPA (A-78). They were disclosed before the Settlement. Whether the agreed 12/31/2016
+capital schedule took them into account is not established (counsel).
+
+**The eight 2010–2014 checks, $8,220.88**, are not on S-6. The job site is not stated (no source).
+Seven are Hazel-series (authorship CLIENT-ATTESTED). They predate Manuel's death, when the
+household was Manuel's and Hazel's.
+
+**Hazel's house** is 21127 Road 68 (S-6 CalGas sheet; Settlement ¶3, APN 158-160-005). The 2018
+TIC Agreement's expense clause postdates all of these checks.
+
+**Not the same payee:** "Sam Avila", 3 checks, $1,450 (10/2019–2/2022), coded Miscellaneous; one
+memo reads "Witch well". No connection to Avila Brothers is shown.
