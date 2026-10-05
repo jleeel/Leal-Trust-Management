@@ -247,6 +247,13 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
     Source: Jace's iPhone (Voice Memos transcript), plus a dated written summary. For counsel
     only.
 
+53. **Records behind Mary's account** (OI-101), through counsel only:
+    - the trust attorney's letters to Mary, and any filing;
+    - the police incident record for the facility call;
+    - Quail Park Shannon Ranch visitor-authorization and incident notes (Hazel resident
+      7/2020–9/2022);
+    - Mary's record of Hazel's banker/stockbroker call.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

@@ -2351,3 +2351,27 @@ outside connections.
 - whether and how to interview her, and whether to take a declaration;
 - whether to preserve her testimony early;
 - how the recording is treated in discovery.
+
+## OI-100 — UPDATED 10/4/2026: transcript received (S-44)
+- **Mary's age** is about 90 (91 in December).
+- **The transcript does not show that she knew of or agreed to the recording.** Counsel still
+  needs the client's answer on consent.
+- Extract: `01-verified-facts/mary-visit-2026-10-04-transcript-extract.md`.
+- **Still needed from the client:**
+  - Mary's full name (possibly Pacheco), address and phone;
+  - who "Eddie" is;
+  - whether the 15:00 file is the whole recording.
+
+## OI-101 — Mary's account: the documents that would prove it (A-85 update)
+**Counsel (by authorization or subpoena; not the client):**
+1. **From Mary:** the letters she received from the trust's attorney (she says over about ten
+   years), anything "filed" after the facility incident, and any note or phone record of Hazel's
+   call asking for her banker and stockbroker.
+2. **The police call at the facility:** agency, date, incident number.
+3. **Quail Park Shannon Ranch** (Hazel's assisted living, 7/2020–9/2022): visitor-authorization
+   instructions (who approved visitors; whether staff were told to call Danielle) and incident
+   notes.
+4. **The dates:** Hazel's call to Mary, and the incident.
+
+Weigh relevance first. None of it bears on valuation or post-death profits, and it edges toward
+trust-administration issues (no-contest clause; UNVERIFIED).

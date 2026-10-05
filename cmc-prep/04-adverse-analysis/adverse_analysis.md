@@ -3354,3 +3354,33 @@ From Steve's 515000 export (S-42), Frazer moved these Steve-side items into Stev
 
 **Use:** counsel interviews Mary directly. The client should not discuss the case with her
 further or record her again without her express, recorded consent (OI-100).
+
+## A-85 — UPDATED 10/4/2026: the transcript is in (S-44); what it shows, both ways
+
+Full extract: `01-verified-facts/mary-visit-2026-10-04-transcript-extract.md`. It is an auto
+transcript with no speaker labels; attributions are inferred.
+
+- **Who Mary is.** About 90 ("91 in December"). She does her own books; she was a schools
+  administrator for 45 years and a realtor for 35. Her surname may be Pacheco (inference).
+- **What bears on the case:**
+  - Hazel asked Mary for her banker's and stockbroker's names and said "Susan was messing with her
+    bank account and … stock account."
+  - Mary went to the facility. Danielle arrived because "the nurses had instruction … to call."
+    Police were called. The trust's attorney later sent Mary letters.
+  - Mary was refused a visit before Hazel died.
+  - Steve says "Sue had to okay anybody to visit."
+  - All of this is CLIENT-ATTESTED, undated, and largely hearsay.
+- **Checked against the books:**
+  - Hazel's assisted living, Quail Park Shannon Ranch, cost $258,712.74 (27 payments,
+    7/17/2020–9/1/2022), plus caregivers.
+  - 2021 care ran about $13,000–$14,000 a month, matching Steve's "about 14 a month" (register,
+    504000).
+- **Against us:**
+  1. Nothing in the excerpt touches the buyout issues. Pursuing it risks a trust-contest
+     sideshow (no-contest clause; counsel's call).
+  2. Mary is openly hostile to Susan, Danielle and the attorney ("nasty witch").
+  3. **Steve is on tape offering Mary a motive theory** ("I guess that was the intention…").
+  4. Consent to record is still not shown; nothing in the transcript indicates Mary knew.
+- **For us:**
+  1. A sharp, willing witness on who controlled Hazel's finances and access in 2020–22.
+  2. Corroboration that Hazel's late-life draws were care costs (Demand 6).

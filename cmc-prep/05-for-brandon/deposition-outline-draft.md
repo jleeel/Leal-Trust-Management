@@ -390,3 +390,22 @@ and reviewed with counsel. Witnesses answer only what they know and do not guess
 - **Prepare her for their questions:** contacts with Steve and Jace about the case, the
   recording, and anything she was told about the lawsuit.
 
+### 8A. Mary: update after the transcript (S-44; extract in 01-verified-facts)
+
+**What she can speak to, per the transcript (CLIENT-ATTESTED; undated):**
+- Hazel's call asking for her banker and stockbroker, and Hazel's words that Susan was "messing
+  with" her bank and stock accounts;
+- the facility visit where Danielle arrived on staff instructions and police were called;
+- the trust attorney's letters to her;
+- being refused a visit before Hazel died.
+
+**Their cross will cover:**
+- her hostility to Susan, Danielle and the attorney;
+- the police incident and the accusation that she attacked someone;
+- her age (about 90);
+- the 10/4/2026 visit, the recording, and what Steve told her, including Steve's on-tape motive
+  theory.
+
+**Counsel's threshold call:** whether this testimony serves the buyout case at all, or opens a
+trust-administration sideshow.
+
