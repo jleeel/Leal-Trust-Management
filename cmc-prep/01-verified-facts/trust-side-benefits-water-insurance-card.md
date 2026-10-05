@@ -193,3 +193,43 @@ level.
   counsel.
 - **Get the recorded deed(s)** from the Tulare County Recorder (APN 158-160-006 and Hazel's home
   parcel at 21127 Road 68) (OI-83).
+
+## 7. CORRECTION and addendum 10/5/2026: payments to or for Danielle Pedroncelli
+
+Source: register (S-29), 505000 export (S-41), S-6.
+
+**CORRECTION to §3 (logged).** §3 counted "70 payments, $23,735.05 to 760000" and "post-death
+$13,330.59" as Mercury {Danielle}. That combined two QuickBooks vendors:
+
+| Vendor | Coded to | Payments | Total | Span |
+|---|---|---|---|---|
+| Mercury Insurance {Danielle} | 505000 Personal–Hazel | 26 | $18,999.45 | 1/2020–8/2026 |
+| Mercury Insurance {Danielle} | 760000 Insurance–General | 39 | $14,074.52 | 4/2016–**2/10/2024** |
+| **Mercury Insurance {Jordan}** | 760000 Insurance–General | 31 | $9,660.53 | **3/4/2024**–9/7/2026 |
+
+- **Danielle-labeled payments expensed by the dairy:** $14,074.52, of which $3,670.06 is
+  post-death. The earlier figures were $23,735.05 and $13,330.59.
+- **The dairy-expensed stream changes label from {Danielle} to {Jordan} between 2/10 and
+  3/4/2024.** That could be a renamed vendor on one policy, or a new policy. Whose vehicle each
+  stream insures is **not established**. If Jordan (Steve's son) is the insured, $9,660.53 is a
+  Steve-family personal cost expensed by the dairy. If the 760000 stream was always for Jordan or
+  a dairy vehicle, the Danielle benefit is smaller than stated. Answer with the Mercury
+  declarations (OI-85).
+
+**Checks payable to Danielle herself:** one only, #3196, 11/30/2012, $200.00. It is
+Hazel-series (authorship CLIENT-ATTESTED), coded 748000 Repairs–Dairy, with no memo. No other
+check names her as payee (register 12/2009–9/2026; 505000 and 515000 exports).
+
+**Paid for her benefit:**
+- **Car insurance (Mercury {Danielle}):** 65 payments, $33,073.97, 4/2016–8/2026. $18,999.45
+  went to Hazel's draws and $14,074.52 to dairy insurance. S-6: "Auto Insurance for Danielle
+  Pedroncelli."
+- **Her house, 21145 Road 68, both charged to Hazel's draws:**
+  - Morris Levin and Son, "Danielle's House Plumbing", $2,480.56 (7/2/2019);
+  - "pump septic at 21145 Road 68", $525.00 (8/12/2019).
+- **Culligan water for her house:** S-6 says "$77–$80/Month," paid by the partnership. Per-house
+  amounts cannot be separated in the register.
+- **Smaller items:**
+  - 12/31/2016 check to Jace, $1,171, "Danielle Ins, Hambys, Agsource" (Supplies);
+  - 1/15/2019 Tulare-Kings CWA "Danielle membership fee", $75, charged to **Steve's** donations
+    account.

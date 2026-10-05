@@ -3384,3 +3384,30 @@ transcript with no speaker labels; attributions are inferred.
 - **For us:**
   1. A sharp, willing witness on who controlled Hazel's finances and access in 2020–22.
   2. Corroboration that Hazel's late-life draws were care costs (Demand 6).
+
+## A-75 — CORRECTION 10/5/2026: the dairy-expensed Mercury stream includes a "Jordan" policy
+
+The "70 payments, $23,735.05, booked as 760000" figure combined two vendors:
+- **Mercury {Danielle}:** 39 payments, $14,074.52, 4/2016–2/10/2024;
+- **Mercury {Jordan}:** 31 payments, $9,660.53, 3/4/2024–9/7/2026.
+
+Post-death Danielle-labeled dairy expense is **$3,670.06**, not $13,330.59. The label switches
+from Danielle to Jordan within a month in early 2024.
+
+**Against us:**
+- If Jordan, Steve's son, is the insured, about $9,700 of Steve-family personal insurance was
+  expensed by the dairy since 2024, during the dispute.
+- If the stream was always Jordan's, or a dairy vehicle's, the "Danielle's insurance was
+  expensed" point shrinks to whatever the declarations show.
+
+**For us:** $18,999.45 of Danielle's insurance was charged to Hazel's draws regardless, $12,994.72
+of it after Hazel's death.
+
+**Do not use the $23,735 figure.** Get the Mercury declarations first (OI-85). Detail:
+`trust-side-benefits-water-insurance-card.md` §7.
+
+## CORRECTIONS LOG (10/5/2026)
+
+- **A-75 / trust-side memo §3:** the dairy-expensed Mercury figure was overstated as Danielle's
+  by $9,660.53, which is the {Jordan} vendor from 3/2024. Danielle-labeled dairy expense is
+  $14,074.52, $3,670.06 of it post-death.

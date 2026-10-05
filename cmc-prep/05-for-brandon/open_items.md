@@ -2375,3 +2375,13 @@ outside connections.
 
 Weigh relevance first. None of it bears on valuation or post-death profits, and it edges toward
 trust-administration issues (no-contest clause; UNVERIFIED).
+
+## OI-85 — UPDATED 10/5/2026: two Mercury streams (A-75 correction)
+**Client:** whose vehicle(s) do the two Mercury payment streams insure?
+1. "Mercury {Danielle}": quarterly payments charged to Hazel, 1/2020–8/2026.
+2. The dairy-expensed stream: labeled "{Danielle}" through 2/10/2024 and "{Jordan}" from
+   3/4/2024.
+
+Was the vendor renamed, or is it a different policy? Is any vehicle a dairy vehicle? Produce the
+declarations pages. Until then, use $14,074.52, not $23,735.05, for Danielle-labeled dairy
+expense.
