@@ -190,3 +190,53 @@ $4,284.51 that Frazer later reclassified into her draws (§5). That is **about $
   - The 2018 TIC Agreement makes the partnership pay expenses of the Tulare County TIC property
     (governing-instruments-extract §2). It postdates almost all of these checks, but counsel
     should weigh it for the property-tax and house items.
+
+## 7. San Luis Tax Collector checks: Pismo / Shell Beach house property tax (10/5/2026)
+
+Every check carrying the memo "APN 010-252-077" is for 311 Capistrano Ave. Sources: register
+(S-29), 505000 export (S-41) and the 12/31/2013 reclass entry.
+
+**Ownership:**
+- The 706 draft and Settlement ¶4 give it as 50% Manuel's trust and 50% Hazel's trust.
+- Manuel's half passed to Susan (trust SIXTH A(4)); Susan's deed was recorded 10/20/2016.
+- The partnership holds no interest, and the TIC Agreement covers Tulare County property only
+  (verified_facts_memo, Claim 2).
+
+| # | Date | Check | Series | Amount | Coded to | Final treatment shown |
+|---|---|---|---|---|---|---|
+| 1 | 12/10/2009 | 16350 | business | $1,023.93 | 505000 Personal–Hazel | Hazel's draws (S-41 only; predates register) |
+| 2 | 4/9/2010 | 16802 | business | $1,023.93 | 755000 dairy taxes | none shown; 2010–12 INDETERMINATE |
+| 3 | 11/30/2010 | 2682 | Hazel | $1,025.54 | 755000 | none shown; INDETERMINATE |
+| 4 | 5/31/2011 | 2814 | Hazel | $1,138.09 | 755000 | none shown; INDETERMINATE |
+| — | 12/13/2011 | 19281 | business | VOID | 755000 | — |
+| 5 | 12/31/2011 | 2904 | Hazel | $2,071.96 | 755000 | none shown; INDETERMINATE |
+| 6 | 1/31/2013 | 3221 | Hazel | $1,173.00 | 755000 | **reclassed to Hazel's draws 12/31/2013** |
+| 7 | 4/30/2013 | 3283 | Hazel | $1,066.76 | 755000 | **reclassed 12/31/2013** |
+| 8 | 12/31/2013 | 3446 | Hazel | $1,083.10 | 755000 | **reclassed 12/31/2013** |
+| 9 | 3/26/2014 | 3518 | Hazel | $1,083.10 | 505000 | Hazel's draws |
+| 10 | 12/31/2014 | 23525 | business | $1,089.47 | 505000 | Hazel's draws |
+| 11 | 2/2/2015 | 23898 | business | $1,089.47 | 755000 | none shown (S-6 lists it as "not currently categorized as draws") |
+| 12 | 2/28/2016 | auto | business | $112.81 | 755000 | none shown (S-6) |
+| 13 | 3/28/2016 | 25260 | business | $1,128.12 | 755000 | none shown (S-6) |
+| 14 | 3/28/2016 | 25267 | business | $1,128.12 | 755000 | none shown (S-6) |
+| 15 | 11/30/2016 | 3754 | Hazel | $1,143.75 | 505000 | Hazel's draws; **post-dates Susan's 10/20/2016 deed** |
+
+**Totals: 15 paid checks, $16,381.15** (12/2009–11/2016), plus one void.
+- **By checkbook:** 8 from Hazel's checkbook ($9,785.30); 7 on business checks ($6,595.85).
+- **Charged to Hazel's draws: 7 checks, $7,663.11.** That is $4,340.25 coded directly plus
+  $3,322.86 reclassified by Frazer.
+- **Left as dairy taxes, no reclass shown: 8 checks, $8,718.04.**
+  - 2010–11: $5,259.52, final treatment INDETERMINATE (Frazer's pre-2013 adjustments sit outside
+    QuickBooks).
+  - 2015–16: $3,458.52. This matches S-6's "Shell Beach Property Taxes, 2/2/15–11/30/16:
+    $3,458.52", which the 12/2017 personal-expense schedule disclosed.
+
+**CORRECTION to §2 (logged 10/5/2026).** §2 said "$15,357.22 (12 checks to partnership Taxes &
+Licenses, 3 to Hazel)". The 12 included one voided check (#19281). Correct register figures: 11
+paid checks to Taxes & Licenses plus 3 to Hazel's personal account, $15,357.22. The 505000 export
+adds the 12/10/2009 check, which predates the register, for 15 paid checks, $16,381.15.
+
+**Related coast-house costs paid by the partnership** (register, all series): City of Pismo
+utilities 39 checks, $4,792.17; South County Sanitary 37 checks, $1,162.75; South County Cart
+Service 5 checks, $1,766.24. Charter Communication (49 checks, $5,056.91) may be the coast house
+or Hazel's Tulare home (no source).
