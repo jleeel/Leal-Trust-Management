@@ -122,3 +122,71 @@ those years ($34,081.63 of the table) is **INDETERMINATE**. Throughout this memo
 
 Detail: `partner-draw-accounts-505000-515000.md`.
 
+
+## 6. SUMMARY BY BUCKET AND PERIOD (10/5/2026)
+
+Source: the Citizens register (S-29), checks numbered below 4477; reclasses from S-41. Hazel's
+authorship is CLIENT-ATTESTED, except checks 3257–3259 (S-33).
+
+**1,283 checks, $663,821.23, 1/31/2010–8/12/2019.** No check in this series is dated 2015.
+
+| Where the money went | Checks | Amount |
+|---|---|---|
+| Paid to "Hazel Leal" as partner salary (725000) | 82 | $395,600.00 |
+| Charged to Hazel's own accounts | 287 | $68,048.07 |
+| — 503000 Donations (St. Rita's $16,849) | 125 | $22,369.00 |
+| — 504000 Medical (Anthem, doctors, dentists) | 76 | $30,733.13 |
+| — 505000 Personal (cable, gardener, Pismo tax and utilities) | 86 | $14,945.94 |
+| Coded as dairy expense or asset | 886 | $196,724.02 |
+| — personal on its face (§2 table) | 313 | $98,774.70 |
+| — other | 573 | $97,949.32 |
+| Coded to Steve's accounts (51x) | 28 | $3,449.14 |
+
+**What was charged to Hazel as draws:** $68,048.07 coded to her accounts, plus $3,642.80 to
+$4,284.51 that Frazer later reclassified into her draws (§5). That is **about $72,300**. For
+2010–2012 the final treatment is INDETERMINATE until Frazer's adjusting entries are obtained
+(OI-98).
+
+**What was left in dairy expense:**
+- **Personal on its face, not shown as reclassified:** about **$94,490**. The gardener is $58,235
+  and Anthem $14,992.
+- **Probably household, by memo or by our internal schedule S-6:** about **$27,170**. Not in the
+  §2 count:
+  - Ford Credit $10,833.32 (2010–11, coded Autos and Trucks; the 2009 Ford Credit checks in 505000
+    are memo'd "Lincoln");
+  - Avila Brothers $6,445.42 and Canby's $2,416.51 (S-6: "Work on Hazel's house");
+  - Floyd Moreno $4,985.00 (memo "house repair");
+  - appliances $1,422.94;
+  - Mercury {Danielle} $1,064.76.
+- **Unclear or possibly dairy:**
+  - Mack Sylver fuel, $19,143.25 (coded farm fuel; also paid by business checks);
+  - Tulare County Tax Collector, $10,394.86 (memos: APNs 158-160-005 and -006, "hazel");
+  - AT&T, $9,717.06;
+  - Lucy Trovao, $3,735 (memo "Clean office");
+  - Rauber & Johnson (legal), $3,275;
+  - PG&E, other fuel, DMV.
+
+**By period:**
+
+| Period | Salary | Her accounts | Dairy expense | Steve accounts |
+|---|---|---|---|---|
+| To 3/24/2015 (Manuel the partner; household checks) | $237,200.00 | $54,590.62 | $158,842.30 | $3,449.14 |
+| 3/25/2015–12/6/2017 (all dated 2016–17) | $113,400.00 | $6,011.45 | $27,603.62 | $0 |
+| 12/7/2017–8/2019 (after the Settlement) | $45,000.00 | $7,446.00 | $10,278.10 | $0 |
+
+**Both ways:**
+- **For us.** Each expensed household item lowered partnership profit. Steve's side bore its
+  share, so Manuel's and Hazel's withdrawals are understated by roughly the expensed amount less
+  their own share.
+- **The 28 Steve-coded checks.** They are mostly Anthem, Fresno Bee, church donations and Tulare
+  Regional. If Hazel wrote them for her own items, Steve's side was charged for them. That is
+  small, and in our favor.
+- **Salary is not a disparity.** The salary checks are symmetrical with Steve's salary (§2).
+- **Limits:**
+  - Our side kept the books.
+  - 86% of the dairy-expense amount predates the Settlement and the agreed 12/31/2016 capital
+    schedule. Whether it can be reopened is counsel's question (UNVERIFIED).
+  - Some payees served Steve too: the gardener (Johnson, 12/6/2017).
+  - The 2018 TIC Agreement makes the partnership pay expenses of the Tulare County TIC property
+    (governing-instruments-extract §2). It postdates almost all of these checks, but counsel
+    should weigh it for the property-tax and house items.
