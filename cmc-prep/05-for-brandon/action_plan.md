@@ -419,3 +419,17 @@ Counsel team: Brandon Ormonde (lead) and Erika Rason (co-counsel, same office) (
 The dashboard is `07-attorney-dashboard/leal-case-dashboard.html`, with a separate no-analysis
 document index. Jace saves both to Drive and shares the case folder with counsel only. The
 workspace rebuilds the dashboard after every update.
+
+## UPDATE 10/4/2026: Mary (Hazel's sister) (A-85, OI-100)
+
+Steve and Jace visited Mary, Hazel's sister, and recorded the conversation. The recording is
+preserved (S-43); its content is not yet reviewed.
+
+**Client:**
+1. Tell counsel whether Mary knew of and agreed to the recording.
+2. Get the iPhone transcript or write a dated summary.
+3. Keep the original.
+4. No more case talk with Mary until counsel speaks to her.
+
+**Counsel:** the consent question, the interview, and whether to preserve her testimony.
+

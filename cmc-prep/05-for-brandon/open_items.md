@@ -2331,3 +2331,23 @@ outside connections.
    "Rason".
 
 **Workspace:** rebuild after every update; status of the 18 demands lives in `rfp-tracker.csv`.
+
+## OI-100 — Mary (Hazel's sister): the recording and her as a witness (A-85)
+**Client:**
+1. **Did Mary know she was being recorded, and did she agree?** Is her agreement on the
+   recording?
+2. **Her details:** full name, approximate age and health, address and phone. Who else was
+   present?
+3. **Is the 15:00 file the whole recording?**
+   - Keep the original in Voice Memos and in iCloud; do not edit or delete it.
+   - If the original is longer, save the full file to Drive.
+4. **What she said.** iPhone Voice Memos shows a transcript on recent iOS versions: open the
+   recording and tap the transcript icon. Copy it into a document for counsel only. If there is
+   no transcript, write a short, dated summary of the topics and her key words.
+5. **No further case discussion with Mary until counsel has spoken with her.**
+
+**Counsel:**
+- the recording-consent question (Penal Code § 632, UNVERIFIED here);
+- whether and how to interview her, and whether to take a declaration;
+- whether to preserve her testimony early;
+- how the recording is treated in discovery.

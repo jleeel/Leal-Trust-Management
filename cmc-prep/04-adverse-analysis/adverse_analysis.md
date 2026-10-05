@@ -3308,3 +3308,49 @@ From Steve's 515000 export (S-42), Frazer moved these Steve-side items into Stev
   with the 5/1 draft. Unresolved (OI-93).
 - **Response map, Demand 13:** "insured, owner, beneficiary: no source" stands, but the books treat
   the policy as Steve's personal in 2016 and 2018 (A-84).
+
+
+## A-85. A recorded conversation with Mary, Hazel's sister (both ways)
+
+**Facts:**
+- **Client (CLIENT-ATTESTED, 10/4/2026):** Jace and Steve visited "my dad's aunt Mary, Hazel's
+  sister" that day. Jace's words: "I doubt this would be admissible in court but I know she
+  wouldn't hesitate being deposed or showing up in court."
+- **The recording (S-43):**
+  - "New Recording 16.m4a", AAC, **exactly 15:00 long** (900.16 s);
+  - file creation time 10/5/2026 03:18 UTC, which is 10/4 at 8:18 PM Pacific.
+- **An exact 15:00 length suggests a trimmed export or a portion.** Whether the full original is
+  longer is not established.
+- **Content: NOT REVIEWED.** No speech-to-text model is reachable from this workspace. Nothing
+  here characterizes what Mary said (no source).
+
+**Against us, or risks to manage (counsel's calls):**
+1. **Consent to record.** California generally requires the consent of all parties to record a
+   confidential conversation (Penal Code § 632). Evidence obtained in violation may be
+   inadmissible and can carry civil exposure (§§ 632(d), 637.2). This is **UNVERIFIED**: the
+   statutes have not been read from primary text here.
+
+   Whether Mary knew of and agreed to the recording decides this. If her consent is on the tape,
+   say so to counsel.
+2. **Party contact with a witness.** Expect their side to ask Mary what Steve and Jace said to
+   her, how often they visit, and whether they discussed her testimony. Her age and health are
+   not in the record. An elderly relative invites "influence" questions.
+3. **Discoverability.** The recording was made by the client, not at counsel's direction, so a
+   privilege claim is doubtful (counsel's call). If relevant, it may be requested.
+4. **It must be preserved either way** (litigation hold). Do not edit, trim further, or delete
+   the original.
+
+**For us:**
+1. An independent family witness, Hazel's own sister, who per the client is willing to testify.
+2. Depending on content, possibly relevant to:
+   - Hazel's intentions about the buyout and its valuation;
+   - her relationship with Steve;
+   - the 11/10/2017 restatement;
+   - who managed her affairs in her last years.
+
+   Content is unknown until a transcript exists.
+3. If Mary is elderly, counsel may want to interview her soon and consider preserving her
+   testimony early (counsel's call).
+
+**Use:** counsel interviews Mary directly. The client should not discuss the case with her
+further or record her again without her express, recorded consent (OI-100).

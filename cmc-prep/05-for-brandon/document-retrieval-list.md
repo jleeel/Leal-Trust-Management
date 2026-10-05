@@ -243,6 +243,10 @@ the Orozco-balloon corroboration, the full 6/19/2025 Esraelian letter) are omitt
 51. **Job-site records:** Israel Rivas (2020–21 dairy-coded work; 7/24/2026 $14,747 leasehold;
     "813 E Pleasant"); Jacobsma Construction 2022 invoices. OI-96.
 
+52. **Mary (Hazel's sister): the full original recording and a transcript** (A-85, OI-100).
+    Source: Jace's iPhone (Voice Memos transcript), plus a dated written summary. For counsel
+    only.
+
 ---
 
 *Every item above traces to a specific citation in the five sweep reports or the open

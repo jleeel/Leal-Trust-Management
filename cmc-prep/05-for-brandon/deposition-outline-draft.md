@@ -374,3 +374,19 @@ the record against our "employ Xavier" relief (A-62).
 
 **Before any deposition:** the client side's own documents on each of these must be gathered
 and reviewed with counsel. Witnesses answer only what they know and do not guess.
+
+## 8. Mary, Hazel's sister: possible friendly witness (added 10/4/2026; A-85, OI-100)
+
+- **Status:** the client says she is willing to be deposed or testify. Her full name, age and
+  contact details are not yet in the record. A 15-minute recording of a 10/4/2026 family visit
+  exists. Its content has not been reviewed, and whether she consented to it is unknown.
+- **Counsel first:** interview her before anyone else discusses the case with her. Decide
+  whether to take a declaration or preserve her testimony early.
+- **Possible subjects, pending the transcript:**
+  - Hazel's statements about the dairy, the buyout, or valuing her share at death;
+  - Hazel's relationship with Steve and with Susan's family;
+  - the 11/10/2017 restatement;
+  - who managed Hazel's affairs in her later years.
+- **Prepare her for their questions:** contacts with Steve and Jace about the case, the
+  recording, and anything she was told about the lawsuit.
+

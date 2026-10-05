@@ -77,6 +77,7 @@ PEOPLE = [
     ("Their side", "Edwards & Barber (Will Shannon, Tad Edwards)", "Defendants' CPAs; hold the full QuickBooks backup since 2/12/2026", "Kit §0 (Gmail 19c5247709a41389)"),
     ("Their side", "Robyn L. Esraelian", "Trust attorney (prior firm); percipient witness", "Briefing §6.8; A-79"),
     ("Court", "Hon. David C. Mathias", "Assigned for all purposes, Dept. 1", "S-38"),
+    ("Witness", "Mary (surname not in record)", "Hazel's sister; client says she is willing to testify; recorded visit 10/4/2026, content not reviewed", "Client 10/4/2026; S-43; A-85"),
 ]
 
 THIS_WEEK_CLIENT = [
@@ -86,6 +87,7 @@ THIS_WEEK_CLIENT = [
     ("OI-94", "Built Wright: building permit, contract, invoices #1500–#1636, site."),
     ("OI-95", "Insurance schedules (CIG, Nationwide) and the United of Omaha policy."),
     ("OI-96", "Vendor account histories with job sites: Morris Levin, Phelps, Saltzman, Turnupseed, Israel Rivas."),
+    ("OI-100", "Mary (Hazel's sister): consent to the recording, her details, transcript; no more case talk until counsel speaks to her."),
 ]
 THIS_WEEK_COUNSEL = [
     ("S-38", "Calendar the response date; objections (demands 4–5 have no date limit; “affiliated accounts”; YOU and DAIRY definitions)."),
