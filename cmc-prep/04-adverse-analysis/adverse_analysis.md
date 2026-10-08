@@ -3411,3 +3411,55 @@ of it after Hazel's death.
 - **A-75 / trust-side memo §3:** the dairy-expensed Mercury figure was overstated as Danielle's
   by $9,660.53, which is the {Jordan} vendor from 3/2024. Danielle-labeled dairy expense is
   $14,074.52, $3,670.06 of it post-death.
+
+
+## A-86. The books changed between 10/3 and 10/5/2026, after the Demand for Production was served (both ways)
+
+**Facts (S-41 vs S-45):**
+- The 12/31/2025 Frazer entry "To move Hazel salary to draw" was **$6,000, numbered
+  "FrazerTXP16"** in the 505000 report run 10/3/2026 8:48 AM.
+- It was **$30,000, numbered "Frazer16"** in the adjusting-entries report run 10/5/2026 10:51 AM.
+- The 7/31/2025 entry was renumbered "FrazerTXP7" → "Frazer7", same $42,000.
+- Who changed it, when and why is **not established.** The Audit Trail answers it (OI-98, OI-102).
+
+**Against us:**
+1. Partnership records changed during discovery: the Demand for Production was served 9/28/2026
+   and reaches these records. Their side has an earlier version (the QuickBooks backup of
+   2/12/2026) and may receive later ones. Any difference will be questioned, and it adds to A-70
+   (two versions of the post-death ledger).
+2. If the client or someone other than Frazer made the edit, expect an integrity or spoliation
+   argument (A-51 context). Do not edit 2015–2025 entries without counsel's knowledge.
+
+**For us / mitigation:**
+1. FY2025 was still in draft. A CPA finalizing year-end entries is ordinary, and "TXP" (tax prep)
+   numbering suggests Frazer's work.
+2. The change **increases** the post-death payments charged to the trust side's capital ($72,000
+   for 2025, all twelve payments). It does not hide anything.
+3. Both versions are preserved.
+
+**Counsel:** decide whether to disclose the timing proactively when producing, and instruct Frazer
+and the client that no further changes to 2015–2025 periods are made without counsel's knowledge.
+
+## A-84 — UPDATED 10/8/2026: the full adjusting-entries record (S-45) confirms both sides were reclassified, inconsistently
+
+From `adjusting-journal-entries-2013-2025.md`, excluding closing and tie-out entries:
+- Expense-to-draw reclasses, 2013–2025: **Hazel side $47,124.39 excluding salary** ($176,124.39
+  with $129,000 of post-death salary); **Steve side $232,050.10.**
+- **Health insurance left in dairy expense, never corrected:** Hazel about $24,900 (2014–16);
+  Steve about $31,900 (2015, 2018).
+- **United of Omaha left in dairy expense: 7 premiums, $14,441.70.** That includes all three
+  Demand-13 checks. 2016–17 were reclassed, so the books treat the policy as Steve's.
+- **Manuel's 2015 funeral costs:** $17,148.24 to Hazel's draws and $11,570 expensed, plus an
+  unexplained $4,757.11 credit to Steve's draws.
+
+**Net:**
+- **For us:** symmetric treatment where tested, and more corrections on Steve's side.
+- **Against us:** a year-by-year inconsistency their CPA can show. Uncorrected Steve items exceed
+  Hazel's in health insurance, and life insurance is Steve's alone.
+
+## CORRECTIONS LOG (10/8/2026)
+- **A-84 / partner-draw memo §6:** United of Omaha premiums left in dairy expense are 7 ×
+  $2,063.10 = $14,441.70, not 8 × = $16,504.80. The 2017 premium was reclassed to Steve's medical
+  on 12/31/2017.
+- **Partner-draw memo §3B:** the 2016 Omaha reclass came from 760000, not 514000.
+- **"TIE TO 12.31.15"** is no longer unknown: it is Manuel's funeral and memorial costs (S-45).

@@ -2385,3 +2385,27 @@ trust-administration issues (no-contest clause; UNVERIFIED).
 Was the vendor renamed, or is it a different policy? Is any vehicle a dairy vehicle? Produce the
 declarations pages. Until then, use $14,074.52, not $23,735.05, for Danielle-labeled dairy
 expense.
+
+## OI-98 — UPDATED 10/8/2026: adjusting entries received (S-45); Audit Trail still needed
+- **Received:** the "Adjusting Journal Entries" report, Jan 2000–Dec 2025: 395 entries, all
+  balanced, earliest 1/1/2013.
+- **Still needed:**
+  1. **the Audit Trail** (Reports > Accountant & Taxes > Audit Trail, all dates). It is now urgent
+     (A-86).
+  2. the Journal report with "Entered/Last Modified" and "Last modified by" columns, to catch
+     non-adjusting entries and dates;
+  3. 2026 entries;
+  4. from Frazer: pre-2013 adjusting entries and FY2015 workpapers (the funeral allocation).
+
+## OI-102 — What changed in QuickBooks between 10/3 and 10/5/2026? (A-86)
+**Client:**
+- Did you, Frazer, or anyone import an accountant's copy, sync with Frazer, or edit entries
+  between Friday 10/3 and Monday 10/5?
+- **Do not change any 2015–2025 entry from now on without telling Brandon.**
+
+**Frazer (via counsel):**
+- Is FY2025 final?
+- Why did the 12/31/2025 salary entry go from $6,000 to $30,000?
+- What was the reason for the 2015 funeral allocation, including the $4,757.11 credit to Steve?
+
+**Counsel:** decide whether to mention the timing when producing.

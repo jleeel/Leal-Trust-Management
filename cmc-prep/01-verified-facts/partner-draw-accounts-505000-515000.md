@@ -222,3 +222,18 @@ to Steve.
    - 510000, 512000, 513000, 514000, 516000 and 518000 (Steve);
    - 725000.
 4. **From Frazer:** the adjusting-entry reports for 2009–2025, especially 2009–2012 and 2015.
+
+## 9. CORRECTIONS and resolutions from the adjusting-entries report (S-45; logged 10/8/2026)
+
+Full analysis: `adjusting-journal-entries-2013-2025.md`.
+
+- **"TIE TO 12.31.15" resolved.** It allocated Manuel's 2015 funeral and memorial costs
+  ($23,961.13, out of 518000): $17,148.24 to Hazel's draws and $11,570 to dairy expense, plus a
+  $4,757.11 credit to Steve's draws (reason not stated).
+- **2012 Form 1040 entry confirmed symmetric.** Both lines are shown.
+- **§3B correction:** the 12/31/2016 United of Omaha line moved 760000 → 515000. The "514000"
+  shown in S-42 was the Anthem line of the same entry.
+- **§6 correction:** 2017's premium was also reclassed, to 514000 on 12/31/2017. Premiums left in
+  dairy expense are **7 × $2,063.10 = $14,441.70** (2013, 2015, 2019–2022), not 8 × = $16,504.80.
+- **§7 update:** the 12/31/2025 salary-to-draw entry is $30,000 in the 10/5/2026 report, not the
+  $6,000 shown in S-41 on 10/3/2026 (A-86).

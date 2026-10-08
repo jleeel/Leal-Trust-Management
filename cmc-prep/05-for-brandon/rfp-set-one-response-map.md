@@ -507,3 +507,13 @@ Sources: S-41 and S-42, analyzed in `01-verified-facts/partner-draw-accounts-505
 - **Steve's 515000** also shows the 2012 tax, the 2014 $100,000, the Susan payments and the Ram 2500
   financing charged to Steve. That is useful to show symmetric treatment, if counsel chooses to.
 
+## ADDENDUM 10/8/2026: adjusting entries (S-45)
+
+- **Demand 13:** the three listed United of Omaha checks (2019, 2020, 2022) were never
+  reclassified. The 2016–17 premiums were reclassified to Steve. Seven premiums ($14,441.70)
+  remain in dairy expense.
+- **Demand 6:** Manuel's 2015 funeral costs of $17,148.24 were charged to Hazel's draws by Frazer's
+  "TIE TO 12.31.15". The 2025 salary-to-draw now totals $72,000.
+- **Before producing anything from QuickBooks, settle A-86.** The 12/31/2025 entry changed between
+  the 10/3 and 10/5 exports. Produce from a fixed, dated version and keep the earlier exports.
+
